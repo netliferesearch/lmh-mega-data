@@ -1,0 +1,216 @@
+
+
+
+---------- Amprenavir (lk-01-infeksjon-frf-retur-17072) ---------- 
+Parent: Nedsatt leverfunksjon
+State: remapped
+
+Original text:
+('<p id="GK-07-417452">Dosereduksjon ved moderat til alvorlig nedsatt '
+ 'leverfunksjon</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Dosereduksjon ved moderat til alvorlig nedsatt '
+                            'leverfunksjon'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Antacida, kombinasjoner og komplekser av aluminium-, kalsium- og magnesiumforbindelser (lk-12-fordoyel-16) ---------- 
+Parent: Nedsatt leverfunksjon
+State: remapped
+
+Original text:
+('<p id="Gk-07-417407">Unngå Na+-holdige ved ødemtendens, og unngå midler som '
+ 'kan forårsake obstipasjon, da disse kan utløse koma</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Unngå Na+-holdige ved ødemtendens, og unngå '
+                            'midler som kan forårsake obstipasjon, da disse '
+                            'kan utløse koma'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Artemeter (+ lumefantrin) (lk-01-infeksjon-frf-retur-17642) ---------- 
+Parent: Nedsatt leverfunksjon
+State: remapped
+
+Original text:
+'<p id="Gk-07-417174">Forsiktighet ved alvorlig leversykdom</p>'
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Forsiktighet ved alvorlig leversykdom'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Brentuksimab (lk-18-421802) ---------- 
+Parent: Nedsatt leverfunksjon
+State: remapped
+
+Original text:
+('<p id="p-86">Data foreligger ikke. Bruk ved nedsatt leverfunksjon må '
+ 'overvåkes nøye.</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Data foreligger ikke. Bruk ved nedsatt '
+                            'leverfunksjon må overvåkes nøye.'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Cabazitaxel (lk-02-328405) ---------- 
+Parent: Nedsatt leverfunksjon
+State: remapped
+
+Original text:
+'<p id="ID-418000">Unngå ved nedsatt leverfunksjon</p>'
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Unngå ved nedsatt leverfunksjon'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Carbimazol (lk-03-endokr-2212) ---------- 
+Parent: Nedsatt leverfunksjon
+State: remapped
+
+Original text:
+'<p id="ID412283-103709">Forsiktighet ved leversykdom</p>'
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Forsiktighet ved leversykdom'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Cyklizin (lk-09-allergi-763) ---------- 
+Parent: Nedsatt leverfunksjon
+State: remapped
+
+Original text:
+'<p id="Gk-07-412183">Unngå ved alvorlig leversykdom</p>'
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Unngå ved alvorlig leversykdom'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Etylmorfin (lk-10-lunger-55) ---------- 
+Parent: Nedsatt leverfunksjon
+State: remapped
+
+Original text:
+('<p id="Gk-07-420586">Se opioidanalgetika <xref '
+ 'mid="mpublish-ref://live/Generelle/G4.xml#Gk-07-415306" type="link"/>\n'
+ '\t</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Se opioidanalgetika '},
+                  { '_type': 'span',
+                    'marks': ['fiksid-gk-07-415306'],
+                    'oldkey': 'gk-07-415306',
+                    'oldmid': 'mpublish-ref://live/Generelle/G4.xml#Gk-07-415306',
+                    'text': 'Opioidanalgetika'}],
+    'markDefs': [ { '_key': 'gk-07-415306',
+                    '_type': 'internalLink',
+                    'link': {'_ref': 'gk-07-415306', '_type': 'reference'}}],
+    'style': 'normal'}]
+
+
+---------- Maviret (lk-01-600272) ---------- 
+Parent: Nedsatt leverfunksjon
+State: remapped
+
+Original text:
+('<p id="ID-604245">Ikke anbefalt ved moderat nedsatt leverfunksjon, og '
+ 'kontraindisert ved alvorlig nedsatt leverfunksjon.</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Ikke anbefalt ved moderat nedsatt leverfunksjon, '
+                            'og kontraindisert ved alvorlig nedsatt '
+                            'leverfunksjon.'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Interferon alfa (lk-18-immunsuppr-frf-retur-3392d) ---------- 
+Parent: Nedsatt leverfunksjon
+State: remapped
+
+Original text:
+('<p id="Gk-07-413830">Monitorer leverfunksjon. Unngå ved alvorlig '
+ 'leversykdom</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Monitorer leverfunksjon. Unngå ved alvorlig '
+                            'leversykdom'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Interferon beta (lk-18-immunsuppr-frf-retur-3392fl) ---------- 
+Parent: Nedsatt leverfunksjon
+State: remapped
+
+Original text:
+'<p id="Gk-07-413825">Unngå ved leversvikt</p>'
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Unngå ved leversvikt'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Tiazid-/tiazidlignende diuretika (lk-08-hjertekrets-18) ---------- 
+Parent: Nedsatt leverfunksjon
+State: remapped
+
+Original text:
+('<p id="Gk-07-416592">Unngå ved alvorlig leversykdom, hypokalemi kan utløse '
+ 'koma</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Unngå ved alvorlig leversykdom, hypokalemi kan '
+                            'utløse koma'}],
+    'markDefs': [],
+    'style': 'normal'}]

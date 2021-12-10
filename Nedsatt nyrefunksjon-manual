@@ -1,0 +1,1123 @@
+
+
+
+---------- Akalabrutinib (ikke matcha) ---------- 
+Parent: Nedsatt nyrefunksjon
+State: manual
+
+Original text:
+('<p id="p-241">Ingen dosejustering nødvendig ved lett eller moderat nedsatt '
+ 'nyrefunksjon (ClKr &gt;30 mL/minutt). Væskebalansen skal opprettholdes, og '
+ 'S-kreatinin overvåkes. Streng indikasjonsstilling ved alvorlig nedsatt '
+ 'nyrefunksjon (ClKr &lt;30 mL/minutt), under nøye overvåkning for toksisitet. '
+ 'Ingen data på bruk ved alvorlig nedsatt nyre-funksjon eller ved dialyse</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Ingen dosejustering nødvendig ved lett eller '
+                            'moderat nedsatt nyrefunksjon (ClKr >30 '
+                            'mL/minutt). Væskebalansen skal opprettholdes, og '
+                            'S-kreatinin overvåkes. Streng indikasjonsstilling '
+                            'ved alvorlig nedsatt nyrefunksjon (ClKr <30 '
+                            'mL/minutt), under nøye overvåkning for '
+                            'toksisitet. Ingen data på bruk ved alvorlig '
+                            'nedsatt nyre-funksjon eller ved dialyse'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Amikacin (ikke matcha) ---------- 
+Parent: Nedsatt nyrefunksjon
+State: manual
+
+Original text:
+'<p id="p-333">Se Aminoglykosider</p>'
+
+PortableText:
+[ { '_type': 'block',
+    'children': [{'_type': 'span', 'marks': [], 'text': 'Se Aminoglykosider'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Aminosyrer + glukose (ikke matcha) ---------- 
+Parent: Nedsatt nyrefunksjon
+State: manual
+
+Original text:
+('<p id="Gk-03-nyresv-197e">Observer nyrefunksjonen. Kontraindisert ved '
+ 'alvorlig nedsatt nyrefunksjon når dialyse ikke er tilgjengelig</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Observer nyrefunksjonen. Kontraindisert ved '
+                            'alvorlig nedsatt nyrefunksjon når dialyse ikke er '
+                            'tilgjengelig'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Aminosyrer + glukose + fett (ikke matcha) ---------- 
+Parent: Nedsatt nyrefunksjon
+State: manual
+
+Original text:
+('<p id="Gk-03-nyresv-197j">Observer nyrefunksjonen. Se aminosyrer + glukose '
+ '<xref mid="mpublish-ref://live/Generelle/G3.xml#Gk-03-nyresv-197c" '
+ 'type="link"/>\n'
+ ' </p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Observer nyrefunksjonen. Se aminosyrer + '
+                            'glukose '},
+                  { '_type': 'span',
+                    'marks': ['fiksid-gk-03-nyresv-197c'],
+                    'oldkey': 'gk-03-nyresv-197c',
+                    'oldmid': 'mpublish-ref://live/Generelle/G3.xml#Gk-03-nyresv-197c',
+                    'text': 'Aminosyrer + glukose'}],
+    'markDefs': [ { '_key': 'gk-03-nyresv-197c',
+                    '_type': 'internalLink',
+                    'link': { '_ref': 'gk-03-nyresv-197c',
+                              '_type': 'reference'}}],
+    'style': 'normal'}]
+
+
+---------- Bedakvilin (ikke matcha) ---------- 
+Parent: Nedsatt nyrefunksjon
+State: manual
+
+Original text:
+('<p id="ID-593998">Ingen dosejustering. Forsiktighet bør utvises ved alvorlig '
+ 'nedsatt og terminal nyrefunksjon</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Ingen dosejustering. Forsiktighet bør utvises ved '
+                            'alvorlig nedsatt og terminal nyrefunksjon'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Bortezomid (ikke matcha) ---------- 
+Parent: Nedsatt nyrefunksjon
+State: manual
+
+Original text:
+('<p id="gk-03-nyresv-1835">Pasienter med nedsatt nyrefunksjon har økt '
+ 'frekvens av alvorlige bivirkninger og skal overvåkes nøye. Hos pasienter med '
+ 'GFR &lt; 20 mL/min (alvorlig og terminal nyresykdom) bør dosereduksjon '
+ 'vurderes.</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Pasienter med nedsatt nyrefunksjon har økt '
+                            'frekvens av alvorlige bivirkninger og skal '
+                            'overvåkes nøye. Hos pasienter med GFR < 20 mL/min '
+                            '(alvorlig og terminal nyresykdom) bør '
+                            'dosereduksjon vurderes.'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Cannabidiol (ikke matcha) ---------- 
+Parent: Nedsatt nyrefunksjon
+State: manual
+
+Original text:
+'<p id="p-357">Se cannabinoider</p>'
+
+PortableText:
+[ { '_type': 'block',
+    'children': [{'_type': 'span', 'marks': [], 'text': 'Se cannabinoider'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Cannabinoider (ikke matcha) ---------- 
+Parent: Nedsatt nyrefunksjon
+State: manual
+
+Original text:
+('<p id="ID-375387">Omfatter hovedsakelig tetrahydrocannabinol (THC) og '
+ 'cannabidiol (CBD). Utstrakt levermetabolisme, lite elimineres renalt. '
+ 'Komplekst metabolittmønster. Forsiktighet ved nedsatt nyrefunksjon. '
+ 'Forlenget eller forsterket effekt kan ikke utelukkes. Ingen spesifikke '
+ 'doseanbefalinger kan gis. Hyppig klinisk evaluering anbefales.</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Omfatter hovedsakelig tetrahydrocannabinol (THC) '
+                            'og cannabidiol (CBD). Utstrakt levermetabolisme, '
+                            'lite elimineres renalt. Komplekst '
+                            'metabolittmønster. Forsiktighet ved nedsatt '
+                            'nyrefunksjon. Forlenget eller forsterket effekt '
+                            'kan ikke utelukkes. Ingen spesifikke '
+                            'doseanbefalinger kan gis. Hyppig klinisk '
+                            'evaluering anbefales.'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Ceftolozan (ikke matcha) ---------- 
+Parent: Nedsatt nyrefunksjon
+State: manual
+
+Original text:
+'<p id="p-453">Se cefalosporiner</p>'
+
+PortableText:
+[ { '_type': 'block',
+    'children': [{'_type': 'span', 'marks': [], 'text': 'Se cefalosporiner'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Cilastatin (ikke matcha) ---------- 
+Parent: Nedsatt nyrefunksjon
+State: manual
+
+Original text:
+('<p id="Gk-03-nyresv-408">Reduser dose iht. angivelser i godkjent '
+ 'preparatomtale.</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Reduser dose iht. angivelser i godkjent '
+                            'preparatomtale.'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Deferasiroks (ikke matcha) ---------- 
+Parent: Nedsatt nyrefunksjon
+State: manual
+
+Original text:
+('<p id="p-479">Elimineres i liten grad renalt. Kan gi nefrotoksiske effekter. '
+ 'Kontraindisert ved GFR &lt; 60 mL/min.</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Elimineres i liten grad renalt. Kan gi '
+                            'nefrotoksiske effekter. Kontraindisert ved GFR < '
+                            '60 mL/min.'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Dekstropropoksyfen (ikke matcha) ---------- 
+Parent: Nedsatt nyrefunksjon
+State: manual
+
+Original text:
+('<p id="gk-03-398146">Se opioidanalgetika <xref '
+ 'mid="mpublish-ref://live/Generelle/G3.xml#Gk-07-394611" type="link"/>\n'
+ ' </p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Se opioidanalgetika '},
+                  { '_type': 'span',
+                    'marks': ['fiksid-gk-07-394611'],
+                    'oldkey': 'gk-07-394611',
+                    'oldmid': 'mpublish-ref://live/Generelle/G3.xml#Gk-07-394611',
+                    'text': 'Opioidanalgetika'}],
+    'markDefs': [ { '_key': 'gk-07-394611',
+                    '_type': 'internalLink',
+                    'link': {'_ref': 'gk-07-394611', '_type': 'reference'}}],
+    'style': 'normal'}]
+
+
+---------- Delamanid (ikke matcha) ---------- 
+Parent: Nedsatt nyrefunksjon
+State: manual
+
+Original text:
+('<p id="ID-594013">Anbefales ikke ved alvorlig nedsatt nyrefunksjon pga. '
+ 'begrensede/manglende data</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Anbefales ikke ved alvorlig nedsatt nyrefunksjon '
+                            'pga. begrensede/manglende data'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Dibotermin-alfa-2b (InductOs) (ikke matcha) ---------- 
+Parent: Nedsatt nyrefunksjon
+State: manual
+
+Original text:
+('<p id="Gk-03-nyresv-478e">Ikke utført studier ved nedsatt nyrefunksjon. '
+ 'Generell forsiktighet anbefales. Virker lokalt med minimal overgang til '
+ 'blodbanen. Antas ikke å affiseres av nyrefunksjonsnedsettelse.</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Ikke utført studier ved nedsatt nyrefunksjon. '
+                            'Generell forsiktighet anbefales. Virker lokalt '
+                            'med minimal overgang til blodbanen. Antas ikke å '
+                            'affiseres av nyrefunksjonsnedsettelse.'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Didanosin (ikke matcha) ---------- 
+Parent: Nedsatt nyrefunksjon
+State: manual
+
+Original text:
+'<p id="Gk-03-nyresv-483">Reduser dose</p>'
+
+PortableText:
+[ { '_type': 'block',
+    'children': [{'_type': 'span', 'marks': [], 'text': 'Reduser dose'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Doripenem (ikke matcha) ---------- 
+Parent: Nedsatt nyrefunksjon
+State: manual
+
+Original text:
+('<p id="gk-03-nyresv-2228">Dosejustering er nødvendig ved moderat og alvorlig '
+ 'nedsatt nyrefunksjon. Anbefales ikke til dialysepasienter</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Dosejustering er nødvendig ved moderat og '
+                            'alvorlig nedsatt nyrefunksjon. Anbefales ikke til '
+                            'dialysepasienter'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Elektrolytter (ikke matcha) ---------- 
+Parent: Nedsatt nyrefunksjon
+State: manual
+
+Original text:
+('<p id="Gk-03-nyresv-528j">Spesialistoppgave. Kontraindisert ved akutt '
+ 'nyresvikt med betydelige metabolske prosesser (hyperkatabolisme) dersom '
+ 'uremiske symptomer ikke lenger kan behandles med hemofiltrering</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Spesialistoppgave. Kontraindisert ved akutt '
+                            'nyresvikt med betydelige metabolske prosesser '
+                            '(hyperkatabolisme) dersom uremiske symptomer ikke '
+                            'lenger kan behandles med hemofiltrering'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Ergotamin (ikke matcha) ---------- 
+Parent: Nedsatt nyrefunksjon
+State: manual
+
+Original text:
+('<p id="Gk-03-nyresv-553">Unngå. Ingen ergotaminpreparater er lenger på '
+ 'markedet. Se også\xa0<reference text="meldrøye" type="index"/>\xa0<url '
+ 'id="url-11" href="https://snl.no/meldr%C3%B8ye">meldrøye</url>.</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Unngå. Ingen ergotaminpreparater er lenger på '
+                            'markedet. Se også '},
+                  {'_type': 'span', 'marks': [], 'text': 'meldrøye'},
+                  {'_type': 'span', 'marks': [], 'text': ' '},
+                  {'_type': 'span', 'marks': ['url-11'], 'text': 'meldrøye'},
+                  {'_type': 'span', 'marks': [], 'text': '.'}],
+    'markDefs': [ { '_key': 'url-11',
+                    '_type': 'externalLink',
+                    'href': 'https://snl.no/meldr%C3%B8ye'}],
+    'style': 'normal'}]
+
+
+---------- Flukloksacillin (ikke matcha) ---------- 
+Parent: Nedsatt nyrefunksjon
+State: manual
+
+Original text:
+('<p id="ID-608012">Redusert utskillelse ved nedsatt nyrefunksjon. Obs. '
+ 'alvorlig redusert nyrefunksjon.</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Redusert utskillelse ved nedsatt nyrefunksjon. '
+                            'Obs. alvorlig redusert nyrefunksjon.'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Folsyreantagonister (ikke matcha) ---------- 
+Parent: Nedsatt nyrefunksjon
+State: manual
+
+Original text:
+('<p id="Gk-03-nyresv-683">Se antimetabolitter, folatanaloger L2.1.2a. '
+ 'Nyretoksisk. Reduser dose. Unngå ved moderat og alvorlig nedsatt '
+ 'nyrefunksjon. Serumkonsentrasjonsmåling</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Se antimetabolitter, folatanaloger L2.1.2a. '
+                            'Nyretoksisk. Reduser dose. Unngå ved moderat og '
+                            'alvorlig nedsatt nyrefunksjon. '
+                            'Serumkonsentrasjonsmåling'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Gadobenat (ikke matcha) ---------- 
+Parent: Nedsatt nyrefunksjon
+State: manual
+
+Original text:
+('<p id="gk-03-nyresv-1875">Se Kontrastmidler for magnettomografi. Utskilles '
+ 'renalt. Unngå ved alvorlig nedsatt nyrefunksjon</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Se Kontrastmidler for magnettomografi. Utskilles '
+                            'renalt. Unngå ved alvorlig nedsatt nyrefunksjon'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Gadobutrol (ikke matcha) ---------- 
+Parent: Nedsatt nyrefunksjon
+State: manual
+
+Original text:
+'<p id="p-675">Se Kontrastmidler for magnettomografi.</p>'
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Se Kontrastmidler for magnettomografi.'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Gadoksetinsyre, dinatrium- (ikke matcha) ---------- 
+Parent: Nedsatt nyrefunksjon
+State: manual
+
+Original text:
+('<p id="gk-03-nyresv-1880">Utskilles renalt (50\xa0%). Unngå ved alvorlig '
+ 'nedsatt nyrefunksjon</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Utskilles renalt (50 %). Unngå ved alvorlig '
+                            'nedsatt nyrefunksjon'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Gadoteridol (ikke matcha) ---------- 
+Parent: Nedsatt nyrefunksjon
+State: manual
+
+Original text:
+'<p id="p-677">Se Kontrastmidler for magnettomografi</p>'
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Se Kontrastmidler for magnettomografi'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Gadotersyre (ikke matcha) ---------- 
+Parent: Nedsatt nyrefunksjon
+State: manual
+
+Original text:
+('<p id="gk-03-nyresv-2303">Se Kontrastmidler for magnettomografi. Utskilles '
+ 'renalt. Kontraindisert ved alvorlig nedsatt nyrefunksjon</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Se Kontrastmidler for magnettomografi. Utskilles '
+                            'renalt. Kontraindisert ved alvorlig nedsatt '
+                            'nyrefunksjon'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Guanetidin (ikke matcha) ---------- 
+Parent: Nedsatt nyrefunksjon
+State: manual
+
+Original text:
+('<p id="Gk-03-nyresv-758">Bør unngås. Økt ortostatisk hypotensjon, redusert '
+ 'nyregjennomblødning. Øk doseintervallet dersom preparatet likevel '
+ 'benyttes.</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Bør unngås. Økt ortostatisk hypotensjon, redusert '
+                            'nyregjennomblødning. Øk doseintervallet dersom '
+                            'preparatet likevel benyttes.'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Heksametylmelamin  (ikke matcha) ---------- 
+Parent: Nedsatt nyrefunksjon
+State: manual
+
+Original text:
+('<p id="Gk-03-nyresv-784">Se altretamin <xref '
+ 'mid="mpublish-ref://live/Generelle/G3.xml#Gk-07-396732" type="link"/>\n'
+ ' </p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ {'_type': 'span', 'marks': [], 'text': 'Se altretamin '},
+                  { '_type': 'span',
+                    'marks': ['gk-07-396732'],
+                    'oldkey': 'gk-07-396732',
+                    'oldmid': 'mpublish-ref://live/Generelle/G3.xml#Gk-07-396732',
+                    'text': 'FIKSTITTELEN'}],
+    'markDefs': [ { '_key': 'gk-07-396732',
+                    '_type': 'internalLink',
+                    'link': {'_ref': 'gk-07-396732', '_type': 'reference'}}],
+    'style': 'normal'}]
+
+
+---------- Histrelin  (ikke matcha) ---------- 
+Parent: Nedsatt nyrefunksjon
+State: manual
+
+Original text:
+('<p id="O229868">Utgått 2014. Dosejustering ikke nødvendig hos pasienter med '
+ 'lett til moderat nedsatt nyrefunksjon (kreatininclearance 15(30)–60 mL/min). '
+ 'Manglende studier hos pasienter med alvorlig nedsatt nyrefunksjon</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Utgått 2014. Dosejustering ikke nødvendig hos '
+                            'pasienter med lett til moderat nedsatt '
+                            'nyrefunksjon (kreatininclearance 15(30)–60 '
+                            'mL/min). Manglende studier hos pasienter med '
+                            'alvorlig nedsatt nyrefunksjon'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Iopentol (ikke matcha) ---------- 
+Parent: Nedsatt nyrefunksjon
+State: manual
+
+Original text:
+'<p id="Gk-03-nyresv-873">Forsiktighet. Nyretoksisk. Renal utskillelse</p>'
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Forsiktighet. Nyretoksisk. Renal utskillelse'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Jodholdige røntgenkontrastmidler (ikke matcha) ---------- 
+Parent: Nedsatt nyrefunksjon
+State: manual
+
+Original text:
+('<p id="p-717">Bruk av joderte kontrastmidler kan forårsake '
+ 'kontrastmiddelindusert nefropati, nedsatt nyrefunksjon og akutt nyresvikt. '
+ 'Renal utskillelse. Spesiell forsiktighet ved preeksisterende nyresvikt og '
+ 'ved diabetes mellitus. Adekvat hydrering er viktig. Unngå samtidig bruk av '
+ 'legemidler som påvirker nyrefunksjonen.</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Bruk av joderte kontrastmidler kan forårsake '
+                            'kontrastmiddelindusert nefropati, nedsatt '
+                            'nyrefunksjon og akutt nyresvikt. Renal '
+                            'utskillelse. Spesiell forsiktighet ved '
+                            'preeksisterende nyresvikt og ved diabetes '
+                            'mellitus. Adekvat hydrering er viktig. Unngå '
+                            'samtidig bruk av legemidler som påvirker '
+                            'nyrefunksjonen.'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Jobitridol (ikke matcha) ---------- 
+Parent: Nedsatt nyrefunksjon
+State: manual
+
+Original text:
+'<p id="p-719">Se jodholdige røntgenkontrastmidler</p>'
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Se jodholdige røntgenkontrastmidler'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Jodiksanol (ikke matcha) ---------- 
+Parent: Nedsatt nyrefunksjon
+State: manual
+
+Original text:
+'<p id="p-725">Se jodholdige røntgenkontrastmidler</p>'
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Se jodholdige røntgenkontrastmidler'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Joheksol (ikke matcha) ---------- 
+Parent: Nedsatt nyrefunksjon
+State: manual
+
+Original text:
+'<p id="Gk-03-nyresv-903">Se jodholdige røntgenkontrastmidler</p>'
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Se jodholdige røntgenkontrastmidler'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Jomeprol (ikke matcha) ---------- 
+Parent: Nedsatt nyrefunksjon
+State: manual
+
+Original text:
+'<p id="Gk-03-nyresv-913">Se jodholdige røntgenkontrastmidler</p>'
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Se jodholdige røntgenkontrastmidler'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Joversol (ikke matcha) ---------- 
+Parent: Nedsatt nyrefunksjon
+State: manual
+
+Original text:
+'<p id="Gk-03-nyresv-918">Se jodholdige røntgenkontrastmidler</p>'
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Se jodholdige røntgenkontrastmidler'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Klavulanat (ikke matcha) ---------- 
+Parent: Nedsatt nyrefunksjon
+State: manual
+
+Original text:
+('<p id="Gk-03-608023">Ingen dosejustering ved lett og moderat nedsatt '
+ 'nyrefunksjon. Redusert dose ved alvorlig nedsatt nyrefunksjon og ved '
+ 'terminal nyresykdom (se tabeller i godkjent preparatomtale).<linefeed/></p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Ingen dosejustering ved lett og moderat nedsatt '
+                            'nyrefunksjon. Redusert dose ved alvorlig nedsatt '
+                            'nyrefunksjon og ved terminal nyresykdom (se '
+                            'tabeller i godkjent preparatomtale).'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Klodronat (ikke matcha) ---------- 
+Parent: Nedsatt nyrefunksjon
+State: manual
+
+Original text:
+('<p id="Gk-03-398142">Se bisfosfonater <xref '
+ 'mid="mpublish-ref://live/Generelle/G3.xml#Gk-07-395009" type="link"/>\n'
+ ' </p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ {'_type': 'span', 'marks': [], 'text': 'Se bisfosfonater '},
+                  { '_type': 'span',
+                    'marks': ['fiksid-gk-07-395009'],
+                    'oldkey': 'gk-07-395009',
+                    'oldmid': 'mpublish-ref://live/Generelle/G3.xml#Gk-07-395009',
+                    'text': 'Bisfosfonater'}],
+    'markDefs': [ { '_key': 'gk-07-395009',
+                    '_type': 'internalLink',
+                    'link': {'_ref': 'gk-07-395009', '_type': 'reference'}}],
+    'style': 'normal'}]
+
+
+---------- Kontrastmidler, jodholdige (ikke matcha) ---------- 
+Parent: Nedsatt nyrefunksjon
+State: manual
+
+Original text:
+'<p id="p-769">Se jodholdige røntgenkontrastmidler</p>'
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Se jodholdige røntgenkontrastmidler'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Krizanlizumab (ikke matcha) ---------- 
+Parent: Nedsatt nyrefunksjon
+State: manual
+
+Original text:
+('<p id="p-773">Ingen dosejustering ved lett til moderat nedsatt nyrefunksjon. '
+ 'Ingen doseringsangivelser ved alvorlig nedsatt nyrefunksjon pga. begrensede '
+ 'data.</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Ingen dosejustering ved lett til moderat nedsatt '
+                            'nyrefunksjon. Ingen doseringsangivelser ved '
+                            'alvorlig nedsatt nyrefunksjon pga. begrensede '
+                            'data.'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Lepirudin (ikke matcha) ---------- 
+Parent: Nedsatt nyrefunksjon
+State: manual
+
+Original text:
+('<p id="gk-03-nyresv-1993">Kontraindisert ved alvorlig nedsatt nyrefunksjon. '
+ 'Se ellers retningslinjer for dosering ved nedsatt nyrefunksjon</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Kontraindisert ved alvorlig nedsatt nyrefunksjon. '
+                            'Se ellers retningslinjer for dosering ved nedsatt '
+                            'nyrefunksjon'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Lidokain (ikke matcha) ---------- 
+Parent: Nedsatt nyrefunksjon
+State: manual
+
+Original text:
+('<p id="Gk-03-nyresv-1083">Ingen spesielle forholdsregler anses nødvendig ved '
+ 'vanlig lokalanestetisk bruk. Flere produsenter angir «forsiktighet» ved '
+ 'alvorlig nedsatt nyrefunksjon.\n'
+ 'Ved systemisk administrasjon: Monitorer nøye for bivirkninger. \n'
+ '</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Ingen spesielle forholdsregler anses nødvendig '
+                            'ved vanlig lokalanestetisk bruk. Flere '
+                            'produsenter angir «forsiktighet» ved alvorlig '
+                            'nedsatt nyrefunksjon. Ved systemisk '
+                            'administrasjon: Monitorer nøye for '
+                            'bivirkninger. '}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Muromonab-CD3 (ikke matcha) ---------- 
+Parent: Nedsatt nyrefunksjon
+State: manual
+
+Original text:
+('<p id="ID-398133">Ingen dosejustering. Kontroller nyrefunksjon regelmessig. '
+ 'Unngå overvæsking forut for administrasjon.</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Ingen dosejustering. Kontroller nyrefunksjon '
+                            'regelmessig. Unngå overvæsking forut for '
+                            'administrasjon.'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Nusinersen (ikke matcha) ---------- 
+Parent: Nedsatt nyrefunksjon
+State: manual
+
+Original text:
+('<p id="ID-608154">Sikkerhet og effekt ikke undersøkt ved nedsatt '
+ 'nyrefunksjon, observeres nøye.</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Sikkerhet og effekt ikke undersøkt ved nedsatt '
+                            'nyrefunksjon, observeres nøye.'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Paraaminosalisylsyre (ikke matcha) ---------- 
+Parent: Nedsatt nyrefunksjon
+State: manual
+
+Original text:
+('<p id="ID-593888">Kontraindisert ved alvorlig nedsatt nyrefunksjon. '
+ 'Forsiktighet må utvises ved lett til moderat nedsatt nyrefunksjon.</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Kontraindisert ved alvorlig nedsatt nyrefunksjon. '
+                            'Forsiktighet må utvises ved lett til moderat '
+                            'nedsatt nyrefunksjon.'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Parathyreoideahormon (ikke matcha) ---------- 
+Parent: Nedsatt nyrefunksjon
+State: manual
+
+Original text:
+('<p id="gk-03-nyresv-2444">Ingen dosejustering ved lett til moderat nedsatt '
+ 'nyrefunksjon. Forsiktighet ved alvorlig nedsatt nyrefunksjon. Obs '
+ 'hyperkalsemi.</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Ingen dosejustering ved lett til moderat nedsatt '
+                            'nyrefunksjon. Forsiktighet ved alvorlig nedsatt '
+                            'nyrefunksjon. Obs hyperkalsemi.'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Peginterferon beta-1a (ikke matcha) ---------- 
+Parent: Nedsatt nyrefunksjon
+State: manual
+
+Original text:
+('<p id="ID-593908">Forsiktighet må utvises og dosereduksjon vurderes ved '
+ 'alvorlig nedsatt nyrefunksjon.</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Forsiktighet må utvises og dosereduksjon vurderes '
+                            'ved alvorlig nedsatt nyrefunksjon.'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Pemigatinib (ikke matcha) ---------- 
+Parent: Nedsatt nyrefunksjon
+State: manual
+
+Original text:
+('<p id="p-1024">Ingen dosejustering vet lett til moderat nedsatt '
+ 'nyrefunksjon. Dosereduksjon ved alvorlig nedsatt nyrefunksjon.</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Ingen dosejustering vet lett til moderat nedsatt '
+                            'nyrefunksjon. Dosereduksjon ved alvorlig nedsatt '
+                            'nyrefunksjon.'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Piperacillin (ikke matcha) ---------- 
+Parent: Nedsatt nyrefunksjon
+State: manual
+
+Original text:
+('<p id="gk-03-nyresv-2014">Elimineres renalt. Dosering tilpasses grad av '
+ 'nedsatt nyrefunksjon iht. tabell i godkjent preparatomtale. Potensielt '
+ 'nyretoksisk. Økt risiko for nevrotoksiske effekter ved nyresvikt.</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Elimineres renalt. Dosering tilpasses grad av '
+                            'nedsatt nyrefunksjon iht. tabell i godkjent '
+                            'preparatomtale. Potensielt nyretoksisk. Økt '
+                            'risiko for nevrotoksiske effekter ved '
+                            'nyresvikt.'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Piperakin (ikke matcha) ---------- 
+Parent: Nedsatt nyrefunksjon
+State: manual
+
+Original text:
+('<p id="ID-316901">Forsiktighet ved moderat og alvorlig nedsatt nyrefunksjon '
+ 'pga. mangelfull klinisk dokumentasjon (fare for økt plasmakonsentrasjon av '
+ 'piperakin)</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Forsiktighet ved moderat og alvorlig nedsatt '
+                            'nyrefunksjon pga. mangelfull klinisk '
+                            'dokumentasjon (fare for økt plasmakonsentrasjon '
+                            'av piperakin)'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Sakinavir (ikke matcha) ---------- 
+Parent: Nedsatt nyrefunksjon
+State: manual
+
+Original text:
+('<p id="Gk-03-nyresv-1547">Dosereduksjon kan være påkrevd ved alvorlig '
+ 'nedsatt nyrefunksjon</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Dosereduksjon kan være påkrevd ved alvorlig '
+                            'nedsatt nyrefunksjon'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Simeprevir (ikke matcha) ---------- 
+Parent: Nedsatt nyrefunksjon
+State: manual
+
+Original text:
+('<p id="ID-593893">Forsiktighet må utvises ved alvorlig nedsatt og terminal '
+ 'nyrefunksjon.</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Forsiktighet må utvises ved alvorlig nedsatt og '
+                            'terminal nyrefunksjon.'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Sulfametoksazol (ikke matcha) ---------- 
+Parent: Nedsatt nyrefunksjon
+State: manual
+
+Original text:
+'<p id="Gk-03-nyresv-1597">Reduser dose</p>'
+
+PortableText:
+[ { '_type': 'block',
+    'children': [{'_type': 'span', 'marks': [], 'text': 'Reduser dose'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Telaprevir (ikke matcha) ---------- 
+Parent: Nedsatt nyrefunksjon
+State: manual
+
+Original text:
+('<p id="ID-316881">Det anbefales ingen dosejustering ved nedsatt '
+ 'nyrefunksjon. Det er imidlertid generelt manglende data for HCV-pasienter '
+ 'med nedsatt nyrefunksjon samt dialysepasienter, og det anbefales derfor '
+ 'forsiktighet ved bruk hos disse gruppene</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Det anbefales ingen dosejustering ved nedsatt '
+                            'nyrefunksjon. Det er imidlertid generelt '
+                            'manglende data for HCV-pasienter med nedsatt '
+                            'nyrefunksjon samt dialysepasienter, og det '
+                            'anbefales derfor forsiktighet ved bruk hos disse '
+                            'gruppene'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Tenofovirdisoproksil (finnes også i kombinasjon med emtricitabin) (ikke matcha) ---------- 
+Parent: Nedsatt nyrefunksjon
+State: manual
+
+Original text:
+('<p id="gk-03-nyresv-1920">Forsiktighet ved nedsatt nyrefunksjon. Justering '
+ 'av doseringsintervallet er nødvendig ved moderat og alvorlig nedsatt '
+ 'nyrefunksjon. Sikkerhet og effekt ved nedsatt nyrefunksjon er ikke klarlagt. '
+ 'Det er rapportert om nedsatt nyrefunksjon, som kan omfatte hypofosfatemi, '
+ 'etter bruk av tenofovir</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Forsiktighet ved nedsatt nyrefunksjon. Justering '
+                            'av doseringsintervallet er nødvendig ved moderat '
+                            'og alvorlig nedsatt nyrefunksjon. Sikkerhet og '
+                            'effekt ved nedsatt nyrefunksjon er ikke klarlagt. '
+                            'Det er rapportert om nedsatt nyrefunksjon, som '
+                            'kan omfatte hypofosfatemi, etter bruk av '
+                            'tenofovir'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Tipiracil (ikke matcha) ---------- 
+Parent: Nedsatt nyrefunksjon
+State: manual
+
+Original text:
+('<p id="ID-607987">Ingen dosejustering ved lett til moderat redusert '
+ 'nyrefunksjon. Redusert startdose ved alvorlig nedsatt nyrefunksjon. '
+ 'Anbefales ikke ved terminal nyresykdom (dialysekrevende) pga. manglende '
+ 'data. Overvåkes nøye, spesielt med tanke på hematologisk toksisitet.</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Ingen dosejustering ved lett til moderat redusert '
+                            'nyrefunksjon. Redusert startdose ved alvorlig '
+                            'nedsatt nyrefunksjon. Anbefales ikke ved terminal '
+                            'nyresykdom (dialysekrevende) pga. manglende data. '
+                            'Overvåkes nøye, spesielt med tanke på '
+                            'hematologisk toksisitet.'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Tokofersolan (ikke matcha) ---------- 
+Parent: Nedsatt nyrefunksjon
+State: manual
+
+Original text:
+('<p id="gk-03-nyresv-2529">Ingen dosejustering. Nyre- og leverfunksjon '
+ 'monitoreres,</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Ingen dosejustering. Nyre- og leverfunksjon '
+                            'monitoreres,'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Velpatasvir (ikke matcha) ---------- 
+Parent: Nedsatt nyrefunksjon
+State: manual
+
+Original text:
+('<p id="ID-608017">Ingen dosejustering. Forsiktighet ved alvorlig nedsatt '
+ 'nyrefunksjon og terminal nyresykdom, benyttes kun dersom ingen andre '
+ 'behandlingsalternativer er tilgjengelige..</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Ingen dosejustering. Forsiktighet ved alvorlig '
+                            'nedsatt nyrefunksjon og terminal nyresykdom, '
+                            'benyttes kun dersom ingen andre '
+                            'behandlingsalternativer er tilgjengelige..'}],
+    'markDefs': [],
+    'style': 'normal'}]

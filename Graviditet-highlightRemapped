@@ -1,0 +1,411 @@
+
+
+
+---------- Alfakalsidol (lk-03-329746) ---------- 
+Parent: Graviditet
+State: highlightRemapped
+
+Original text:
+('<p id="Gk-07-gravid-237">Se\xa0<xref '
+ 'mid="mpublish-ref://live/Generelle/G7.xml#Gk-07-gravid-4753" type="link"/>\n'
+ ' </p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ {'_type': 'span', 'marks': [], 'text': 'Se '},
+                  { '_type': 'span',
+                    'marks': ['fiksid-gk-07-gravid-4753'],
+                    'oldkey': 'gk-07-gravid-4753',
+                    'oldmid': 'mpublish-ref://live/Generelle/G7.xml#Gk-07-gravid-4753',
+                    'text': 'Vitamin\xa0D'}],
+    'markDefs': [ { '_key': 'gk-07-gravid-4753',
+                    '_type': 'internalLink',
+                    'link': { '_ref': 'gk-07-gravid-4753',
+                              '_type': 'reference'}}],
+    'style': 'normal'}]
+
+
+---------- Amilorid (lk-08-hjertekrets-673) ---------- 
+Parent: Graviditet
+State: highlightRemapped
+
+Original text:
+('<p id="Gk-07-gravid-315">Erfaring med bruk hos gravide mangler. Se\xa0<xref '
+ 'mid="mpublish-ref://live/Generelle/G7.xml#Gk-07-gravid-1269" type="link"/>\n'
+ ' </p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Erfaring med bruk hos gravide mangler. Se '},
+                  { '_type': 'span',
+                    'marks': ['fiksid-gk-07-gravid-1269'],
+                    'oldkey': 'gk-07-gravid-1269',
+                    'oldmid': 'mpublish-ref://live/Generelle/G7.xml#Gk-07-gravid-1269',
+                    'text': 'Diuretika'}],
+    'markDefs': [ { '_key': 'gk-07-gravid-1269',
+                    '_type': 'internalLink',
+                    'link': { '_ref': 'gk-07-gravid-1269',
+                              '_type': 'reference'}}],
+    'style': 'normal'}]
+
+
+---------- Anastrozol (lk-03-endokr-8637) ---------- 
+Parent: Graviditet
+State: highlightRemapped
+
+Original text:
+'<p id="Gk-07-gravid-383">Opplysninger mangler</p>'
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Opplysninger mangler'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Antitymocytt (lk-18-immunsuppr-5404) ---------- 
+Parent: Graviditet
+State: highlightRemapped
+
+Original text:
+'<p id="gk-07-gravid-11979">Erfaring med bruk hos gravide mangler</p>'
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Erfaring med bruk hos gravide mangler'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Bendroflumetiazid (lk-08-hjertekrets-66) ---------- 
+Parent: Graviditet
+State: highlightRemapped
+
+Original text:
+('<p id="Gk-07-gravid-677">Se\xa0<xref '
+ 'mid="mpublish-ref://live/Generelle/G7.xml#Gk-07-gravid-1269" type="link"/>\n'
+ ' </p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ {'_type': 'span', 'marks': [], 'text': 'Se '},
+                  { '_type': 'span',
+                    'marks': ['fiksid-gk-07-gravid-1269'],
+                    'oldkey': 'gk-07-gravid-1269',
+                    'oldmid': 'mpublish-ref://live/Generelle/G7.xml#Gk-07-gravid-1269',
+                    'text': 'Diuretika'}],
+    'markDefs': [ { '_key': 'gk-07-gravid-1269',
+                    '_type': 'internalLink',
+                    'link': { '_ref': 'gk-07-gravid-1269',
+                              '_type': 'reference'}}],
+    'style': 'normal'}]
+
+
+---------- Darbepoetin (lk-04-blod-frf-retur-12815) ---------- 
+Parent: Graviditet
+State: highlightRemapped
+
+Original text:
+'<p id="GK-07-Gravid-11432">Erfaring med bruk hos gravide mangler</p>'
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Erfaring med bruk hos gravide mangler'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Desogestrel (lk-03-endokr-7205) ---------- 
+Parent: Graviditet
+State: highlightRemapped
+
+Original text:
+('<p id="Gk-07-gravid-1133">Se\xa0<xref '
+ 'mid="mpublish-ref://live/Generelle/G7.xml#Gk-07-gravid-3749" type="link"/>\n'
+ ' </p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ {'_type': 'span', 'marks': [], 'text': 'Se '},
+                  { '_type': 'span',
+                    'marks': ['fiksid-gk-07-gravid-3749'],
+                    'oldkey': 'gk-07-gravid-3749',
+                    'oldmid': 'mpublish-ref://live/Generelle/G7.xml#Gk-07-gravid-3749',
+                    'text': 'P-piller'}],
+    'markDefs': [ { '_key': 'gk-07-gravid-3749',
+                    '_type': 'internalLink',
+                    'link': { '_ref': 'gk-07-gravid-3749',
+                              '_type': 'reference'}}],
+    'style': 'normal'}]
+
+
+---------- Dikloksacillin (lk-01-infeksjon-539) ---------- 
+Parent: Graviditet
+State: highlightRemapped
+
+Original text:
+('<p id="Gk-07-gravid-1210">Se\xa0<xref '
+ 'mid="mpublish-ref://live/Generelle/G7.xml#Gk-07-gravid-3620" type="link"/>\n'
+ ' </p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ {'_type': 'span', 'marks': [], 'text': 'Se '},
+                  { '_type': 'span',
+                    'marks': ['fiksid-gk-07-gravid-3620'],
+                    'oldkey': 'gk-07-gravid-3620',
+                    'oldmid': 'mpublish-ref://live/Generelle/G7.xml#Gk-07-gravid-3620',
+                    'text': 'Penicilliner'}],
+    'markDefs': [ { '_key': 'gk-07-gravid-3620',
+                    '_type': 'internalLink',
+                    'link': { '_ref': 'gk-07-gravid-3620',
+                              '_type': 'reference'}}],
+    'style': 'normal'}]
+
+
+---------- VIII (lk-04-433660) ---------- 
+Parent: Graviditet
+State: highlightRemapped
+
+Original text:
+'<p id="Gk-07-gravid-1552">Opplysninger mangler</p>'
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Opplysninger mangler'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Fenazon (lk-20-smerter-382) ---------- 
+Parent: Graviditet
+State: highlightRemapped
+
+Original text:
+'<p id="Gk-07-gravid-1572">Ingen kjent risiko</p>'
+
+PortableText:
+[ { '_type': 'block',
+    'children': [{'_type': 'span', 'marks': [], 'text': 'Ingen kjent risiko'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Ganciklovir (lk-01-infeksjon-8091) ---------- 
+Parent: Graviditet
+State: highlightRemapped
+
+Original text:
+('<p id="Gk-07-gravid-1868">Erfaring med bruk hos gravide mangler. Prekliniske '
+ 'studier har vist teratogene, mutagene og karsinogene effekter. Både menn og '
+ 'kvinner bør anvende prevensjonsmidler under behandling. Se\xa0<xref '
+ 'mid="mpublish-ref://live/Generelle/G7.xml#Gk-07-gravid-503" type="link"/>\n'
+ ' </p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Erfaring med bruk hos gravide mangler. '
+                            'Prekliniske studier har vist teratogene, mutagene '
+                            'og karsinogene effekter. Både menn og kvinner bør '
+                            'anvende prevensjonsmidler under behandling. Se '},
+                  { '_type': 'span',
+                    'marks': ['fiksid-gk-07-gravid-503'],
+                    'oldkey': 'gk-07-gravid-503',
+                    'oldmid': 'mpublish-ref://live/Generelle/G7.xml#Gk-07-gravid-503',
+                    'text': 'Antivirale midler'}],
+    'markDefs': [ { '_key': 'gk-07-gravid-503',
+                    '_type': 'internalLink',
+                    'link': { '_ref': 'gk-07-gravid-503',
+                              '_type': 'reference'}}],
+    'style': 'normal'}]
+
+
+---------- Insulin (lk-03-endokr-18) ---------- 
+Parent: Graviditet
+State: highlightRemapped
+
+Original text:
+'<p id="Gk-07-gravid-2229">Ansees som trygt</p>'
+
+PortableText:
+[ { '_type': 'block',
+    'children': [{'_type': 'span', 'marks': [], 'text': 'Ansees som trygt'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Kloksacillin (lk-01-infeksjon-539) ---------- 
+Parent: Graviditet
+State: highlightRemapped
+
+Original text:
+('<p id="Gk-07-319378">Se\xa0<xref '
+ 'mid="mpublish-ref://live/Generelle/G7.xml#Gk-07-gravid-3620" type="link"/>\n'
+ ' </p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ {'_type': 'span', 'marks': [], 'text': 'Se '},
+                  { '_type': 'span',
+                    'marks': ['fiksid-gk-07-gravid-3620'],
+                    'oldkey': 'gk-07-gravid-3620',
+                    'oldmid': 'mpublish-ref://live/Generelle/G7.xml#Gk-07-gravid-3620',
+                    'text': 'Penicilliner'}],
+    'markDefs': [ { '_key': 'gk-07-gravid-3620',
+                    '_type': 'internalLink',
+                    'link': { '_ref': 'gk-07-gravid-3620',
+                              '_type': 'reference'}}],
+    'style': 'normal'}]
+
+
+---------- Koffein (lk-10-lunger-1628) ---------- 
+Parent: Graviditet
+State: highlightRemapped
+
+Original text:
+('<p id="Gk-07-319288">Nyere studier tyder på at <highlight '
+ 'type="substance">koffein</highlight> øker risikoen for spontanabort og lav '
+ 'fødselsvekt. Totalt koffeininntak bør fortrinnsvis ikke overskride 200 mg '
+ 'per dag (tilsvarer ca. 2 kopper kaffe)</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Nyere studier tyder på at '},
+                  { '_type': 'span',
+                    'marks': ['highlightRef', 'koffein'],
+                    'text': 'koffein'},
+                  { '_type': 'span',
+                    'marks': [],
+                    'text': ' øker risikoen for spontanabort og lav '
+                            'fødselsvekt. Totalt koffeininntak bør '
+                            'fortrinnsvis ikke overskride 200 mg per dag '
+                            '(tilsvarer ca. 2 kopper kaffe)'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Letrozol (lk-03-endokr-8637) ---------- 
+Parent: Graviditet
+State: highlightRemapped
+
+Original text:
+('<p id="Gk-07-gravid-2763">Erfaring med bruk hos gravide er begrenset. '
+ 'Dyreforsøk har vist økt forekomst av misdannelser</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Erfaring med bruk hos gravide er begrenset. '
+                            'Dyreforsøk har vist økt forekomst av '
+                            'misdannelser'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Levonorgestrel (lk-03-274356) ---------- 
+Parent: Graviditet
+State: highlightRemapped
+
+Original text:
+('<p id="Gk-07-gravid-2793">Se og\xa0<xref '
+ 'mid="mpublish-ref://live/Generelle/G7.xml#Gk-07-gravid-1896" type="link"/>\n'
+ ' </p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ {'_type': 'span', 'marks': [], 'text': 'Se og '},
+                  { '_type': 'span',
+                    'marks': ['fiksid-gk-07-gravid-1896'],
+                    'oldkey': 'gk-07-gravid-1896',
+                    'oldmid': 'mpublish-ref://live/Generelle/G7.xml#Gk-07-gravid-1896',
+                    'text': 'Gestagener'}],
+    'markDefs': [ { '_key': 'gk-07-gravid-1896',
+                    '_type': 'internalLink',
+                    'link': { '_ref': 'gk-07-gravid-1896',
+                              '_type': 'reference'}}],
+    'style': 'normal'}]
+
+
+---------- Nandrolon (lk-03-endokr-5391) ---------- 
+Parent: Graviditet
+State: highlightRemapped
+
+Original text:
+('<p id="Gk-07-gravid-3266">Se\xa0<xref '
+ 'mid="mpublish-ref://live/Generelle/G7.xml#Gk-07-gravid-386" type="link"/>\n'
+ ' </p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ {'_type': 'span', 'marks': [], 'text': 'Se '},
+                  { '_type': 'span',
+                    'marks': ['fiksid-gk-07-gravid-386'],
+                    'oldkey': 'gk-07-gravid-386',
+                    'oldmid': 'mpublish-ref://live/Generelle/G7.xml#Gk-07-gravid-386',
+                    'text': 'Androgener/anabole steroider'}],
+    'markDefs': [ { '_key': 'gk-07-gravid-386',
+                    '_type': 'internalLink',
+                    'link': { '_ref': 'gk-07-gravid-386',
+                              '_type': 'reference'}}],
+    'style': 'normal'}]
+
+
+---------- insulin (lk-03-endokr-18) ---------- 
+Parent: Graviditet
+State: highlightRemapped
+
+Original text:
+('<p id="gk-07-gravid-11529">Bør ikke brukes av gravide pga. hyppig induksjon '
+ 'av antistoffer mot <highlight type="substance">insulin</highlight> ved '
+ 'inhalasjon. Gravide bør bruke subkutant <highlight '
+ 'type="substance">insulin</highlight>\n'
+ ' </p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Bør ikke brukes av gravide pga. hyppig induksjon '
+                            'av antistoffer mot '},
+                  { '_type': 'span',
+                    'marks': ['highlightRef', 'insulin'],
+                    'text': 'insulin'},
+                  { '_type': 'span',
+                    'marks': [],
+                    'text': ' ved inhalasjon. Gravide bør bruke subkutant '},
+                  { '_type': 'span',
+                    'marks': ['highlightRef', 'insulin'],
+                    'text': 'insulin'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Teriparatide (lk-03-318050) ---------- 
+Parent: Graviditet
+State: highlightRemapped
+
+Original text:
+'<p id="Gk-07-gravid-4403e">Erfaring med bruk hos gravide mangler</p>'
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Erfaring med bruk hos gravide mangler'}],
+    'markDefs': [],
+    'style': 'normal'}]

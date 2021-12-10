@@ -1,0 +1,603 @@
+
+
+
+---------- Antikoagulantia, perorale (ikke matcha) ---------- 
+Parent: Nedsatt leverfunksjon
+State: manual
+
+Original text:
+('<p id="Gk-07-417367">Se vitamin K-antagonister <xref '
+ 'mid="mpublish-ref://live/Generelle/G4.xml#Gk-07-417001" type="link"/>\n'
+ '\t\t</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Se vitamin K-antagonister '},
+                  { '_type': 'span',
+                    'marks': ['fiksid-gk-07-417001'],
+                    'oldkey': 'gk-07-417001',
+                    'oldmid': 'mpublish-ref://live/Generelle/G4.xml#Gk-07-417001',
+                    'text': 'Vitamin\xa0K-antagonister'}],
+    'markDefs': [ { '_key': 'gk-07-417001',
+                    '_type': 'internalLink',
+                    'link': {'_ref': 'gk-07-417001', '_type': 'reference'}}],
+    'style': 'normal'}]
+
+
+---------- Antikonsepsjonsmidler, perorale (ikke matcha) ---------- 
+Parent: Nedsatt leverfunksjon
+State: manual
+
+Original text:
+'<p id="Gk-07-417362">Unngå ved aktiv leversykdom.</p>'
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Unngå ved aktiv leversykdom.'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Biktegravir, emtricitabin, tenofoviralafenamid i kombinasjon (Biktarvy) (ikke matcha) ---------- 
+Parent: Nedsatt leverfunksjon
+State: manual
+
+Original text:
+'<p id="p-56">Ikke anbefalt ved alvorlig nedsatt leverfunksjon</p>'
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Ikke anbefalt ved alvorlig nedsatt '
+                            'leverfunksjon'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Darolutamid (ikke matcha) ---------- 
+Parent: Nedsatt leverfunksjon
+State: manual
+
+Original text:
+('<p id="p-126">Ved moderat eller alvorlig nedsatt leverfunksjon er anbefalt '
+ 'startdose 300 mg to ganger daglig. Pasienten skal overvåkes nøye mht. '
+ 'bivirkninger, da eksponeringen kan være forhøyet.</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Ved moderat eller alvorlig nedsatt leverfunksjon '
+                            'er anbefalt startdose 300 mg to ganger daglig. '
+                            'Pasienten skal overvåkes nøye mht. bivirkninger, '
+                            'da eksponeringen kan være forhøyet.'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Dekstropropoksyfen (ikke matcha) ---------- 
+Parent: Nedsatt leverfunksjon
+State: manual
+
+Original text:
+('<p id="Gk-07-420585">Se opioidanalgetika <xref '
+ 'mid="mpublish-ref://live/Generelle/G4.xml#Gk-07-415306" type="link"/>\n'
+ '\t\t\t\t</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Se opioidanalgetika '},
+                  { '_type': 'span',
+                    'marks': ['fiksid-gk-07-415306'],
+                    'oldkey': 'gk-07-415306',
+                    'oldmid': 'mpublish-ref://live/Generelle/G4.xml#Gk-07-415306',
+                    'text': 'Opioidanalgetika'}],
+    'markDefs': [ { '_key': 'gk-07-415306',
+                    '_type': 'internalLink',
+                    'link': {'_ref': 'gk-07-415306', '_type': 'reference'}}],
+    'style': 'normal'}]
+
+
+---------- Didanosin (ikke matcha) ---------- 
+Parent: Nedsatt leverfunksjon
+State: manual
+
+Original text:
+'<p id="Gk-07-412626">Reduser startdose</p>'
+
+PortableText:
+[ { '_type': 'block',
+    'children': [{'_type': 'span', 'marks': [], 'text': 'Reduser startdose'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Diemal (barbital) (ikke matcha) ---------- 
+Parent: Nedsatt leverfunksjon
+State: manual
+
+Original text:
+('<p id="Gk-07-420610">Se barbital <xref '
+ 'mid="mpublish-ref://live/Generelle/G4.xml#Gk-07-411875" type="link"/>\n'
+ '\t\t\t\t</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ {'_type': 'span', 'marks': [], 'text': 'Se barbital '},
+                  { '_type': 'span',
+                    'marks': ['fiksid-gk-07-411875'],
+                    'oldkey': 'gk-07-411875',
+                    'oldmid': 'mpublish-ref://live/Generelle/G4.xml#Gk-07-411875',
+                    'text': 'Barbital'}],
+    'markDefs': [ { '_key': 'gk-07-411875',
+                    '_type': 'internalLink',
+                    'link': {'_ref': 'gk-07-411875', '_type': 'reference'}}],
+    'style': 'normal'}]
+
+
+---------- Drospirenon (ikke matcha) ---------- 
+Parent: Nedsatt leverfunksjon
+State: manual
+
+Original text:
+('<p id="Gk-07-412431">Kontraindisert ved pågående eller tidligere alvorlig '
+ 'leversykdom så lenge leverfunksjonsverdiene ikke er normalisert</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Kontraindisert ved pågående eller tidligere '
+                            'alvorlig leversykdom så lenge '
+                            'leverfunksjonsverdiene ikke er normalisert'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Elbasvir og grazoprevir (kombinasjonspreparat) (ikke matcha) ---------- 
+Parent: Nedsatt leverfunksjon
+State: manual
+
+Original text:
+('<p id="ID-594265">Kontraindisert ved moderat eller alvorlig nedsatt '
+ 'leverfunksjon</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Kontraindisert ved moderat eller alvorlig nedsatt '
+                            'leverfunksjon'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Eluksadolin (ikke matcha) ---------- 
+Parent: Nedsatt leverfunksjon
+State: manual
+
+Original text:
+'<p id="ID-596965">Skal ikke brukes ved nedsatt leverfunksjon</p>'
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Skal ikke brukes ved nedsatt leverfunksjon'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Entrektinib (ikke matcha) ---------- 
+Parent: Nedsatt leverfunksjon
+State: manual
+
+Original text:
+('<p id="p-131">Effekten av moderat til alvorlig nedsatt leverfunksjon er ikke '
+ 'kjent. Eliminasjon av entrektinib skjer imidlertid hovedsakelig via lever, '
+ 'og nedsatt leverfunksjon kan føre til økt plasmakonsentrasjon av entrektinib '
+ 'og hovedmetabolitten M5.</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Effekten av moderat til alvorlig nedsatt '
+                            'leverfunksjon er ikke kjent. Eliminasjon av '
+                            'entrektinib skjer imidlertid hovedsakelig via '
+                            'lever, og nedsatt leverfunksjon kan føre til økt '
+                            'plasmakonsentrasjon av entrektinib og '
+                            'hovedmetabolitten M5.'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Ergotamin (ikke matcha) ---------- 
+Parent: Nedsatt leverfunksjon
+State: manual
+
+Original text:
+'<p id="Gk-07-412894">Unngå</p>'
+
+PortableText:
+[ { '_type': 'block',
+    'children': [{'_type': 'span', 'marks': [], 'text': 'Unngå'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Etinyløstradiol (ikke matcha) ---------- 
+Parent: Nedsatt leverfunksjon
+State: manual
+
+Original text:
+('<p id="Gk-07-412814">Se østrogener <xref '
+ 'mid="mpublish-ref://live/Generelle/G4.xml#Gk-07-417138" type="link"/>\n'
+ '\t</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ {'_type': 'span', 'marks': [], 'text': 'Se østrogener '},
+                  { '_type': 'span',
+                    'marks': ['fiksid-gk-07-417138'],
+                    'oldkey': 'gk-07-417138',
+                    'oldmid': 'mpublish-ref://live/Generelle/G4.xml#Gk-07-417138',
+                    'text': 'Østrogener'}],
+    'markDefs': [ { '_key': 'gk-07-417138',
+                    '_type': 'internalLink',
+                    'link': {'_ref': 'gk-07-417138', '_type': 'reference'}}],
+    'style': 'normal'}]
+
+
+---------- Etonogestrel (ikke matcha) ---------- 
+Parent: Nedsatt leverfunksjon
+State: manual
+
+Original text:
+('<p id="Gk-07-412809">Kontraindisert ved pågående eller tidligere alvorlig '
+ 'leversykdom dersom leverfunksjonsprøver ikke er normalisert</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Kontraindisert ved pågående eller tidligere '
+                            'alvorlig leversykdom dersom leverfunksjonsprøver '
+                            'ikke er normalisert'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Fentiaziner (ikke matcha) ---------- 
+Parent: Nedsatt leverfunksjon
+State: manual
+
+Original text:
+('<p id="Gk-07-413319">Se antipsykotika <xref '
+ 'mid="mpublish-ref://live/Generelle/G4.xml#Gk-07-417339" type="link"/>\n'
+ '\t\t\t\t\t\t\t\t\t</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ {'_type': 'span', 'marks': [], 'text': 'Se antipsykotika '},
+                  { '_type': 'span',
+                    'marks': ['fiksid-gk-07-417339'],
+                    'oldkey': 'gk-07-417339',
+                    'oldmid': 'mpublish-ref://live/Generelle/G4.xml#Gk-07-417339',
+                    'text': 'Antipsykotika'}],
+    'markDefs': [ { '_key': 'gk-07-417339',
+                    '_type': 'internalLink',
+                    'link': {'_ref': 'gk-07-417339', '_type': 'reference'}}],
+    'style': 'normal'}]
+
+
+---------- Ferumoksytol (ikke matcha) ---------- 
+Parent: Nedsatt leverfunksjon
+State: manual
+
+Original text:
+('<p id="ID413279-103820">Svært begrenset erfaring med bruk ved nedsatt '
+ 'leverfunksjon. Forsiktighet utvises. Nøye vurdering av '
+ 'nytte/risikoforhold.</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Svært begrenset erfaring med bruk ved nedsatt '
+                            'leverfunksjon. Forsiktighet utvises. Nøye '
+                            'vurdering av nytte/risikoforhold.'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Folsyreantagonister (ikke matcha) ---------- 
+Parent: Nedsatt leverfunksjon
+State: manual
+
+Original text:
+'<p id="Gk-07-413061">Unngå ved ikke-maligne sykdommer</p>'
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Unngå ved ikke-maligne sykdommer'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Fosamprenavir (ikke matcha) ---------- 
+Parent: Nedsatt leverfunksjon
+State: manual
+
+Original text:
+('<p id="Gk-07-413111">Brukes med forsiktighet ved mildt til moderat nedsatt '
+ 'leverfunksjon. Kontraindisert ved alvorlig nedsatt leverfunksjon</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Brukes med forsiktighet ved mildt til moderat '
+                            'nedsatt leverfunksjon. Kontraindisert ved '
+                            'alvorlig nedsatt leverfunksjon'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Gadoversetamid (ikke matcha) ---------- 
+Parent: Nedsatt leverfunksjon
+State: manual
+
+Original text:
+('<p id="gk-07-413544">Kontraindisert hos pasienter som har gjennomgått eller '
+ 'gjennomgår levertransplantasjon</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Kontraindisert hos pasienter som har gjennomgått '
+                            'eller gjennomgår levertransplantasjon'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- 
+Givosiran (ikke matcha) ---------- 
+Parent: Nedsatt leverfunksjon
+State: manual
+
+Original text:
+('<p id="p-141">Stigning i leverenzymer er observert ved behandling med '
+ 'givosiran. Leverfunksjonstester tas før oppstart av behandling og følges opp '
+ '(se godkjent <url id="url-4" '
+ 'href="https://www.ema.europa.eu/en/documents/product-information/givlaari-epar-product-information_no.pdf">preparatomtale/SPC</url>). '
+ 'Bruk av givosiran er ikke undersøkt ved moderat eller alvorlig nedsatt '
+ 'leverfunksjon.</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Stigning i leverenzymer er observert ved '
+                            'behandling med givosiran. Leverfunksjonstester '
+                            'tas før oppstart av behandling og følges opp (se '
+                            'godkjent '},
+                  { '_type': 'span',
+                    'marks': ['url-4'],
+                    'text': 'preparatomtale/SPC'},
+                  { '_type': 'span',
+                    'marks': [],
+                    'text': '). Bruk av givosiran er ikke undersøkt ved '
+                            'moderat eller alvorlig nedsatt leverfunksjon.'}],
+    'markDefs': [ { '_key': 'url-4',
+                    '_type': 'externalLink',
+                    'href': 'https://www.ema.europa.eu/en/documents/product-information/givlaari-epar-product-information_no.pdf'}],
+    'style': 'normal'}]
+
+
+---------- Griseofulvin (ikke matcha) ---------- 
+Parent: Nedsatt leverfunksjon
+State: manual
+
+Original text:
+'<p id="Gk-07-413450">Unngå ved alvorlig leversykdom</p>'
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Unngå ved alvorlig leversykdom'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Ivakaftor/tezakaftor (ikke matcha) ---------- 
+Parent: Nedsatt leverfunksjon
+State: manual
+
+Original text:
+('<p id="p-172">Modifisert doseringsregime ved moderat nedsatt leverfunksjon '
+ '(se <url id="url-5" '
+ 'href="https://www.ema.europa.eu/en/documents/product-information/symkevi-epar-product-information_no.pdf">preparatomtale/SPC</url>). '
+ '<linefeed/>Ikke anbefalt ved alvorlig nedsatt leverfunksjon med mindre nytte '
+ 'oppveier risiko. Dersom bruk i slike tilfelle, reduksjon i dose, se SPC.</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Modifisert doseringsregime ved moderat nedsatt '
+                            'leverfunksjon (se '},
+                  { '_type': 'span',
+                    'marks': ['url-5'],
+                    'text': 'preparatomtale/SPC'},
+                  {'_type': 'span', 'marks': [], 'text': '). '},
+                  { '_type': 'span',
+                    'marks': [],
+                    'text': 'Ikke anbefalt ved alvorlig nedsatt leverfunksjon '
+                            'med mindre nytte oppveier risiko. Dersom bruk i '
+                            'slike tilfelle, reduksjon i dose, se SPC.'}],
+    'markDefs': [ { '_key': 'url-5',
+                    '_type': 'externalLink',
+                    'href': 'https://www.ema.europa.eu/en/documents/product-information/symkevi-epar-product-information_no.pdf'}],
+    'style': 'normal'}]
+
+
+---------- Larotrektinib (ikke matcha) ---------- 
+Parent: Nedsatt leverfunksjon
+State: manual
+
+Original text:
+('<p id="p-146">Startdosen skal reduseres med 50 % hos pasienter med moderat '
+ 'til alvorlig nedsatt leverfunksjon. </p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Startdosen skal reduseres med 50 % hos pasienter '
+                            'med moderat til alvorlig nedsatt '
+                            'leverfunksjon. '}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Lidokain (ikke matcha) ---------- 
+Parent: Nedsatt leverfunksjon
+State: manual
+
+Original text:
+'<p id="O420529">Unngå, eller reduser dose ved alvorlig leversykdom</p>'
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Unngå, eller reduser dose ved alvorlig '
+                            'leversykdom'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Natriumaurotiomalat (ikke matcha) ---------- 
+Parent: Nedsatt leverfunksjon
+State: manual
+
+Original text:
+('<p id="Gk-07-420730">Se gullforbindelser\xa0<xref '
+ 'mid="mpublish-ref://live/Generelle/G4.xml#Gk-07-413432" type="link"/>\n'
+ '\t\t\t\t\t\t\t\t\t</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Se gullforbindelser '},
+                  { '_type': 'span',
+                    'marks': ['fiksid-gk-07-413432'],
+                    'oldkey': 'gk-07-413432',
+                    'oldmid': 'mpublish-ref://live/Generelle/G4.xml#Gk-07-413432',
+                    'text': 'Gullforbindelser'}],
+    'markDefs': [ { '_key': 'gk-07-413432',
+                    '_type': 'internalLink',
+                    'link': {'_ref': 'gk-07-413432', '_type': 'reference'}}],
+    'style': 'normal'}]
+
+
+---------- Norgestrel (ikke matcha) ---------- 
+Parent: Nedsatt leverfunksjon
+State: manual
+
+Original text:
+('<p id="Gk-07-420728">Se gestagener <xref '
+ 'mid="mpublish-ref://live/Generelle/G4.xml#Gk-07-413496" type="link"/>\n'
+ '\t\t\t\t\t\t\t\t\t</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ {'_type': 'span', 'marks': [], 'text': 'Se gestagener '},
+                  { '_type': 'span',
+                    'marks': ['fiksid-gk-07-413496'],
+                    'oldkey': 'gk-07-413496',
+                    'oldmid': 'mpublish-ref://live/Generelle/G4.xml#Gk-07-413496',
+                    'text': 'Gestagener'}],
+    'markDefs': [ { '_key': 'gk-07-413496',
+                    '_type': 'internalLink',
+                    'link': {'_ref': 'gk-07-413496', '_type': 'reference'}}],
+    'style': 'normal'}]
+
+
+---------- Parathyreoideahormon (ikke matcha) ---------- 
+Parent: Nedsatt leverfunksjon
+State: manual
+
+Original text:
+'<p id="gk-07-415807">Unngå ved alvorlig nedsatt leverfunksjon</p>'
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Unngå ved alvorlig nedsatt leverfunksjon'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Sakinavir (ikke matcha) ---------- 
+Parent: Nedsatt leverfunksjon
+State: manual
+
+Original text:
+'<p id="Gk-07-416130">Dosereduksjon</p>'
+
+PortableText:
+[ { '_type': 'block',
+    'children': [{'_type': 'span', 'marks': [], 'text': 'Dosereduksjon'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Simeprevir (ikke matcha) ---------- 
+Parent: Nedsatt leverfunksjon
+State: manual
+
+Original text:
+('<p id="ID-594099">Forsiktighet ved moderat eller alvorlig nedsatt '
+ 'leverfunksjon</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Forsiktighet ved moderat eller alvorlig nedsatt '
+                            'leverfunksjon'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Telaprevir (ikke matcha) ---------- 
+Parent: Nedsatt leverfunksjon
+State: manual
+
+Original text:
+('<p id="ID416512-104315">Unngå ved moderat til alvorlig nedsatt '
+ 'leverfunksjon</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Unngå ved moderat til alvorlig nedsatt '
+                            'leverfunksjon'}],
+    'markDefs': [],
+    'style': 'normal'}]

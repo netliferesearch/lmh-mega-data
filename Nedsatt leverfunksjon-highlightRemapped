@@ -1,0 +1,132 @@
+
+
+
+---------- Anastrozol (lk-03-endokr-8637) ---------- 
+Parent: Nedsatt leverfunksjon
+State: highlightRemapped
+
+Original text:
+'<p id="Gk-07-417432">Unngå ved moderat til alvorlig leversvikt</p>'
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Unngå ved moderat til alvorlig leversvikt'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Bendroflumetiazid (lk-08-hjertekrets-66) ---------- 
+Parent: Nedsatt leverfunksjon
+State: highlightRemapped
+
+Original text:
+'<p id="Gk-07-411917">Unngå ved alvorlig leversvikt</p>'
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Unngå ved alvorlig leversvikt'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Darbepoetin  (lk-04-blod-frf-retur-12815) ---------- 
+Parent: Nedsatt leverfunksjon
+State: highlightRemapped
+
+Original text:
+'<p id="GK-07-412386">Brukes med forsiktighet ved leversykdom</p>'
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Brukes med forsiktighet ved leversykdom'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Desogestrel (lk-03-endokr-7205) ---------- 
+Parent: Nedsatt leverfunksjon
+State: highlightRemapped
+
+Original text:
+'<p id="ID-418005">Unngå</p>'
+
+PortableText:
+[ { '_type': 'block',
+    'children': [{'_type': 'span', 'marks': [], 'text': 'Unngå'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- VIII (lk-04-433660) ---------- 
+Parent: Nedsatt leverfunksjon
+State: highlightRemapped
+
+Original text:
+('<p id="Gk-07-413379">Forsiktighet, ev. vurder kontraindikasjon, ved nedsatt '
+ 'leverfunksjon pga. økt risiko for å utvikle disseminert intravaskulær '
+ 'koagulasjon (DIC)</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Forsiktighet, ev. vurder kontraindikasjon, ved '
+                            'nedsatt leverfunksjon pga. økt risiko for å '
+                            'utvikle disseminert intravaskulær koagulasjon '
+                            '(DIC)'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Levonorgestrel (lk-03-274356) ---------- 
+Parent: Nedsatt leverfunksjon
+State: highlightRemapped
+
+Original text:
+('<p id="Gk-07-414513">Se gestagener <xref '
+ 'mid="mpublish-ref://live/Generelle/G4.xml#Gk-07-413496" type="link"/>\n'
+ '\t\t\t\t\t\t\t</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ {'_type': 'span', 'marks': [], 'text': 'Se gestagener '},
+                  { '_type': 'span',
+                    'marks': ['fiksid-gk-07-413496'],
+                    'oldkey': 'gk-07-413496',
+                    'oldmid': 'mpublish-ref://live/Generelle/G4.xml#Gk-07-413496',
+                    'text': 'Gestagener'}],
+    'markDefs': [ { '_key': 'gk-07-413496',
+                    '_type': 'internalLink',
+                    'link': {'_ref': 'gk-07-413496', '_type': 'reference'}}],
+    'style': 'normal'}]
+
+
+---------- Nandrolon (lk-03-endokr-5391) ---------- 
+Parent: Nedsatt leverfunksjon
+State: highlightRemapped
+
+Original text:
+('<p id="Gk-07-415218">Se androgene/anabole steroider <xref '
+ 'mid="mpublish-ref://live/Generelle/G4.xml#Gk-07-417429" type="link"/>\n'
+ '\t\t\t\t\t\t\t\t\t</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Se androgene/anabole steroider '},
+                  { '_type': 'span',
+                    'marks': ['fiksid-gk-07-417429'],
+                    'oldkey': 'gk-07-417429',
+                    'oldmid': 'mpublish-ref://live/Generelle/G4.xml#Gk-07-417429',
+                    'text': 'Androgene/anabole steroider'}],
+    'markDefs': [ { '_key': 'gk-07-417429',
+                    '_type': 'internalLink',
+                    'link': {'_ref': 'gk-07-417429', '_type': 'reference'}}],
+    'style': 'normal'}]

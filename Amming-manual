@@ -1,0 +1,1103 @@
+
+
+
+---------- Alfa-1-reseptorantagonister, adrenerge (ikke matcha) ---------- 
+Parent: Amming
+State: manual
+
+Original text:
+'<p id="GK-08-Amming-5437">Se de enkelte virkestoffene</p>'
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Se de enkelte virkestoffene'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Anestesimidler (ikke matcha) ---------- 
+Parent: Amming
+State: manual
+
+Original text:
+('<p id="Gk-08-amming-305">Risiko for farmakologiske effekter på barnet ansees '
+ 'som liten når anestetika gis som enkeltdose eller over et kort tidsrom. '
+ 'Tidspunkt for amming etter inngrepet bør reguleres etter hvilket '
+ 'anestesimiddel som er blitt brukt</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Risiko for farmakologiske effekter på barnet '
+                            'ansees som liten når anestetika gis som '
+                            'enkeltdose eller over et kort tidsrom. Tidspunkt '
+                            'for amming etter inngrepet bør reguleres etter '
+                            'hvilket anestesimiddel som er blitt brukt'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Antidoter (ikke matcha) ---------- 
+Parent: Amming
+State: manual
+
+Original text:
+'<p id="Gk-08-amming-352">Ammende kvinner bør få antidot ved forgiftninger</p>'
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Ammende kvinner bør få antidot ved '
+                            'forgiftninger'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Antihypertensiva (ikke matcha) ---------- 
+Parent: Amming
+State: manual
+
+Original text:
+('<p id="Gk-08-amming-370">Observer barnet for hypotensjon, sedasjon og '
+ 'slapphet. Se også de enkelte virkestoffene</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Observer barnet for hypotensjon, sedasjon og '
+                            'slapphet. Se også de enkelte virkestoffene'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Antikoagulantia, perorale (ikke matcha) ---------- 
+Parent: Amming
+State: manual
+
+Original text:
+('<p id="Gk-08-amming-382">Passerer over i morsmelk, men risiko for '
+ 'farmakologiske effekter hos barnet ansees som liten ved terapeutiske doser. '
+ 'Se også de enkelte virkestoffene</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Passerer over i morsmelk, men risiko for '
+                            'farmakologiske effekter hos barnet ansees som '
+                            'liten ved terapeutiske doser. Se også de enkelte '
+                            'virkestoffene'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Antikolinergika (ikke matcha) ---------- 
+Parent: Amming
+State: manual
+
+Original text:
+('<p id="Gk-08-amming-382l">Tertiære ammoniumforbindelser (skopolamin, '
+ '<highlight type="substance">atropin</highlight>, <highlight '
+ 'type="substance">benztropin</highlight>, biperidin, orfenadrin), systemisk '
+ 'bruk: Observer barnet for antikolinerge effekter. Teoretisk mulighet for '
+ 'negativ påvirkning av melkeproduksjonen. Se også de enkelte '
+ 'virkestoffene</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Tertiære ammoniumforbindelser (skopolamin, '},
+                  { '_type': 'span',
+                    'marks': ['highlightRef', 'atropin'],
+                    'text': 'atropin'},
+                  {'_type': 'span', 'marks': [], 'text': ', '},
+                  { '_type': 'span',
+                    'marks': ['highlightRef', 'benztropin'],
+                    'text': 'benztropin'},
+                  { '_type': 'span',
+                    'marks': [],
+                    'text': ', biperidin, orfenadrin), systemisk bruk: '
+                            'Observer barnet for antikolinerge effekter. '
+                            'Teoretisk mulighet for negativ påvirkning av '
+                            'melkeproduksjonen. Se også de enkelte '
+                            'virkestoffene'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Bortezomid (ikke matcha) ---------- 
+Parent: Amming
+State: manual
+
+Original text:
+'<p id="Gk-08-amming-670j">Opplysninger mangler</p>'
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Opplysninger mangler'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Cannabidiol (ikke matcha) ---------- 
+Parent: Amming
+State: manual
+
+Original text:
+('<p id="ID-362452">Se\xa0<xref '
+ 'mid="mpublish-ref://live/Generelle/G8.xml#Gk-08-amming-2991" type="link"/>\n'
+ ' </p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ {'_type': 'span', 'marks': [], 'text': 'Se '},
+                  { '_type': 'span',
+                    'marks': ['fiksid-gk-08-amming-2991'],
+                    'oldkey': 'gk-08-amming-2991',
+                    'oldmid': 'mpublish-ref://live/Generelle/G8.xml#Gk-08-amming-2991',
+                    'text': 'Nabiksimoler'}],
+    'markDefs': [ { '_key': 'gk-08-amming-2991',
+                    '_type': 'internalLink',
+                    'link': { '_ref': 'gk-08-amming-2991',
+                              '_type': 'reference'}}],
+    'style': 'normal'}]
+
+
+---------- Cannabinoider (ikke matcha) ---------- 
+Parent: Amming
+State: manual
+
+Original text:
+('<p id="ID-362434">Se\xa0\xa0<xref '
+ 'mid="mpublish-ref://live/Generelle/G8.xml#Gk-08-amming-2991" type="link"/>\n'
+ ' </p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ {'_type': 'span', 'marks': [], 'text': 'Se '},
+                  { '_type': 'span',
+                    'marks': ['fiksid-gk-08-amming-2991'],
+                    'oldkey': 'gk-08-amming-2991',
+                    'oldmid': 'mpublish-ref://live/Generelle/G8.xml#Gk-08-amming-2991',
+                    'text': 'Nabiksimoler'}],
+    'markDefs': [ { '_key': 'gk-08-amming-2991',
+                    '_type': 'internalLink',
+                    'link': { '_ref': 'gk-08-amming-2991',
+                              '_type': 'reference'}}],
+    'style': 'normal'}]
+
+
+---------- Ceftolozan (ikke matcha) ---------- 
+Parent: Amming
+State: manual
+
+Original text:
+('<p id="Gk-08-592621">Se\xa0<xref '
+ 'mid="mpublish-ref://live/Generelle/G8.xml#Gk-08-amming-749" type="link"/>\n'
+ ' </p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ {'_type': 'span', 'marks': [], 'text': 'Se '},
+                  { '_type': 'span',
+                    'marks': ['fiksid-gk-08-amming-749'],
+                    'oldkey': 'gk-08-amming-749',
+                    'oldmid': 'mpublish-ref://live/Generelle/G8.xml#Gk-08-amming-749',
+                    'text': 'Cefalosporiner'}],
+    'markDefs': [ { '_key': 'gk-08-amming-749',
+                    '_type': 'internalLink',
+                    'link': { '_ref': 'gk-08-amming-749',
+                              '_type': 'reference'}}],
+    'style': 'normal'}]
+
+
+---------- Cilastatin (ikke matcha) ---------- 
+Parent: Amming
+State: manual
+
+Original text:
+('<p id="Gk-08-amming-822">Opplysninger mangler. Risiko for farmakologiske '
+ 'effekter på barnet ansees som liten</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Opplysninger mangler. Risiko for farmakologiske '
+                            'effekter på barnet ansees som liten'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- COX-2-hemmere (ikke matcha) ---------- 
+Parent: Amming
+State: manual
+
+Original text:
+('<p id="Gk-08-amming-2446">Klinisk erfaring hos ammende er begrenset. Se også '
+ 'de enkelte virkestoffene</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Klinisk erfaring hos ammende er begrenset. Se '
+                            'også de enkelte virkestoffene'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Dekstropropoksyfen (ikke matcha) ---------- 
+Parent: Amming
+State: manual
+
+Original text:
+('<p id="Gk-08-amming-975">Se\xa0\xa0<xref '
+ 'mid="mpublish-ref://live/Generelle/G8.xml#Gk-08-amming-3244" type="link"/>\n'
+ ' </p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ {'_type': 'span', 'marks': [], 'text': 'Se '},
+                  { '_type': 'span',
+                    'marks': ['fiksid-gk-08-amming-3244'],
+                    'oldkey': 'gk-08-amming-3244',
+                    'oldmid': 'mpublish-ref://live/Generelle/G8.xml#Gk-08-amming-3244',
+                    'text': 'Opioidanalgetika'}],
+    'markDefs': [ { '_key': 'gk-08-amming-3244',
+                    '_type': 'internalLink',
+                    'link': { '_ref': 'gk-08-amming-3244',
+                              '_type': 'reference'}}],
+    'style': 'normal'}]
+
+
+---------- Didanosin (ikke matcha) ---------- 
+Parent: Amming
+State: manual
+
+Original text:
+('<p id="Gk-08-amming-1025">Se\xa0\xa0<xref '
+ 'mid="mpublish-ref://live/Generelle/G8.xml#Gk-08-amming-414" type="link"/>\n'
+ ' </p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ {'_type': 'span', 'marks': [], 'text': 'Se '},
+                  { '_type': 'span',
+                    'marks': ['fiksid-gk-08-amming-414'],
+                    'oldkey': 'gk-08-amming-414',
+                    'oldmid': 'mpublish-ref://live/Generelle/G8.xml#Gk-08-amming-414',
+                    'text': 'Antivirale midler'}],
+    'markDefs': [ { '_key': 'gk-08-amming-414',
+                    '_type': 'internalLink',
+                    'link': { '_ref': 'gk-08-amming-414',
+                              '_type': 'reference'}}],
+    'style': 'normal'}]
+
+
+---------- Doripenem (ikke matcha) ---------- 
+Parent: Amming
+State: manual
+
+Original text:
+('<p id="gk-08-amming-8516">Opplysninger om overgang til morsmelk mangler. '
+ 'Se\xa0<xref mid="mpublish-ref://live/Generelle/G8.xml#Gk-08-amming-331" '
+ 'type="link"/>\n'
+ ' </p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Opplysninger om overgang til morsmelk mangler. '
+                            'Se '},
+                  { '_type': 'span',
+                    'marks': ['fiksid-gk-08-amming-331'],
+                    'oldkey': 'gk-08-amming-331',
+                    'oldmid': 'mpublish-ref://live/Generelle/G8.xml#Gk-08-amming-331',
+                    'text': 'Antibakterielle midler'}],
+    'markDefs': [ { '_key': 'gk-08-amming-331',
+                    '_type': 'internalLink',
+                    'link': { '_ref': 'gk-08-amming-331',
+                              '_type': 'reference'}}],
+    'style': 'normal'}]
+
+
+---------- Drospirenon (ikke matcha) ---------- 
+Parent: Amming
+State: manual
+
+Original text:
+('<p id="Gk-08-amming-1202">Begrenset klinisk erfaring. Se\xa0<xref '
+ 'mid="mpublish-ref://live/Generelle/G8.xml#Gk-08-amming-1736" type="link"/> '
+ 'og\xa0<xref mid="mpublish-ref://live/Generelle/G8.xml#Gk-08-amming-3439" '
+ 'type="link"/>\n'
+ ' </p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Begrenset klinisk erfaring. Se '},
+                  { '_type': 'span',
+                    'marks': ['fiksid-gk-08-amming-1736'],
+                    'oldkey': 'gk-08-amming-1736',
+                    'oldmid': 'mpublish-ref://live/Generelle/G8.xml#Gk-08-amming-1736',
+                    'text': 'Gestagener'},
+                  {'_type': 'span', 'marks': [], 'text': ' og '},
+                  { '_type': 'span',
+                    'marks': ['fiksid-gk-08-amming-3439'],
+                    'oldkey': 'gk-08-amming-3439',
+                    'oldmid': 'mpublish-ref://live/Generelle/G8.xml#Gk-08-amming-3439',
+                    'text': 'P-piller'}],
+    'markDefs': [ { '_key': 'gk-08-amming-1736',
+                    '_type': 'internalLink',
+                    'link': { '_ref': 'gk-08-amming-1736',
+                              '_type': 'reference'}},
+                  { '_key': 'gk-08-amming-3439',
+                    '_type': 'internalLink',
+                    'link': { '_ref': 'gk-08-amming-3439',
+                              '_type': 'reference'}}],
+    'style': 'normal'}]
+
+
+---------- Eluksadolin (ikke matcha) ---------- 
+Parent: Amming
+State: manual
+
+Original text:
+('<p id="ID-596613">Erfaring med bruk hos ammende mangler. Teoretisk liten '
+ 'overgang av <highlight type="substance">eluksadolin</highlight> til morsmelk '
+ 'pga. svært lav biotilgjengelighet.</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Erfaring med bruk hos ammende mangler. Teoretisk '
+                            'liten overgang av '},
+                  { '_type': 'span',
+                    'marks': ['highlightRef', 'eluksadolin'],
+                    'text': 'eluksadolin'},
+                  { '_type': 'span',
+                    'marks': [],
+                    'text': ' til morsmelk pga. svært lav '
+                            'biotilgjengelighet.'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Ergotamin (ikke matcha) ---------- 
+Parent: Amming
+State: manual
+
+Original text:
+('<p id="Gk-08-amming-1308">Bruk hos ammende frarådes pga. risiko for toksiske '
+ 'effekter (ergotisme) hos barnet, samt mulig hemning av melkeproduksjonen</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Bruk hos ammende frarådes pga. risiko for '
+                            'toksiske effekter (ergotisme) hos barnet, samt '
+                            'mulig hemning av melkeproduksjonen'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Etinyløstradiol (ikke matcha) ---------- 
+Parent: Amming
+State: manual
+
+Original text:
+('<p id="Gk-08-amming-1358">Overgang til morsmelk er minimal. Kan redusere '
+ 'melkeproduksjonen. Se\xa0\xa0<xref '
+ 'mid="mpublish-ref://live/Generelle/G8.xml#Gk-08-amming-3439" type="link"/>\n'
+ ' </p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Overgang til morsmelk er minimal. Kan redusere '
+                            'melkeproduksjonen. Se '},
+                  { '_type': 'span',
+                    'marks': ['fiksid-gk-08-amming-3439'],
+                    'oldkey': 'gk-08-amming-3439',
+                    'oldmid': 'mpublish-ref://live/Generelle/G8.xml#Gk-08-amming-3439',
+                    'text': 'P-piller'}],
+    'markDefs': [ { '_key': 'gk-08-amming-3439',
+                    '_type': 'internalLink',
+                    'link': { '_ref': 'gk-08-amming-3439',
+                              '_type': 'reference'}}],
+    'style': 'normal'}]
+
+
+---------- Etonogestrel (ikke matcha) ---------- 
+Parent: Amming
+State: manual
+
+Original text:
+('<p id="Gk-08-amming-1363">Manglende klinisk erfaring med implantat. Se\xa0'
+ '<xref mid="mpublish-ref://live/Generelle/G8.xml#Gk-08-amming-3439" '
+ 'type="link"/>\n'
+ ' </p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Manglende klinisk erfaring med implantat. Se '},
+                  { '_type': 'span',
+                    'marks': ['fiksid-gk-08-amming-3439'],
+                    'oldkey': 'gk-08-amming-3439',
+                    'oldmid': 'mpublish-ref://live/Generelle/G8.xml#Gk-08-amming-3439',
+                    'text': 'P-piller'}],
+    'markDefs': [ { '_key': 'gk-08-amming-3439',
+                    '_type': 'internalLink',
+                    'link': { '_ref': 'gk-08-amming-3439',
+                              '_type': 'reference'}}],
+    'style': 'normal'}]
+
+
+---------- Ferumoksytol (ikke matcha) ---------- 
+Parent: Amming
+State: manual
+
+Original text:
+('<p id="ID-362486">Erfaring med bruk hos ammende mangler. Se\xa0<xref '
+ 'mid="mpublish-ref://live/Generelle/G8.xml#Gk-08-amming-2139" type="link"/>\n'
+ ' </p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Erfaring med bruk hos ammende mangler. Se '},
+                  { '_type': 'span',
+                    'marks': ['fiksid-gk-08-amming-2139'],
+                    'oldkey': 'gk-08-amming-2139',
+                    'oldmid': 'mpublish-ref://live/Generelle/G8.xml#Gk-08-amming-2139',
+                    'text': 'Jern'}],
+    'markDefs': [ { '_key': 'gk-08-amming-2139',
+                    '_type': 'internalLink',
+                    'link': { '_ref': 'gk-08-amming-2139',
+                              '_type': 'reference'}}],
+    'style': 'normal'}]
+
+
+---------- Fosamprenavir (ikke matcha) ---------- 
+Parent: Amming
+State: manual
+
+Original text:
+('<p id="Gk-08-amming-1613e">Se\xa0\xa0<xref '
+ 'mid="mpublish-ref://live/Generelle/G8.xml#Gk-08-amming-414" type="link"/>\n'
+ ' </p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ {'_type': 'span', 'marks': [], 'text': 'Se '},
+                  { '_type': 'span',
+                    'marks': ['fiksid-gk-08-amming-414'],
+                    'oldkey': 'gk-08-amming-414',
+                    'oldmid': 'mpublish-ref://live/Generelle/G8.xml#Gk-08-amming-414',
+                    'text': 'Antivirale midler'}],
+    'markDefs': [ { '_key': 'gk-08-amming-414',
+                    '_type': 'internalLink',
+                    'link': { '_ref': 'gk-08-amming-414',
+                              '_type': 'reference'}}],
+    'style': 'normal'}]
+
+
+---------- Fungicider til lokal bruk (ikke matcha) ---------- 
+Parent: Amming
+State: manual
+
+Original text:
+('<p id="Gk-08-amming-1634">Liten systemisk absorpsjon hos mor tilsier minimal '
+ 'overgang til morsmelk. Liten sannsynlighet for absorpsjon av legemidlet fra '
+ 'barnets mage-tarm-kanal Overgang til morsmelk av dermatologiske soppdrepende '
+ 'preparater applisert rundt brystknoppen er ikke studert. Se også de enkelte '
+ 'virkestoffene</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Liten systemisk absorpsjon hos mor tilsier '
+                            'minimal overgang til morsmelk. Liten '
+                            'sannsynlighet for absorpsjon av legemidlet fra '
+                            'barnets mage-tarm-kanal Overgang til morsmelk av '
+                            'dermatologiske soppdrepende preparater applisert '
+                            'rundt brystknoppen er ikke studert. Se også de '
+                            'enkelte virkestoffene'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Gadoteridol (ikke matcha) ---------- 
+Parent: Amming
+State: manual
+
+Original text:
+'<p id="Gk-08-amming-1687">Kvinnen kan amme etter 24 timer</p>'
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Kvinnen kan amme etter 24 timer'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Gadotersyre (ikke matcha) ---------- 
+Parent: Amming
+State: manual
+
+Original text:
+'<p id="Gk-08-amming-1692">Kan brukes av ammende ved terapeutiske doser</p>'
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Kan brukes av ammende ved terapeutiske doser'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Gadoversetamid (ikke matcha) ---------- 
+Parent: Amming
+State: manual
+
+Original text:
+'<p id="gk-08-amming-8867">Kan brukes av ammende</p>'
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Kan brukes av ammende'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Galaktoseagglomerater (ikke matcha) ---------- 
+Parent: Amming
+State: manual
+
+Original text:
+('<p id="Gk-08-amming-1698">Opplysninger om overgang til morsmelk mangler, men '
+ 'den er trolig ubetydelig</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Opplysninger om overgang til morsmelk mangler, '
+                            'men den er trolig ubetydelig'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Guanetidin (ikke matcha) ---------- 
+Parent: Amming
+State: manual
+
+Original text:
+'<p id="Gk-08-amming-1827">Opplysninger mangler</p>'
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Opplysninger mangler'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Histrelin  (ikke matcha) ---------- 
+Parent: Amming
+State: manual
+
+Original text:
+('<p id="ID-221865">Se\xa0<xref '
+ 'mid="mpublish-ref://live/Generelle/G8.xml#Gk-08-amming-1804" type="link"/>\n'
+ ' </p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ {'_type': 'span', 'marks': [], 'text': 'Se '},
+                  { '_type': 'span',
+                    'marks': ['fiksid-gk-08-amming-1804'],
+                    'oldkey': 'gk-08-amming-1804',
+                    'oldmid': 'mpublish-ref://live/Generelle/G8.xml#Gk-08-amming-1804',
+                    'text': 'Gonadotropiner'}],
+    'markDefs': [ { '_key': 'gk-08-amming-1804',
+                    '_type': 'internalLink',
+                    'link': { '_ref': 'gk-08-amming-1804',
+                              '_type': 'reference'}}],
+    'style': 'normal'}]
+
+
+---------- Immunsuppressive midler (ikke matcha) ---------- 
+Parent: Amming
+State: manual
+
+Original text:
+('<p id="GK-08-Amming-5422">Immunsuppressive egenskaper tilsier at disse '
+ 'midlene ikke skal brukes under amming</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Immunsuppressive egenskaper tilsier at disse '
+                            'midlene ikke skal brukes under amming'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Joheksol (ikke matcha) ---------- 
+Parent: Amming
+State: manual
+
+Original text:
+('<p id="Gk-08-amming-2164">Overgang til morsmelk er minimal. Se\xa0<xref '
+ 'mid="mpublish-ref://live/Generelle/G8.xml#Gk-08-amming-3729" type="link"/>\n'
+ ' </p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Overgang til morsmelk er minimal. Se '},
+                  { '_type': 'span',
+                    'marks': ['fiksid-gk-08-amming-3729'],
+                    'oldkey': 'gk-08-amming-3729',
+                    'oldmid': 'mpublish-ref://live/Generelle/G8.xml#Gk-08-amming-3729',
+                    'text': 'Røntgenkontrastmidler'}],
+    'markDefs': [ { '_key': 'gk-08-amming-3729',
+                    '_type': 'internalLink',
+                    'link': { '_ref': 'gk-08-amming-3729',
+                              '_type': 'reference'}}],
+    'style': 'normal'}]
+
+
+---------- Klavulanat (ikke matcha) ---------- 
+Parent: Amming
+State: manual
+
+Original text:
+('<p id="ID-604298">Anses som forenelig med\xa0amming. Se\xa0\xa0<xref '
+ 'mid="mpublish-ref://live/Generelle/G8.xml#Gk-08-amming-331" '
+ 'type="link"/>.</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Anses som forenelig med amming. Se '},
+                  { '_type': 'span',
+                    'marks': ['fiksid-gk-08-amming-331'],
+                    'oldkey': 'gk-08-amming-331',
+                    'oldmid': 'mpublish-ref://live/Generelle/G8.xml#Gk-08-amming-331',
+                    'text': 'Antibakterielle midler'},
+                  {'_type': 'span', 'marks': [], 'text': '.'}],
+    'markDefs': [ { '_key': 'gk-08-amming-331',
+                    '_type': 'internalLink',
+                    'link': { '_ref': 'gk-08-amming-331',
+                              '_type': 'reference'}}],
+    'style': 'normal'}]
+
+
+---------- Klodronat (ikke matcha) ---------- 
+Parent: Amming
+State: manual
+
+Original text:
+('<p id="Gk-08-amming-2333">Se\xa0<xref '
+ 'mid="mpublish-ref://live/Generelle/G8.xml#Gk-08-amming-662" type="link"/>\n'
+ ' </p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ {'_type': 'span', 'marks': [], 'text': 'Se '},
+                  { '_type': 'span',
+                    'marks': ['fiksid-gk-08-amming-662'],
+                    'oldkey': 'gk-08-amming-662',
+                    'oldmid': 'mpublish-ref://live/Generelle/G8.xml#Gk-08-amming-662',
+                    'text': 'Bisfosfonater'}],
+    'markDefs': [ { '_key': 'gk-08-amming-662',
+                    '_type': 'internalLink',
+                    'link': { '_ref': 'gk-08-amming-662',
+                              '_type': 'reference'}}],
+    'style': 'normal'}]
+
+
+---------- Lepirudin (ikke matcha) ---------- 
+Parent: Amming
+State: manual
+
+Original text:
+'<p id="Gk-08-amming-2558">Opplysninger mangler</p>'
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Opplysninger mangler'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Lidokain (ikke matcha) ---------- 
+Parent: Amming
+State: manual
+
+Original text:
+('<p id="Gk-08-amming-2611">Overgang til morsmelk er minimal. Se\xa0<xref '
+ 'mid="mpublish-ref://live/Generelle/G8.xml#Gk-08-amming-2635" type="link"/>\n'
+ ' </p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Overgang til morsmelk er minimal. Se '},
+                  { '_type': 'span',
+                    'marks': ['fiksid-gk-08-amming-2635'],
+                    'oldkey': 'gk-08-amming-2635',
+                    'oldmid': 'mpublish-ref://live/Generelle/G8.xml#Gk-08-amming-2635',
+                    'text': 'Lokalanestetika'}],
+    'markDefs': [ { '_key': 'gk-08-amming-2635',
+                    '_type': 'internalLink',
+                    'link': { '_ref': 'gk-08-amming-2635',
+                              '_type': 'reference'}}],
+    'style': 'normal'}]
+
+
+---------- Muromonab-CD3 (ikke matcha) ---------- 
+Parent: Amming
+State: manual
+
+Original text:
+('<p id="Gk-08-amming-2971">Opplysninger mangler. Se\xa0<xref '
+ 'mid="mpublish-ref://live/Generelle/G8.xml#GK-08-Amming-5589" type="link"/>\n'
+ ' </p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Opplysninger mangler. Se '},
+                  { '_type': 'span',
+                    'marks': ['fiksid-gk-08-amming-5589'],
+                    'oldkey': 'gk-08-amming-5589',
+                    'oldmid': 'mpublish-ref://live/Generelle/G8.xml#GK-08-Amming-5589',
+                    'text': 'Monoklonale antistoffer'}],
+    'markDefs': [ { '_key': 'gk-08-amming-5589',
+                    '_type': 'internalLink',
+                    'link': { '_ref': 'gk-08-amming-5589',
+                              '_type': 'reference'}}],
+    'style': 'normal'}]
+
+
+---------- Norgestrel (ikke matcha) ---------- 
+Parent: Amming
+State: manual
+
+Original text:
+('<p id="Gk-08-amming-3144">Overgang til morsmelk er liten. Se\xa0<xref '
+ 'mid="mpublish-ref://live/Generelle/G8.xml#Gk-08-amming-3439" type="link"/>\n'
+ ' </p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Overgang til morsmelk er liten. Se '},
+                  { '_type': 'span',
+                    'marks': ['fiksid-gk-08-amming-3439'],
+                    'oldkey': 'gk-08-amming-3439',
+                    'oldmid': 'mpublish-ref://live/Generelle/G8.xml#Gk-08-amming-3439',
+                    'text': 'P-piller'}],
+    'markDefs': [ { '_key': 'gk-08-amming-3439',
+                    '_type': 'internalLink',
+                    'link': { '_ref': 'gk-08-amming-3439',
+                              '_type': 'reference'}}],
+    'style': 'normal'}]
+
+
+---------- Parathyreoideahormon (ikke matcha) ---------- 
+Parent: Amming
+State: manual
+
+Original text:
+'<p id="gk-08-amming-8078">Ikke relevant til bruk hos ammende</p>'
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Ikke relevant til bruk hos ammende'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Penicilliner (ikke matcha) ---------- 
+Parent: Amming
+State: manual
+
+Original text:
+('<p id="Gk-08-amming-3331">Overgang til morsmelk er minimal. Kan brukes av '
+ 'ammende. Se også\xa0<xref '
+ 'mid="mpublish-ref://live/Generelle/G8.xml#Gk-08-amming-331" type="link"/>\n'
+ ' </p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Overgang til morsmelk er minimal. Kan brukes av '
+                            'ammende. Se også '},
+                  { '_type': 'span',
+                    'marks': ['fiksid-gk-08-amming-331'],
+                    'oldkey': 'gk-08-amming-331',
+                    'oldmid': 'mpublish-ref://live/Generelle/G8.xml#Gk-08-amming-331',
+                    'text': 'Antibakterielle midler'}],
+    'markDefs': [ { '_key': 'gk-08-amming-331',
+                    '_type': 'internalLink',
+                    'link': { '_ref': 'gk-08-amming-331',
+                              '_type': 'reference'}}],
+    'style': 'normal'}]
+
+
+---------- Piperacillin (ikke matcha) ---------- 
+Parent: Amming
+State: manual
+
+Original text:
+('<p id="Gk-08-amming-3381">Se\xa0<xref '
+ 'mid="mpublish-ref://live/Generelle/G8.xml#Gk-08-amming-3328" type="link"/>\n'
+ ' </p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ {'_type': 'span', 'marks': [], 'text': 'Se '},
+                  { '_type': 'span',
+                    'marks': ['fiksid-gk-08-amming-3328'],
+                    'oldkey': 'gk-08-amming-3328',
+                    'oldmid': 'mpublish-ref://live/Generelle/G8.xml#Gk-08-amming-3328',
+                    'text': 'Penicilliner'}],
+    'markDefs': [ { '_key': 'gk-08-amming-3328',
+                    '_type': 'internalLink',
+                    'link': { '_ref': 'gk-08-amming-3328',
+                              '_type': 'reference'}}],
+    'style': 'normal'}]
+
+
+---------- Piperakin (ikke matcha) ---------- 
+Parent: Amming
+State: manual
+
+Original text:
+('<p id="ID-320167">Opplysninger om overgang til morsmelk mangler. Alternative '
+ 'antimalariamidler bør brukes av ammende pga. manglende klinisk erfaring</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Opplysninger om overgang til morsmelk mangler. '
+                            'Alternative antimalariamidler bør brukes av '
+                            'ammende pga. manglende klinisk erfaring'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Progesteroner (ikke matcha) ---------- 
+Parent: Amming
+State: manual
+
+Original text:
+('<p id="Gk-08-amming-3493">Se\xa0<xref '
+ 'mid="mpublish-ref://live/Generelle/G8.xml#Gk-08-amming-1736" type="link"/>\n'
+ ' </p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ {'_type': 'span', 'marks': [], 'text': 'Se '},
+                  { '_type': 'span',
+                    'marks': ['fiksid-gk-08-amming-1736'],
+                    'oldkey': 'gk-08-amming-1736',
+                    'oldmid': 'mpublish-ref://live/Generelle/G8.xml#Gk-08-amming-1736',
+                    'text': 'Gestagener'}],
+    'markDefs': [ { '_key': 'gk-08-amming-1736',
+                    '_type': 'internalLink',
+                    'link': { '_ref': 'gk-08-amming-1736',
+                              '_type': 'reference'}}],
+    'style': 'normal'}]
+
+
+---------- Retinoider (ikke matcha) ---------- 
+Parent: Amming
+State: manual
+
+Original text:
+('<p id="Gk-08-amming-3642"><highlight type="italic">Peroral bruk:</highlight> '
+ 'Bruk av retinoider frarådes hos ammende pga. virkestoffenes toksisitet</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ {'_type': 'span', 'marks': ['em'], 'text': 'Peroral bruk: '},
+                  { '_type': 'span',
+                    'marks': [],
+                    'text': ' Bruk av retinoider frarådes hos ammende pga. '
+                            'virkestoffenes toksisitet'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Røntgenkontrastmidler (ikke matcha) ---------- 
+Parent: Amming
+State: manual
+
+Original text:
+('<p id="Gk-08-amming-3732">De røntgenkontrastmidler som er undersøkt, går '
+ 'over i morsmelk i minimale mengder</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'De røntgenkontrastmidler som er undersøkt, går '
+                            'over i morsmelk i minimale mengder'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Sakinavir (ikke matcha) ---------- 
+Parent: Amming
+State: manual
+
+Original text:
+('<p id="Gk-08-amming-3753">Se\xa0<xref '
+ 'mid="mpublish-ref://live/Generelle/G8.xml#Gk-08-amming-414" type="link"/>\n'
+ ' </p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ {'_type': 'span', 'marks': [], 'text': 'Se '},
+                  { '_type': 'span',
+                    'marks': ['fiksid-gk-08-amming-414'],
+                    'oldkey': 'gk-08-amming-414',
+                    'oldmid': 'mpublish-ref://live/Generelle/G8.xml#Gk-08-amming-414',
+                    'text': 'Antivirale midler'}],
+    'markDefs': [ { '_key': 'gk-08-amming-414',
+                    '_type': 'internalLink',
+                    'link': { '_ref': 'gk-08-amming-414',
+                              '_type': 'reference'}}],
+    'style': 'normal'}]
+
+
+---------- Simeprevir (ikke matcha) ---------- 
+Parent: Amming
+State: manual
+
+Original text:
+'<p id="ID-593380">Opplysninger mangler.</p>'
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Opplysninger mangler.'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Sulfametoksazol (ikke matcha) ---------- 
+Parent: Amming
+State: manual
+
+Original text:
+('<p id="Gk-08-amming-3893">Se\xa0<xref '
+ 'mid="mpublish-ref://live/Generelle/G8.xml#Gk-08-amming-3901" type="link"/>\n'
+ ' </p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ {'_type': 'span', 'marks': [], 'text': 'Se '},
+                  { '_type': 'span',
+                    'marks': ['fiksid-gk-08-amming-3901'],
+                    'oldkey': 'gk-08-amming-3901',
+                    'oldmid': 'mpublish-ref://live/Generelle/G8.xml#Gk-08-amming-3901',
+                    'text': 'Sulfonamider'}],
+    'markDefs': [ { '_key': 'gk-08-amming-3901',
+                    '_type': 'internalLink',
+                    'link': { '_ref': 'gk-08-amming-3901',
+                              '_type': 'reference'}}],
+    'style': 'normal'}]
+
+
+---------- Sulfonamider (ikke matcha) ---------- 
+Parent: Amming
+State: manual
+
+Original text:
+('<p id="Gk-08-amming-3904">Overgang til morsmelk liten til moderat. '
+ 'Kontraindisert hos premature eller syke barn, eller ved ikterus</p>')
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Overgang til morsmelk liten til moderat. '
+                            'Kontraindisert hos premature eller syke barn, '
+                            'eller ved ikterus'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Telaprevir (ikke matcha) ---------- 
+Parent: Amming
+State: manual
+
+Original text:
+'<p id="ID-320146">Opplysninger mangler</p>'
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Opplysninger mangler'}],
+    'markDefs': [],
+    'style': 'normal'}]
+
+
+---------- Tokofersolan (ikke matcha) ---------- 
+Parent: Amming
+State: manual
+
+Original text:
+'<p id="gk-08-amming-8677">Erfaring med bruk hos ammende mangler</p>'
+
+PortableText:
+[ { '_type': 'block',
+    'children': [ { '_type': 'span',
+                    'marks': [],
+                    'text': 'Erfaring med bruk hos ammende mangler'}],
+    'markDefs': [],
+    'style': 'normal'}]
