@@ -1,0 +1,866 @@
+/*
+ 
+ChapterOwnTitleFix: Bivirkninger til sideEffects
+
+Kapitler med eget navn "Bivirkninger" blir konvertert til «ekte»
+kapitler av typen "sideEffects".
+
+*/
+Rettet Bivirkninger til sideEffects i Påvisning av ektopisk ventrikkelslimhinne (Meckels divertikkel)
+Rettet Bivirkninger til sideEffects i Positronemisjonstomografi med integrert CT(PET/CT) eller integrert MR (PET/MR)
+Rettet Bivirkninger til sideEffects i Behandling av sklerotiske skjelettmetastaser ved cancer prostata
+Rettet Bivirkninger til sideEffects i Nyrefunksjonsundersøkelser. Renografi, måling av glomerulær filtrasjonshastighet (GFR )
+Rettet Bivirkninger til sideEffects i Gastrointestinal blødning
+Rettet Bivirkninger til sideEffects i Nukleærmedisin
+Rettet Bivirkninger til sideEffects i Tyreoideaundersøkelse
+Rettet Bivirkninger til sideEffects i Paratyreoideaundersøkelse
+Rettet Bivirkninger til sideEffects i Nyrebarkundersøkelse
+Rettet Bivirkninger til sideEffects i Lungeundersøkelse
+Rettet Bivirkninger til sideEffects i Avbildning av presynaptiske dopaminerge transportere
+Rettet Bivirkninger til sideEffects i Hjertets pumpefunksjon med EKG-styrt likevekts-radionuklid ventrikulografi (MUGA )
+Rettet Bivirkninger til sideEffects i Radiojodbehandling av høyt differensiert papillær og follikulær thyreoideacancer
+Rettet Bivirkninger til sideEffects i Skjelettundersøkelse
+Rettet Bivirkninger til sideEffects i Lokalisering av vaktpostlymfeknute (sentinel node)
+Rettet Bivirkninger til sideEffects i Flukonazol
+Rettet Bivirkninger til sideEffects i Kladribin
+Rettet Bivirkninger til sideEffects i Leuprorelin
+Rettet Bivirkninger til sideEffects i Adrenerge alfa-1/betareseptorantagonister
+Rettet Bivirkninger til sideEffects i Lerkanidipin
+Rettet Bivirkninger til sideEffects i Mifepriston
+Rettet Bivirkninger til sideEffects i Hepatocyttfunksjon/galleveisundersøkelse
+Rettet Bivirkninger til sideEffects i Myokard perfusjonsundersøkelse
+Rettet Bivirkninger til sideEffects i Glukokortikoider for lokal, nasal administrasjon
+Rettet Bivirkninger til sideEffects i Glukokortikoider til bruk på hud og munnslimhinne
+Rettet Bivirkninger til sideEffects i Glukokortikoider for lokal bruk i øye og øre
+Rettet Bivirkninger til sideEffects i Glukokortikoider for lokal, nasal administrasjon, kombinasjonspreparater
+Rettet Bivirkninger til sideEffects i Dihydroartemisinin-piperakin
+Rettet Bivirkninger til sideEffects i Paromomycin
+Rettet Bivirkninger til sideEffects i Fidaksomicin
+Rettet Bivirkninger til sideEffects i Rilpivirin
+Rettet Bivirkninger til sideEffects i Ciklopiroks
+Rettet Bivirkninger til sideEffects i Dolutegravir
+Rettet Bivirkninger til sideEffects i Sofosbuvir
+Rettet Bivirkninger til sideEffects i Imiquimod 
+Rettet Bivirkninger til sideEffects i Darunavir–kobicistat
+Rettet Bivirkninger til sideEffects i Sofosbuvir–ledipasvir
+Rettet Bivirkninger til sideEffects i Ombitasvir–paritaprevir–ritonavir
+Rettet Bivirkninger til sideEffects i Ribavirin
+Rettet Bivirkninger til sideEffects i Dasabuvir
+Rettet Bivirkninger til sideEffects i Ketokonazol
+Rettet Bivirkninger til sideEffects i Atazanavir–kobicistat
+Rettet Bivirkninger til sideEffects i Hydrogenperoksid
+Rettet Bivirkninger til sideEffects i Pereddiksyre
+Rettet Bivirkninger til sideEffects i Polyheksametylenbiguanid (PHMB)
+Rettet Bivirkninger til sideEffects i Tedizolid
+Rettet Bivirkninger til sideEffects i Dekvalin
+Rettet Bivirkninger til sideEffects i Dolutegravir-abakavir–lamivudin
+Rettet Bivirkninger til sideEffects i Elvitegravir–emtricitabin–tenofovir–kobicistat
+Rettet Bivirkninger til sideEffects i Efavirenz-emtricitabin-tenofovir
+Rettet Bivirkninger til sideEffects i Rilpivirin-emtricitabin-tenofovir
+Rettet Bivirkninger til sideEffects i Elbasvir-grazoprevir
+Rettet Bivirkninger til sideEffects i Sofosbuvir–velpatasvir
+Rettet Bivirkninger til sideEffects i Emtricitabin–rilpivirin-tenofovir alafenamid
+Rettet Bivirkninger til sideEffects i Amoksicillin-klavulanat
+Rettet Bivirkninger til sideEffects i Isavukonazol
+Rettet Bivirkninger til sideEffects i Fosfomycin
+Rettet Bivirkninger til sideEffects i Sofosbuvir–velpatasvir-voksilaprevir
+Rettet Bivirkninger til sideEffects i Influensavaksine
+Rettet Bivirkninger til sideEffects i Glekaprevir-pibrentasvir
+Rettet Bivirkninger til sideEffects i Emtricitabin-tenofovir alafenamid-darunavir-kobicistat
+Rettet Bivirkninger til sideEffects i Rifampicin
+Rettet Bivirkninger til sideEffects i Hepatitt A-tyfoidfebervaksine
+Rettet Bivirkninger til sideEffects i Dolutegravir-rilpivirin
+Rettet Bivirkninger til sideEffects i Biktegravir–emtricitabin–tenofovir alafenamid
+Rettet Bivirkninger til sideEffects i Oseltamivir
+Rettet Bivirkninger til sideEffects i Difteri-, kikhoste-, tetanus-, polio-, Haemophilus influenzae type b-vaksine
+Rettet Bivirkninger til sideEffects i Haemophilus influenzae type b-vaksine
+Rettet Bivirkninger til sideEffects i Poliovaksine
+Rettet Bivirkninger til sideEffects i Tuberkulosevaksine
+Rettet Bivirkninger til sideEffects i Hepatitt A-vaksine
+Rettet Bivirkninger til sideEffects i Hepatitt B-vaksine
+Rettet Bivirkninger til sideEffects i Pneumokokkvaksine
+Rettet Bivirkninger til sideEffects i Meningokokkvaksine
+Rettet Bivirkninger til sideEffects i Rabiesvaksine
+Rettet Bivirkninger til sideEffects i Tyfoidvaksine
+Rettet Bivirkninger til sideEffects i Gulfebervaksine
+Rettet Bivirkninger til sideEffects i Kolera og toksinbetinget Escherichia coli diarévaksine
+Rettet Bivirkninger til sideEffects i Japansk encefalittvaksine
+Rettet Bivirkninger til sideEffects i Vannkoppevaksine og helvetesildvaksine
+Rettet Bivirkninger til sideEffects i Skogflåttvirusencefalittvaksine
+Rettet Bivirkninger til sideEffects i Fenoler
+Rettet Bivirkninger til sideEffects i Kaliumperoksymonosulfat
+Rettet Bivirkninger til sideEffects i Jodofor/jod
+Rettet Bivirkninger til sideEffects i Klorheksidin
+Rettet Bivirkninger til sideEffects i Kvartære ammoniumforbindelser
+Rettet Bivirkninger til sideEffects i Dibrompropamidin
+Rettet Bivirkninger til sideEffects i Om bruk av antimikrobielle midler
+Rettet Bivirkninger til sideEffects i Ceftriakson
+Rettet Bivirkninger til sideEffects i Aztreonam
+Rettet Bivirkninger til sideEffects i Karbapenemer
+Rettet Bivirkninger til sideEffects i Adefovir
+Rettet Bivirkninger til sideEffects i Tenofovir disoproksil, tenofovir alafenamid
+Rettet Bivirkninger til sideEffects i Enfuvirtide
+Rettet Bivirkninger til sideEffects i Letermovir
+Rettet Bivirkninger til sideEffects i Emtricitabin
+Rettet Bivirkninger til sideEffects i Tetrasykliner og glycylsykliner
+Rettet Bivirkninger til sideEffects i Atazanavir
+Rettet Bivirkninger til sideEffects i Abakavir–lamivudin
+Rettet Bivirkninger til sideEffects i Emtricitabin–tenofovir
+Rettet Bivirkninger til sideEffects i Entekavir
+Rettet Bivirkninger til sideEffects i Rotavirusvaksine
+Rettet Bivirkninger til sideEffects i Humant papillomavirus-vaksine
+Rettet Bivirkninger til sideEffects i Daptomycin
+Rettet Bivirkninger til sideEffects i Darunavir
+Rettet Bivirkninger til sideEffects i Maraviroc
+Rettet Bivirkninger til sideEffects i Retapamulin
+Rettet Bivirkninger til sideEffects i Artesunat
+Rettet Bivirkninger til sideEffects i Albendazol
+Rettet Bivirkninger til sideEffects i Ivermectin
+Rettet Bivirkninger til sideEffects i Nitazoxanid
+Rettet Bivirkninger til sideEffects i Etravirin
+Rettet Bivirkninger til sideEffects i Raltegravir
+Rettet Bivirkninger til sideEffects i Anidulafungin
+Rettet Bivirkninger til sideEffects i Micafungin
+Rettet Bivirkninger til sideEffects i Erytromycin
+Rettet Bivirkninger til sideEffects i Klaritromycin
+Rettet Bivirkninger til sideEffects i Streptomycin
+Rettet Bivirkninger til sideEffects i Spektinomycin
+Rettet Bivirkninger til sideEffects i Klindamycin
+Rettet Bivirkninger til sideEffects i Vankomycin
+Rettet Bivirkninger til sideEffects i Vanlige sulfonamider
+Rettet Bivirkninger til sideEffects i Sølvsulfadiazin
+Rettet Bivirkninger til sideEffects i Trimetoprim
+Rettet Bivirkninger til sideEffects i Dapson
+Rettet Bivirkninger til sideEffects i Fluorokinoloner
+Rettet Bivirkninger til sideEffects i Metronidazol 
+Rettet Bivirkninger til sideEffects i Fusidin
+Rettet Bivirkninger til sideEffects i Kloramfenikol
+Rettet Bivirkninger til sideEffects i Metenamin
+Rettet Bivirkninger til sideEffects i Nitrofurantoin
+Rettet Bivirkninger til sideEffects i Kolistin
+Rettet Bivirkninger til sideEffects i Bacitracin, gramicidin, polymyksin
+Rettet Bivirkninger til sideEffects i Isoniazid
+Rettet Bivirkninger til sideEffects i Rifabutin
+Rettet Bivirkninger til sideEffects i Pyrazinamid
+Rettet Bivirkninger til sideEffects i Etambutol
+Rettet Bivirkninger til sideEffects i Amfotericin B
+Rettet Bivirkninger til sideEffects i Caspofungin
+Rettet Bivirkninger til sideEffects i Flukonazol
+Rettet Bivirkninger til sideEffects i Itrakonazol
+Rettet Bivirkninger til sideEffects i Terbinafin
+Rettet Bivirkninger til sideEffects i Amorolfin
+Rettet Bivirkninger til sideEffects i Nystatin
+Rettet Bivirkninger til sideEffects i Revers transkriptasehemmere (Hiv, hepatitt B)
+Rettet Bivirkninger til sideEffects i Abakavir
+Rettet Bivirkninger til sideEffects i Lamivudin
+Rettet Bivirkninger til sideEffects i Zidovudin
+Rettet Bivirkninger til sideEffects i Efavirenz
+Rettet Bivirkninger til sideEffects i Nevirapin
+Rettet Bivirkninger til sideEffects i Ritonavir
+Rettet Bivirkninger til sideEffects i Aciklovir/valaciklovir
+Rettet Bivirkninger til sideEffects i Cidofovir
+Rettet Bivirkninger til sideEffects i Foscarnet
+Rettet Bivirkninger til sideEffects i Ganciklovir/valganciklovir
+Rettet Bivirkninger til sideEffects i Penciklovir
+Rettet Bivirkninger til sideEffects i Famciklovir
+Rettet Bivirkninger til sideEffects i Zanamivir
+Rettet Bivirkninger til sideEffects i Podofyllotoksin/podofyllin
+Rettet Bivirkninger til sideEffects i Imiquimod (antiviral)
+Rettet Bivirkninger til sideEffects i Klorokin/hydroksyklorokin
+Rettet Bivirkninger til sideEffects i Proguanil
+Rettet Bivirkninger til sideEffects i Atovakvon-proguanil
+Rettet Bivirkninger til sideEffects i Primakin
+Rettet Bivirkninger til sideEffects i Kinin
+Rettet Bivirkninger til sideEffects i Meflokin
+Rettet Bivirkninger til sideEffects i Diloxanid
+Rettet Bivirkninger til sideEffects i Atovakvon
+Rettet Bivirkninger til sideEffects i Pentamidin
+Rettet Bivirkninger til sideEffects i Trimetreksat
+Rettet Bivirkninger til sideEffects i Mebendazol
+Rettet Bivirkninger til sideEffects i Niklosamid
+Rettet Bivirkninger til sideEffects i Praziquantel
+Rettet Bivirkninger til sideEffects i Pyrvin
+Rettet Bivirkninger til sideEffects i Normalt humant immunglobulin til subkutan bruk
+Rettet Bivirkninger til sideEffects i Hepatitt B-immunglobulin
+Rettet Bivirkninger til sideEffects i Rabies-immunglobulin
+Rettet Bivirkninger til sideEffects i Varicella zoster-immunglobulin
+Rettet Bivirkninger til sideEffects i Tetanus‑immunglobulin
+Rettet Bivirkninger til sideEffects i Palivizumab
+Rettet Bivirkninger til sideEffects i Difteriantitoksin
+Rettet Bivirkninger til sideEffects i Linezolid
+Rettet Bivirkninger til sideEffects i Vorikonazol
+Rettet Bivirkninger til sideEffects i Posakonazol
+Rettet Bivirkninger til sideEffects i Lopinavir
+Rettet Bivirkninger til sideEffects i Abakavir–lamivudin–zidovudin
+Rettet Bivirkninger til sideEffects i Artemeter–lumefantrin
+Rettet Bivirkninger til sideEffects i Bendamustin
+Rettet Bivirkninger til sideEffects i Tiotepa
+Rettet Bivirkninger til sideEffects i Pazopanib
+Rettet Bivirkninger til sideEffects i Kabazitaxel
+Rettet Bivirkninger til sideEffects i Mifamurtid
+Rettet Bivirkninger til sideEffects i Krizotinib
+Rettet Bivirkninger til sideEffects i Aksitinib
+Rettet Bivirkninger til sideEffects i Piksantron
+Rettet Bivirkninger til sideEffects i Eribulin
+Rettet Bivirkninger til sideEffects i Ruxolitinib
+Rettet Bivirkninger til sideEffects i Vandetanib
+Rettet Bivirkninger til sideEffects i Vemurafenib
+Rettet Bivirkninger til sideEffects i Porfimernatrium
+Rettet Bivirkninger til sideEffects i Temoporfin
+Rettet Bivirkninger til sideEffects i Aflibercept 
+Rettet Bivirkninger til sideEffects i Ponatinib
+Rettet Bivirkninger til sideEffects i Bosutinib
+Rettet Bivirkninger til sideEffects i Pomalidomid
+Rettet Bivirkninger til sideEffects i Temsirolimus
+Rettet Bivirkninger til sideEffects i Idelalisib
+Rettet Bivirkninger til sideEffects i Regorafenib
+Rettet Bivirkninger til sideEffects i Dabrafenib
+Rettet Bivirkninger til sideEffects i Pertuzumab
+Rettet Bivirkninger til sideEffects i Trastuzumab emtansin
+Rettet Bivirkninger til sideEffects i Radium-223
+Rettet Bivirkninger til sideEffects i Kabozantinib
+Rettet Bivirkninger til sideEffects i Afatinib
+Rettet Bivirkninger til sideEffects i Nintedanib (onkologi)
+Rettet Bivirkninger til sideEffects i Histamin
+Rettet Bivirkninger til sideEffects i Ceritinib
+Rettet Bivirkninger til sideEffects i Lenvatinib
+Rettet Bivirkninger til sideEffects i Kobimetinib
+Rettet Bivirkninger til sideEffects i Karfilzomib
+Rettet Bivirkninger til sideEffects i Vismodegib
+Rettet Bivirkninger til sideEffects i Trametinib
+Rettet Bivirkninger til sideEffects i Ibrutinib
+Rettet Bivirkninger til sideEffects i Osimertinib
+Rettet Bivirkninger til sideEffects i Olaparib
+Rettet Bivirkninger til sideEffects i Pegaspergase
+Rettet Bivirkninger til sideEffects i Alektinib
+Rettet Bivirkninger til sideEffects i Palbociklib
+Rettet Bivirkninger til sideEffects i Tisagenlekleucel
+Rettet Bivirkninger til sideEffects i Trifluridin
+Rettet Bivirkninger til sideEffects i Decitabin
+Rettet Bivirkninger til sideEffects i Kladribin
+Rettet Bivirkninger til sideEffects i Aksikabtagenciloleucel
+Rettet Bivirkninger til sideEffects i Midostaurin
+Rettet Bivirkninger til sideEffects i Ribosiklib
+Rettet Bivirkninger til sideEffects i Fluorouracil
+Rettet Bivirkninger til sideEffects i Pemetreksed
+Rettet Bivirkninger til sideEffects i Anagrelid
+Rettet Bivirkninger til sideEffects i Bortezomib
+Rettet Bivirkninger til sideEffects i Kapecitabin
+Rettet Bivirkninger til sideEffects i Cytarabin
+Rettet Bivirkninger til sideEffects i Sorafenib
+Rettet Bivirkninger til sideEffects i Sunitinib
+Rettet Bivirkninger til sideEffects i Erlotinib
+Rettet Bivirkninger til sideEffects i Beksaroten
+Rettet Bivirkninger til sideEffects i Mesna
+Rettet Bivirkninger til sideEffects i Rasburikase
+Rettet Bivirkninger til sideEffects i Lomustin
+Rettet Bivirkninger til sideEffects i Klofarabin
+Rettet Bivirkninger til sideEffects i Nelarabin
+Rettet Bivirkninger til sideEffects i Azacitidin
+Rettet Bivirkninger til sideEffects i Dasatinib
+Rettet Bivirkninger til sideEffects i Nilotinib
+Rettet Bivirkninger til sideEffects i Gemcitabin
+Rettet Bivirkninger til sideEffects i Lapatinib
+Rettet Bivirkninger til sideEffects i Talidomid
+Rettet Bivirkninger til sideEffects i Lenalidomid
+Rettet Bivirkninger til sideEffects i Deksrazoksan
+Rettet Bivirkninger til sideEffects i Gefitinib
+Rettet Bivirkninger til sideEffects i Trabektedin
+Rettet Bivirkninger til sideEffects i Merkaptopurin
+Rettet Bivirkninger til sideEffects i Vinflunin
+Rettet Bivirkninger til sideEffects i Tioguanin
+Rettet Bivirkninger til sideEffects i Fludarabin
+Rettet Bivirkninger til sideEffects i Vinblastin
+Rettet Bivirkninger til sideEffects i Vinkristin
+Rettet Bivirkninger til sideEffects i Vinorelbin
+Rettet Bivirkninger til sideEffects i Docetaxel
+Rettet Bivirkninger til sideEffects i Paklitaxel
+Rettet Bivirkninger til sideEffects i Etoposid
+Rettet Bivirkninger til sideEffects i Ifosfamid
+Rettet Bivirkninger til sideEffects i Teniposid
+Rettet Bivirkninger til sideEffects i Doksorubicin
+Rettet Bivirkninger til sideEffects i Epirubicin
+Rettet Bivirkninger til sideEffects i Daunorubicin
+Rettet Bivirkninger til sideEffects i Idarubicin
+Rettet Bivirkninger til sideEffects i Mitoksantron
+Rettet Bivirkninger til sideEffects i Bleomycin
+Rettet Bivirkninger til sideEffects i Daktinomycin
+Rettet Bivirkninger til sideEffects i Mitomycin
+Rettet Bivirkninger til sideEffects i Streptozocin
+Rettet Bivirkninger til sideEffects i Amsakrin
+Rettet Bivirkninger til sideEffects i Hydroksyurea
+Rettet Bivirkninger til sideEffects i Dakarbazin
+Rettet Bivirkninger til sideEffects i Mitotan
+Rettet Bivirkninger til sideEffects i Temozolomid
+Rettet Bivirkninger til sideEffects i Topotekan
+Rettet Bivirkninger til sideEffects i Klorambucil
+Rettet Bivirkninger til sideEffects i Irinotekan
+Rettet Bivirkninger til sideEffects i Tretinoin (onkologi)
+Rettet Bivirkninger til sideEffects i Crisantaspase
+Rettet Bivirkninger til sideEffects i Metylaminolevulinat
+Rettet Bivirkninger til sideEffects i Melfalan
+Rettet Bivirkninger til sideEffects i Estramustin
+Rettet Bivirkninger til sideEffects i Metotreksat
+Rettet Bivirkninger til sideEffects i Syklofosfamid
+Rettet Bivirkninger til sideEffects i Raltitreksed
+Rettet Bivirkninger til sideEffects i Folinat
+Rettet Bivirkninger til sideEffects i Tegafur–gimeracil–oteracil
+Rettet Bivirkninger til sideEffects i Imatinib
+Rettet Bivirkninger til sideEffects i Busulfan
+Rettet Bivirkninger til sideEffects i Cisplatin
+Rettet Bivirkninger til sideEffects i Karboplatin
+Rettet Bivirkninger til sideEffects i Oksaliplatin
+Rettet Bivirkninger til sideEffects i Postkoital antikonsepsjon / Angrepille
+Rettet Bivirkninger til sideEffects i Abirateron
+Rettet Bivirkninger til sideEffects i Paricalcitol
+Rettet Bivirkninger til sideEffects i Cinacalcet
+Rettet Bivirkninger til sideEffects i Kalsitonin
+Rettet Bivirkninger til sideEffects i Teriparatide (hPTH(1-34))
+Rettet Bivirkninger til sideEffects i Ofatumumab
+Rettet Bivirkninger til sideEffects i Panitumumab
+Rettet Bivirkninger til sideEffects i Pasireotid
+Rettet Bivirkninger til sideEffects i Ulipristal
+Rettet Bivirkninger til sideEffects i Vitamin D og analoger
+Rettet Bivirkninger til sideEffects i Inhalasjonsglukokortikoider
+Rettet Bivirkninger til sideEffects i Prednisolonkombinasjoner
+Rettet Bivirkninger til sideEffects i Eksemestan
+Rettet Bivirkninger til sideEffects i Lixisenatid
+Rettet Bivirkninger til sideEffects i Mekasermin
+Rettet Bivirkninger til sideEffects i Vedolizumab
+Rettet Bivirkninger til sideEffects i Metyrapon
+Rettet Bivirkninger til sideEffects i Danazol
+Rettet Bivirkninger til sideEffects i Degarelix
+Rettet Bivirkninger til sideEffects i Insulin degludec-liraglutid
+Rettet Bivirkninger til sideEffects i Etelkalsetid
+Rettet Bivirkninger til sideEffects i Empagliflozin–linagliptin
+Rettet Bivirkninger til sideEffects i Paratyreoideahormon (1-84) (rDNA)
+Rettet Bivirkninger til sideEffects i Insulin glargin-lixisenatid
+Rettet Bivirkninger til sideEffects i Ertugliflozin
+Rettet Bivirkninger til sideEffects i Darvadstrocel
+Rettet Bivirkninger til sideEffects i Ertugliflozin-metformin
+Rettet Bivirkninger til sideEffects i Ertugliflozin-sitagliptin
+Rettet Bivirkninger til sideEffects i Alfaglukosidasehemmere
+Rettet Bivirkninger til sideEffects i Akarbose
+Rettet Bivirkninger til sideEffects i Pegvisomant
+Rettet Bivirkninger til sideEffects i Glitazoner
+Rettet Bivirkninger til sideEffects i Glukagon
+Rettet Bivirkninger til sideEffects i Somatropin
+Rettet Bivirkninger til sideEffects i Fulvestrant
+Rettet Bivirkninger til sideEffects i Lutropin og koriongonadotropin
+Rettet Bivirkninger til sideEffects i Menotropin
+Rettet Bivirkninger til sideEffects i Lanreotid, oktreotid
+Rettet Bivirkninger til sideEffects i Oksytocin
+Rettet Bivirkninger til sideEffects i Desmopressin, terlipressin
+Rettet Bivirkninger til sideEffects i Insulin/insulinanaloger
+Rettet Bivirkninger til sideEffects i Sitagliptin–metformin
+Rettet Bivirkninger til sideEffects i Karbetocin
+Rettet Bivirkninger til sideEffects i Tyreoideahormoner
+Rettet Bivirkninger til sideEffects i Tioamidtyreostatika
+Rettet Bivirkninger til sideEffects i Glukokortikoider for systemisk effekt og lokal injeksjon
+Rettet Bivirkninger til sideEffects i Tolvaptan
+Rettet Bivirkninger til sideEffects i Korifollitropin alfa
+Rettet Bivirkninger til sideEffects i Fludrokortison
+Rettet Bivirkninger til sideEffects i Androgene/anabole steroider
+Rettet Bivirkninger til sideEffects i Østrogener
+Rettet Bivirkninger til sideEffects i Østradiol
+Rettet Bivirkninger til sideEffects i Gestagener
+Rettet Bivirkninger til sideEffects i Progesteron
+Rettet Bivirkninger til sideEffects i Metformin
+Rettet Bivirkninger til sideEffects i Østrogen–gestagen
+Rettet Bivirkninger til sideEffects i Tibolon
+Rettet Bivirkninger til sideEffects i Østrogen–gestagen (kombinasjons p-midler)
+Rettet Bivirkninger til sideEffects i Gestagen (antikonsepsjon)
+Rettet Bivirkninger til sideEffects i Gestagen livmorinnlegg
+Rettet Bivirkninger til sideEffects i Gestageninjeksjon
+Rettet Bivirkninger til sideEffects i Antiandrogener til onkologisk bruk
+Rettet Bivirkninger til sideEffects i Enzalutamid
+Rettet Bivirkninger til sideEffects i Flutamid
+Rettet Bivirkninger til sideEffects i Cyproteron
+Rettet Bivirkninger til sideEffects i Sulfonylureaderivater
+Rettet Bivirkninger til sideEffects i Cyproteron–etinyløstradiol
+Rettet Bivirkninger til sideEffects i Dutasterid, finasterid
+Rettet Bivirkninger til sideEffects i Klomifen
+Rettet Bivirkninger til sideEffects i Tamoksifen
+Rettet Bivirkninger til sideEffects i Raloksifen
+Rettet Bivirkninger til sideEffects i Follitropin og urofollitropin
+Rettet Bivirkninger til sideEffects i Analoger av gonadotropinfrigjørende hormon
+Rettet Bivirkninger til sideEffects i Leuprorelin
+Rettet Bivirkninger til sideEffects i Anastrozol, letrozol
+Rettet Bivirkninger til sideEffects i Glinider (Meglitinider)
+Rettet Bivirkninger til sideEffects i Eltrombopag
+Rettet Bivirkninger til sideEffects i Dabigatran
+Rettet Bivirkninger til sideEffects i Rivaroksaban
+Rettet Bivirkninger til sideEffects i Apiksaban
+Rettet Bivirkninger til sideEffects i Tikagrelor
+Rettet Bivirkninger til sideEffects i Idarusizumab
+Rettet Bivirkninger til sideEffects i Ferskfrosset plasma
+Rettet Bivirkninger til sideEffects i Protrombinkomplekskonsentrat
+Rettet Bivirkninger til sideEffects i Plasmaderivert VWF
+Rettet Bivirkninger til sideEffects i Rekombinant faktor XIII
+Rettet Bivirkninger til sideEffects i Rekombinant faktor VIIa
+Rettet Bivirkninger til sideEffects i Rekombinant faktor IX
+Rettet Bivirkninger til sideEffects i Plasmaderivert faktor IX
+Rettet Bivirkninger til sideEffects i Edoksaban
+Rettet Bivirkninger til sideEffects i Humant fibrinogen
+Rettet Bivirkninger til sideEffects i Fibrinvevslim
+Rettet Bivirkninger til sideEffects i Eculizumab
+Rettet Bivirkninger til sideEffects i Kangrelor
+Rettet Bivirkninger til sideEffects i Emicizumab
+Rettet Bivirkninger til sideEffects i Ufraksjonert heparin
+Rettet Bivirkninger til sideEffects i Fraksjonerte (lavmolekylære) hepariner
+Rettet Bivirkninger til sideEffects i Organo‑heparinoid
+Rettet Bivirkninger til sideEffects i Bivalirudin
+Rettet Bivirkninger til sideEffects i Argatroban
+Rettet Bivirkninger til sideEffects i Antitrombinkonsentrat
+Rettet Bivirkninger til sideEffects i Vitamin B12, Cyanokobalamin, hydroksokobalamin
+Rettet Bivirkninger til sideEffects i Warfarin
+Rettet Bivirkninger til sideEffects i Trombolytiske midler
+Rettet Bivirkninger til sideEffects i Jern II-verdig til peroral administrasjon
+Rettet Bivirkninger til sideEffects i Romiplostim
+Rettet Bivirkninger til sideEffects i Prasugrel
+Rettet Bivirkninger til sideEffects i Dipyridamol
+Rettet Bivirkninger til sideEffects i Klopidogrel
+Rettet Bivirkninger til sideEffects i Tiklopidin
+Rettet Bivirkninger til sideEffects i Glykoprotein IIb/IIIa antagonister
+Rettet Bivirkninger til sideEffects i Abciximab
+Rettet Bivirkninger til sideEffects i Fondaparinuks
+Rettet Bivirkninger til sideEffects i Tenekteplase
+Rettet Bivirkninger til sideEffects i Epoetin
+Rettet Bivirkninger til sideEffects i Fytomenadion
+Rettet Bivirkninger til sideEffects i Asenapin
+Rettet Bivirkninger til sideEffects i Nalmefen
+Rettet Bivirkninger til sideEffects i Vortioksetin
+Rettet Bivirkninger til sideEffects i Melatonin
+Rettet Bivirkninger til sideEffects i Doksylamin
+Rettet Bivirkninger til sideEffects i Hydroksyzin
+Rettet Bivirkninger til sideEffects i Klometiazol
+Rettet Bivirkninger til sideEffects i Antipsykotika
+Rettet Bivirkninger til sideEffects i Duloksetin
+Rettet Bivirkninger til sideEffects i Serotonin- og noradrenalinreopptakshemmere (SNRI)
+Rettet Bivirkninger til sideEffects i Vareniklin
+Rettet Bivirkninger til sideEffects i Benzodiazepiner
+Rettet Bivirkninger til sideEffects i Lorazepam
+Rettet Bivirkninger til sideEffects i Triazolam
+Rettet Bivirkninger til sideEffects i Nalokson
+Rettet Bivirkninger til sideEffects i Haloperidol
+Rettet Bivirkninger til sideEffects i Zopiklon
+Rettet Bivirkninger til sideEffects i Trisykliske antidepressiva
+Rettet Bivirkninger til sideEffects i Acetylkolinesterasehemmere
+Rettet Bivirkninger til sideEffects i Selektive serotoninreopptakshemmere
+Rettet Bivirkninger til sideEffects i Oksazepam
+Rettet Bivirkninger til sideEffects i Venlafaksin
+Rettet Bivirkninger til sideEffects i Reboksetin
+Rettet Bivirkninger til sideEffects i Irreversible, uselektive monoaminoksidasehemmere (MAOH)
+Rettet Bivirkninger til sideEffects i Moklobemid
+Rettet Bivirkninger til sideEffects i Reseptorantagonister
+Rettet Bivirkninger til sideEffects i Litium
+Rettet Bivirkninger til sideEffects i Disulfiram
+Rettet Bivirkninger til sideEffects i Akamprosat
+Rettet Bivirkninger til sideEffects i Nikotin
+Rettet Bivirkninger til sideEffects i Bupropion (røykeavhengighet)
+Rettet Bivirkninger til sideEffects i Flunitrazepam
+Rettet Bivirkninger til sideEffects i Nitrazepam
+Rettet Bivirkninger til sideEffects i Naltrekson
+Rettet Bivirkninger til sideEffects i Benzodiazepinlignende hypnotika
+Rettet Bivirkninger til sideEffects i Alprazolam
+Rettet Bivirkninger til sideEffects i Zolpidem
+Rettet Bivirkninger til sideEffects i Buspiron
+Rettet Bivirkninger til sideEffects i Memantin
+Rettet Bivirkninger til sideEffects i Retigabin
+Rettet Bivirkninger til sideEffects i Fampridin
+Rettet Bivirkninger til sideEffects i Fingolimod
+Rettet Bivirkninger til sideEffects i Nabiksimoler (cannabisekstrakt)
+Rettet Bivirkninger til sideEffects i Perampanel
+Rettet Bivirkninger til sideEffects i Apomorfin
+Rettet Bivirkninger til sideEffects i Dimetylfumarat
+Rettet Bivirkninger til sideEffects i Teriflunomid
+Rettet Bivirkninger til sideEffects i Guanfacin
+Rettet Bivirkninger til sideEffects i Safinamid
+Rettet Bivirkninger til sideEffects i Brivaracetam
+Rettet Bivirkninger til sideEffects i Tetrabenazin
+Rettet Bivirkninger til sideEffects i Valproat
+Rettet Bivirkninger til sideEffects i Rufinamid
+Rettet Bivirkninger til sideEffects i Klobazam
+Rettet Bivirkninger til sideEffects i Amantadin
+Rettet Bivirkninger til sideEffects i Lakosamid
+Rettet Bivirkninger til sideEffects i Stiripentol
+Rettet Bivirkninger til sideEffects i Vigabatrin
+Rettet Bivirkninger til sideEffects i Klonazepam
+Rettet Bivirkninger til sideEffects i Fosfenytoin
+Rettet Bivirkninger til sideEffects i Levodopa
+Rettet Bivirkninger til sideEffects i Selegilin
+Rettet Bivirkninger til sideEffects i Bromokriptin
+Rettet Bivirkninger til sideEffects i Eslikarbazepin
+Rettet Bivirkninger til sideEffects i Fenobarbital
+Rettet Bivirkninger til sideEffects i Etosuksimid
+Rettet Bivirkninger til sideEffects i Pramipeksol
+Rettet Bivirkninger til sideEffects i Ropinirol
+Rettet Bivirkninger til sideEffects i Katekol-O-metyltransferasehemmere
+Rettet Bivirkninger til sideEffects i Entakapon
+Rettet Bivirkninger til sideEffects i Tolkapon
+Rettet Bivirkninger til sideEffects i Antikolinergika (nevrologi)
+Rettet Bivirkninger til sideEffects i Primært perifertvirkende antikolinesteraser
+Rettet Bivirkninger til sideEffects i Primidon
+Rettet Bivirkninger til sideEffects i Botulinumtoksin (motorisk)
+Rettet Bivirkninger til sideEffects i Tiaprid
+Rettet Bivirkninger til sideEffects i Baklofen
+Rettet Bivirkninger til sideEffects i Riluzol
+Rettet Bivirkninger til sideEffects i Metylfenidat og lisdeksamfetamin/deksamfetamin/amfetamin
+Rettet Bivirkninger til sideEffects i Metylfenidat
+Rettet Bivirkninger til sideEffects i Karbamazepin
+Rettet Bivirkninger til sideEffects i Pregabalin
+Rettet Bivirkninger til sideEffects i Okskarbazepin
+Rettet Bivirkninger til sideEffects i Felbamat
+Rettet Bivirkninger til sideEffects i Gabapentin
+Rettet Bivirkninger til sideEffects i MAO-B-hemmere, irreversible
+Rettet Bivirkninger til sideEffects i Rasagilin
+Rettet Bivirkninger til sideEffects i Lamotrigin
+Rettet Bivirkninger til sideEffects i Fenytoin
+Rettet Bivirkninger til sideEffects i Levetiracetam
+Rettet Bivirkninger til sideEffects i Zonisamid
+Rettet Bivirkninger til sideEffects i Natriumoksybat
+Rettet Bivirkninger til sideEffects i Topiramat
+Rettet Bivirkninger til sideEffects i Rotigotin
+Rettet Bivirkninger til sideEffects i Modafinil
+Rettet Bivirkninger til sideEffects i Atomoksetin
+Rettet Bivirkninger til sideEffects i Autologe korneale epitelceller
+Rettet Bivirkninger til sideEffects i Nafazolin
+Rettet Bivirkninger til sideEffects i Idebenon
+Rettet Bivirkninger til sideEffects i Merkaptamin (cysteamin)
+Rettet Bivirkninger til sideEffects i Cenegermin
+Rettet Bivirkninger til sideEffects i Okriplasmin
+Rettet Bivirkninger til sideEffects i Voretigene neparvovek
+Rettet Bivirkninger til sideEffects i Acetazolamid
+Rettet Bivirkninger til sideEffects i Pegaptanib
+Rettet Bivirkninger til sideEffects i Ranibizumab
+Rettet Bivirkninger til sideEffects i Brinzolamid, dorzolamid
+Rettet Bivirkninger til sideEffects i Pilokarpin 
+Rettet Bivirkninger til sideEffects i Karbakolin
+Rettet Bivirkninger til sideEffects i Bimatoprost. Latanoprost. Tafluprost. Travoprost
+Rettet Bivirkninger til sideEffects i Dipivefrin
+Rettet Bivirkninger til sideEffects i Brimonidin
+Rettet Bivirkninger til sideEffects i Vernakalant
+Rettet Bivirkninger til sideEffects i Nikotinsyre
+Rettet Bivirkninger til sideEffects i Tamsulosin-solifenacin
+Rettet Bivirkninger til sideEffects i Alirokumab
+Rettet Bivirkninger til sideEffects i Evolokumab
+Rettet Bivirkninger til sideEffects i Sakubitril-valsartan
+Rettet Bivirkninger til sideEffects i Riociguat
+Rettet Bivirkninger til sideEffects i Macitentan
+Rettet Bivirkninger til sideEffects i Ivabradin
+Rettet Bivirkninger til sideEffects i Ambrisentan
+Rettet Bivirkninger til sideEffects i Treprostinil
+Rettet Bivirkninger til sideEffects i Seleksipag
+Rettet Bivirkninger til sideEffects i Adrenerge betareseptorantagonister
+Rettet Bivirkninger til sideEffects i Tiazider
+Rettet Bivirkninger til sideEffects i Adrenerge alfa-1/betareseptorantagonister
+Rettet Bivirkninger til sideEffects i Slyngediuretika
+Rettet Bivirkninger til sideEffects i Aliskiren
+Rettet Bivirkninger til sideEffects i Fenofibrat
+Rettet Bivirkninger til sideEffects i Dronedaron
+Rettet Bivirkninger til sideEffects i Adrenerge alfa-1 reseptorantagonister
+Rettet Bivirkninger til sideEffects i Doxazosin
+Rettet Bivirkninger til sideEffects i Alfuzosin
+Rettet Bivirkninger til sideEffects i Tamsulosin
+Rettet Bivirkninger til sideEffects i Terazosin
+Rettet Bivirkninger til sideEffects i Kalsiumantagonister
+Rettet Bivirkninger til sideEffects i Amlodipin
+Rettet Bivirkninger til sideEffects i Felodipin
+Rettet Bivirkninger til sideEffects i Isradipin
+Rettet Bivirkninger til sideEffects i Lerkanidipin
+Rettet Bivirkninger til sideEffects i Nifedipin
+Rettet Bivirkninger til sideEffects i Nimodipin
+Rettet Bivirkninger til sideEffects i Diltiazem
+Rettet Bivirkninger til sideEffects i Verapamil
+Rettet Bivirkninger til sideEffects i Angiotensinkonverterende enzymhemmere
+Rettet Bivirkninger til sideEffects i Angiotensin II-reseptorantagonister
+Rettet Bivirkninger til sideEffects i Telmisartan
+Rettet Bivirkninger til sideEffects i Metyldopa
+Rettet Bivirkninger til sideEffects i Moksonidin
+Rettet Bivirkninger til sideEffects i Klonidin
+Rettet Bivirkninger til sideEffects i Hydralazin
+Rettet Bivirkninger til sideEffects i Nitroprussid
+Rettet Bivirkninger til sideEffects i Organiske nitrater
+Rettet Bivirkninger til sideEffects i Kalium‑, magnesiumsparende diuretika
+Rettet Bivirkninger til sideEffects i Prostasykliner og andre IP-prostanoidreseptoragonister
+Rettet Bivirkninger til sideEffects i Pentoksyfyllin
+Rettet Bivirkninger til sideEffects i Amilorid–hydroklortiazid
+Rettet Bivirkninger til sideEffects i Bosentan
+Rettet Bivirkninger til sideEffects i Adrenalin
+Rettet Bivirkninger til sideEffects i Noradrenalin
+Rettet Bivirkninger til sideEffects i Dopamin
+Rettet Bivirkninger til sideEffects i Dobutamin
+Rettet Bivirkninger til sideEffects i Efedrin
+Rettet Bivirkninger til sideEffects i Etilefrin
+Rettet Bivirkninger til sideEffects i Aldosteronantagonister
+Rettet Bivirkninger til sideEffects i Isoprenalin
+Rettet Bivirkninger til sideEffects i Digitalisglykosider
+Rettet Bivirkninger til sideEffects i Disopyramid
+Rettet Bivirkninger til sideEffects i Antiarytmika klasse Ib
+Rettet Bivirkninger til sideEffects i Flekainid
+Rettet Bivirkninger til sideEffects i Amiodaron
+Rettet Bivirkninger til sideEffects i Ibutilid
+Rettet Bivirkninger til sideEffects i Adenosin
+Rettet Bivirkninger til sideEffects i Statiner
+Rettet Bivirkninger til sideEffects i Resiner
+Rettet Bivirkninger til sideEffects i Gemfibrozil
+Rettet Bivirkninger til sideEffects i Kalium
+Rettet Bivirkninger til sideEffects i Omega-3-fettsyreestere
+Rettet Bivirkninger til sideEffects i Ezetimib
+Rettet Bivirkninger til sideEffects i Magnesium
+Rettet Bivirkninger til sideEffects i Levosimendan
+Rettet Bivirkninger til sideEffects i Desloratadin
+Rettet Bivirkninger til sideEffects i Rupatadin
+Rettet Bivirkninger til sideEffects i Kromoglikat
+Rettet Bivirkninger til sideEffects i Nedokromil
+Rettet Bivirkninger til sideEffects i Allergenekstrakter
+Rettet Bivirkninger til sideEffects i Histamin H1‑antagonister
+Rettet Bivirkninger til sideEffects i Antazolin–tetryzolin
+Rettet Bivirkninger til sideEffects i Loratadin
+Rettet Bivirkninger til sideEffects i Alimemazin
+Rettet Bivirkninger til sideEffects i Prometazin
+Rettet Bivirkninger til sideEffects i Roflumilast
+Rettet Bivirkninger til sideEffects i Lungesurfaktanter
+Rettet Bivirkninger til sideEffects i Ivakaftor
+Rettet Bivirkninger til sideEffects i Aklidinium
+Rettet Bivirkninger til sideEffects i Glykopyrron (lunge)
+Rettet Bivirkninger til sideEffects i Olodaterol
+Rettet Bivirkninger til sideEffects i Teofyllin og teofyllinsalter
+Rettet Bivirkninger til sideEffects i Umeklidinium
+Rettet Bivirkninger til sideEffects i Ivakaftor-lumakaftor
+Rettet Bivirkninger til sideEffects i Kombinasjonspreparater
+Rettet Bivirkninger til sideEffects i Formoterol-aklidinium
+Rettet Bivirkninger til sideEffects i Vilanterol-umeklidinium-flutikasonfuroat
+Rettet Bivirkninger til sideEffects i Montelukast
+Rettet Bivirkninger til sideEffects i Antikolinergika (lunge)
+Rettet Bivirkninger til sideEffects i Ipratropium
+Rettet Bivirkninger til sideEffects i Koffein og koffeinsalter
+Rettet Bivirkninger til sideEffects i Antitussiva – opioider
+Rettet Bivirkninger til sideEffects i Bromheksin
+Rettet Bivirkninger til sideEffects i Tiotropium
+Rettet Bivirkninger til sideEffects i Acetylcystein
+Rettet Bivirkninger til sideEffects i Dornase alfa
+Rettet Bivirkninger til sideEffects i Adrenerge beta-2-reseptoragonister
+Rettet Bivirkninger til sideEffects i Benzydamin
+Rettet Bivirkninger til sideEffects i Flurbiprofen
+Rettet Bivirkninger til sideEffects i Slimhinneavsvellende legemidler, lokale
+Rettet Bivirkninger til sideEffects i Fenylpropanolamin
+Rettet Bivirkninger til sideEffects i Fluorid
+Rettet Bivirkninger til sideEffects i Pilokarpin (karies)
+Rettet Bivirkninger til sideEffects i Linaklotid
+Rettet Bivirkninger til sideEffects i Prukaloprid
+Rettet Bivirkninger til sideEffects i Rifaksimin
+Rettet Bivirkninger til sideEffects i Klyster – overflateaktive stoffer
+Rettet Bivirkninger til sideEffects i Racekadotril
+Rettet Bivirkninger til sideEffects i Teduglutid
+Rettet Bivirkninger til sideEffects i Hemearginat
+Rettet Bivirkninger til sideEffects i Afamelanotid
+Rettet Bivirkninger til sideEffects i Ursodeoksykolsyre
+Rettet Bivirkninger til sideEffects i Telotristat
+Rettet Bivirkninger til sideEffects i Protonpumpehemmere
+Rettet Bivirkninger til sideEffects i Sukralfat
+Rettet Bivirkninger til sideEffects i Alginat
+Rettet Bivirkninger til sideEffects i Misoprostol (gastro)
+Rettet Bivirkninger til sideEffects i Pankreasenzympreparater
+Rettet Bivirkninger til sideEffects i Obetikolsyre
+Rettet Bivirkninger til sideEffects i Butylskopolamin
+Rettet Bivirkninger til sideEffects i Mesalazin
+Rettet Bivirkninger til sideEffects i Olsalazin
+Rettet Bivirkninger til sideEffects i Loperamid
+Rettet Bivirkninger til sideEffects i Balsalazid
+Rettet Bivirkninger til sideEffects i Sulfasalazin
+Rettet Bivirkninger til sideEffects i Bisakodyl
+Rettet Bivirkninger til sideEffects i Natriumfosfatsalter
+Rettet Bivirkninger til sideEffects i Pikosulfat ev. med magnesiumoksid
+Rettet Bivirkninger til sideEffects i Loppefrø, linfrø, hvetekli
+Rettet Bivirkninger til sideEffects i Laktulose, laktitol
+Rettet Bivirkninger til sideEffects i Sennaglykosider
+Rettet Bivirkninger til sideEffects i Parafin
+Rettet Bivirkninger til sideEffects i Makrogoler
+Rettet Bivirkninger til sideEffects i Histamin H2‑antagonister
+Rettet Bivirkninger til sideEffects i Metylnaltrekson
+Rettet Bivirkninger til sideEffects i Aviptadil–fentolamin
+Rettet Bivirkninger til sideEffects i Dapoksetin
+Rettet Bivirkninger til sideEffects i Sukroferrioksihydroksid
+Rettet Bivirkninger til sideEffects i Patiromer
+Rettet Bivirkninger til sideEffects i Alprostadil for erektil dysfunksjon
+Rettet Bivirkninger til sideEffects i Antikolinergika (urologi)
+Rettet Bivirkninger til sideEffects i Alprostadil for ductusavhengige medfødte hjertefeil
+Rettet Bivirkninger til sideEffects i Sevelamer
+Rettet Bivirkninger til sideEffects i Lantankarbonat
+Rettet Bivirkninger til sideEffects i Papaverin–fentolamin
+Rettet Bivirkninger til sideEffects i Polystyrensulfonat
+Rettet Bivirkninger til sideEffects i Karboprost
+Rettet Bivirkninger til sideEffects i Metylergometrin
+Rettet Bivirkninger til sideEffects i Misoprostol (gynekologi)
+Rettet Bivirkninger til sideEffects i Prostaglandiner/prostaglandinanaloger
+Rettet Bivirkninger til sideEffects i Mifepriston
+Rettet Bivirkninger til sideEffects i Alitretinoin
+Rettet Bivirkninger til sideEffects i Eflornitin
+Rettet Bivirkninger til sideEffects i Kaliumpermanganat (hud)
+Rettet Bivirkninger til sideEffects i Icatibant
+Rettet Bivirkninger til sideEffects i C1-esterasehemmer
+Rettet Bivirkninger til sideEffects i Conestat alfa
+Rettet Bivirkninger til sideEffects i Ingenolmebutat
+Rettet Bivirkninger til sideEffects i Karbamidpreparater
+Rettet Bivirkninger til sideEffects i Aminolevulinsyre
+Rettet Bivirkninger til sideEffects i Deoksykolsyre
+Rettet Bivirkninger til sideEffects i Antihidrotika
+Rettet Bivirkninger til sideEffects i Krotamiton
+Rettet Bivirkninger til sideEffects i Minoksidil
+Rettet Bivirkninger til sideEffects i Tretinoin (akne)
+Rettet Bivirkninger til sideEffects i Capsaicin
+Rettet Bivirkninger til sideEffects i Adapalen og kombinasjoner
+Rettet Bivirkninger til sideEffects i Cantharidin
+Rettet Bivirkninger til sideEffects i Adapalen
+Rettet Bivirkninger til sideEffects i Isotretinoin
+Rettet Bivirkninger til sideEffects i Azelainsyre
+Rettet Bivirkninger til sideEffects i Vitamin D3-analoger
+Rettet Bivirkninger til sideEffects i Ditranol
+Rettet Bivirkninger til sideEffects i Acitretin
+Rettet Bivirkninger til sideEffects i PUVA-behandling
+Rettet Bivirkninger til sideEffects i Permetrin
+Rettet Bivirkninger til sideEffects i Benzoylperoksid (akne)
+Rettet Bivirkninger til sideEffects i Benzylbenzoat
+Rettet Bivirkninger til sideEffects i Dixantogen
+Rettet Bivirkninger til sideEffects i Malation
+Rettet Bivirkninger til sideEffects i Bromfenak
+Rettet Bivirkninger til sideEffects i Kollagenase Clostridium histolyticum
+Rettet Bivirkninger til sideEffects i Apremilast
+Rettet Bivirkninger til sideEffects i Peglotikase
+Rettet Bivirkninger til sideEffects i Lesinurad
+Rettet Bivirkninger til sideEffects i Acetylsalisylsyre
+Rettet Bivirkninger til sideEffects i Baricitinib
+Rettet Bivirkninger til sideEffects i Tofacitinib
+Rettet Bivirkninger til sideEffects i Ketoprofen
+Rettet Bivirkninger til sideEffects i Ikke‑steroide antiinflammatoriske midler (NSAID)
+Rettet Bivirkninger til sideEffects i Gullforbindelser
+Rettet Bivirkninger til sideEffects i Leflunomid
+Rettet Bivirkninger til sideEffects i Penicillamin
+Rettet Bivirkninger til sideEffects i Kolkisin
+Rettet Bivirkninger til sideEffects i Allopurinol
+Rettet Bivirkninger til sideEffects i Probenecid
+Rettet Bivirkninger til sideEffects i Bisfosfonater ved hyperkalsemi
+Rettet Bivirkninger til sideEffects i Bisfosfonater ved osteoporose
+Rettet Bivirkninger til sideEffects i Glukosamin
+Rettet Bivirkninger til sideEffects i Febuksostat
+Rettet Bivirkninger til sideEffects i Indometacin
+Rettet Bivirkninger til sideEffects i Alfa-1-antitrypsin, human
+Rettet Bivirkninger til sideEffects i Adalimumab
+Rettet Bivirkninger til sideEffects i Infliksimab
+Rettet Bivirkninger til sideEffects i Tocilizumab
+Rettet Bivirkninger til sideEffects i Ustekinumab
+Rettet Bivirkninger til sideEffects i Belimumab
+Rettet Bivirkninger til sideEffects i Denosumab
+Rettet Bivirkninger til sideEffects i Golimumab
+Rettet Bivirkninger til sideEffects i Plerixafor
+Rettet Bivirkninger til sideEffects i Rituximab
+Rettet Bivirkninger til sideEffects i Trastuzumab
+Rettet Bivirkninger til sideEffects i Belatacept
+Rettet Bivirkninger til sideEffects i Alemtuzumab
+Rettet Bivirkninger til sideEffects i Nintedanib (lunge)
+Rettet Bivirkninger til sideEffects i Pirfenidon
+Rettet Bivirkninger til sideEffects i Sekukinumab
+Rettet Bivirkninger til sideEffects i Obinutuzumab
+Rettet Bivirkninger til sideEffects i Daklizumab
+Rettet Bivirkninger til sideEffects i Inotuzumab
+Rettet Bivirkninger til sideEffects i 177Lu-DOTA-TATE
+Rettet Bivirkninger til sideEffects i Iksekizumab
+Rettet Bivirkninger til sideEffects i Brodalumab
+Rettet Bivirkninger til sideEffects i Guselkumab
+Rettet Bivirkninger til sideEffects i Certolizumab
+Rettet Bivirkninger til sideEffects i Ciklosporin
+Rettet Bivirkninger til sideEffects i Azatioprin
+Rettet Bivirkninger til sideEffects i Antitymocytt immunglobulin (kanin)
+Rettet Bivirkninger til sideEffects i Etanercept
+Rettet Bivirkninger til sideEffects i Mykofenolat
+Rettet Bivirkninger til sideEffects i Polyvalent (normalt) humant immunglobulin til intravenøs bruk
+Rettet Bivirkninger til sideEffects i Interferon alfa-2, peginterferon alfa-2
+Rettet Bivirkninger til sideEffects i Interferon beta-1, peginterferon beta-1
+Rettet Bivirkninger til sideEffects i Interferon gamma-1
+Rettet Bivirkninger til sideEffects i Filgrastim, lipefilgrastim, pegfilgrastim
+Rettet Bivirkninger til sideEffects i Molgramostim
+Rettet Bivirkninger til sideEffects i Anakinra
+Rettet Bivirkninger til sideEffects i BCG
+Rettet Bivirkninger til sideEffects i Glatirameracetat
+Rettet Bivirkninger til sideEffects i Pimecrolimus
+Rettet Bivirkninger til sideEffects i Palonosetron - netupitant
+Rettet Bivirkninger til sideEffects i Serotoninantagonister
+Rettet Bivirkninger til sideEffects i Droperidol
+Rettet Bivirkninger til sideEffects i Metoklopramid
+Rettet Bivirkninger til sideEffects i Aprepitant og fosaprepitant
+Rettet Bivirkninger til sideEffects i Paracetamol–acetylsalisylsyre–koffein
+Rettet Bivirkninger til sideEffects i Paracetamol–koffein
+Rettet Bivirkninger til sideEffects i Sterke opioidagonister
+Rettet Bivirkninger til sideEffects i Fenazon-koffein
+Rettet Bivirkninger til sideEffects i Kodein
+Rettet Bivirkninger til sideEffects i Oksykodon–nalokson
+Rettet Bivirkninger til sideEffects i Paracetamol
+Rettet Bivirkninger til sideEffects i Tramadol
+Rettet Bivirkninger til sideEffects i Buprenorfin (smertebehandling)
+Rettet Bivirkninger til sideEffects i Ketamin
+Rettet Bivirkninger til sideEffects i Deksmedetomidin
+Rettet Bivirkninger til sideEffects i Metoksyfluran
+Rettet Bivirkninger til sideEffects i Midazolam
+Rettet Bivirkninger til sideEffects i Propofol
+Rettet Bivirkninger til sideEffects i Bupivakain, Levobupivakain
+Rettet Bivirkninger til sideEffects i Esketamin
+Rettet Bivirkninger til sideEffects i Antikolinergika (Anestesi)
+Rettet Bivirkninger til sideEffects i Nevromuskulære blokkere
+Rettet Bivirkninger til sideEffects i Lokalanestetika for lokal- og regionalanestesi
+Rettet Bivirkninger til sideEffects i Dantrolen
+Rettet Bivirkninger til sideEffects i Artikain
+Rettet Bivirkninger til sideEffects i Lidokain–tetrakain
+Rettet Bivirkninger til sideEffects i Lidokain–prilokain
+Rettet Bivirkninger til sideEffects i Benzokain
+Rettet Bivirkninger til sideEffects i Halogenerte (potente) inhalasjonsanestetika
+Rettet Bivirkninger til sideEffects i Sugammadex
+Rettet Bivirkninger til sideEffects i Tiopental
+Rettet Bivirkninger til sideEffects i Bupropion-naltrekson
+Rettet Bivirkninger til sideEffects i Dekstran
+Rettet Bivirkninger til sideEffects i Dekstran med hypertont saltvann
+Rettet Bivirkninger til sideEffects i Dekstran med hypertont saltvann
+Rettet Bivirkninger til sideEffects i Gelatinforbindelser
+Rettet Bivirkninger til sideEffects i Hetastivelse
+Rettet Bivirkninger til sideEffects i Kombinerte elektrolytt-, karbohydratløsninger
+Rettet Bivirkninger til sideEffects i Vitamin C (Askorbinsyre)
+Rettet Bivirkninger til sideEffects i Orlistat
+Rettet Bivirkninger til sideEffects i Karbohydratløsninger
+Rettet Bivirkninger til sideEffects i Aminosyreløsninger
+Rettet Bivirkninger til sideEffects i Fettemulsjoner
+Rettet Bivirkninger til sideEffects i Standard sondeløsninger med og uten fiber
+Rettet Bivirkninger til sideEffects i Immunstimulerende sondeløsninger
+Rettet Bivirkninger til sideEffects i Energirike sondeløsninger
+Rettet Bivirkninger til sideEffects i Doravirin
+Rettet Bivirkninger til sideEffects i Lorlatinib
+Rettet Bivirkninger til sideEffects i Dakomitinib
+Rettet Bivirkninger til sideEffects i Dinutuksimab beta
+Rettet Bivirkninger til sideEffects i Natriumzirkoniumsyklosilikat
+Rettet Bivirkninger til sideEffects i Iksazomib
+Rettet Bivirkninger til sideEffects i Niraparib
+Rettet Bivirkninger til sideEffects i Doravirin-lamivudin-tenofovir
+Rettet Bivirkninger til sideEffects i Rekombinant VWF
+Rettet Bivirkninger til sideEffects i Remdesivir
+Rettet Bivirkninger til sideEffects i Tivozanib
+Rettet Bivirkninger til sideEffects i Trientin
+Rettet Bivirkninger til sideEffects i Selektive 5-HT1-reseptoragonister
+Rettet Bivirkninger til sideEffects i Ivakaftor-tezakaftor
+Rettet Bivirkninger til sideEffects i Enkorafenib
+Rettet Bivirkninger til sideEffects i Naratriptan
+Rettet Bivirkninger til sideEffects i Venetoklaks
+Rettet Bivirkninger til sideEffects i Okrelizumab
+Rettet Bivirkninger til sideEffects i Apalutamid
+Rettet Bivirkninger til sideEffects i Erenumab
+Rettet Bivirkninger til sideEffects i Pentosan
+Rettet Bivirkninger til sideEffects i Fremanezumab
+Rettet Bivirkninger til sideEffects i Abemaciklib
+Rettet Bivirkninger til sideEffects i Galkanezumab
+Rettet Bivirkninger til sideEffects i Brigatinib
+Rettet Bivirkninger til sideEffects i Kariprazin
+Rettet Bivirkninger til sideEffects i Brekspiprazol
+Rettet Bivirkninger til sideEffects i Durvalumab
+Rettet Bivirkninger til sideEffects i Pitolisant
+Rettet Bivirkninger til sideEffects i Kloralhydrat
+Rettet Bivirkninger til sideEffects i Binimetinib
+Rettet Bivirkninger til sideEffects i Immunsuppressiv behandling med cytostatiske immunsuppressiva
+Rettet Bivirkninger til sideEffects i Immunsuppressiv behandling med glukokortikoider
