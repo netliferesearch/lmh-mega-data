@@ -1,0 +1,153 @@
+/*
+ 
+PatientInformationFix
+
+Kapitler av typen patientInformationSubstance endres til patientInformation.
+
+Disse kapitlene har blitt opprettet i den perioden feilen med kapitteltypene
+har vært ute i QA, og alle kapitler som er opprettet med feil type blir rettet nå.
+
+NB. Kapitler med bare _key blir også slettet i denne operasjonen.
+
+*/
+
+Rettet vanlig kapittel i Polatuzumab vedotin
+
+Rettet vanlig kapittel i Metolazon
+
+Rettet vanlig kapittel i Karmustin
+
+Rettet vanlig kapittel i Upadacitinib
+
+Rettet vanlig kapittel i Cemiplimab
+
+Rettet vanlig kapittel i Ozanimod
+
+Rettet vanlig kapittel i Gilteritinib
+
+Rettet vanlig kapittel i Treosulfan
+
+Rettet vanlig kapittel i Midodrin
+
+Rettet vanlig kapittel i Sonidegib
+
+Rettet vanlig kapittel i Kabotegravir
+
+Rettet vanlig kapittel i Kladribin
+
+Rettet vanlig kapittel i Generelt om immunsykdommer og transplantasjoner
+
+Rettet vanlig kapittel i Glukokortikoider for lokal, nasal administrasjon
+Rettet arvet kapittel i Benzatinpenicillin
+
+Rettet vanlig kapittel i Betalaktamasefølsomme penicilliner
+
+Rettet vanlig kapittel i Bendamustin
+
+Rettet vanlig kapittel i Tiotepa
+
+Rettet vanlig kapittel i Kabazitaxel
+
+Rettet vanlig kapittel i Trifluridin
+
+Rettet vanlig kapittel i Decitabin
+
+Rettet vanlig kapittel i Kladribin
+
+Rettet vanlig kapittel i Pemetreksed
+
+Rettet vanlig kapittel i Cytarabin
+
+Rettet vanlig kapittel i Lomustin
+
+Rettet vanlig kapittel i Klofarabin
+
+Rettet vanlig kapittel i Nelarabin
+
+Rettet vanlig kapittel i Azacitidin
+
+Rettet vanlig kapittel i Gemcitabin
+
+Rettet vanlig kapittel i Merkaptopurin
+
+Rettet vanlig kapittel i Vinflunin
+
+Rettet vanlig kapittel i Tioguanin
+
+Rettet vanlig kapittel i Fludarabin
+
+Rettet vanlig kapittel i Vinblastin
+
+Rettet vanlig kapittel i Vinkristin
+
+Rettet vanlig kapittel i Vinorelbin
+
+Rettet vanlig kapittel i Docetaxel
+
+Rettet vanlig kapittel i Paklitaxel
+
+Rettet vanlig kapittel i Etoposid
+
+Rettet vanlig kapittel i Teniposid
+
+Rettet vanlig kapittel i Dakarbazin
+
+Rettet vanlig kapittel i Temozolomid
+
+Rettet vanlig kapittel i Klorambucil
+
+Rettet vanlig kapittel i Estramustin
+
+Rettet vanlig kapittel i Syklofosfamid
+
+Rettet vanlig kapittel i Raltitreksed
+
+Rettet vanlig kapittel i Busulfan
+Rettet arvet kapittel i Beklometason
+
+Rettet vanlig kapittel i Fulvestrant
+
+Rettet vanlig kapittel i Glukokortikoider for systemisk effekt og lokal injeksjon
+
+Rettet vanlig kapittel i Androgene/anabole steroider
+
+Rettet vanlig kapittel i Cyproteron
+
+Rettet vanlig kapittel i Cyproteron–etinyløstradiol
+
+Rettet vanlig kapittel i Dutasterid, finasterid
+
+Rettet vanlig kapittel i Klomifen
+
+Rettet vanlig kapittel i Tamoksifen
+
+Rettet vanlig kapittel i Rekombinant faktor XIII
+
+Rettet vanlig kapittel i Jern II-verdig til peroral administrasjon
+
+Rettet vanlig kapittel i Antidepressiva
+
+Rettet vanlig kapittel i Linaklotid
+
+Rettet vanlig kapittel i Antacida
+
+Rettet vanlig kapittel i Butylskopolamin
+
+Rettet vanlig kapittel i 5-Aminosalisylsyreforbindelser
+
+Rettet vanlig kapittel i Metylnaltrekson
+Rettet arvet kapittel i Avanafil
+
+Rettet vanlig kapittel i Benzylbenzoat
+
+Rettet vanlig kapittel i Acetylsalisylsyre
+
+Rettet vanlig kapittel i Penicillamin
+
+Rettet vanlig kapittel i Oksykodon
+
+Rettet vanlig kapittel i Kodein
+
+Rettet vanlig kapittel i Oksykodon–nalokson
+
+Rettet vanlig kapittel i Paracetamol
