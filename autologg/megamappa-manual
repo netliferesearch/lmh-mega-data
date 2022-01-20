@@ -1,0 +1,413 @@
+
+/*
+
+Den manuelle lista sier at den skal fikses manuelt
+
+*/
+
+
+
+Tittelen Givosiran er ikke matchet
+ -> Nedsatt leverfunksjon (5d67f0ee-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Nusinersen er ikke matchet
+ -> Graviditet (5d68abc4-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Adrenerge reseptoragonister er ikke matchet
+ -> Graviditet (5d682816-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Akalabrutinib er ikke matchet
+ -> Nedsatt nyrefunksjon (5d667dfe-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Alfa-1-, betareseptorantagonister, kombinerte er ikke matchet
+ -> Graviditet (5d682a00-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Alfa-1-reseptorantagonister, adrenerge er ikke matchet
+ -> Graviditet (5d682a50-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Alfa-1-reseptorantagonister, adrenerge er ikke matchet
+ -> Amming (5d68ee68-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Alkylsulfonater er ikke matchet
+ -> Graviditet (5d682ba4-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Amikacin er ikke matchet
+ -> Nedsatt nyrefunksjon (5d66806a-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Aminosyrer + glukose + fett er ikke matchet
+ -> Nedsatt nyrefunksjon (5d66815a-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Aminosyrer + glukose er ikke matchet
+ -> Nedsatt nyrefunksjon (5d668132-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Anestesimidler er ikke matchet
+ -> Amming (5d68f48a-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Antidoter er ikke matchet
+ -> Amming (5d68f5fc-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Antihypertensiva er ikke matchet
+ -> Amming (5d68f674-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Antikoagulantia, perorale er ikke matchet
+ -> Amming (5d68f6ba-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d683252-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt leverfunksjon (5d67cfd8-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Antikolinergika er ikke matchet
+ -> Amming (5d68f6ec-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d68327a-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Antikonsepsjonsmidler, perorale er ikke matchet
+ -> Nedsatt leverfunksjon (5d67d000-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Antrasykliner er ikke matchet
+ -> Graviditet (5d6833ec-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Bedakvilin er ikke matchet
+ -> Nedsatt nyrefunksjon (5d6686a0-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Biktegravir, emtricitabin, tenofoviralafenamid i kombinasjon (Biktarvy) er ikke matchet
+ -> Nedsatt leverfunksjon (5d67d438-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Bortezomid er ikke matchet
+ -> Amming (5d6907f4-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d683ff4-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt nyrefunksjon (5d6688d0-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Bronkolytika, adrenerge er ikke matchet
+ -> Graviditet (5d6841d4-79d0-11ec-966b-367dda4511c0)
+
+Tittelen COX-2-hemmere er ikke matchet
+ -> Amming (5d691168-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Cannabidiol er ikke matchet
+ -> Amming (5d690ba0-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d68436e-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt nyrefunksjon (5d668a38-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Cannabinoider er ikke matchet
+ -> Amming (5d690bc8-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d684396-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt nyrefunksjon (5d668a60-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Ceftolozan er ikke matchet
+ -> Amming (5d690db2-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt nyrefunksjon (5d668c4a-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Cilastatin er ikke matchet
+ -> Amming (5d691014-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d684792-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt nyrefunksjon (5d668d94-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Darolutamid er ikke matchet
+ -> Nedsatt leverfunksjon (5d67db22-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Deferasiroks er ikke matchet
+ -> Nedsatt nyrefunksjon (5d668f56-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Dekstropropoksyfen er ikke matchet
+ -> Amming (5d6916c2-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d684e2c-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt leverfunksjon (5d67dcb2-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt nyrefunksjon (5d66908c-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Delamanid er ikke matchet
+ -> Nedsatt nyrefunksjon (5d6690b4-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Dibotermin-alfa-2b (InductOs) er ikke matchet
+ -> Nedsatt nyrefunksjon (5d6691a4-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Didanosin er ikke matchet
+ -> Amming (5d6918de-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d685034-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt leverfunksjon (5d67dd5c-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt nyrefunksjon (5d6691cc-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Diemal (barbital) er ikke matchet
+ -> Nedsatt leverfunksjon (5d67dd84-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Doripenem er ikke matchet
+ -> Amming (5d691e42-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d6858ea-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt nyrefunksjon (5d6693c0-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Drospirenon er ikke matchet
+ -> Amming (5d691f50-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d685a02-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt leverfunksjon (5d67dfbe-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Elbasvir og grazoprevir (kombinasjonspreparat) er ikke matchet
+ -> Nedsatt leverfunksjon (5d67e086-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Elektrolytter er ikke matchet
+ -> Nedsatt nyrefunksjon (5d6695b4-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Eluksadolin er ikke matchet
+ -> Amming (5d6921d0-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d685c8c-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt leverfunksjon (5d67e0f4-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Entrektinib er ikke matchet
+ -> Nedsatt leverfunksjon (5d67e252-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Epipodofyllotoksiner er ikke matchet
+ -> Graviditet (5d685e6c-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Ergotamin er ikke matchet
+ -> Amming (5d6924dc-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d685ff2-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt leverfunksjon (5d67e31a-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt nyrefunksjon (5d6697b2-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Etinyløstradiol er ikke matchet
+ -> Amming (5d6927ca-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d6862c2-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt leverfunksjon (5d67e8f6-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Etonogestrel er ikke matchet
+ -> Amming (5d6927e8-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d6862ea-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt leverfunksjon (5d67e91e-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Fentiaziner er ikke matchet
+ -> Graviditet (5d68665a-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt leverfunksjon (5d67eb26-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Ferumoksytol er ikke matchet
+ -> Amming (5d692c02-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d686718-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt leverfunksjon (5d67eb9e-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Flukloksacillin er ikke matchet
+ -> Nedsatt nyrefunksjon (5d669ce4-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Folsyreantagonister er ikke matchet
+ -> Graviditet (5d686c22-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt leverfunksjon (5d67ee46-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt nyrefunksjon (5d669e4c-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Fosamprenavir er ikke matchet
+ -> Amming (5d69318e-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d686cb8-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt leverfunksjon (5d67ee96-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Fungicider til lokal bruk er ikke matchet
+ -> Amming (5d6932c4-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Gadobenat er ikke matchet
+ -> Graviditet (5d686eac-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt nyrefunksjon (5d669f6e-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Gadobutrol er ikke matchet
+ -> Nedsatt nyrefunksjon (5d669f96-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Gadoksetinsyre, dinatrium- er ikke matchet
+ -> Nedsatt nyrefunksjon (5d669fbe-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Gadoteridol er ikke matchet
+ -> Amming (5d693aee-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d686f1a-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt nyrefunksjon (5d669ff0-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Gadotersyre er ikke matchet
+ -> Amming (5d693b0c-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d686f38-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt nyrefunksjon (5d66a018-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Gadoversetamid er ikke matchet
+ -> Amming (5d693b34-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d686f60-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt leverfunksjon (5d67efae-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Galaktoseagglomerater er ikke matchet
+ -> Amming (5d693b5c-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d686f88-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Griseofulvin er ikke matchet
+ -> Nedsatt leverfunksjon (5d67f1b6-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Guanetidin er ikke matchet
+ -> Amming (5d694002-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d6873f2-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt nyrefunksjon (5d66a248-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Heksametylmelamin er ikke matchet
+ -> Nedsatt nyrefunksjon (5d66a2e8-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Histrelin er ikke matchet
+ -> Amming (5d6941ec-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d68762c-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt nyrefunksjon (5d66a338-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Immunsuppressive midler er ikke matchet
+ -> Amming (5d6946ba-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Iopentol er ikke matchet
+ -> Nedsatt nyrefunksjon (5d66a644-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Ivakaftor/tezakaftor er ikke matchet
+ -> Nedsatt leverfunksjon (5d67f60c-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Jobitridol er ikke matchet
+ -> Nedsatt nyrefunksjon (5d66a7d4-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Jodholdige røntgenkontrastmidler er ikke matchet
+ -> Nedsatt nyrefunksjon (5d66a7ac-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Jodiksanol er ikke matchet
+ -> Nedsatt nyrefunksjon (5d66a810-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Joheksol er ikke matchet
+ -> Amming (5d694b4c-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d688068-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt nyrefunksjon (5d66a838-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Jomeprol er ikke matchet
+ -> Nedsatt nyrefunksjon (5d66a860-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Joversol er ikke matchet
+ -> Nedsatt nyrefunksjon (5d66a888-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Klavulanat er ikke matchet
+ -> Amming (5d69529a-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d68866c-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt nyrefunksjon (5d66acb6-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Kolinesterasehemmere er ikke matchet
+ -> Graviditet (5d688b62-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Kontrastmidler, jodholdige er ikke matchet
+ -> Nedsatt nyrefunksjon (5d66af22-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Krizanlizumab er ikke matchet
+ -> Nedsatt nyrefunksjon (5d66af9a-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Larotrektinib er ikke matchet
+ -> Nedsatt leverfunksjon (5d67fbe8-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Lepirudin er ikke matchet
+ -> Amming (5d695be6-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d689350-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt nyrefunksjon (5d66b120-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Metylxantiner er ikke matchet
+ -> Graviditet (5d689fda-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Mineralkortikoider er ikke matchet
+ -> Graviditet (5d68a16a-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Monoaminoksidasehemmere er ikke matchet
+ -> Graviditet (5d68a386-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Monoaminreopptakshemmere, uselektive (TCA) er ikke matchet
+ -> Graviditet (5d68a3ae-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Muromonab-CD3 er ikke matchet
+ -> Amming (5d696c58-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt nyrefunksjon (5d66b896-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Natriumaurotiomalat er ikke matchet
+ -> Graviditet (5d68a674-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt leverfunksjon (5d68053e-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Norgestrel er ikke matchet
+ -> Amming (5d6a7b2a-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d68ab2e-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt leverfunksjon (5d680714-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Nusinersen er ikke matchet
+ -> Nedsatt nyrefunksjon (5d67abb6-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Paraaminosalisylsyre er ikke matchet
+ -> Nedsatt nyrefunksjon (5d67afc6-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Parathyreoideahormon er ikke matchet
+ -> Amming (5d6a839a-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d68b330-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt leverfunksjon (5d680ab6-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt nyrefunksjon (5d67b016-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Peginterferon beta-1a er ikke matchet
+ -> Nedsatt nyrefunksjon (5d67b0c0-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Pemigatinib er ikke matchet
+ -> Nedsatt nyrefunksjon (5d67b110-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Penicilliner er ikke matchet
+ -> Amming (5d6a864c-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d68b592-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Piperacillin er ikke matchet
+ -> Amming (5d6a88d6-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d68b81c-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt nyrefunksjon (5d67b278-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Piperakin er ikke matchet
+ -> Amming (5d6a88fe-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d68b83a-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt nyrefunksjon (5d67b2a0-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Progesteroner er ikke matchet
+ -> Amming (5d6a8e08-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Progestogener er ikke matchet
+ -> Graviditet (5d68bd30-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Retinoider er ikke matchet
+ -> Amming (5d6a9380-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d68c2e4-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Røntgenkontrastmidler er ikke matchet
+ -> Amming (5d6a9844-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d68caa0-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Sakinavir er ikke matchet
+ -> Amming (5d6a9894-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d68cae6-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt leverfunksjon (5d68138a-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt nyrefunksjon (5d67b8fe-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Sennepsgassderivater er ikke matchet
+ -> Graviditet (5d68ccb2-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Simeprevir er ikke matchet
+ -> Amming (5d6a9b96-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d68ce4c-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt leverfunksjon (5d6814ca-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt nyrefunksjon (5d67ba16-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Slimhinneavsvellende legemidler er ikke matchet
+ -> Graviditet (5d68cf00-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Steroidantibiotika er ikke matchet
+ -> Graviditet (5d68d0f4-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Sulfametoksazol er ikke matchet
+ -> Amming (5d6a9fec-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d68d28e-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt nyrefunksjon (5d67bc6e-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Sulfonamider er ikke matchet
+ -> Amming (5d6aa03c-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d68d2de-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Telaprevir er ikke matchet
+ -> Amming (5d6aa3f2-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d68d6a8-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt leverfunksjon (5d6817f4-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt nyrefunksjon (5d67be1c-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Tenofovirdisoproksil (finnes også i kombinasjon med emtricitabin) er ikke matchet
+ -> Nedsatt nyrefunksjon (5d67bebc-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Tipiracil er ikke matchet
+ -> Nedsatt nyrefunksjon (5d67c092-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Tokofersolan er ikke matchet
+ -> Amming (5d6aaac8-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d68dcca-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt nyrefunksjon (5d67c13c-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Velpatasvir er ikke matchet
+ -> Nedsatt nyrefunksjon (5d67c560-79d0-11ec-966b-367dda4511c0)

@@ -1,0 +1,151 @@
+
+/*
+
+Celletitler som bruker de manuelle listene til remapping
+
+*/
+
+
+
+Tittelen 5-ASA-preparater er matchet med 5-Aminosalisylsyreforbindelser (lk-12-fordoyel-1925)
+ -> Amming (5d68fa8e-79d0-11ec-966b-367dda4511c0)
+
+Tittelen 5-HT1-agonister er matchet med Selektive 5-HT1-reseptoragonister (p-294selektiv)
+ -> Amming (5d69426e-79d0-11ec-966b-367dda4511c0)
+
+Tittelen 5-HT3-antagonister er matchet med Serotoninantagonister (lk-19-febermm-1904)
+ -> Amming (5d694296-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Adrenerge alfa-1-reseptorantagonister er matchet med Adrenerge alfa-1 reseptorantagonister (lk-08-hjertekrets-2531)
+ -> Amming (5d68ec6a-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d6827a8-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Amprenavir er matchet med Amprenavir/fosamprenavir (lk-01-infeksjon-frf-retur-17072)
+ -> Amming (5d68f354-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d682f96-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt leverfunksjon (5d67ce70-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Androgener/anabole steroider er matchet med Androgene/anabole steroider (lk-03-endokr-5391)
+ -> Graviditet (5d68307c-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Antacida, kombinasjoner og komplekser av aluminium-, kalsium- og magnesiumforbindelser er matchet med Antacida (lk-12-fordoyel-16)
+ -> Amming (5d68f4f8-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d683130-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt leverfunksjon (5d67cf38-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt nyrefunksjon (5d6682fe-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Antidiabetika, perorale er matchet med Perorale blodglukosesenkende midler (lk-03-endokr-605)
+ -> Amming (5d68f5de-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d6831bc-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Antiinflammatoriske midler, ikke steroide er matchet med Ikke‑steroide antiinflammatoriske midler (NSAID) (lk-17-muskl-19)
+ -> Amming (5d68f692-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Antikonseptiva er matchet med Antikonsepsjonsmidler (lk-03-endokr-6811)
+ -> Amming (5d68f764-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Artemeter (+ lumefantrin) er matchet med Artemeter–lumefantrin (lk-01-infeksjon-frf-retur-17642)
+ -> Nedsatt leverfunksjon (5d67d14a-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Beta-2-reseptoragonister, adrenerge er matchet med Adrenerge beta-2-reseptoragonister (lk-10-lunger-633)
+ -> Amming (5d69054c-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Betalaktamantibiotika er matchet med Betalaktamasefølsomme penicilliner (lk-01-infeksjon-96)
+ -> Amming (5d6904fc-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d683cf2-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Betalaktampenicilliner er matchet med Betalaktamasefølsomme penicilliner (lk-01-infeksjon-96)
+ -> Nedsatt nyrefunksjon (5d6687b8-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Betareseptorantagonister er matchet med Adrenerge betareseptorantagonister (lk-08-hjertekrets-1020)
+ -> Nedsatt nyrefunksjon (5d6687e0-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Brentuksimab er matchet med Brentuksimab vedotin (lk-18-421802)
+ -> Amming (5d6908b2-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d684080-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt leverfunksjon (5d67d546-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt nyrefunksjon (5d6688f8-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Cabazitaxel er matchet med Kabazitaxel (lk-02-328405)
+ -> Nedsatt leverfunksjon (5d67d708-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Carbimazol er matchet med Karbimazol (lk-03-endokr-2212)
+ -> Nedsatt leverfunksjon (5d67d758-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Cyklizin er matchet med Syklizin (lk-09-allergi-763)
+ -> Nedsatt leverfunksjon (5d67d96a-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Etylmorfin er matchet med Etylmorfinkombinasjoner (lk-10-lunger-55)
+ -> Amming (5d6928a6-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d6863b2-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt leverfunksjon (5d67e9be-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt nyrefunksjon (5d669992-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Hetastivelse (hydroksyetylstivelse) er matchet med Hetastivelse (lk-23-ernering-2036)
+ -> Nedsatt nyrefunksjon (5d66a2c0-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Interferon alfa er matchet med Interferon alfa-2, peginterferon alfa-2 (lk-18-immunsuppr-frf-retur-3392d)
+ -> Graviditet (5d687c76-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt leverfunksjon (5d67f4a4-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Interferon beta er matchet med Interferon beta-1, peginterferon beta-1 (lk-18-immunsuppr-frf-retur-3392fl)
+ -> Graviditet (5d687c9e-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt leverfunksjon (5d67f4d6-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Kolekalsiferol er matchet med Vitamin D og analoger (lk-03-329746)
+ -> Amming (5d6956b4-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d688aa4-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt nyrefunksjon (5d66aea0-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Korifollitropin-alfa er matchet med Korifollitropin alfa (lk-03-endokr-23794)
+ -> Nedsatt nyrefunksjon (5d66af72-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Maviret er matchet med Glekaprevir-pibrentasvir (lk-01-600272)
+ -> Nedsatt leverfunksjon (5d67f120-79d0-11ec-966b-367dda4511c0)
+
+Tittelen NSAIDs (ikke-steroide antiinflammatoriske midler) er matchet med Ikke‑steroide antiinflammatoriske midler (NSAID) (lk-17-muskl-19)
+ -> Nedsatt nyrefunksjon (5d67ab8e-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Pankreasenzymer er matchet med Pankreasenzympreparater (lk-12-fordoyel-3991)
+ -> Amming (5d6a82a0-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Perorale antidiabetika er matchet med Perorale blodglukosesenkende midler (lk-03-endokr-605)
+ -> Graviditet (5d68b6e6-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Prostaglandiner er matchet med Prostaglandiner/prostaglandinanaloger (lk-15-gravid-16)
+ -> Amming (5d6a8f52-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d68beb6-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Rokuronium er matchet med Rokuron (lk-22-anestesi-1872)
+ -> Nedsatt nyrefunksjon (5d67b822-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Sulfonylureaforbindelser er matchet med Sulfonylureaderivater (lk-03-endokr-764)
+ -> Graviditet (5d68d2fc-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Thyreoideahormoner er matchet med Tyreoideahormoner (lk-03-endokr-1996)
+ -> Amming (5d6aa79e-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Tiazid-/tiazidlignende diuretika er matchet med Tiazider (lk-08-hjertekrets-18)
+ -> Nedsatt leverfunksjon (5d6819ac-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt nyrefunksjon (5d67bf8e-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Tiaziddiuretika er matchet med Tiazider (lk-08-hjertekrets-18)
+ -> Amming (5d6aa7ee-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d68da40-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Trisykliske antidepressiva (TCA) er matchet med Trisykliske antidepressiva (lk-05-psykisk-2691)
+ -> Amming (5d6aaf82-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Uselektive hemmere av monoaminoksidase er matchet med Irreversible, uselektive monoaminoksidasehemmere (MAOH) (lk-05-psykisk-3777)
+ -> Graviditet (5d68e26a-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Uselektive monoaminopptakshemmere er matchet med Irreversible, uselektive monoaminoksidasehemmere (MAOH) (lk-05-psykisk-3777)
+ -> Graviditet (5d68e292-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Vitamin D og vitamin D-analoger er matchet med Vitamin D og analoger (lk-03-329746)
+ -> Amming (5d6ab946-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Zoledronsyre er matchet med Zoledronat (lk-17-muskl-3073)
+ -> Amming (5d6abb12-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d68e8aa-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt nyrefunksjon (5d67c8ee-79d0-11ec-966b-367dda4511c0)

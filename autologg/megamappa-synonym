@@ -1,0 +1,359 @@
+
+/*
+
+Celletitler som matcher et av de registrerte synonymene (duplikate synonymer er utelatt)
+
+*/
+
+
+
+Tittelen AT1-reseptorantagonister er matchet med Angiotensin II-reseptorantagonister (lk-08-hjertekrets-5148)
+ -> Amming (5d68ff48-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Amfetamin er matchet med Deksamfetamin/amfetamin (lk-06-nevrol-3721)
+ -> Amming (5d68f11a-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d682d2a-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt nyrefunksjon (5d66801a-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Anabole steroider er matchet med Androgene/anabole steroider (lk-03-endokr-5391)
+ -> Amming (5d68f3cc-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Anastrozol er matchet med Aromatasehemmere (lk-02-377523)
+ -> Amming (5d68f43a-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d683054-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt leverfunksjon (5d67cee8-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt nyrefunksjon (5d668286-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Androgener er matchet med Androgene/anabole steroider (lk-03-endokr-5391)
+ -> Amming (5d68f462-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Antiandrogener er matchet med Hemmere av mannlige kjønnshormoner (lk-03-endokr-7395)
+ -> Amming (5d68f566-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d683194-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Aprepitant er matchet med Aprepitant og fosaprepitant (lk-19-febermm-frf-retur-524)
+ -> Amming (5d68f962-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d6834a0-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt leverfunksjon (5d67d0d2-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Bacillus Calmette-Guerin er matchet med BCG (lk-18-immunsuppr-frf-retur-4230)
+ -> Amming (5d6900f6-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d683914-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Bacitracin er matchet med Polypeptidantibiotika (lk-01-infeksjon-4984)
+ -> Amming (5d69011e-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d68393c-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Bendroflumetiazid er matchet med Tiazider (lk-08-hjertekrets-18)
+ -> Amming (5d69033a-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d683b30-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt leverfunksjon (5d67d3e8-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt nyrefunksjon (5d6686f0-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Betareseptorantagonister, adrenerge er matchet med Adrenerge betareseptorantagonister (lk-08-hjertekrets-1020)
+ -> Amming (5d69056a-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d683d6a-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Bimatoprost er matchet med Bimatoprost. Latanoprost. Tafluprost. Travoprost (lk-07-oye-882)
+ -> Amming (5d690696-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d683e96-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Brinzolamid er matchet med Brinzolamid, dorzolamid (lk-07-oye-507)
+ -> Amming (5d69092a-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d6840ee-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt nyrefunksjon (5d668920-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Budesonid er matchet med Inhalasjonsglukokortikoider (lk-03-364362)
+ -> Amming (5d690a10-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d6841f2-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Bupivakain er matchet med Bupivakain, Levobupivakain (lk-22-anestesi-129)
+ -> Amming (5d690a60-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d684242-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt leverfunksjon (5d67d668-79d0-11ec-966b-367dda4511c0)
+
+Tittelen COMT-hemmere er matchet med Katekol-O-metyltransferasehemmere (lk-06-nevrol-2772)
+ -> Amming (5d691122-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d6848a0-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Cannabis er matchet med Misbruk av cannabis og syntetiske cannabinoider (tk-05-psykisk-11666)
+ -> Nedsatt nyrefunksjon (5d668a88-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Deksamfetamin er matchet med Deksamfetamin/amfetamin (lk-06-nevrol-3721)
+ -> Nedsatt nyrefunksjon (5d668fe2-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Desfluran er matchet med Halogenerte (potente) inhalasjonsanestetika (lk-22-anestesi-800)
+ -> Amming (5d691780-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d684eea-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt leverfunksjon (5d67dce4-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt nyrefunksjon (5d669104-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Desmopressin er matchet med Desmopressin, terlipressin (lk-03-endokr-1768)
+ -> Amming (5d6917c6-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d684f30-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt nyrefunksjon (5d669154-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Diemal er matchet med Barbital (lk-05-psykisk-1155)
+ -> Amming (5d6918fc-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d685066-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Diuretika er matchet med Diuretika. Kalium/magnesium (lk-08-hjertekrets-15)
+ -> Amming (5d691c4e-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d6853fe-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Dorzolamid er matchet med Brinzolamid, dorzolamid (lk-07-oye-507)
+ -> Amming (5d691e92-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d68593a-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt nyrefunksjon (5d6693e8-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Dutasterid er matchet med Dutasterid, finasterid (lk-03-endokr-7712)
+ -> Amming (5d692004-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d685ac0-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt leverfunksjon (5d67e00e-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Erytropoietin er matchet med Epoetin (lk-04-blod-388)
+ -> Amming (5d6925c2-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d6860d8-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Etidronat er matchet med Bisfosfonater (lk-17-muskl-2591)
+ -> Amming (5d69277a-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d68627c-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Fibrinogen er matchet med Faktor I (lk-04-552603)
+ -> Amming (5d692c70-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d6867ae-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt leverfunksjon (5d67ec16-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Filgrastim er matchet med Hematopoetiske vekstfaktorer (lk-18-immunsuppr-frf-retur-3762)
+ -> Amming (5d692cc0-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d6867f4-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Finasterid er matchet med Dutasterid, finasterid (lk-03-endokr-7712)
+ -> Amming (5d692ce8-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d68681c-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Follitropin er matchet med Follitropin og lutropin (lk-03-598642)
+ -> Amming (5d6930d0-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d686bd2-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Fosaprepitant er matchet med Aprepitant og fosaprepitant (lk-19-febermm-frf-retur-524)
+ -> Amming (5d6931b6-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d686ce0-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt leverfunksjon (5d67eebe-79d0-11ec-966b-367dda4511c0)
+
+Tittelen GnRH-analoger er matchet med Analoger av gonadotropinfrigjørende hormon (lk-03-endokr-8223)
+ -> Amming (5d693ecc-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Gramicidin er matchet med Polypeptidantibiotika (lk-01-infeksjon-4984)
+ -> Amming (5d693f6c-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d6873a2-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Halogenerte inhalasjonsanestetika er matchet med Halogenerte (potente) inhalasjonsanestetika (lk-22-anestesi-800)
+ -> Graviditet (5d687460-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Hydroksyklorokin er matchet med Klorokin/hydroksyklorokin (lk-01-infeksjon-8520)
+ -> Amming (5d69439a-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d6877d0-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt nyrefunksjon (5d66a3e2-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Ikke-steroide antiinflammatoriske midler er matchet med Ikke‑steroide antiinflammatoriske midler (NSAID) (lk-17-muskl-19)
+ -> Amming (5d6945ca-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Isofluran er matchet med Halogenerte (potente) inhalasjonsanestetika (lk-22-anestesi-800)
+ -> Amming (5d694944-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d687e10-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Klodronat er matchet med Bisfosfonater (lk-17-muskl-2591)
+ -> Amming (5d695330-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d688702-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt nyrefunksjon (5d66ad10-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Klorokin er matchet med Klorokin/hydroksyklorokin (lk-01-infeksjon-8520)
+ -> Amming (5d695524-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d688900-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt nyrefunksjon (5d66ae00-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Koriongonadotropin er matchet med Lutropin og koriongonadotropin (lk-03-endokr-13663a)
+ -> Amming (5d69583a-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d688c66-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Kunstige tårevæsker er matchet med Kunstige tårevæsker/lindrende øyedråper (lk-07-oye-310)
+ -> Amming (5d6958f8-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d689080-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Lanreotid er matchet med Lanreotid, oktreotid (lk-03-endokr-1590)
+ -> Amming (5d695a9c-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d689242-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Latanoprost er matchet med Bimatoprost. Latanoprost. Tafluprost. Travoprost (lk-07-oye-882)
+ -> Amming (5d695b32-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d6892b0-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Letrozol er matchet med Aromatasehemmere (lk-02-377523)
+ -> Amming (5d695c90-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d6893dc-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Levobupivakain er matchet med Bupivakain, Levobupivakain (lk-22-anestesi-129)
+ -> Nedsatt leverfunksjon (5d67fcb0-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Lidokain er matchet med Antiarytmika klasse Ib (lk-08-hjertekrets-7815)
+ -> Amming (5d695e2a-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d689580-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt leverfunksjon (5d67fd78-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt nyrefunksjon (5d66b21a-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Lipefilgrastim er matchet med Hematopoetiske vekstfaktorer (lk-18-immunsuppr-frf-retur-3762)
+ -> Amming (5d695ef2-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d68963e-79d0-11ec-966b-367dda4511c0)
+
+Tittelen MAOH er matchet med Irreversible, uselektive monoaminoksidasehemmere (MAOH) (lk-05-psykisk-3777)
+ -> Graviditet (5d6899f4-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt leverfunksjon (5d67ff1c-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Monoklonale antistoffer er matchet med Monoklonale antistoffer ved muskel- og skjelettsykdommer (lk-17-272817)
+ -> Amming (5d696bc2-79d0-11ec-966b-367dda4511c0)
+
+Tittelen NSAID er matchet med Ikke‑steroide antiinflammatoriske midler (NSAID) (lk-17-muskl-19)
+ -> Amming (5d6a7bac-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d68ab9c-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt leverfunksjon (5d68075a-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Nabiksimoler er matchet med Nabiksimoler (cannabisekstrakt) (lk-06-323341)
+ -> Amming (5d696cc6-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d68a4b2-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt nyrefunksjon (5d66b8f0-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Natriumzirkonium er matchet med Natriumzirkoniumsyklosilikat (p-11natriumz)
+ -> Amming (5d696ea6-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d68a70a-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Nintedanib er matchet med Proteinkinasehemmere (lk-02-377678)
+ -> Amming (5d6970d6-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d68a93a-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt nyrefunksjon (5d67aabc-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Nitrater, organiske er matchet med Organiske nitrater (lk-08-hjertekrets-6070)
+ -> Graviditet (5d68a98a-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Oksybuprokain er matchet med Lokalanestetika i oftalmologien (lk-22-anestesi-678)
+ -> Amming (5d6a7d50-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d68ad40-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Oktreotid er matchet med Lanreotid, oktreotid (lk-03-endokr-1590)
+ -> Amming (5d6a7e72-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d68ae44-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Organo-heparinoid er matchet med Organo‑heparinoid (lk-04-blod-1326)
+ -> Amming (5d6a808e-79d0-11ec-966b-367dda4511c0)
+
+Tittelen P-piller er matchet med Østrogen-gestagen til antikonsepsjon (tk-14-gyn-86)
+ -> Amming (5d6a8bf6-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d68bb1e-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Pegfilgrastim er matchet med Hematopoetiske vekstfaktorer (lk-18-immunsuppr-frf-retur-3762)
+ -> Amming (5d6a8548-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d68b4ac-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Prednisolon er matchet med Prednisolon/Prednison (lk-03-endokr-2617)
+ -> Amming (5d6a8cbe-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d68bc04-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt leverfunksjon (5d680dfe-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Prednison er matchet med Prednisolon/Prednison (lk-03-endokr-2617)
+ -> Amming (5d6a8ce6-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d68bc22-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Proksymetakain er matchet med Lokalanestetika i oftalmologien (lk-22-anestesi-678)
+ -> Amming (5d6a8e8a-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d68bdda-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Prostasykliner er matchet med Prostasykliner og andre IP-prostanoidreseptoragonister (lk-08-hjertekrets-6557)
+ -> Graviditet (5d68be8e-79d0-11ec-966b-367dda4511c0)
+
+Tittelen RIMA er matchet med Reversible, selektive monoaminoksidase A-hemmere (RIMA) (lk-05-psykisk-3850)
+ -> Graviditet (5d68c3e8-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Raltitrexed er matchet med Raltitreksed (lk-02-neopl-795)
+ -> Amming (5d6a9114-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d68c082-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt leverfunksjon (5d680f34-79d0-11ec-966b-367dda4511c0)
+
+Tittelen SNRI er matchet med Serotonin- og noradrenalinreopptakshemmere (SNRI) (lk-05-psykisk-16264)
+ -> Amming (5d6a9c5e-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d68cf50-79d0-11ec-966b-367dda4511c0)
+
+Tittelen SSRI er matchet med Selektive serotoninreopptakshemmere (lk-05-psykisk-3149)
+ -> Amming (5d6a9dda-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d68d086-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Sentralstimulerende midler er matchet med Misbruk av sentralstimulerende midler (tk-05-psykisk-11653)
+ -> Graviditet (5d68ccda-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Sevofluran er matchet med Halogenerte (potente) inhalasjonsanestetika (lk-22-anestesi-800)
+ -> Amming (5d6a9b1e-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d68cdde-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt nyrefunksjon (5d67b9c6-79d0-11ec-966b-367dda4511c0)
+
+Tittelen TCA er matchet med Trisykliske antidepressiva (lk-05-psykisk-2691)
+ -> Amming (5d6aa348-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d68d61c-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Tafluprost er matchet med Bimatoprost. Latanoprost. Tafluprost. Travoprost (lk-07-oye-882)
+ -> Amming (5d6aa230-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d68d4e6-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt nyrefunksjon (5d67bda4-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Tenofovir er matchet med Tenofovir disoproksil, tenofovir alafenamid (lk-01-infeksjon-18637)
+ -> Amming (5d6aa564-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d68d806-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt leverfunksjon (5d6818d0-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Teofyllin er matchet med Teofyllin og teofyllinsalter (lk-10-428961)
+ -> Amming (5d6aa58c-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d68d824-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt leverfunksjon (5d6818ee-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Terlipressin er matchet med Desmopressin, terlipressin (lk-03-endokr-1768)
+ -> Amming (5d6aa6ae-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d68d932-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Tetrakain er matchet med Lokalanestetika i oftalmologien (lk-22-anestesi-678)
+ -> Amming (5d6aa776-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d68d9fa-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Tisagenlecleucel er matchet med Tisagenlekleucel (lk-02-597205)
+ -> Graviditet (5d68dc2a-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Tokoferol er matchet med Vitamin E (lk-23-ernering-92)
+ -> Amming (5d6aaaa0-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Trabectedin er matchet med Trabektedin (lk-02-neopl-12418)
+ -> Nedsatt leverfunksjon (5d681c4a-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Travoprost er matchet med Bimatoprost. Latanoprost. Tafluprost. Travoprost (lk-07-oye-882)
+ -> Amming (5d6aad34-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d68dedc-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Tretinoin er matchet med Diverse cytostatika og andre antitumormidler (lk-02-neopl-11422)
+ -> Amming (5d6aad84-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d68df2c-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt nyrefunksjon (5d67c344-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Triptaner er matchet med Selektive 5-HT1-reseptoragonister (p-294selektiv)
+ -> Amming (5d6aaf28-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d68e0a8-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Vitamin B1 er matchet med Vitamin B1 (Tiamin) (lk-23-ernering-174)
+ -> Amming (5d6ab8a6-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Vitamin B12 er matchet med Vitamin B12, Cyanokobalamin, hydroksokobalamin (lk-04-blod-189)
+ -> Amming (5d6ab8f6-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Vitamin B6 er matchet med Vitamin B6 (Pyridoksin) (lk-23-ernering-224)
+ -> Amming (5d6ab8ce-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Vitamin C er matchet med Vitamin C (Askorbinsyre) (lk-23-ernering-339)
+ -> Amming (5d6ab91e-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Vitamin D er matchet med Vitamin D og analoger (lk-03-329746)
+ -> Graviditet (5d68e6fc-79d0-11ec-966b-367dda4511c0)

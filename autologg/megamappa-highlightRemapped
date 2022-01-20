@@ -1,0 +1,86 @@
+
+/*
+
+Celletitler som treffer på ord i den manuelle highlightref-lista
+
+*/
+
+
+
+Tittelen Alfakalsidol er matchet med Vitamin D og analoger (lk-03-329746)
+ -> Amming (5d68ee86-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d682a28-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt nyrefunksjon (5d667ec6-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Amilorid er matchet med Amilorid–hydroklortiazid (lk-08-hjertekrets-673)
+ -> Amming (5d68f160-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d682d7a-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt nyrefunksjon (5d668092-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Antitymocytt er matchet med Antitymocytt immunglobulin (kanin) (lk-18-immunsuppr-5404)
+ -> Amming (5d68f84a-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d68337e-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Darbepoetin er matchet med Darbepoetin alfa (lk-04-blod-frf-retur-12815)
+ -> Amming (5d691460-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d684bca-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Darbepoetin er matchet med Darbepoetin alfa (lk-04-blod-frf-retur-12815)
+ -> Nedsatt leverfunksjon (5d67dad2-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Desogestrel er matchet med Perorale gestagener (lk-03-endokr-7205)
+ -> Amming (5d6917ee-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d684f58-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt leverfunksjon (5d67dd0c-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Dikloksacillin er matchet med Kloksacillin, dikloksacillin, flukloksacillin (lk-01-infeksjon-539)
+ -> Amming (5d691a0a-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d6851b0-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt nyrefunksjon (5d66929e-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Fenazon er matchet med Fenazon-koffein (lk-20-smerter-382)
+ -> Amming (5d692a54-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d68654c-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt nyrefunksjon (5d669a82-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Ganciklovir er matchet med Ganciklovir/valganciklovir (lk-01-infeksjon-8091)
+ -> Amming (5d693bd4-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d687000-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt nyrefunksjon (5d66a068-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Insulin er matchet med Insulin/insulinanaloger (lk-03-endokr-18)
+ -> Amming (5d6947c8-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d687c4e-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt nyrefunksjon (5d66a61c-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Kloksacillin er matchet med Kloksacillin, dikloksacillin, flukloksacillin (lk-01-infeksjon-539)
+ -> Amming (5d695376-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d688752-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt nyrefunksjon (5d66ad60-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Koffein er matchet med Koffein og koffeinsalter (lk-10-lunger-1628)
+ -> Amming (5d69568c-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d688a5e-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt nyrefunksjon (5d66ae78-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Levonorgestrel er matchet med Postkoital antikonsepsjon / Angrepille (lk-03-274356)
+ -> Amming (5d695db2-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d689512-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt leverfunksjon (5d67fd28-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Nandrolon er matchet med Androgene/anabole steroider (lk-03-endokr-5391)
+ -> Amming (5d696dd4-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d68a5c0-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt leverfunksjon (5d680476-79d0-11ec-966b-367dda4511c0)
+
+Tittelen Teriparatide er matchet med Teriparatide (hPTH(1-34)) (lk-03-318050)
+ -> Amming (5d6aa686-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d68d90a-79d0-11ec-966b-367dda4511c0)
+
+Tittelen VIII er matchet med Faktor VIII (lk-04-433660)
+ -> Amming (5d692946-79d0-11ec-966b-367dda4511c0)
+ -> Graviditet (5d686448-79d0-11ec-966b-367dda4511c0)
+ -> Nedsatt leverfunksjon (5d67ea54-79d0-11ec-966b-367dda4511c0)
+
+Tittelen insulin er matchet med Insulin/insulinanaloger (lk-03-endokr-18)
+ -> Graviditet (5d68c1d6-79d0-11ec-966b-367dda4511c0)
