@@ -1,0 +1,293 @@
+/*
+ 
+PatientInformationFix
+
+Kapitler av typen patientInformationSubstance endres til patientInformation.
+
+Disse kapitlene har blitt opprettet i den perioden feilen med kapitteltypene
+har vært ute i QA, og alle kapitler som er opprettet med feil type blir rettet nå.
+
+NB. Kapitler med bare _key blir også slettet i denne operasjonen.
+
+Totalt ble 65 vanlige kapitler rettet, 3 arvede kapitler rettet og 207 tomme kapitler slettet.
+
+*/
+
+PatientInformation:
+Rettet arvet kapittel i Avanafil
+Rettet arvet kapittel i Beklometason
+Rettet arvet kapittel i Benzatinpenicillin
+Rettet vanlig kapittel i 5-Aminosalisylsyreforbindelser
+Rettet vanlig kapittel i Acetylsalisylsyre
+Rettet vanlig kapittel i Androgene/anabole steroider
+Rettet vanlig kapittel i Antacida
+Rettet vanlig kapittel i Antidepressiva
+Rettet vanlig kapittel i Azacitidin
+Rettet vanlig kapittel i Bendamustin
+Rettet vanlig kapittel i Benzylbenzoat
+Rettet vanlig kapittel i Betalaktamasefølsomme penicilliner
+Rettet vanlig kapittel i Busulfan
+Rettet vanlig kapittel i Butylskopolamin
+Rettet vanlig kapittel i Cemiplimab
+Rettet vanlig kapittel i Cyproteron
+Rettet vanlig kapittel i Cyproteron–etinyløstradiol
+Rettet vanlig kapittel i Cytarabin
+Rettet vanlig kapittel i Dakarbazin
+Rettet vanlig kapittel i Decitabin
+Rettet vanlig kapittel i Docetaxel
+Rettet vanlig kapittel i Dutasterid, finasterid
+Rettet vanlig kapittel i Estramustin
+Rettet vanlig kapittel i Etoposid
+Rettet vanlig kapittel i Fludarabin
+Rettet vanlig kapittel i Fulvestrant
+Rettet vanlig kapittel i Gemcitabin
+Rettet vanlig kapittel i Generelt om immunsykdommer og transplantasjoner
+Rettet vanlig kapittel i Gilteritinib
+Rettet vanlig kapittel i Jern II-verdig til peroral administrasjon
+Rettet vanlig kapittel i Kabazitaxel
+Rettet vanlig kapittel i Kabotegravir
+Rettet vanlig kapittel i Karmustin
+Rettet vanlig kapittel i Kladribin
+Rettet vanlig kapittel i Kladribin
+Rettet vanlig kapittel i Klofarabin
+Rettet vanlig kapittel i Klomifen
+Rettet vanlig kapittel i Klorambucil
+Rettet vanlig kapittel i Kodein
+Rettet vanlig kapittel i Linaklotid
+Rettet vanlig kapittel i Lomustin
+Rettet vanlig kapittel i Merkaptopurin
+Rettet vanlig kapittel i Metolazon
+Rettet vanlig kapittel i Metylnaltrekson
+Rettet vanlig kapittel i Midodrin
+Rettet vanlig kapittel i Nelarabin
+Rettet vanlig kapittel i Oksykodon
+Rettet vanlig kapittel i Oksykodon–nalokson
+Rettet vanlig kapittel i Ozanimod
+Rettet vanlig kapittel i Paklitaxel
+Rettet vanlig kapittel i Pemetreksed
+Rettet vanlig kapittel i Penicillamin
+Rettet vanlig kapittel i Raltitreksed
+Rettet vanlig kapittel i Rekombinant faktor XIII
+Rettet vanlig kapittel i Sonidegib
+Rettet vanlig kapittel i Syklofosfamid
+Rettet vanlig kapittel i Tamoksifen
+Rettet vanlig kapittel i Temozolomid
+Rettet vanlig kapittel i Teniposid
+Rettet vanlig kapittel i Tioguanin
+Rettet vanlig kapittel i Tiotepa
+Rettet vanlig kapittel i Treosulfan
+Rettet vanlig kapittel i Trifluridin
+Rettet vanlig kapittel i Upadacitinib
+Rettet vanlig kapittel i Vinblastin
+Rettet vanlig kapittel i Vinflunin
+Rettet vanlig kapittel i Vinkristin
+Rettet vanlig kapittel i Vinorelbin
+
+Empties removed:
+Adrenalin (T2JI00C6)
+Alprostadil (0X74ByKA)
+Amlodipin (Ov4WirhP)
+Apremilast (JRZF2EDS)
+Atenolol (RuvV9yEe)
+Atorvastatin (0SWeb15k)
+Atropin (øye) (Kkc76fXj)
+Auranofin (3aHNIMDa)
+Aurotiomalat (59Zs6V6N)
+Baricitinib (BEdmN62k)
+Benzokain (H8Q3pB9m)
+Benztropin (MlgijE2V)
+Benztropin (MlgijE2V)
+Betaksolol (GFOace72)
+Bicalutamid (rU5f74X1)
+Biguanidderivater (FOZb2lIv)
+Biperiden (IBNTJG3x)
+Bisakodyl (ROcHAoHH)
+Bisoprolol (SAruCeja)
+Botulinumtoksin (migrene) (m6NHaymM)
+Budesonid (lunge) (eu9yCneG)
+Bumetanid (W9oFBEx4)
+Bupropion  (xTst8Lyq)
+Buserelin (llF68gqc)
+Cefalotin (oxseJuPY)
+Cefazolin (k8W9t3zV)
+Cefepim (ghXQPuRu)
+Cefiksim (PJxoTDYn)
+Ceftarolin (SMHV2hiV)
+Ceftazidim (TlrdjWkX)
+Ceftriakson (i6wT21m4)
+Cefuroksim (tl89zpJV)
+Cenegermin (lqzyh0lN)
+Cetrorelix (odZYkI8E)
+Ciklesonid (NittAC1P)
+Ciprofloksacin (FnoFoMH3)
+Cisatrakurium (p5FmB5KA)
+Citalopram (2aw4m0SK)
+Cytostatika (fgEdKFxD)
+Danazol (Z0Q77laz)
+Darifenacin (oTOfIRSA)
+Dibrompropamidin (aXRSMTdD)
+Digitoksin (vGWoAXTn)
+Digoksin (wEjcJ913)
+Dihydralazin (MnDQyoqf)
+Dikumarol (9JDatj57)
+Diltiazem (SeVOnyLI)
+Dinoproston (svcz2Clm)
+Doksysyklin (Gt3nMGR9)
+Donepezil (lNB1Ny5b)
+Doxazosin (FRiUssnp)
+Duloksetin (07U5uiOq)
+Entakapon (WGtFtmlB)
+Epoprostenol (W4EXRVxI)
+Eprosartan (2glJ1Opp)
+Ertapenem (TlxhKst9)
+Ertapenem (TlxhKst9)
+Ertugliflozin (JBcChrNH)
+Escitalopram (S0xhSLQW)
+Esmolol (oq9bDSD5)
+Esomeprazol (LMNM5gtS)
+Etilefrin (LJEymugz)
+Evolokumab (Hy95Dz0G)
+Fenelzin (YlESZN9d)
+Fluoksetin (xfG3I4Hq)
+Fluorescein (clCRGB42)
+Flutikason (4Y1mOJvh)
+Fluvastatin (BxFZ7XRA)
+Fluvoksamin (5oGZqSUy)
+Furosemid (eW16HJUS)
+Galantamin (NuQf6bc8)
+Ganirelix (FJFI4Yj3)
+Gemeprost (k0m5Kmks)
+Glyseroltrinitrat (zdQquH8r)
+Goserelin (NqCRI3Za)
+Granisetron (AK7we7Fn)
+Hepariner (OvKSFtZT)
+Hydrogenperoksid (njwZETSe)
+Hydroklortiazid (hvkNDLKF)
+Hydrokodon (AwcpKCPm)
+Hyoscyamin (6I3S6IoV)
+Ibandronat (U8MxcMLu)
+Idebenon (htOQ13ix)
+Iloprost (KQepC7o1)
+Imipenem (NpPnD4df)
+Interferoner (A89O7i4h)
+Irbesartan (49DNKX6r)
+Isosorbiddinitrat (fAa42ReY)
+Isosorbidmononitrat (ibGBfcn6)
+Isradipin (29MTxJrU)
+Kabergolin (zsWVzCDF)
+Kalsipotriol (h1p67K39)
+Kalsitriol (RtjWohwj)
+Kandesartan (rJsfk7Cl)
+Kaptopril (XknWr67f)
+Karvedilol (9mvqxSCJ)
+Klomipramin (RXIvATXJ)
+Klorheksidin (5OxaDISo)
+Klortetrasyklin (A04CNdAe)
+Klotrimazol (TrHIXtgG)
+Kolesevelam (S0NkvqH5)
+Kolestipol (z6WF27uV)
+Kolestyramin (TzwK3xgI)
+Kvinagolid (NbvOHx1E)
+Labetalol (YWjLCivn)
+Laktitol (8Aoticb8)
+Lansoprazol (6ChecS7M)
+Leuprorelin (4QWr4Y9B)
+Leuprorelin (4QWr4Y9B)
+Levofloksacin (jpWaawOw)
+Lidokain (antiarytmika) (HDXuzvtJ)
+Linagliptin (K6OOsHLA)
+Lisdeksamfetamin (LrFwVwUu)
+Lisinopril (ZKZZfeQm)
+Losartan (dpGF5vYt)
+Lovastatin (HAvcx4OR)
+Lymesyklin (pn01xSMD)
+Mannitol (EUuQBQBT)
+Mecillinam (Vrl7LOYE)
+Medroksyprogesteron (9wdaLqER)
+Megestrol (FBviqikp)
+Meksiletin (kV20U46Q)
+Memantin (sud8CwTI)
+Mepivakain (6JEoLucs)
+Meropenem (dX0ZG4vv)
+Mesalazin (g5MZEiCA)
+Metoksalen (al2x9PNa)
+Metoksyfluran (7dg2B6W0)
+Metoprolol (zQoOXR6R)
+Metylfenidat (kJRKfjfr)
+Metylrosanilin (XVxwWskR)
+Mikonazol (CPsCFC9m)
+Mitoksantron (NcO0IwVl)
+Mivakurium (LXZ8tWzl)
+Mometason (Z7DxQBBr)
+Nafarelin (ZMHRUm8u)
+Noradrenalin (wYyk8465)
+Noretisteron (mPsY4Dl4)
+Nortriptylin (t9pwiSkB)
+Oksybutynin (CiEWBruS)
+Oksytetrasyklin (AFAgmEYQ)
+Olmesartan (42A3vusp)
+Olsalazin (2quExoIa)
+Omeprazol (sLw7xPc8)
+Ondansetron (dbypWU84)
+Orfenadrin (UL2yIlDs)
+Palonosetron (3GoBxjsc)
+Pamidronat (2iilXlsv)
+Pankuron (nwJJoTFu)
+Pantoprazol (pxjvfuAg)
+Parafin (TiW72cUF)
+Paroksetin (UjrBNN6C)
+Perindopril (K51ooPOO)
+Pioglitazon (xpoFiTtk)
+Pivmecillinam (D8o7loz4)
+Porfimernatrium (LCN7G0uM)
+Pramipeksol (Yj77EZcR)
+Pravastatin (9IXUzsMx)
+Prednisolon (øye) (fV4vNiTK)
+Prilokain (qFFb2nGg)
+Progesteron (B0Yho5ft)
+Propranolol (ldFNqxeu)
+Ramipril (rCSR6qsv)
+Repaglinid (iYHp53IJ)
+Risedronat (nkNZgwtv)
+Rivastigmin (thrdL7AU)
+Rokuron (nqrrlKL9)
+Ropinirol (DszHoYSA)
+Ropivakain (c4XobbFy)
+Rosuvastatin (2gCn3yEe)
+Saksagliptin (gGdwCsPZ)
+Sennaglykosider (uC8cjs9O)
+Sertralin (ukrSj9oQ)
+Simvastatin (QMDUEuT5)
+Sitagliptin (5WMFb0mV)
+Solifenacin (T54HtCg8)
+Sotalol (IBG1MvhL)
+Spironolakton (3L0B0svT)
+Streptomycin (WfgHrFXj)
+Suksameton (qg8Lz3ML)
+Sulfasalazin (t1acEqOz)
+Syklopentolat (DZ6nPjeG)
+Sølvsulfadiazin (rfpEMfCB)
+Tamsulosin (dOwg6Lxg)
+Telmisartan (dQxDAkVU)
+Telotristat (DhtF5drD)
+Temoporfin (Eoh3nq38)
+Terazosin (xdyCoURL)
+Testosteron (mEq8tzJZ)
+Tigecyklin (c9Y9MTAN)
+Timolol (qDmlcvgn)
+Tofacitinib (2GjeY5Gm)
+Tolkapon (7XwVE0DW)
+Tolterodin (jemW0nsJ)
+Trimipramin (stbyLQ56)
+Triptorelin (s7BUK6Y8)
+Tropikamid (6dRp46gg)
+Tropisetron (SaCDHXAs)
+Valaciklovir (RdTaMbKw)
+Valsartan (L04AQtFk)
+Vekuron (L6Dq3VUb)
+Venlafaksin (2FdeUMQn)
+Vildagliptin (luLoVzhq)
+Vitaminer (Nny9GfdZ)
+Xylometazolin (3AGFVvbZ)
+Østradiol (M5bhSRym)
+Østriol (0IKmiGfg)
