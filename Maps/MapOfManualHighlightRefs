@@ -1,0 +1,575 @@
+
+/*
+
+Alle ord som er hentet fra manuelle highlighRef-lister
+Antall: 138
+
+*/
+
+CJC-1295:
+{'mappingState': 'remove', 'word': 'CJC-1295'}
+
+CNTO 530:
+{'mappingState': 'remove', 'word': 'CNTO 530'}
+
+Ciraparantag:
+{'mappingState': 'remove', 'word': 'Ciraparantag'}
+
+EMP:
+{'mappingState': 'remove', 'word': 'EMP'}
+
+EPO-Fc:
+{'mappingState': 'remove', 'word': 'EPO-Fc'}
+
+EPO-mimetiske peptider:
+{'mappingState': 'remove', 'word': 'EPO-mimetiske peptider'}
+
+GHRP-6:
+{'mappingState': 'remove', 'word': 'GHRP-6'}
+
+SARM:
+{'mappingState': 'remove', 'word': 'SARM'}
+
+SERM:
+{'mappingState': 'remove', 'word': 'SERM'}
+
+adstringerende:
+{'mappingState': 'manual', 'word': 'adstringerende'}
+
+aflibercept:
+{'mappingState': 'manual', 'word': 'aflibercept'}
+
+alexamorelin:
+{'mappingState': 'remove', 'word': 'alexamorelin'}
+
+alfakalsidol:
+{ 'mappingState': 'highlightRemapped',
+  'success': True,
+  'tdId': True,
+  'word': 'alfakalsidol'}
+
+amfetamin:
+{'mappingState': 'manual', 'word': 'amfetamin'}
+
+amilorid:
+{'mappingState': 'highlightRef', 'success': False, 'word': 'amilorid'}
+
+aminoglykosid:
+{'mappingState': 'highlightRef', 'success': False, 'word': 'aminoglykosid'}
+
+aminopenicilliner:
+{ 'mappingState': 'highlightRemapped',
+  'success': True,
+  'tdId': True,
+  'word': 'aminopenicilliner'}
+
+amitryptilin:
+{'mappingState': 'remove', 'word': 'amitryptilin'}
+
+anamorelin:
+{'mappingState': 'remove', 'word': 'anamorelin'}
+
+anastrozol:
+{'mappingState': 'highlightRef', 'success': False, 'word': 'anastrozol'}
+
+andexanet alfa:
+{'mappingState': 'manual', 'word': 'andexanet alfa'}
+
+androstatriendion:
+{'mappingState': 'remove', 'word': 'androstatriendion'}
+
+antitymocytt:
+{'mappingState': 'highlightRef', 'success': False, 'word': 'antitymocytt'}
+
+aprepitant:
+{ 'canonicalTitle': 'Aprepitant og fosaprepitant',
+  'mappingState': 'highlightRef',
+  'sanityRef': 'lk-19-febermm-frf-retur-524',
+  'success': True,
+  'word': 'aprepitant'}
+
+argon:
+{'mappingState': 'remove', 'word': 'argon'}
+
+askorbinsyre:
+{ 'canonicalTitle': 'Vitamin C (Askorbinsyre)',
+  'mappingState': 'highlightRef',
+  'sanityRef': 'lk-23-ernering-339',
+  'success': True,
+  'word': 'askorbinsyre'}
+
+bendroflumetiazid:
+{'mappingState': 'highlightRef', 'success': False, 'word': 'bendroflumetiazid'}
+
+betametason:
+{'mappingState': 'manual', 'word': 'betametason'}
+
+botulinumtoksin:
+{'mappingState': 'manual', 'word': 'botulinumtoksin'}
+
+brinzolamid:
+{'mappingState': 'manual', 'word': 'brinzolamid'}
+
+budesonid:
+{'mappingState': 'manual', 'word': 'budesonid'}
+
+bupivakain:
+{ 'canonicalTitle': 'Bupivakain, Levobupivakain',
+  'mappingState': 'highlightRef',
+  'sanityRef': 'lk-22-anestesi-129',
+  'success': True,
+  'word': 'bupivakain'}
+
+bupropion:
+{'mappingState': 'manual', 'word': 'bupropion'}
+
+cefalosporin:
+{'mappingState': 'highlightRef', 'success': False, 'word': 'cefalosporin'}
+
+celeston chronodose:
+{ 'mappingState': 'highlightRef',
+  'success': False,
+  'word': 'celeston chronodose'}
+
+cera:
+{ 'canonicalTitle': 'Metoksypolyetylenglykol-epoetin beta',
+  'mappingState': 'highlightRef',
+  'sanityRef': 'drafts.lk-04-blod-15662',
+  'success': True,
+  'word': 'cera'}
+
+clostebol:
+{'mappingState': 'remove', 'word': 'clostebol'}
+
+corticorelin:
+{'mappingState': 'remove', 'word': 'corticorelin'}
+
+cyklofenil,:
+{'mappingState': 'remove', 'word': 'cyklofenil,'}
+
+darbepoetin:
+{'mappingState': 'highlightRef', 'success': False, 'word': 'darbepoetin'}
+
+deksametason:
+{'mappingState': 'manual', 'word': 'deksametason'}
+
+desmopressin:
+{ 'canonicalTitle': 'Desmopressin, terlipressin',
+  'mappingState': 'highlightRef',
+  'sanityRef': 'lk-03-endokr-1768',
+  'success': True,
+  'word': 'desmopressin'}
+
+desogestrel:
+{ 'mappingState': 'highlightRemapped',
+  'success': True,
+  'tdId': True,
+  'word': 'desogestrel'}
+
+dikloksacillin:
+{'mappingState': 'highlightRef', 'success': False, 'word': 'dikloksacillin'}
+
+doksysyklin:
+{ 'canonicalTitle': 'Doksysyklin',
+  'mappingState': 'highlightRef',
+  'sanityRef': 'lk-01-infeksjon-2002',
+  'success': True,
+  'word': 'doksysyklin'}
+
+dorzolamid:
+{'mappingState': 'manual', 'word': 'dorzolamid'}
+
+epitelceller:
+{'mappingState': 'manual', 'word': 'epitelceller'}
+
+erytropoietiner:
+{'mappingState': 'highlightRef', 'success': False, 'word': 'erytropoietiner'}
+
+etakrynsyre:
+{'mappingState': 'remove', 'word': 'etakrynsyre'}
+
+etidronat:
+{ 'mappingState': 'highlightRemapped',
+  'success': True,
+  'tdId': True,
+  'word': 'etidronat'}
+
+fenazon:
+{'mappingState': 'highlightRef', 'success': False, 'word': 'fenazon'}
+
+fibrinogen:
+{ 'canonicalTitle': 'Faktor I',
+  'mappingState': 'highlightRef',
+  'sanityRef': 'lk-04-552603',
+  'success': True,
+  'word': 'fibrinogen'}
+
+filgrastim:
+{ 'canonicalTitle': 'Filgrastim, lipefilgrastim, pegfilgrastim',
+  'mappingState': 'highlightRef',
+  'sanityRef': 'lk-18-immunsuppr-frf-retur-3765b',
+  'success': True,
+  'word': 'filgrastim'}
+
+fluorokinolon:
+{'mappingState': 'highlightRef', 'success': False, 'word': 'fluorokinolon'}
+
+follitropin:
+{'mappingState': 'manual', 'word': 'follitropin'}
+
+formestan:
+{'mappingState': 'remove', 'word': 'formestan'}
+
+fosaprepitant:
+{ 'canonicalTitle': 'Aprepitant og fosaprepitant',
+  'mappingState': 'highlightRef',
+  'sanityRef': 'lk-19-febermm-frf-retur-524',
+  'success': True,
+  'word': 'fosaprepitant'}
+
+ganciklovir:
+{'mappingState': 'highlightRef', 'success': False, 'word': 'ganciklovir'}
+
+ghrelin:
+{'mappingState': 'remove', 'word': 'ghrelin'}
+
+ghrh:
+{'mappingState': 'highlightRef', 'success': False, 'word': 'ghrh'}
+
+glykopyrron:
+{'mappingState': 'manual', 'word': 'glykopyrron'}
+
+gonadorelin:
+{'mappingState': 'remove', 'word': 'gonadorelin'}
+
+h2‑antagonister:
+{'mappingState': 'highlightRef', 'success': False, 'word': 'h2‑antagonister'}
+
+hexarelin:
+{'mappingState': 'remove', 'word': 'hexarelin'}
+
+hostemiksturer:
+{ 'canonicalTitle': 'Diverse hostemiksturer o.l.',
+  'mappingState': 'highlightRef',
+  'sanityRef': 'lk-10-lunger-552',
+  'success': True,
+  'word': 'hostemiksturer'}
+
+hydroksyklorokin:
+{ 'canonicalTitle': 'Klorokin/hydroksyklorokin',
+  'mappingState': 'highlightRef',
+  'sanityRef': 'lk-01-infeksjon-8520',
+  'success': True,
+  'word': 'hydroksyklorokin'}
+
+ikke-steroide antiinflammatoriske midler:
+{ 'mappingState': 'highlightRef',
+  'success': False,
+  'word': 'ikke-steroide antiinflammatoriske midler'}
+
+imiquimod:
+{'mappingState': 'manual', 'word': 'imiquimod'}
+
+immunglobulin:
+{ 'canonicalTitle': 'Immunglobuliner',
+  'mappingState': 'highlightRef',
+  'sanityRef': 'lk-01-infeksjon-9478',
+  'success': True,
+  'word': 'immunglobulin'}
+
+indapamid:
+{'mappingState': 'remove', 'word': 'indapamid'}
+
+insulin:
+{'mappingState': 'highlightRef', 'success': True, 'word': 'insulin'}
+
+insulinanaloger:
+{'mappingState': 'highlightRef', 'success': False, 'word': 'insulinanaloger'}
+
+interferon:
+{ 'mappingState': 'highlightRemapped',
+  'partOf': True,
+  'success': True,
+  'tdId': True,
+  'type': 'highlightMapperSubstring',
+  'word': 'peginterferon alfa a og b'}
+
+ipamorelin:
+{'mappingState': 'remove', 'word': 'ipamorelin'}
+
+irinotekan:
+{ 'canonicalTitle': 'Irinotekan',
+  'mappingState': 'highlightRef',
+  'sanityRef': 'lk-02-neopl-3184',
+  'success': True,
+  'word': 'irinotekan'}
+
+ivmecillinam, trimetoprim:
+{'mappingState': 'manual', 'word': 'ivmecillinam, trimetoprim'}
+
+kaliumklorid:
+{'mappingState': 'highlightRef', 'success': False, 'word': 'kaliumklorid'}
+
+kaliumpermanganat:
+{'mappingState': 'manual', 'word': 'kaliumpermanganat'}
+
+kaliumsitrat:
+{'mappingState': 'highlightRef', 'success': False, 'word': 'kaliumsitrat'}
+
+kanrenon:
+{'mappingState': 'highlightRef', 'success': False, 'word': 'kanrenon'}
+
+klenbuterol:
+{'mappingState': 'remove', 'word': 'klenbuterol'}
+
+kloksacillin:
+{'mappingState': 'highlightRef', 'success': False, 'word': 'kloksacillin'}
+
+klorokin:
+{ 'canonicalTitle': 'Klorokin/hydroksyklorokin',
+  'mappingState': 'highlightRef',
+  'sanityRef': 'lk-01-infeksjon-8520',
+  'success': True,
+  'word': 'klorokin'}
+
+klorokiner:
+{'mappingState': 'highlightRef', 'success': False, 'word': 'klorokiner'}
+
+klortalidon:
+{'mappingState': 'remove', 'word': 'klortalidon'}
+
+klostebol:
+{'mappingState': 'remove', 'word': 'klostebol'}
+
+koffein:
+{'mappingState': 'highlightRef', 'success': False, 'word': 'koffein'}
+
+kondroitin:
+{'mappingState': 'remove', 'word': 'kondroitin'}
+
+koriongonadotropin:
+{ 'canonicalTitle': 'Lutropin og koriongonadotropin',
+  'mappingState': 'highlightRef',
+  'sanityRef': 'lk-03-endokr-13663a',
+  'success': True,
+  'word': 'koriongonadotropin'}
+
+lanreotid:
+{ 'canonicalTitle': 'Lanreotid, oktreotid',
+  'mappingState': 'highlightRef',
+  'sanityRef': 'lk-03-endokr-1590',
+  'success': True,
+  'word': 'lanreotid'}
+
+letrozol:
+{'mappingState': 'highlightRef', 'success': False, 'word': 'letrozol'}
+
+levonorgestrel:
+{ 'mappingState': 'highlightRemapped',
+  'partOf': True,
+  'success': True,
+  'tdId': True,
+  'type': 'highlightMapperSubstring',
+  'word': 'norgestrel'}
+
+lidokain:
+{'mappingState': 'manual', 'word': 'lidokain'}
+
+makrogol:
+{ 'canonicalTitle': 'Makrogoler',
+  'mappingState': 'highlightRef',
+  'sanityRef': 'lk-12-fordoyel-2854',
+  'success': True,
+  'word': 'makrogol'}
+
+meldonium:
+{'mappingState': 'remove', 'word': 'meldonium'}
+
+misoprostol:
+{'mappingState': 'manual', 'word': 'misoprostol'}
+
+morfin–skopolamin:
+{'mappingState': 'manual', 'word': 'morfin–skopolamin'}
+
+nandrolon:
+{ 'mappingState': 'highlightRemapped',
+  'success': True,
+  'tdId': True,
+  'word': 'nandrolon'}
+
+naproxen :
+{'mappingState': 'highlightRef', 'success': False, 'word': 'naproxen '}
+
+nikotinamid:
+{ 'canonicalTitle': 'Vitamin B3 (Nikotinamid, nikotinsyre, niacin)',
+  'mappingState': 'highlightRef',
+  'sanityRef': 'lk-23-ernering-267',
+  'success': True,
+  'word': 'nikotinamid'}
+
+nintedanib:
+{'mappingState': 'manual', 'word': 'nintedanib'}
+
+nsaid:
+{ 'canonicalTitle': 'Ikke‑steroide antiinflammatoriske midler (NSAID)',
+  'mappingState': 'highlightRef',
+  'sanityRef': 'lk-17-muskl-19',
+  'success': True,
+  'word': 'nsaid'}
+
+oktreotid:
+{ 'canonicalTitle': 'Lanreotid, oktreotid',
+  'mappingState': 'highlightRef',
+  'sanityRef': 'lk-03-endokr-1590',
+  'success': True,
+  'word': 'oktreotid'}
+
+olimumab:
+{'mappingState': 'highlightRef', 'success': False, 'word': 'olimumab'}
+
+omega-3:
+{'mappingState': 'manual', 'word': 'omega-3'}
+
+oprim:
+{'mappingState': 'manual', 'word': 'oprim'}
+
+pegfilgrastim:
+{ 'canonicalTitle': 'Filgrastim, lipefilgrastim, pegfilgrastim',
+  'mappingState': 'highlightRef',
+  'sanityRef': 'lk-18-immunsuppr-frf-retur-3765b',
+  'success': True,
+  'word': 'pegfilgrastim'}
+
+peginesatide:
+{'mappingState': 'remove', 'word': 'peginesatide'}
+
+penicillin g:
+{'mappingState': 'highlightRef', 'success': False, 'word': 'penicillin g'}
+
+pilokarpin:
+{'mappingState': 'manual', 'word': 'pilokarpin'}
+
+podofyllotoksin:
+{ 'mappingState': 'highlightRemapped',
+  'partOf': True,
+  'success': True,
+  'tdId': True,
+  'type': 'highlightMapperSubstring',
+  'word': 'podofyllin podofyllotoksin'}
+
+pralmorelin:
+{'mappingState': 'remove', 'word': 'pralmorelin'}
+
+protonpumpehemmer:
+{'mappingState': 'highlightRef', 'success': False, 'word': 'protonpumpehemmer'}
+
+pyridoksin:
+{ 'canonicalTitle': 'Vitamin B6 (Pyridoksin)',
+  'mappingState': 'highlightRef',
+  'sanityRef': 'lk-23-ernering-224',
+  'success': True,
+  'word': 'pyridoksin'}
+
+raloksifen,:
+{ 'canonicalTitle': 'Raloksifen',
+  'mappingState': 'highlightRef',
+  'sanityRef': 'lk-03-endokr-8005',
+  'success': True,
+  'word': 'raloksifen,'}
+
+rimetoprim,:
+{'mappingState': 'manual', 'word': 'rimetoprim,'}
+
+selektive androgenreseptormodulatorer:
+{'mappingState': 'remove', 'word': 'selektive androgenreseptormodulatorer'}
+
+selektive østrogenreseptormodulatorer:
+{ 'mappingState': 'highlightRef',
+  'success': False,
+  'word': 'selektive østrogenreseptormodulatorer'}
+
+selensulfid:
+{'mappingState': 'manual', 'word': 'selensulfid'}
+
+steinkulltjære:
+{'mappingState': 'remove', 'word': 'steinkulltjære'}
+
+tafluprost:
+{ 'canonicalTitle': 'Bimatoprost. Latanoprost. Tafluprost. Travoprost',
+  'mappingState': 'highlightRef',
+  'sanityRef': 'lk-07-oye-882',
+  'success': True,
+  'word': 'tafluprost'}
+
+teofyllin:
+{ 'canonicalTitle': 'Teofyllin og teofyllinsalter',
+  'mappingState': 'highlightRemapped',
+  'partOf': True,
+  'sanityRef': 'lk-10-428961',
+  'success': True,
+  'tdId': True,
+  'type': 'highlightMapperSubstring',
+  'word': 'teofyllinetylendiamin'}
+
+teriparatide :
+{'mappingState': 'highlightRef', 'success': False, 'word': 'teriparatide '}
+
+teriparatide:
+{'mappingState': 'highlightRef', 'success': False, 'word': 'teriparatide'}
+
+terlipressin:
+{ 'canonicalTitle': 'Desmopressin, terlipressin',
+  'mappingState': 'highlightRef',
+  'sanityRef': 'lk-03-endokr-1768',
+  'success': True,
+  'word': 'terlipressin'}
+
+tesamorelin:
+{'mappingState': 'remove', 'word': 'tesamorelin'}
+
+testolakton.:
+{'mappingState': 'remove', 'word': 'testolakton.'}
+
+tiamin:
+{ 'canonicalTitle': 'Vitamin B1 (Tiamin)',
+  'mappingState': 'highlightRef',
+  'sanityRef': 'lk-23-ernering-174',
+  'success': True,
+  'word': 'tiamin'}
+
+toremifen:
+{ 'mappingState': 'highlightRemapped',
+  'success': True,
+  'tdId': True,
+  'word': 'toremifen'}
+
+tretinoin:
+{'mappingState': 'manual', 'word': 'tretinoin'}
+
+trimet:
+{'mappingState': 'manual', 'word': 'trimet'}
+
+trimetazidin:
+{'mappingState': 'remove', 'word': 'trimetazidin'}
+
+trimetoprim-sulfametoksazol:
+{ 'canonicalTitle': 'Trimetoprim–sulfametoksazol',
+  'mappingState': 'highlightRef',
+  'sanityRef': 'lk-01-infeksjon-3851',
+  'success': True,
+  'word': 'trimetoprim-sulfametoksazol'}
+
+viii:
+{'mappingState': 'highlightRef', 'success': False, 'word': 'viii'}
+
+xenon:
+{'mappingState': 'remove', 'word': 'xenon'}
+
+zeranol:
+{'mappingState': 'remove', 'word': 'zeranol'}
+
+zilpaterol:
+{'mappingState': 'remove', 'word': 'zilpaterol'}
+
+øyesalve:
+{'mappingState': 'manual', 'word': 'øyesalve'}

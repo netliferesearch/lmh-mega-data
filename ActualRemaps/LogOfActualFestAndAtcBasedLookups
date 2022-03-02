@@ -1,0 +1,106 @@
+
+/*
+
+Lenker som måtte via fest og atc-kodene for å matche
+Antall: 11
+
+*/
+
+benserazid:
+{ 'canonicalTitle': 'Levodopa',
+  'cleanedTitle': 'levodopa',
+  'mappingState': 'atc',
+  'sanityRef': 'lk-06-nevrol-1861',
+  'success': True,
+  'tdId': True,
+  'word': 'benserazid'}
+
+desoksymetason:
+{ 'canonicalTitle': 'Glukokortikoider, sterke',
+  'cleanedTitle': 'glukokortikoider sterke',
+  'mappingState': 'atc',
+  'sanityRef': 'lk-03-365180',
+  'success': True,
+  'tdId': True,
+  'word': 'fluocinonid'}
+
+ergokalsiferol:
+{ 'canonicalTitle': 'Vitamin D og analoger',
+  'cleanedTitle': 'vitamin d og analoger',
+  'mappingState': 'atc',
+  'sanityRef': 'lk-03-329746',
+  'success': True,
+  'tdId': True,
+  'word': 'ergokalsiferol'}
+
+fluocinonid:
+{ 'canonicalTitle': 'Glukokortikoider, sterke',
+  'cleanedTitle': 'glukokortikoider sterke',
+  'mappingState': 'atc',
+  'sanityRef': 'lk-03-365180',
+  'success': True,
+  'tdId': True,
+  'word': 'fluocinonid'}
+
+guaifenesin:
+{ 'canonicalTitle': 'Diverse hostemiksturer o.l.',
+  'cleanedTitle': 'diverse hostemiksturer o l',
+  'mappingState': 'atc',
+  'sanityRef': 'lk-10-lunger-552',
+  'success': True,
+  'tdId': True,
+  'word': 'guaifenesin'}
+
+karbidopa:
+{ 'canonicalTitle': 'Levodopa–entakapon',
+  'cleanedTitle': 'levodopa entakapon',
+  'mappingState': 'atc',
+  'sanityRef': 'lk-06-nevrol-5365',
+  'success': True,
+  'tdId': True,
+  'word': 'karbidopa'}
+
+klobetasol:
+{ 'canonicalTitle': 'Glukokortikoider, ekstra sterke',
+  'cleanedTitle': 'glukokortikoider ekstra sterke',
+  'mappingState': 'atc',
+  'sanityRef': 'lk-03-365184',
+  'success': True,
+  'tdId': True,
+  'word': 'klobetasol'}
+
+lutropin alfa:
+{ 'canonicalTitle': 'Follitropin og lutropin',
+  'cleanedTitle': 'follitropin og lutropin',
+  'mappingState': 'atc',
+  'sanityRef': 'lk-03-598642',
+  'success': True,
+  'tdId': True,
+  'word': 'lutropin alfa'}
+
+norelgestromin:
+{ 'canonicalTitle': 'Monofasepreparater; p-piller, p-vaginalring, p-plaster',
+  'cleanedTitle': 'monofasepreparater p piller p vaginalring p plaster',
+  'mappingState': 'atc',
+  'sanityRef': 'lk-03-endokr-6878',
+  'success': True,
+  'tdId': True,
+  'word': 'norelgestromin'}
+
+povidon:
+{ 'canonicalTitle': 'Indifferent øyesalve',
+  'cleanedTitle': 'indifferent øyesalve',
+  'mappingState': 'atc',
+  'sanityRef': 'lk-07-oye-286',
+  'success': True,
+  'tdId': True,
+  'word': 'povidon'}
+
+vosevi:
+{ 'canonicalTitle': 'Sofosbuvir–velpatasvir-voksilaprevir',
+  'cleanedTitle': 'sofosbuvir velpatasvir voksilaprevir',
+  'mappingState': 'atc',
+  'sanityRef': 'lk-01-599256',
+  'success': True,
+  'tdId': True,
+  'word': 'vosevi'}

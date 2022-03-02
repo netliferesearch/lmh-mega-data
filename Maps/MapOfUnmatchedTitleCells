@@ -1,0 +1,1995 @@
+
+/*
+
+Alle tittel-cellene i tabellene sine id'er som ikke matcher til canonicals
+Antall: 419
+
+*/
+
+d1e339439:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'dibotermin alfa b inductos'}
+
+d1e341505:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'muromonab cd'}
+
+d1e343996:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'antikoagulantia perorale'}
+
+d1e344890:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'elbasvir og grazoprevir kombinasjonspreparat'}
+
+d1e347034:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'para aminosalisylsyre'}
+
+d1e347160:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'pitavastatin'}
+
+d1e347401:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'rimonabant'}
+
+d1e347459:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'rolapitant'}
+
+d1e347483:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'rosiglitazon'}
+
+d1e347561:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'sarilumab'}
+
+d1e347691:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'sulindak'}
+
+d1e347874:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'ticagrelor'}
+
+d1e347897:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'tinzaparin'}
+
+d1e347921:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'tipranavir'}
+
+d1e347928:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'tirofiban'}
+
+d1e348016:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'trandolapril'}
+
+d1e352277:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'altretamin'}
+
+d1e352323:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'aminoeddiksyre glysin'}
+
+d1e352454:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'amylmetakresol'}
+
+d1e352485:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'androgener anabole steroider'}
+
+d1e352552:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'antidiabetika perorale'}
+
+d1e352591:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'antikoagulantia perorale'}
+
+d1e352678:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'anti xa lavmolekylært heparin'}
+
+d1e352794:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'asa preparater'}
+
+d1e353047:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'bariumsulfat'}
+
+d1e353062:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'bazedoksifen'}
+
+d1e353272:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'bifonazol'}
+
+d1e353359:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'boceprevir'}
+
+d1e353411:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'bretylium'}
+
+d1e353478:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'bronkolytika adrenerge'}
+
+d1e353781:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'cetylpyridin'}
+
+d1e353999:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'daklatasvir'}
+
+d1e354057:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'dapaglifozin'}
+
+d1e354143:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'deferipron'}
+
+d1e354300:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'diatrizoinsyre'}
+
+d1e354595:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'domperidon'}
+
+d1e354870:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'emepron'}
+
+d1e354878:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'empaglifozin'}
+
+d1e355153:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'etanol'}
+
+d1e355398:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'fenoterol'}
+
+d1e355585:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'flumetason'}
+
+d1e355602:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'fluocinolon'}
+
+d1e355761:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'fomepizol'}
+
+d1e355819:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'framycetin hud'}
+
+d1e355861:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'fysostigmin'}
+
+d1e355911:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'gadodiamid'}
+
+d1e355918:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'gadopentetat'}
+
+d1e356127:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'glysin aminoeddiksyre'}
+
+d1e356296:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'hexametylmelamin altretamin'}
+
+d1e356304:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'hexaminolevulinat'}
+
+d1e356368:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'homatropin'}
+
+d1e356376:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'ht agonister'}
+
+d1e356761:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'iobitridol'}
+
+d1e356769:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'iodixanol'}
+
+d1e356777:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'iomeprol'}
+
+d1e356857:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'isosorbidmono og dinitrat'}
+
+d1e356948:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'det finnes ingen velkontrollerte studier med bruk hos gravide bør '
+          'unngås i første trimester'}
+
+d1e356971:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'jopromid'}
+
+d1e356979:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'joxaglinsyre'}
+
+d1e357211:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'karisoprodol'}
+
+d1e357260:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'ketorolac'}
+
+d1e357544:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'koksiber'}
+
+d1e357586:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'kolfoskeril'}
+
+d1e357706:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'k vitaminantagonister'}
+
+d1e358200:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'lynestrenol'}
+
+d1e358517:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'metoksypeg epoietin beta'}
+
+d1e358665:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'miglitol'}
+
+d1e358828:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'monoaminreopptakshemmere uselektive tca'}
+
+d1e358854:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'moroktokog alfa'}
+
+d1e358861:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'muromonab cd'}
+
+d1e358868:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'muskelrelakserende midler perifert virkende'}
+
+d1e359095:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'nevroleptika'}
+
+d1e359207:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'nitroglyserin'}
+
+d1e359244:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'nomegestrel'}
+
+d1e359658:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'palifermin'}
+
+d1e359732:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'papillomavirusvaksine'}
+
+d1e360038:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'piracetam'}
+
+d1e360062:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'pitavastatin'}
+
+d1e360111:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'polygelin'}
+
+d1e360118:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'polymyksin hud øye'}
+
+d1e360574:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'regadenoson'}
+
+d1e360758:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'rimonabant'}
+
+d1e360877:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'rosiglitazon'}
+
+d1e361015:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'sarilumab'}
+
+d1e361151:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'sibutramin'}
+
+d1e361311:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'stavudin'}
+
+d1e361406:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'sulfadoksin'}
+
+d1e361449:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'sulindak'}
+
+d1e361473:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'superparamagnetisk jernoksid'}
+
+d1e361663:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'teikoplanin'}
+
+d1e361678:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'telbivudin'}
+
+d1e361841:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'tetrahydrocannabinol'}
+
+d1e361891:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'ticagrelor'}
+
+d1e361973:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'tipranavir'}
+
+d1e361981:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'tirofiban'}
+
+d1e362091:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'trandolapril'}
+
+d1e362196:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'trimegestone'}
+
+d1e362233:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'trioksalen'}
+
+d1e362298:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'tyreostatika tioamid'}
+
+d1e362349:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'unoproston'}
+
+d1e362601:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'vinkaalkaloider'}
+
+d1e363684:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'altretamin'}
+
+d1e363753:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'aminoeddiksyre glysin'}
+
+d1e363910:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'amylmetakresol'}
+
+d1e364077:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'antidiabetika perorale'}
+
+d1e364201:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'antikoagulantia perorale'}
+
+d1e364359:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'anti xa lavmolekylært heparin'}
+
+d1e364494:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'asa preparater'}
+
+d1e364516:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'asparginase crisantapase'}
+
+d1e364844:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'bariumsulfat'}
+
+d1e364866:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'bazedoksifen'}
+
+d1e365088:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'beta reseptoragonister adrenerge'}
+
+d1e365150:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'bifonazol'}
+
+d1e365270:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'boceprevir'}
+
+d1e365338:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'bretylium'}
+
+d1e365859:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'cetylpyridin'}
+
+d1e366021:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'cox hemmere'}
+
+d1e366155:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'daklatasvir'}
+
+d1e366355:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'deferipron'}
+
+d1e366578:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'diatrizoinsyre'}
+
+d1e366959:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'domperidon'}
+
+d1e367322:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'emepron'}
+
+d1e367333:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'empaglifozin'}
+
+d1e367699:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'etanol'}
+
+d1e368032:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'fenoterol'}
+
+d1e368219:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'flucytosin'}
+
+d1e368287:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'flumetason'}
+
+d1e368310:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'fluocinolon'}
+
+d1e368510:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'fomepizol'}
+
+d1e368591:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'framycetin hud'}
+
+d1e368672:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'fysostigmin'}
+
+d1e368734:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'gadobensyre'}
+
+d1e368744:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'gadodiamid'}
+
+d1e368754:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'gadopentetat'}
+
+d1e369053:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'glysin aminoeddiksyre'}
+
+d1e369130:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'gresspollerallergen'}
+
+d1e369285:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'hexametylmelamin altretamin'}
+
+d1e369296:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'hexaminolevulinat'}
+
+d1e369340:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'homatropin'}
+
+d1e369350:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'ht agonister'}
+
+d1e369379:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'humant protein c'}
+
+d1e369865:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'iobitridol'}
+
+d1e369876:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'iodixanol'}
+
+d1e369887:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'iomeprol'}
+
+d1e370131:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'jod jodofor'}
+
+d1e370152:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'jopromid'}
+
+d1e370163:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'joxaglinsyre'}
+
+d1e370425:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'karisoprodol'}
+
+d1e370509:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'ketorolac'}
+
+d1e370974:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'kolfoskeril'}
+
+d1e371798:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'lynestrenol'}
+
+d1e372171:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'metoksypeg epoietin beta'}
+
+d1e372395:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'miglitol'}
+
+d1e372604:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'moroktokog alfa'}
+
+d1e372614:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'muromonab cd'}
+
+d1e372625:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'muskelrelakserende midler perifert virkende'}
+
+d1e372894:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'nevroleptika'}
+
+d1e373613:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'palifermin'}
+
+d1e373718:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'papillomavirusvaksine'}
+
+d1e374122:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'piracetam'}
+
+d1e374155:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'pitavastatin'}
+
+d1e374199:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'polygelin'}
+
+d1e374209:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'polymyksin hud øye'}
+
+d1e374797:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'regadenoson'}
+
+d1e374972:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'rimonabant'}
+
+d1e375132:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'rosiglitazon'}
+
+d1e375323:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'sarilumab'}
+
+d1e375451:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'sibutramin'}
+
+d1e375603:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'spectinomycin'}
+
+d1e375675:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'stavudin'}
+
+d1e375793:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'sulfadoksin'}
+
+d1e375837:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'sulindak'}
+
+d1e375873:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'superparamagnetisk jernoksid'}
+
+d1e376126:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'teikoplanin'}
+
+d1e376147:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'telbivudin'}
+
+d1e376377:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'tetrahydrocannabinol'}
+
+d1e376455:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'ticagrelor'}
+
+d1e376548:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'tipranavir'}
+
+d1e376559:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'tirofiban'}
+
+d1e376718:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'trandolapril'}
+
+d1e376739:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'tranylcypromin'}
+
+d1e376835:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'trijodtyronin t'}
+
+d1e376849:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'trimegeston'}
+
+d1e376895:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'trioksalen'}
+
+d1e376969:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'tyroksin t'}
+
+d1e377032:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'unoproston'}
+
+d1e377042:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'uracil tegafur'}
+
+gk-07-319210:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'k vitaminantagonister'}
+
+gk-07-319265:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'kolfoskeril'}
+
+gk-07-319285:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'koksiber'}
+
+gk-07-319430:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'ketorolac'}
+
+gk-07-319460:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'karisoprodol'}
+
+gk-07-395756:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'dibotermin alfa b inductos'}
+
+gk-07-416015:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'rimonabant'}
+
+gk-07-416075:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'rosiglitazon'}
+
+gk-07-416368:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'sulindak'}
+
+gk-07-416620:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'tinzaparin'}
+
+gk-07-416645:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'tipranavir'}
+
+gk-07-416650:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'tirofiban'}
+
+gk-07-416715:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'trandolapril'}
+
+gk-07-417369:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'antikoagulantia perorale'}
+
+gk-07-gravid-1092c:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'deferipron'}
+
+gk-07-gravid-11006c:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'unoproston'}
+
+gk-07-gravid-11463:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'rimonabant'}
+
+gk-07-gravid-1146:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'diatrizoinsyre'}
+
+gk-07-gravid-11615:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'metoksypeg epoietin beta'}
+
+gk-07-gravid-11645:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'telbivudin'}
+
+gk-07-gravid-11782:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'det finnes ingen velkontrollerte studier med bruk hos gravide bør '
+          'unngås i første trimester'}
+
+gk-07-gravid-11818:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'bazedoksifen'}
+
+gk-07-gravid-11909:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'papillomavirusvaksine'}
+
+gk-07-gravid-1408:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'emepron'}
+
+gk-07-gravid-1504:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'etanol'}
+
+gk-07-gravid-1590:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'fenoterol'}
+
+gk-07-gravid-1676:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'flumetason'}
+
+gk-07-gravid-1691:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'fluocinolon'}
+
+gk-07-gravid-1778:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'fomepizol'}
+
+gk-07-gravid-1799:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'framycetin hud'}
+
+gk-07-gravid-1814:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'fysostigmin'}
+
+gk-07-gravid-1836:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'gadodiamid'}
+
+gk-07-gravid-1841:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'gadopentetat'}
+
+gk-07-gravid-1944:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'glysin aminoeddiksyre'}
+
+gk-07-gravid-2036:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'hexametylmelamin altretamin'}
+
+gk-07-gravid-2038c:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'hexaminolevulinat'}
+
+gk-07-gravid-2058:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'homatropin'}
+
+gk-07-gravid-2063:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'ht agonister'}
+
+gk-07-gravid-2247:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'iobitridol'}
+
+gk-07-gravid-2252:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'iodixanol'}
+
+gk-07-gravid-2257:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'iomeprol'}
+
+gk-07-gravid-2298:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'isosorbidmono og dinitrat'}
+
+gk-07-gravid-2349:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'jopromid'}
+
+gk-07-gravid-2354:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'joxaglinsyre'}
+
+gk-07-gravid-2872:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'lynestrenol'}
+
+gk-07-gravid-298:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'altretamin'}
+
+gk-07-gravid-3094:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'miglitol'}
+
+gk-07-gravid-318:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'aminoeddiksyre glysin'}
+
+gk-07-gravid-3196:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'monoaminreopptakshemmere uselektive tca'}
+
+gk-07-gravid-3212:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'moroktokog alfa'}
+
+gk-07-gravid-3217:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'muromonab cd'}
+
+gk-07-gravid-3222:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'muskelrelakserende midler perifert virkende'}
+
+gk-07-gravid-3325:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'nevroleptika'}
+
+gk-07-gravid-3388:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'nitroglyserin'}
+
+gk-07-gravid-3566c:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'palifermin'}
+
+gk-07-gravid-3682:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'piracetam'}
+
+gk-07-gravid-3718:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'polygelin'}
+
+gk-07-gravid-3723:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'polymyksin hud øye'}
+
+gk-07-gravid-386:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'androgener anabole steroider'}
+
+gk-07-gravid-4064:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'rosiglitazon'}
+
+gk-07-gravid-4154c:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'sibutramin'}
+
+gk-07-gravid-4219:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'stavudin'}
+
+gk-07-gravid-421:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'anti xa lavmolekylært heparin'}
+
+gk-07-gravid-4260:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'sulfadoksin'}
+
+gk-07-gravid-4292:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'sulindak'}
+
+gk-07-gravid-4302:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'superparamagnetisk jernoksid'}
+
+gk-07-gravid-432:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'antidiabetika perorale'}
+
+gk-07-gravid-4355:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'teikoplanin'}
+
+gk-07-gravid-4481c:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'tipranavir'}
+
+gk-07-gravid-4489:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'tirofiban'}
+
+gk-07-gravid-4534:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'trandolapril'}
+
+gk-07-gravid-4569c:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'trimegestone'}
+
+gk-07-gravid-456:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'antikoagulantia perorale'}
+
+gk-07-gravid-4591:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'trioksalen'}
+
+gk-07-gravid-4630:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'tyreostatika tioamid'}
+
+gk-07-gravid-4727:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'vinkaalkaloider'}
+
+gk-07-gravid-536:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'asa preparater'}
+
+gk-07-gravid-650:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'bariumsulfat'}
+
+gk-07-gravid-754:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'bifonazol'}
+
+gk-07-gravid-791:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'bretylium'}
+
+gk-07-gravid-811:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'bronkolytika adrenerge'}
+
+gk-07-gravid-924:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'cetylpyridin'}
+
+gk-08-amming-1008:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'diatrizoinsyre'}
+
+gk-08-amming-1251:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'emepron'}
+
+gk-08-amming-1341:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'etanol'}
+
+gk-08-amming-1428:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'fenoterol'}
+
+gk-08-amming-1485:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'flucytosin'}
+
+gk-08-amming-1515:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'flumetason'}
+
+gk-08-amming-1530:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'fluocinolon'}
+
+gk-08-amming-1606:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'fomepizol'}
+
+gk-08-amming-1626:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'framycetin hud'}
+
+gk-08-amming-1654:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'fysostigmin'}
+
+gk-08-amming-1672c:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'gadobensyre'}
+
+gk-08-amming-1675:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'gadodiamid'}
+
+gk-08-amming-1680:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'gadopentetat'}
+
+gk-08-amming-1793:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'glysin aminoeddiksyre'}
+
+gk-08-amming-1874:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'hexametylmelamin altretamin'}
+
+gk-08-amming-1876c:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'hexaminolevulinat'}
+
+gk-08-amming-1884:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'homatropin'}
+
+gk-08-amming-1889:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'ht agonister'}
+
+gk-08-amming-1898c:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'humant protein c'}
+
+gk-08-amming-2053:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'iobitridol'}
+
+gk-08-amming-2058:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'iodixanol'}
+
+gk-08-amming-2063:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'iomeprol'}
+
+gk-08-amming-213:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'altretamin'}
+
+gk-08-amming-2145:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'jod jodofor'}
+
+gk-08-amming-2172:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'jopromid'}
+
+gk-08-amming-2177:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'joxaglinsyre'}
+
+gk-08-amming-2254:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'karisoprodol'}
+
+gk-08-amming-2290:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'ketorolac'}
+
+gk-08-amming-230c:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'aminoeddiksyre glysin'}
+
+gk-08-amming-2443:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'cox hemmere'}
+
+gk-08-amming-2459:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'kolfoskeril'}
+
+gk-08-amming-2670:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'lynestrenol'}
+
+gk-08-amming-2868:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'miglitol'}
+
+gk-08-amming-2964:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'moroktokog alfa'}
+
+gk-08-amming-2969:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'muromonab cd'}
+
+gk-08-amming-2974:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'muskelrelakserende midler perifert virkende'}
+
+gk-08-amming-3066:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'nevroleptika'}
+
+gk-08-amming-3273c:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'palifermin'}
+
+gk-08-amming-3384:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'piracetam'}
+
+gk-08-amming-3414:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'polygelin'}
+
+gk-08-amming-3419:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'polymyksin hud øye'}
+
+gk-08-amming-343:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'antidiabetika perorale'}
+
+gk-08-amming-3719:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'rosiglitazon'}
+
+gk-08-amming-3785c:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'sibutramin'}
+
+gk-08-amming-379:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'antikoagulantia perorale'}
+
+gk-08-amming-3810c:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'spectinomycin'}
+
+gk-08-amming-3840:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'stavudin'}
+
+gk-08-amming-3881:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'sulfadoksin'}
+
+gk-08-amming-3908:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'sulindak'}
+
+gk-08-amming-3918:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'superparamagnetisk jernoksid'}
+
+gk-08-amming-3965:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'teikoplanin'}
+
+gk-08-amming-4097c:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'tipranavir'}
+
+gk-08-amming-4099:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'tirofiban'}
+
+gk-08-amming-4144:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'trandolapril'}
+
+gk-08-amming-4174:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'trijodtyronin t'}
+
+gk-08-amming-4177c:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'trimegeston'}
+
+gk-08-amming-4195:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'trioksalen'}
+
+gk-08-amming-4233:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'tyroksin t'}
+
+gk-08-amming-427:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'anti xa lavmolekylært heparin'}
+
+gk-08-amming-447:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'asa preparater'}
+
+gk-08-amming-453:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'asparginase crisantapase'}
+
+gk-08-amming-5081c:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'uracil tegafur'}
+
+gk-08-amming-5081g:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'unoproston'}
+
+gk-08-amming-555:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'bariumsulfat'}
+
+gk-08-amming-5601:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'rimonabant'}
+
+gk-08-amming-647:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'bifonazol'}
+
+gk-08-amming-678:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'bretylium'}
+
+gk-08-amming-7854:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'gresspollerallergen'}
+
+gk-08-amming-7924:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'tranylcypromin'}
+
+gk-08-amming-7953:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'beta reseptoragonister adrenerge'}
+
+gk-08-amming-8047:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'metoksypeg epoietin beta'}
+
+gk-08-amming-805:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'cetylpyridin'}
+
+gk-08-amming-8096:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'telbivudin'}
+
+gk-08-amming-8621:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'bazedoksifen'}
+
+gk-08-amming-8764:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'papillomavirusvaksine'}
+
+gk-08-amming-954c:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'deferipron'}
+
+id-221758:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'pitavastatin'}
+
+id-221763:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'regadenoson'}
+
+id-221778:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'ticagrelor'}
+
+id-221882:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'pitavastatin'}
+
+id-221889:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'regadenoson'}
+
+id-221963:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'ticagrelor'}
+
+id-319158:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'boceprevir'}
+
+id-319975:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'nomegestrel'}
+
+id-320051:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'boceprevir'}
+
+id-361297:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'tetrahydrocannabinol'}
+
+id-362545:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'tetrahydrocannabinol'}
+
+id-375866:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'dapaglifozin'}
+
+id-398131:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'muromonab cd'}
+
+id-592738:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'amylmetakresol'}
+
+id-592948:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'amylmetakresol'}
+
+id-593220:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'daklatasvir'}
+
+id-593232:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'daklatasvir'}
+
+id-593264:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'empaglifozin'}
+
+id-593269:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'empaglifozin'}
+
+id-593493:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'domperidon'}
+
+id-593498:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'domperidon'}
+
+id-594092:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'para aminosalisylsyre'}
+
+id-594263:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'elbasvir og grazoprevir kombinasjonspreparat'}
+
+id-596983:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'rolapitant'}
+
+id-604110:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'sarilumab'}
+
+id-604115:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'sarilumab'}
+
+id-604272:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'sarilumab'}
+
+id415682-104211:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'pitavastatin'}
+
+id416605-104315:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'ticagrelor'}
+
+p-103:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'talazoparib'}
+
+p-104:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'talazoparib'}
+
+p-107:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'prasteron'}
+
+p-108:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'prasteron'}
+
+p-112:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'peramivir'}
+
+p-113:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'peramivir'}
+
+p-1149:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'tetrahydrocannabinol thc'}
+
+p-122:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'kaplasizumab'}
+
+p-123:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'kaplasizumab'}
+
+p-128:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'tisagen lecleucel'}
+
+p-129:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'tisagen lecleucel'}
+
+p-142:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'peramivir'}
+
+p-143:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'peramivir'}
+
+p-156:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'kaplasizumab'}
+
+p-157:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'kaplasizumab'}
+
+p-168:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'denguevirus vaksine'}
+
+p-169:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'denguevirus vaksine'}
+
+p-183:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'risankizumab'}
+
+p-184:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'argipresin'}
+
+p-185:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'argipresin'}
+
+p-20:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'dinutuximab'}
+
+p-21:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'dinutuximab'}
+
+p-22:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'milrinon'}
+
+p-23:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'milrinon'}
+
+p-256:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'deguevirus vaksine'}
+
+p-257:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'deguevirus vaksine'}
+
+p-279:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'risankizumab'}
+
+p-280:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'risankizumab'}
+
+p-35:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'milrinon'}
+
+p-36:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'milrinon'}
+
+p-548:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'inklisiran'}
+
+p-549:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'inklisiran'}
+
+p-553:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'filgotinib'}
+
+p-554:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'filgotinib'}
+
+p-642:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'filgotinib'}
+
+p-67:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'rukaparib'}
+
+p-68:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'rukaparib'}
+
+p-768:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'kontrastmidler jodholdige'}
+
+p-77:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'argipressin'}
+
+p-78:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'argipressin'}
+
+p-91:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'rukaparib'}
+
+p-92:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'rukaparib'}
+
+td-398:
+{'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'filgotinib'}
+
+td-524:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'kontrastmidler jodholdige'}
+
+td-892:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'tetrahydrocannabinol thc'}
