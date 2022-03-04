@@ -1,0 +1,59 @@
+/*
+
+Sorterer alle kapitler etter en gitt rekkefølge.
+Arva kapitler sorteres etter sin types plass.
+
+Virkestoff, etc.:
+general
+  - properties
+  - pharmacokinetics
+  - indications
+  - contraIndications
+  - sideEffects
+  - dosage
+  - overdosage
+  - precautions
+  - pregnancyAndNursing
+  - fertility
+  - followUp
+  - discontinuation
+  - patientInformation
+  - seeAlso
+  - methodReview
+  - sourcesChapter
+  - chapter
+  - inheritedChapter
+  - references
+  - administration
+
+Diagnoser:
+summary
+  - emergencyTreatment
+  - conditionIntroduction
+  - general
+  - etiology
+  - epidemiology
+  - symptoms
+  - diagnostics
+  - differentialDiagnosis
+  - treatment
+  - prognosis
+  - followUp
+  - prophylaxis
+  - complications
+  - seeAlso
+  - sourcesChapter
+  - patientInformation
+  - pregnancyAndNursing
+  - sideEffects
+  - references
+  - chapter
+  - inheritedChapter
+  - methodReview
+  - discontinuation
+  - properties
+  - precautions
+  - indications
+  - contraIndications
+
+*/
