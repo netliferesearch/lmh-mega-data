@@ -11,6 +11,7 @@ benserazid:
   'cleanedTitle': 'levodopa',
   'mappingState': 'atc',
   'sanityRef': 'lk-06-nevrol-1861',
+  'schemaType': 'substance',
   'success': True,
   'tdId': True,
   'word': 'benserazid'}
@@ -20,6 +21,7 @@ desoksymetason:
   'cleanedTitle': 'glukokortikoider sterke',
   'mappingState': 'atc',
   'sanityRef': 'lk-03-365180',
+  'schemaType': 'substance',
   'success': True,
   'tdId': True,
   'word': 'fluocinonid'}
@@ -29,6 +31,7 @@ ergokalsiferol:
   'cleanedTitle': 'vitamin d og analoger',
   'mappingState': 'atc',
   'sanityRef': 'lk-03-329746',
+  'schemaType': 'substance',
   'success': True,
   'tdId': True,
   'word': 'ergokalsiferol'}
@@ -38,6 +41,7 @@ fluocinonid:
   'cleanedTitle': 'glukokortikoider sterke',
   'mappingState': 'atc',
   'sanityRef': 'lk-03-365180',
+  'schemaType': 'substance',
   'success': True,
   'tdId': True,
   'word': 'fluocinonid'}
@@ -47,6 +51,7 @@ guaifenesin:
   'cleanedTitle': 'diverse hostemiksturer o l',
   'mappingState': 'atc',
   'sanityRef': 'lk-10-lunger-552',
+  'schemaType': 'substance',
   'success': True,
   'tdId': True,
   'word': 'guaifenesin'}
@@ -56,6 +61,7 @@ karbidopa:
   'cleanedTitle': 'levodopa entakapon',
   'mappingState': 'atc',
   'sanityRef': 'lk-06-nevrol-5365',
+  'schemaType': 'compound',
   'success': True,
   'tdId': True,
   'word': 'karbidopa'}
@@ -65,6 +71,7 @@ klobetasol:
   'cleanedTitle': 'glukokortikoider ekstra sterke',
   'mappingState': 'atc',
   'sanityRef': 'lk-03-365184',
+  'schemaType': 'substance',
   'success': True,
   'tdId': True,
   'word': 'klobetasol'}
@@ -74,6 +81,7 @@ lutropin alfa:
   'cleanedTitle': 'follitropin og lutropin',
   'mappingState': 'atc',
   'sanityRef': 'lk-03-598642',
+  'schemaType': 'substance',
   'success': True,
   'tdId': True,
   'word': 'lutropin alfa'}
@@ -83,6 +91,7 @@ norelgestromin:
   'cleanedTitle': 'monofasepreparater p piller p vaginalring p plaster',
   'mappingState': 'atc',
   'sanityRef': 'lk-03-endokr-6878',
+  'schemaType': 'substance',
   'success': True,
   'tdId': True,
   'word': 'norelgestromin'}
@@ -92,6 +101,7 @@ povidon:
   'cleanedTitle': 'indifferent øyesalve',
   'mappingState': 'atc',
   'sanityRef': 'lk-07-oye-286',
+  'schemaType': 'substance',
   'success': True,
   'tdId': True,
   'word': 'povidon'}
@@ -101,6 +111,7 @@ vosevi:
   'cleanedTitle': 'sofosbuvir velpatasvir voksilaprevir',
   'mappingState': 'atc',
   'sanityRef': 'lk-01-599256',
+  'schemaType': 'compound',
   'success': True,
   'tdId': True,
   'word': 'vosevi'}

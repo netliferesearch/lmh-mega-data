@@ -120,6 +120,7 @@ aprepitant:
 { 'canonicalTitle': 'Aprepitant og fosaprepitant',
   'mappingState': 'highlightRef',
   'sanityRef': 'lk-19-febermm-frf-retur-524',
+  'schemaType': 'substance',
   'success': True,
   'type': 'highlightMapper',
   'word': 'aprepitant'}
@@ -131,6 +132,7 @@ askorbinsyre:
 { 'canonicalTitle': 'Vitamin C (Askorbinsyre)',
   'mappingState': 'highlightRef',
   'sanityRef': 'lk-23-ernering-339',
+  'schemaType': 'substance',
   'success': True,
   'type': 'synonym',
   'word': 'askorbinsyre'}
@@ -180,6 +182,7 @@ bupivakain:
   'mappingState': 'highlightRef',
   'partOf': True,
   'sanityRef': 'lk-22-anestesi-129',
+  'schemaType': 'substance',
   'success': True,
   'type': 'highlightMapper',
   'word': 'bupivakain'}
@@ -208,6 +211,7 @@ cera:
 { 'canonicalTitle': 'Metoksypolyetylenglykol-epoetin beta',
   'mappingState': 'highlightRef',
   'sanityRef': 'drafts.lk-04-blod-15662',
+  'schemaType': 'substance',
   'success': True,
   'type': 'synonym',
   'word': 'cera'}
@@ -240,6 +244,7 @@ desmopressin:
 { 'canonicalTitle': 'Desmopressin, terlipressin',
   'mappingState': 'highlightRef',
   'sanityRef': 'lk-03-endokr-1768',
+  'schemaType': 'substance',
   'success': True,
   'type': 'highlightMapper',
   'word': 'desmopressin'}
@@ -262,6 +267,7 @@ doksysyklin:
 { 'canonicalTitle': 'Doksysyklin',
   'mappingState': 'highlightRef',
   'sanityRef': 'lk-01-infeksjon-2002',
+  'schemaType': 'substance',
   'success': True,
   'type': 'highlightMapper',
   'word': 'doksysyklin'}
@@ -305,6 +311,7 @@ fibrinogen:
 { 'canonicalTitle': 'Faktor I',
   'mappingState': 'highlightRef',
   'sanityRef': 'lk-04-552603',
+  'schemaType': 'classification',
   'success': True,
   'type': 'highlightMapper',
   'word': 'fibrinogen'}
@@ -314,6 +321,7 @@ filgrastim:
   'mappingState': 'highlightRef',
   'partOf': True,
   'sanityRef': 'lk-18-immunsuppr-frf-retur-3765b',
+  'schemaType': 'substance',
   'success': True,
   'type': 'highlightMapperSubstring',
   'word': 'filgrastim'}
@@ -341,6 +349,7 @@ fosaprepitant:
 { 'canonicalTitle': 'Aprepitant og fosaprepitant',
   'mappingState': 'highlightRef',
   'sanityRef': 'lk-19-febermm-frf-retur-524',
+  'schemaType': 'substance',
   'success': True,
   'type': 'highlightMapper',
   'word': 'fosaprepitant'}
@@ -379,6 +388,7 @@ hostemiksturer:
 { 'canonicalTitle': 'Diverse hostemiksturer o.l.',
   'mappingState': 'highlightRef',
   'sanityRef': 'lk-10-lunger-552',
+  'schemaType': 'substance',
   'success': True,
   'type': 'synonym',
   'word': 'hostemiksturer'}
@@ -387,6 +397,7 @@ hydroksyklorokin:
 { 'canonicalTitle': 'Klorokin/hydroksyklorokin',
   'mappingState': 'highlightRef',
   'sanityRef': 'lk-01-infeksjon-8520',
+  'schemaType': 'substance',
   'success': True,
   'type': 'highlightMapper',
   'word': 'hydroksyklorokin'}
@@ -441,6 +452,7 @@ irinotekan:
 { 'canonicalTitle': 'Irinotekan',
   'mappingState': 'highlightRef',
   'sanityRef': 'lk-02-neopl-3184',
+  'schemaType': 'substance',
   'success': True,
   'type': 'highlightMapper',
   'word': 'irinotekan'}
@@ -481,6 +493,7 @@ klorokin:
   'mappingState': 'highlightRef',
   'partOf': True,
   'sanityRef': 'lk-01-infeksjon-8520',
+  'schemaType': 'substance',
   'success': True,
   'type': 'highlightMapper',
   'word': 'klorokin'}
@@ -507,6 +520,7 @@ koriongonadotropin:
 { 'canonicalTitle': 'Lutropin og koriongonadotropin',
   'mappingState': 'highlightRef',
   'sanityRef': 'lk-03-endokr-13663a',
+  'schemaType': 'substance',
   'success': True,
   'type': 'highlightMapper',
   'word': 'koriongonadotropin'}
@@ -515,6 +529,7 @@ lanreotid:
 { 'canonicalTitle': 'Lanreotid, oktreotid',
   'mappingState': 'highlightRef',
   'sanityRef': 'lk-03-endokr-1590',
+  'schemaType': 'substance',
   'success': True,
   'type': 'highlightMapper',
   'word': 'lanreotid'}
@@ -546,6 +561,7 @@ makrogol:
 { 'canonicalTitle': 'Makrogoler',
   'mappingState': 'highlightRef',
   'sanityRef': 'lk-12-fordoyel-2854',
+  'schemaType': 'substance',
   'success': True,
   'type': 'synonym',
   'word': 'makrogol'}
@@ -586,6 +602,7 @@ nikotinamid:
   'mappingState': 'highlightRef',
   'partOf': True,
   'sanityRef': 'lk-23-ernering-267',
+  'schemaType': 'substance',
   'success': True,
   'type': 'highlightMapperSubstring',
   'word': 'nikotinamid'}
@@ -603,6 +620,7 @@ nsaid:
   'mappingState': 'highlightRef',
   'partOf': True,
   'sanityRef': 'lk-17-muskl-19',
+  'schemaType': 'classification',
   'success': True,
   'type': 'highlightMapper',
   'word': 'nsaid'}
@@ -611,6 +629,7 @@ oktreotid:
 { 'canonicalTitle': 'Lanreotid, oktreotid',
   'mappingState': 'highlightRef',
   'sanityRef': 'lk-03-endokr-1590',
+  'schemaType': 'substance',
   'success': True,
   'type': 'highlightMapper',
   'word': 'oktreotid'}
@@ -632,6 +651,7 @@ pegfilgrastim:
 { 'canonicalTitle': 'Filgrastim, lipefilgrastim, pegfilgrastim',
   'mappingState': 'highlightRef',
   'sanityRef': 'lk-18-immunsuppr-frf-retur-3765b',
+  'schemaType': 'substance',
   'success': True,
   'type': 'highlightMapper',
   'word': 'pegfilgrastim'}
@@ -681,6 +701,7 @@ raloksifen,:
   'mappingState': 'highlightRef',
   'partOf': True,
   'sanityRef': 'lk-03-endokr-8005',
+  'schemaType': 'substance',
   'success': True,
   'type': 'highlightMapperSubstring',
   'word': 'raloksifen,'}
@@ -708,6 +729,7 @@ tafluprost:
 { 'canonicalTitle': 'Bimatoprost. Latanoprost. Tafluprost. Travoprost',
   'mappingState': 'highlightRef',
   'sanityRef': 'lk-07-oye-882',
+  'schemaType': 'substance',
   'success': True,
   'type': 'highlightMapper',
   'word': 'tafluprost'}
@@ -718,6 +740,7 @@ teofyllin:
   'mappingState': 'highlightRemapped',
   'partOf': True,
   'sanityRef': 'lk-10-428961',
+  'schemaType': 'substance',
   'success': True,
   'tdId': True,
   'type': 'highlightMapperSubstring',
@@ -736,6 +759,7 @@ terlipressin:
 { 'canonicalTitle': 'Desmopressin, terlipressin',
   'mappingState': 'highlightRef',
   'sanityRef': 'lk-03-endokr-1768',
+  'schemaType': 'substance',
   'success': True,
   'type': 'highlightMapper',
   'word': 'terlipressin'}
@@ -750,6 +774,7 @@ tiamin:
 { 'canonicalTitle': 'Vitamin B1 (Tiamin)',
   'mappingState': 'highlightRef',
   'sanityRef': 'lk-23-ernering-174',
+  'schemaType': 'substance',
   'success': True,
   'type': 'synonym',
   'word': 'tiamin'}
@@ -788,6 +813,7 @@ trimetoprim-sulfametoksazol:
   'mappingState': 'highlightRef',
   'partOf': True,
   'sanityRef': 'lk-01-infeksjon-3851',
+  'schemaType': 'compound',
   'success': True,
   'type': 'highlightMapperSubstring',
   'word': 'trimetoprim-sulfametoksazol'}

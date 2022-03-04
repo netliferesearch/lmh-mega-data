@@ -10,6 +10,7 @@ Antall: 180
 { 'canonicalTitle': '5-Aminosalisylsyreforbindelser',
   'mappingState': 'mega',
   'sanityRef': 'lk-12-fordoyel-1925',
+  'schemaType': 'classification',
   'success': True,
   'word': '5 aminosalisylsyreforbindelser'}
 
@@ -17,6 +18,7 @@ Antall: 180
 { 'canonicalTitle': 'Selektive 5-HT1-reseptoragonister',
   'mappingState': 'mega',
   'sanityRef': 'p-294selektiv',
+  'schemaType': 'classification',
   'success': True,
   'word': 'selektive 5 ht1 reseptoragonister'}
 
@@ -24,6 +26,7 @@ Antall: 180
 { 'canonicalTitle': 'Serotoninantagonister',
   'mappingState': 'mega',
   'sanityRef': 'lk-19-febermm-1904',
+  'schemaType': 'classification',
   'success': True,
   'word': 'serotoninantagonister'}
 
@@ -31,6 +34,7 @@ Antall: 180
 { 'canonicalTitle': '5-Aminosalisylsyreforbindelser',
   'mappingState': 'mega',
   'sanityRef': 'lk-12-fordoyel-1925',
+  'schemaType': 'classification',
   'success': True,
   'word': '5 aminosalisylsyreforbindelser'}
 
@@ -38,6 +42,7 @@ Antall: 180
 { 'canonicalTitle': 'Selektive 5-HT1-reseptoragonister',
   'mappingState': 'mega',
   'sanityRef': 'p-294selektiv',
+  'schemaType': 'classification',
   'success': True,
   'word': 'selektive 5 ht1 reseptoragonister'}
 
@@ -45,6 +50,7 @@ Antall: 180
 { 'canonicalTitle': 'Serotoninantagonister',
   'mappingState': 'mega',
   'sanityRef': 'lk-19-febermm-1904',
+  'schemaType': 'classification',
   'success': True,
   'word': 'serotoninantagonister'}
 
@@ -60,6 +66,7 @@ acehemmere:
 { 'canonicalTitle': 'Angiotensinkonverterende enzymhemmere',
   'mappingState': 'mega',
   'sanityRef': 'lk-08-hjertekrets-3911',
+  'schemaType': 'classification',
   'success': True,
   'word': 'angiotensinkonverterende enzymhemmere'}
 
@@ -67,6 +74,7 @@ adrenerge alfa-1-reseptorantagonister:
 { 'canonicalTitle': 'Adrenerge alfa-1 reseptorantagonister',
   'mappingState': 'mega',
   'sanityRef': 'lk-08-hjertekrets-2531',
+  'schemaType': 'classification',
   'success': True,
   'word': 'adrenerge alfa 1 reseptorantagonister'}
 
@@ -119,6 +127,7 @@ amprenavir:
 { 'canonicalTitle': 'Amprenavir/fosamprenavir',
   'mappingState': 'mega',
   'sanityRef': 'lk-01-infeksjon-frf-retur-17072',
+  'schemaType': 'substance',
   'success': True,
   'type': 'megaMapper',
   'word': 'amprenavir fosamprenavir'}
@@ -127,6 +136,7 @@ androgener/anabole steroider:
 { 'canonicalTitle': 'Androgene/anabole steroider',
   'mappingState': 'mega',
   'sanityRef': 'lk-03-endokr-5391',
+  'schemaType': 'classification',
   'success': True,
   'word': 'androgene anabole steroider'}
 
@@ -142,6 +152,7 @@ angiotensin ii-reseptorantagonister:
 { 'canonicalTitle': 'Angiotensin II-reseptorantagonister',
   'mappingState': 'mega',
   'sanityRef': 'lk-08-hjertekrets-5148',
+  'schemaType': 'classification',
   'success': True,
   'word': 'angiotensin ii reseptorantagonister'}
 
@@ -149,6 +160,7 @@ angiotensin iireseptorantagonister:
 { 'canonicalTitle': 'Angiotensin II-reseptorantagonister',
   'mappingState': 'mega',
   'sanityRef': 'lk-08-hjertekrets-5148',
+  'schemaType': 'classification',
   'success': True,
   'word': 'angiotensin ii reseptorantagonister'}
 
@@ -156,6 +168,7 @@ antacida, kombinasjoner og komplekser av aluminium-, kalsium- og magnesiumforbin
 { 'canonicalTitle': 'Antacida',
   'mappingState': 'mega',
   'sanityRef': 'lk-12-fordoyel-16',
+  'schemaType': 'classification',
   'success': True,
   'word': 'antacida'}
 
@@ -164,11 +177,13 @@ antidepressiva, ssri og tca:
   'splitList': [ { 'canonicalTitle': 'Selektive serotoninreopptakshemmere',
                    'mappingState': 'automatic',
                    'sanityRef': 'lk-05-psykisk-3149',
+                   'schemaType': 'classification',
                    'success': True,
                    'word': 'selektive serotoninreopptakshemmere'},
                  { 'canonicalTitle': 'Trisykliske antidepressiva',
                    'mappingState': 'automatic',
                    'sanityRef': 'lk-05-psykisk-2691',
+                   'schemaType': 'classification',
                    'success': True,
                    'word': 'trisykliske antidepressiva'}],
   'word': 'antidepressiva, ssri og tca'}
@@ -177,6 +192,7 @@ antidiabetika, perorale:
 { 'canonicalTitle': 'Perorale blodglukosesenkende midler',
   'mappingState': 'mega',
   'sanityRef': 'lk-03-endokr-605',
+  'schemaType': 'classification',
   'success': True,
   'word': 'perorale blodglukosesenkende midler'}
 
@@ -192,6 +208,7 @@ antihistaminer (histamin h1antagonister):
 { 'canonicalTitle': 'Histamin H1‑antagonister',
   'mappingState': 'mega',
   'sanityRef': 'lk-09-allergi-15',
+  'schemaType': 'classification',
   'success': True,
   'word': 'histamin h1 antagonister'}
 
@@ -210,6 +227,7 @@ antiinflammatoriske midler, ikke steroide:
 { 'canonicalTitle': 'Ikke‑steroide antiinflammatoriske midler (NSAID)',
   'mappingState': 'mega',
   'sanityRef': 'lk-17-muskl-19',
+  'schemaType': 'classification',
   'success': True,
   'word': 'ikke steroide antiinflammatoriske midler nsaid'}
 
@@ -231,6 +249,7 @@ antikonseptiva:
 { 'canonicalTitle': 'Antikonsepsjonsmidler',
   'mappingState': 'mega',
   'sanityRef': 'lk-03-endokr-6811',
+  'schemaType': 'classification',
   'success': True,
   'type': 'megaMapper',
   'word': 'antikonsepsjonsmidler'}
@@ -247,6 +266,7 @@ artemeter (+ lumefantrin):
 { 'canonicalTitle': 'Artemeter–lumefantrin',
   'mappingState': 'mega',
   'sanityRef': 'lk-01-infeksjon-frf-retur-17642',
+  'schemaType': 'substance',
   'success': True,
   'word': 'artemeter lumefantrin'}
 
@@ -265,6 +285,7 @@ beta-2-reseptoragonister, adrenerge:
 { 'canonicalTitle': 'Adrenerge beta-2-reseptoragonister',
   'mappingState': 'mega',
   'sanityRef': 'lk-10-lunger-633',
+  'schemaType': 'classification',
   'success': True,
   'word': 'adrenerge beta 2 reseptoragonister'}
 
@@ -273,6 +294,7 @@ betalaktamantibiotika:
   'mapper': 'mega',
   'mappingState': 'megaRemapped',
   'sanityRef': 'lk-01-infeksjon-96',
+  'schemaType': 'classification',
   'success': True,
   'tdId': True,
   'type': 'megaMapper',
@@ -283,6 +305,7 @@ betalaktampenicilliner:
   'mapper': 'mega',
   'mappingState': 'megaRemapped',
   'sanityRef': 'lk-01-infeksjon-96',
+  'schemaType': 'classification',
   'success': True,
   'tdId': True,
   'type': 'megaMapper',
@@ -292,6 +315,7 @@ betareseptorantagonister:
 { 'canonicalTitle': 'Adrenerge betareseptorantagonister',
   'mappingState': 'mega',
   'sanityRef': 'lk-08-hjertekrets-1020',
+  'schemaType': 'classification',
   'success': True,
   'type': 'megaMapper',
   'word': 'adrenerge betareseptorantagonister'}
@@ -313,6 +337,7 @@ brentuksimab:
 { 'canonicalTitle': 'Brentuksimab vedotin',
   'mappingState': 'mega',
   'sanityRef': 'lk-18-421802',
+  'schemaType': 'substance',
   'success': True,
   'type': 'megaMapper',
   'word': 'brentuksimab vedotin'}
@@ -339,6 +364,7 @@ bupropion:
                  { 'canonicalTitle': 'Bupropion (røykeavhengighet)',
                    'mappingState': 'automatic',
                    'sanityRef': 'lk-05-psykisk-4436',
+                   'schemaType': 'substance',
                    'success': True,
                    'word': 'bupropion røykeavhengighet'}],
   'word': 'bupropion'}
@@ -348,6 +374,7 @@ cabazitaxel:
   'mapper': 'mega',
   'mappingState': 'megaRemapped',
   'sanityRef': 'lk-02-328405',
+  'schemaType': 'substance',
   'success': True,
   'tdId': True,
   'type': 'megaMapper',
@@ -374,6 +401,7 @@ carbimazol:
   'mapper': 'mega',
   'mappingState': 'megaRemapped',
   'sanityRef': 'lk-03-endokr-2212',
+  'schemaType': 'substance',
   'success': True,
   'tdId': True,
   'type': 'megaMapper',
@@ -403,6 +431,7 @@ cyklizin:
   'mapper': 'mega',
   'mappingState': 'megaRemapped',
   'sanityRef': 'lk-09-allergi-763',
+  'schemaType': 'substance',
   'success': True,
   'tdId': True,
   'type': 'megaMapper',
@@ -438,11 +467,13 @@ dekstraner:
   'splitList': [ { 'canonicalTitle': 'Dekstran',
                    'mappingState': 'automatic',
                    'sanityRef': 'lk-23-ernering-1823',
+                   'schemaType': 'substance',
                    'success': True,
                    'word': 'dekstran'},
                  { 'canonicalTitle': 'Dekstran med hypertont saltvann',
                    'mappingState': 'automatic',
                    'sanityRef': 'lk-23-ernering-1937',
+                   'schemaType': 'substance',
                    'success': True,
                    'word': 'dekstran med hypertont saltvann'}],
   'success': True,
@@ -560,6 +591,7 @@ etylmorfin:
 { 'canonicalTitle': 'Etylmorfinkombinasjoner',
   'mappingState': 'mega',
   'sanityRef': 'lk-10-lunger-55',
+  'schemaType': 'substance',
   'success': True,
   'type': 'megaMapper',
   'word': 'etylmorfinkombinasjoner'}
@@ -675,6 +707,7 @@ gnrhanaloger:
 { 'canonicalTitle': 'Analoger av gonadotropinfrigjørende hormon',
   'mappingState': 'mega',
   'sanityRef': 'lk-03-endokr-8223',
+  'schemaType': 'classification',
   'success': True,
   'word': 'analoger av gonadotropinfrigjørende hormon'}
 
@@ -706,6 +739,7 @@ h1antagonister:
 { 'canonicalTitle': 'Histamin H1‑antagonister',
   'mappingState': 'mega',
   'sanityRef': 'lk-09-allergi-15',
+  'schemaType': 'classification',
   'success': True,
   'word': 'histamin h1 antagonister'}
 
@@ -721,6 +755,7 @@ hetastivelse (hydroksyetylstivelse):
 { 'canonicalTitle': 'Hetastivelse',
   'mappingState': 'mega',
   'sanityRef': 'lk-23-ernering-2036',
+  'schemaType': 'substance',
   'success': True,
   'word': 'hetastivelse'}
 
@@ -736,6 +771,7 @@ ikkesteroide antiinflammatoriske midler:
 { 'canonicalTitle': 'Ikke‑steroide antiinflammatoriske midler (NSAID)',
   'mappingState': 'mega',
   'sanityRef': 'lk-17-muskl-19',
+  'schemaType': 'classification',
   'success': True,
   'word': 'ikke steroide antiinflammatoriske midler nsaid'}
 
@@ -751,6 +787,7 @@ interferon alfa:
 { 'canonicalTitle': 'Interferon alfa-2, peginterferon alfa-2',
   'mappingState': 'mega',
   'sanityRef': 'lk-18-immunsuppr-frf-retur-3392d',
+  'schemaType': 'substance',
   'success': True,
   'word': 'interferon alfa 2 peginterferon alfa 2'}
 
@@ -758,6 +795,7 @@ interferon beta:
 { 'canonicalTitle': 'Interferon beta-1, peginterferon beta-1',
   'mappingState': 'mega',
   'sanityRef': 'lk-18-immunsuppr-frf-retur-3392fl',
+  'schemaType': 'substance',
   'success': True,
   'word': 'interferon beta 1 peginterferon beta 1'}
 
@@ -841,6 +879,7 @@ kolekalsiferol:
   'mapper': 'mega',
   'mappingState': 'megaRemapped',
   'sanityRef': 'lk-03-329746',
+  'schemaType': 'substance',
   'success': True,
   'tdId': True,
   'type': 'megaMapper',
@@ -877,6 +916,7 @@ korifollitropin-alfa:
 { 'canonicalTitle': 'Korifollitropin alfa',
   'mappingState': 'mega',
   'sanityRef': 'lk-03-endokr-23794',
+  'schemaType': 'substance',
   'success': True,
   'word': 'korifollitropin alfa'}
 
@@ -892,6 +932,7 @@ kvitaminantagonister:
 { 'canonicalTitle': 'Vitamin K-antagonister',
   'mappingState': 'mega',
   'sanityRef': 'lk-04-blod-1884',
+  'schemaType': 'classification',
   'success': True,
   'word': 'vitamin k antagonister'}
 
@@ -935,6 +976,7 @@ maviret:
   'mapper': 'mega',
   'mappingState': 'megaRemapped',
   'sanityRef': 'lk-01-600272',
+  'schemaType': 'substance',
   'success': True,
   'tdId': True,
   'type': 'megaMapper',
@@ -952,6 +994,7 @@ metronidazol:
 { 'canonicalTitle': 'Metronidazol ',
   'mappingState': 'mega',
   'sanityRef': 'lk-01-infeksjon-4311',
+  'schemaType': 'substance',
   'success': True,
   'type': 'megaMapper',
   'word': 'metronidazol'}
@@ -1011,11 +1054,13 @@ nintedanib:
   'splitList': [ { 'canonicalTitle': 'Nintedanib (lunge)',
                    'mappingState': 'automatic',
                    'sanityRef': 'lk-18-536726',
+                   'schemaType': 'substance',
                    'success': True,
                    'word': 'nintedanib lunge'},
                  { 'canonicalTitle': 'Nintedanib (onkologi)',
                    'mappingState': 'automatic',
                    'sanityRef': 'lk-02-468665',
+                   'schemaType': 'substance',
                    'success': True,
                    'word': 'nintedanib onkologi'}],
   'word': 'nintedanib'}
@@ -1032,6 +1077,7 @@ nsaids (ikke-steroide antiinflammatoriske midler):
 { 'canonicalTitle': 'Ikke‑steroide antiinflammatoriske midler (NSAID)',
   'mappingState': 'mega',
   'sanityRef': 'lk-17-muskl-19',
+  'schemaType': 'classification',
   'success': True,
   'word': 'ikke steroide antiinflammatoriske midler nsaid'}
 
@@ -1048,6 +1094,7 @@ pankreasenzymer:
   'mapper': 'mega',
   'mappingState': 'megaRemapped',
   'sanityRef': 'lk-12-fordoyel-1655',
+  'schemaType': 'substance',
   'success': True,
   'tdId': True,
   'type': 'megaMapper',
@@ -1088,6 +1135,7 @@ perorale antidiabetika:
   'mapper': 'mega',
   'mappingState': 'megaRemapped',
   'sanityRef': 'lk-03-endokr-605',
+  'schemaType': 'classification',
   'success': True,
   'tdId': True,
   'type': 'megaMapper',
@@ -1137,6 +1185,7 @@ prostaglandiner:
 { 'canonicalTitle': 'Prostaglandiner/prostaglandinanaloger',
   'mappingState': 'mega',
   'sanityRef': 'lk-15-gravid-16',
+  'schemaType': 'classification',
   'success': True,
   'type': 'megaMapper',
   'word': 'prostaglandiner prostaglandinanaloger'}
@@ -1153,6 +1202,7 @@ rokuronium:
 { 'canonicalTitle': 'Rokuron',
   'mappingState': 'mega',
   'sanityRef': 'lk-22-anestesi-1872',
+  'schemaType': 'substance',
   'success': True,
   'type': 'megaMapper',
   'word': 'rokuron'}
@@ -1234,6 +1284,7 @@ sulfonylureaforbindelser:
   'mapper': 'mega',
   'mappingState': 'megaRemapped',
   'sanityRef': 'lk-03-endokr-764',
+  'schemaType': 'classification',
   'success': True,
   'tdId': True,
   'type': 'megaMapper',
@@ -1258,6 +1309,7 @@ thyreoideahormoner:
 { 'canonicalTitle': 'Tyreoideahormoner',
   'mappingState': 'mega',
   'sanityRef': 'lk-03-endokr-1996',
+  'schemaType': 'classification',
   'success': True,
   'type': 'megaMapper',
   'word': 'tyreoideahormoner'}
@@ -1266,6 +1318,7 @@ tiazid-/tiazidlignende diuretika:
 { 'canonicalTitle': 'Tiazider',
   'mappingState': 'mega',
   'sanityRef': 'lk-08-hjertekrets-18',
+  'schemaType': 'classification',
   'success': True,
   'word': 'tiazider'}
 
@@ -1274,6 +1327,7 @@ tiaziddiuretika:
   'mapper': 'mega',
   'mappingState': 'megaRemapped',
   'sanityRef': 'lk-08-hjertekrets-18',
+  'schemaType': 'classification',
   'success': True,
   'tdId': True,
   'type': 'megaMapper',
@@ -1300,11 +1354,13 @@ tretinoin:
   'splitList': [ { 'canonicalTitle': 'Tretinoin (akne)',
                    'mappingState': 'automatic',
                    'sanityRef': 'lk-16-hud-134',
+                   'schemaType': 'substance',
                    'success': True,
                    'word': 'tretinoin akne'},
                  { 'canonicalTitle': 'Tretinoin (onkologi)',
                    'mappingState': 'automatic',
                    'sanityRef': 'lk-02-neopl-3234',
+                   'schemaType': 'substance',
                    'success': True,
                    'word': 'tretinoin onkologi'}],
   'word': 'tretinoin'}
@@ -1313,6 +1369,7 @@ trisykliske antidepressiva (tca):
 { 'canonicalTitle': 'Trisykliske antidepressiva',
   'mappingState': 'mega',
   'sanityRef': 'lk-05-psykisk-2691',
+  'schemaType': 'classification',
   'success': True,
   'word': 'trisykliske antidepressiva'}
 
@@ -1321,6 +1378,7 @@ uselektive hemmere av monoaminoksidase:
   'mapper': 'mega',
   'mappingState': 'megaRemapped',
   'sanityRef': 'lk-05-psykisk-3777',
+  'schemaType': 'classification',
   'success': True,
   'tdId': True,
   'type': 'megaMapper',
@@ -1331,6 +1389,7 @@ uselektive monoaminopptakshemmere:
   'mapper': 'mega',
   'mappingState': 'megaRemapped',
   'sanityRef': 'lk-05-psykisk-3777',
+  'schemaType': 'classification',
   'success': True,
   'tdId': True,
   'type': 'megaMapper',
@@ -1348,6 +1407,7 @@ vitamin d og vitamin d-analoger:
 { 'canonicalTitle': 'Vitamin D og analoger',
   'mappingState': 'mega',
   'sanityRef': 'lk-03-329746',
+  'schemaType': 'substance',
   'success': True,
   'word': 'vitamin d og analoger'}
 
@@ -1356,6 +1416,7 @@ zoledronsyre:
   'mapper': 'mega',
   'mappingState': 'megaRemapped',
   'sanityRef': 'lk-17-muskl-3073',
+  'schemaType': 'substance',
   'success': True,
   'tdId': True,
   'type': 'megaMapper',
