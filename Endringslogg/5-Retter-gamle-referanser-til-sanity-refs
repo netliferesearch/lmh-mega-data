@@ -1,0 +1,10 @@
+/*
+ 
+FixLinks
+
+Går igjennom alle riktekstfelt og retter lenker til ikke-eksisterende sanity referanser
+(altså lenker til gamle titleCellId'er som ikke skal brukes videre)
+
+Har rettet 0 lenker
+
+*/
