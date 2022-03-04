@@ -1,0 +1,11 @@
+/*
+ 
+TagAndDeleteUnchangeds
+
+Sjekker alle dokumenter for å se om de har kapitler som er identiske med første
+import av megatabellene. Disse kan i så fall slettes, mens alle som har blitt endret
+manuelt må bevares og duplikatene her må håndteres manuelt.
+
+Har slettet 1745 dupliserte kapitler og latt 1461 endrede kapitler være
+
+*/
