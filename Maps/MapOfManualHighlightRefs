@@ -67,11 +67,12 @@ amfetamin:
   'partOf': True,
   'success': True,
   'tdId': True,
-  'type': 'highlightMapperSubstring',
-  'word': 'lisdeksamfetamin'}
+  'type': 'highlightMapper',
+  'word': 'amfetamin'}
 
 amilorid:
-{ 'mappingState': 'highlightRef',
+{ 'mapper': 'highlight',
+  'mappingState': 'highlightRemapped',
   'success': True,
   'type': 'highlightMapper',
   'word': 'amilorid'}
@@ -89,8 +90,8 @@ aminopenicilliner:
   'partOf': True,
   'success': True,
   'tdId': True,
-  'type': 'highlightMapperSubstring',
-  'word': 'penicilliner'}
+  'type': 'highlightMapper',
+  'word': 'aminopenicilliner'}
 
 amitryptilin:
 {'mappingState': 'remove', 'word': 'amitryptilin'}
@@ -99,7 +100,8 @@ anamorelin:
 {'mappingState': 'remove', 'word': 'anamorelin'}
 
 anastrozol:
-{ 'mappingState': 'highlightRef',
+{ 'mapper': 'highlight',
+  'mappingState': 'highlightRemapped',
   'success': True,
   'type': 'highlightMapper',
   'word': 'anastrozol'}
@@ -111,7 +113,8 @@ androstatriendion:
 {'mappingState': 'remove', 'word': 'androstatriendion'}
 
 antitymocytt:
-{ 'mappingState': 'highlightRef',
+{ 'mapper': 'highlight',
+  'mappingState': 'highlightRemapped',
   'success': True,
   'type': 'highlightMapper',
   'word': 'antitymocytt'}
@@ -138,7 +141,8 @@ askorbinsyre:
   'word': 'askorbinsyre'}
 
 bendroflumetiazid:
-{ 'mappingState': 'highlightRef',
+{ 'mapper': 'highlight',
+  'mappingState': 'highlightRemapped',
   'success': True,
   'type': 'highlightMapper',
   'word': 'bendroflumetiazid'}
@@ -174,8 +178,8 @@ budesonid:
   'partOf': True,
   'success': True,
   'tdId': True,
-  'type': 'highlightMapperSubstring',
-  'word': 'desonid'}
+  'type': 'highlightMapper',
+  'word': 'budesonid'}
 
 bupivakain:
 { 'canonicalTitle': 'Bupivakain, Levobupivakain',
@@ -226,10 +230,11 @@ cyklofenil,:
 {'mappingState': 'remove', 'word': 'cyklofenil,'}
 
 darbepoetin:
-{ 'mappingState': 'highlightRef',
+{ 'mapper': 'highlight',
+  'mappingState': 'highlightRemapped',
   'partOf': True,
   'success': True,
-  'type': 'highlightMapperSubstring',
+  'type': 'highlightMapper',
   'word': 'darbepoetin'}
 
 deksametason:
@@ -258,7 +263,8 @@ desogestrel:
   'word': 'desogestrel'}
 
 dikloksacillin:
-{ 'mappingState': 'highlightRef',
+{ 'mapper': 'highlight',
+  'mappingState': 'highlightRemapped',
   'success': True,
   'type': 'highlightMapper',
   'word': 'dikloksacillin'}
@@ -302,7 +308,8 @@ etidronat:
   'word': 'etidronat'}
 
 fenazon:
-{ 'mappingState': 'highlightRef',
+{ 'mapper': 'highlight',
+  'mappingState': 'highlightRemapped',
   'success': True,
   'type': 'highlightMapper',
   'word': 'fenazon'}
@@ -323,7 +330,7 @@ filgrastim:
   'sanityRef': 'lk-18-immunsuppr-frf-retur-3765b',
   'schemaType': 'substance',
   'success': True,
-  'type': 'highlightMapperSubstring',
+  'type': 'highlightMapper',
   'word': 'filgrastim'}
 
 fluorokinolon:
@@ -339,8 +346,8 @@ follitropin:
   'partOf': True,
   'success': True,
   'tdId': True,
-  'type': 'highlightMapperSubstring',
-  'word': 'korifollitropin'}
+  'type': 'highlightMapper',
+  'word': 'follitropin'}
 
 formestan:
 {'mappingState': 'remove', 'word': 'formestan'}
@@ -355,10 +362,11 @@ fosaprepitant:
   'word': 'fosaprepitant'}
 
 ganciklovir:
-{ 'mappingState': 'highlightRef',
+{ 'mapper': 'highlight',
+  'mappingState': 'highlightRemapped',
   'partOf': True,
   'success': True,
-  'type': 'highlightMapperSubstring',
+  'type': 'highlightMapper',
   'word': 'ganciklovir'}
 
 ghrelin:
@@ -428,7 +436,7 @@ indapamid:
 
 insulin:
 { 'mapper': 'highlight',
-  'mappingState': 'highlightRef',
+  'mappingState': 'highlightRemapped',
   'success': True,
   'type': 'highlightMapper',
   'word': 'insulin'}
@@ -482,7 +490,8 @@ klenbuterol:
 {'mappingState': 'remove', 'word': 'klenbuterol'}
 
 kloksacillin:
-{ 'mappingState': 'highlightRef',
+{ 'mapper': 'highlight',
+  'mappingState': 'highlightRemapped',
   'partOf': True,
   'success': True,
   'type': 'highlightMapper',
@@ -508,7 +517,8 @@ klostebol:
 {'mappingState': 'remove', 'word': 'klostebol'}
 
 koffein:
-{ 'mappingState': 'highlightRef',
+{ 'mapper': 'highlight',
+  'mappingState': 'highlightRemapped',
   'success': True,
   'type': 'highlightMapper',
   'word': 'koffein'}
@@ -535,7 +545,8 @@ lanreotid:
   'word': 'lanreotid'}
 
 letrozol:
-{ 'mappingState': 'highlightRef',
+{ 'mapper': 'highlight',
+  'mappingState': 'highlightRemapped',
   'success': True,
   'type': 'highlightMapper',
   'word': 'letrozol'}
@@ -546,7 +557,7 @@ levonorgestrel:
   'partOf': True,
   'success': True,
   'tdId': True,
-  'type': 'highlightMapperSubstring',
+  'type': 'highlightMapper',
   'word': 'levonorgestrel'}
 
 lidokain:
@@ -743,14 +754,15 @@ teofyllin:
   'schemaType': 'substance',
   'success': True,
   'tdId': True,
-  'type': 'highlightMapperSubstring',
+  'type': 'highlightMapper',
   'word': 'teofyllinetylendiamin'}
 
 teriparatide :
 {'mappingState': 'highlightRef', 'success': False, 'word': 'teriparatide '}
 
 teriparatide:
-{ 'mappingState': 'highlightRef',
+{ 'mapper': 'highlight',
+  'mappingState': 'highlightRemapped',
   'success': True,
   'type': 'highlightMapper',
   'word': 'teriparatide'}
@@ -819,10 +831,11 @@ trimetoprim-sulfametoksazol:
   'word': 'trimetoprim-sulfametoksazol'}
 
 viii:
-{ 'mappingState': 'highlightRef',
+{ 'mapper': 'highlight',
+  'mappingState': 'highlightRemapped',
   'partOf': True,
   'success': True,
-  'type': 'highlightMapperSubstring',
+  'type': 'highlightMapper',
   'word': 'viii'}
 
 xenon:

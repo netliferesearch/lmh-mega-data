@@ -1,0 +1,334 @@
+
+/*
+
+Alle megarader som blir ignorert
+Antall: 12
+
+*/
+
+{ 'mapper': 'mega',
+  'mappingState': 'ignore',
+  'mm': '',
+  'parent': 'Graviditet',
+  'portableText': [ { '_type': 'block',
+                      'children': [ { '_type': 'span',
+                                      'marks': [],
+                                      'text': 'Erfaring med bruk hos gravide '
+                                              'mangler. Se '},
+                                    { '_type': 'span',
+                                      'marks': ['gk-07-gravid-432'],
+                                      'oldkey': 'gk-07-gravid-432',
+                                      'oldmid': 'mpublish-ref://live/Generelle/G7.xml#Gk-07-gravid-432',
+                                      'text': 'FANT IKKE TITTEL'}],
+                      'markDefs': [ { '_key': 'gk-07-gravid-432',
+                                      '_type': 'internalLink',
+                                      'link': { '_ref': 'gk-07-gravid-432',
+                                                '_type': 'reference'}}],
+                      'style': 'normal'}],
+  'success': True,
+  'tdId': True,
+  'text': '<p id="GK-07-Gravid-11303">Erfaring med bruk hos gravide mangler. '
+          'Se\xa0\xa0<xref '
+          'mid="mpublish-ref://live/Generelle/G7.xml#Gk-07-gravid-432" '
+          'type="link"/>\n'
+          ' </p>',
+  'title': 'Nateglinid',
+  'type': 'megaMapper',
+  'uuid': UUID('8e5bc3ae-9b9c-11ec-a75e-367dda4511c0'),
+  'word': 'nateglinid',
+  'xml': <DOM Element: p at 0x115f0f790>,
+  'xmlTitle': <DOM Element: td at 0x115f0f5e0>}
+
+{ 'mapper': 'mega',
+  'mappingState': 'ignore',
+  'mm': '',
+  'parent': 'Graviditet',
+  'portableText': [ { '_type': 'block',
+                      'children': [ { '_type': 'span',
+                                      'marks': [],
+                                      'text': 'Erfaring med bruk hos gravide '
+                                              'mangler. Se '},
+                                    { '_type': 'span',
+                                      'marks': ['lk-04-blod-1061'],
+                                      'oldkey': 'gk-07-gravid-2025',
+                                      'oldmid': 'mpublish-ref://live/Generelle/G7.xml#Gk-07-gravid-2025',
+                                      'text': 'FANT IKKE TITTEL'}],
+                      'markDefs': [ { '_key': 'lk-04-blod-1061',
+                                      '_type': 'internalLink',
+                                      'link': { '_ref': 'lk-04-blod-1061',
+                                                '_type': 'reference'}}],
+                      'style': 'normal'}],
+  'success': True,
+  'tdId': True,
+  'text': '<p id="Gk-07-gravid-1072">Erfaring med bruk hos gravide mangler. '
+          'Se\xa0<xref '
+          'mid="mpublish-ref://live/Generelle/G7.xml#Gk-07-gravid-2025" '
+          'type="link"/>\n'
+          ' </p>',
+  'title': 'Danaparoid',
+  'type': 'megaMapper',
+  'uuid': UUID('8e5b692c-9b9c-11ec-a75e-367dda4511c0'),
+  'word': 'danaparoid',
+  'xml': <DOM Element: p at 0x1152b58b0>,
+  'xmlTitle': <DOM Element: td at 0x1152b5700>}
+
+{ 'mapper': 'mega',
+  'mappingState': 'ignore',
+  'mm': '',
+  'parent': 'Graviditet',
+  'portableText': [ { '_type': 'block',
+                      'children': [ { '_type': 'span',
+                                      'marks': [],
+                                      'text': 'Se '},
+                                    { '_type': 'span',
+                                      'marks': ['gk-07-gravid-2063'],
+                                      'oldkey': 'gk-07-gravid-2063',
+                                      'oldmid': 'mpublish-ref://live/Generelle/G7.xml#Gk-07-gravid-2063',
+                                      'text': 'FANT IKKE TITTEL'}],
+                      'markDefs': [ { '_key': 'gk-07-gravid-2063',
+                                      '_type': 'internalLink',
+                                      'link': { '_ref': 'gk-07-gravid-2063',
+                                                '_type': 'reference'}}],
+                      'style': 'normal'}],
+  'success': True,
+  'tdId': True,
+  'text': '<p id="Gk-07-gravid-4140">Se <xref '
+          'mid="mpublish-ref://live/Generelle/G7.xml#Gk-07-gravid-2063" '
+          'type="link"/>\n'
+          ' </p>',
+  'title': 'Serotoninagonister',
+  'type': 'megaMapper',
+  'uuid': UUID('8e5becd0-9b9c-11ec-a75e-367dda4511c0'),
+  'word': 'serotoninagonister',
+  'xml': <DOM Element: p at 0x1164411f0>,
+  'xmlTitle': <DOM Element: td at 0x11642bf70>}
+
+{ 'mapper': 'mega',
+  'mappingState': 'ignore',
+  'mm': '',
+  'parent': 'Graviditet',
+  'portableText': [ { '_type': 'block',
+                      'children': [ { '_type': 'span',
+                                      'marks': [],
+                                      'text': 'Se '},
+                                    { '_type': 'span',
+                                      'marks': ['lk-03-endokr-8223'],
+                                      'oldkey': 'gk-07-gravid-1949',
+                                      'oldmid': 'mpublish-ref://live/Generelle/G7.xml#Gk-07-gravid-1949',
+                                      'text': 'FANT IKKE TITTEL'}],
+                      'markDefs': [ { '_key': 'lk-03-endokr-8223',
+                                      '_type': 'internalLink',
+                                      'link': { '_ref': 'lk-03-endokr-8223',
+                                                '_type': 'reference'}}],
+                      'style': 'normal'}],
+  'success': True,
+  'tdId': True,
+  'text': '<p id="Gk-07-gravid-1963">Se\xa0\xa0<xref '
+          'mid="mpublish-ref://live/Generelle/G7.xml#Gk-07-gravid-1949" '
+          'type="link"/>\n'
+          ' </p>',
+  'title': 'Gonadotropinfrisettende hormoner',
+  'type': 'megaMapper',
+  'uuid': UUID('8e5b9370-9b9c-11ec-a75e-367dda4511c0'),
+  'word': 'gonadotropinfrisettende hormoner',
+  'xml': <DOM Element: p at 0x11580a8b0>,
+  'xmlTitle': <DOM Element: td at 0x11580a670>}
+
+{ 'mapper': 'mega',
+  'mappingState': 'ignore',
+  'mm': '',
+  'parent': 'Graviditet',
+  'portableText': [ { '_type': 'block',
+                      'children': [ { '_type': 'span',
+                                      'marks': [],
+                                      'text': 'Se de enkelte virkestoffene'}],
+                      'markDefs': [],
+                      'style': 'normal'}],
+  'success': True,
+  'tdId': True,
+  'text': '<p id="Gk-07-gravid-3705">Se de enkelte virkestoffene</p>',
+  'title': 'Platehemmere',
+  'type': 'megaMapper',
+  'uuid': UUID('8e5bd9fc-9b9c-11ec-a75e-367dda4511c0'),
+  'word': 'platehemmere',
+  'xml': <DOM Element: p at 0x1161bda60>,
+  'xmlTitle': <DOM Element: td at 0x1161bd820>}
+
+{ 'mapper': 'mega',
+  'mappingState': 'ignore',
+  'mm': '',
+  'parent': 'Nedsatt leverfunksjon',
+  'portableText': [ { '_type': 'block',
+                      'children': [ { '_type': 'span',
+                                      'marks': [],
+                                      'text': 'Forsiktighet ved moderat '
+                                              'nedsatt leverfunksjon. Unngå '
+                                              'ved alvorlig leversvikt'}],
+                      'markDefs': [],
+                      'style': 'normal'}],
+  'success': True,
+  'tdId': True,
+  'text': '<p id="GK-07-415200">Forsiktighet ved moderat nedsatt '
+          'leverfunksjon. Unngå ved alvorlig leversvikt</p>',
+  'title': 'Nateglinid',
+  'type': 'megaMapper',
+  'uuid': UUID('8e5aa4e2-9b9c-11ec-a75e-367dda4511c0'),
+  'word': 'nateglinid',
+  'xml': <DOM Element: p at 0x11461c280>,
+  'xmlTitle': <DOM Element: td at 0x11461c0d0>}
+
+{ 'mapper': 'mega',
+  'mappingState': 'ignore',
+  'mm': '',
+  'parent': 'Nedsatt leverfunksjon',
+  'portableText': [ { '_type': 'block',
+                      'children': [ { '_type': 'span',
+                                      'marks': [],
+                                      'text': 'Ikke anbefalt ved dekompensert '
+                                              'leversykdom '}],
+                      'markDefs': [],
+                      'style': 'normal'}],
+  'success': True,
+  'tdId': True,
+  'text': '<p id="p-121">Ikke anbefalt ved dekompensert leversykdom\n</p>',
+  'title': 'Bulevirtid',
+  'type': 'megaMapper',
+  'uuid': UUID('8e5a7d00-9b9c-11ec-a75e-367dda4511c0'),
+  'word': 'bulevirtid',
+  'xml': <DOM Element: p at 0x113ff01f0>,
+  'xmlTitle': <DOM Element: td at 0x113fdcf70>}
+
+{ 'mapper': 'mega',
+  'mappingState': 'ignore',
+  'mm': '',
+  'parent': 'Nedsatt leverfunksjon',
+  'portableText': [ { '_type': 'block',
+                      'children': [ { '_type': 'span',
+                                      'marks': [],
+                                      'text': 'Reduser dose ved alvorlig '
+                                              'leversykdom'}],
+                      'markDefs': [],
+                      'style': 'normal'}],
+  'success': True,
+  'tdId': True,
+  'text': '<p id="Gk-07-412728">Reduser dose ved alvorlig leversykdom</p>',
+  'title': 'Danaparoid',
+  'type': 'megaMapper',
+  'uuid': UUID('8e5a8066-9b9c-11ec-a75e-367dda4511c0'),
+  'word': 'danaparoid',
+  'xml': <DOM Element: p at 0x1140914c0>,
+  'xmlTitle': <DOM Element: td at 0x114091310>}
+
+{ 'mapper': 'mega',
+  'mappingState': 'ignore',
+  'mm': '',
+  'parent': 'Nedsatt leverfunksjon',
+  'portableText': [ { '_type': 'block',
+                      'children': [ { '_type': 'span',
+                                      'marks': [],
+                                      'text': 'Ved alvorlig nedsatt '
+                                              'leverfunksjon anbefales det å '
+                                              'redusere doseringsfrekvensen '
+                                              'til én gang daglig.'}],
+                      'markDefs': [],
+                      'style': 'normal'}],
+  'success': True,
+  'tdId': True,
+  'text': '<p id="p-51">Ved alvorlig nedsatt leverfunksjon anbefales det å '
+          'redusere doseringsfrekvensen til én gang daglig.</p>',
+  'title': 'Abemabciklib',
+  'type': 'megaMapper',
+  'uuid': UUID('8e5a735a-9b9c-11ec-a75e-367dda4511c0'),
+  'word': 'abemabciklib',
+  'xml': <DOM Element: p at 0x113e6d790>,
+  'xmlTitle': <DOM Element: td at 0x113e6d550>}
+
+{ 'mapper': 'mega',
+  'mappingState': 'ignore',
+  'mm': '',
+  'parent': 'Nedsatt nyrefunksjon',
+  'portableText': [ { '_type': 'block',
+                      'children': [ { '_type': 'span',
+                                      'marks': [],
+                                      'text': 'Renal eliminasjon. Brukes kun '
+                                              'etter nøye '
+                                              'nytte-/risikovurdering og i '
+                                              'laveste dosering ved alvorlig '
+                                              'nedsatt nyrefunksjon'}],
+                      'markDefs': [],
+                      'style': 'normal'}],
+  'success': True,
+  'tdId': True,
+  'text': '<p id="p-771">Renal eliminasjon. Brukes kun etter nøye '
+          'nytte-/risikovurdering og i laveste dosering ved alvorlig nedsatt '
+          'nyrefunksjon</p>',
+  'title': 'Kontrastmidler ved magnettomografi',
+  'type': 'megaMapper',
+  'uuid': UUID('8e5a2d14-9b9c-11ec-a75e-367dda4511c0'),
+  'word': 'kontrastmidler ved magnettomografi',
+  'xml': <DOM Element: p at 0x1137ee160>,
+  'xmlTitle': <DOM Element: td at 0x1137d9f70>}
+
+{ 'mapper': 'mega',
+  'mappingState': 'ignore',
+  'mm': '<p id="gk-08-amming-6145">0</p>',
+  'parent': 'Amming',
+  'portableText': [ { '_type': 'block',
+                      'children': [ { '_type': 'span',
+                                      'marks': [],
+                                      'text': 'Se '},
+                                    { '_type': 'span',
+                                      'marks': ['lk-04-blod-1061'],
+                                      'oldkey': 'gk-08-amming-1864',
+                                      'oldmid': 'mpublish-ref://live/Generelle/G8.xml#Gk-08-amming-1864',
+                                      'text': 'FANT IKKE TITTEL'}],
+                      'markDefs': [ { '_key': 'lk-04-blod-1061',
+                                      '_type': 'internalLink',
+                                      'link': { '_ref': 'lk-04-blod-1061',
+                                                '_type': 'reference'}}],
+                      'style': 'normal'}],
+  'success': True,
+  'tdId': True,
+  'text': '<p id="Gk-08-amming-934">Se\xa0<xref '
+          'mid="mpublish-ref://live/Generelle/G8.xml#Gk-08-amming-1864" '
+          'type="link"/>\n'
+          ' </p>',
+  'title': 'Danaparoid',
+  'type': 'megaMapper',
+  'uuid': UUID('8e5c2ec0-9b9c-11ec-a75e-367dda4511c0'),
+  'word': 'danaparoid',
+  'xml': <DOM Element: p at 0x11714d550>,
+  'xmlTitle': <DOM Element: td at 0x11714d280>}
+
+{ 'mapper': 'mega',
+  'mappingState': 'ignore',
+  'mm': '<p id="gk-08-amming-7120">3</p>',
+  'parent': 'Amming',
+  'portableText': [ { '_type': 'block',
+                      'children': [ { '_type': 'span',
+                                      'marks': [],
+                                      'text': 'Opplysninger om overgang til '
+                                              'morsmelk mangler. Se '},
+                                    { '_type': 'span',
+                                      'marks': ['gk-08-amming-343'],
+                                      'oldkey': 'gk-08-amming-343',
+                                      'oldmid': 'mpublish-ref://live/Generelle/G8.xml#Gk-08-amming-343',
+                                      'text': 'FANT IKKE TITTEL'}],
+                      'markDefs': [ { '_key': 'gk-08-amming-343',
+                                      '_type': 'internalLink',
+                                      'link': { '_ref': 'gk-08-amming-343',
+                                                '_type': 'reference'}}],
+                      'style': 'normal'}],
+  'success': True,
+  'tdId': True,
+  'text': '<p id="GK-08-Amming-5574">Opplysninger om overgang til morsmelk '
+          'mangler. Se\xa0<xref '
+          'mid="mpublish-ref://live/Generelle/G8.xml#Gk-08-amming-343" '
+          'type="link"/>\n'
+          ' </p>',
+  'title': 'Nateglinid',
+  'type': 'megaMapper',
+  'uuid': UUID('8e5c7e84-9b9c-11ec-a75e-367dda4511c0'),
+  'word': 'nateglinid',
+  'xml': <DOM Element: p at 0x1181774c0>,
+  'xmlTitle': <DOM Element: td at 0x1181771f0>}

@@ -1,0 +1,118 @@
+
+/*
+
+Alle megarader som skulle splittes på to eller flere dokumenter
+Antall: 3
+
+*/
+
+{ 'mappedObj': { 'mapper': 'mega',
+                 'mappingState': 'split',
+                 'splitList': [ { 'canonicalTitle': 'Dekstran',
+                                  'mappingState': 'split',
+                                  'sanityRef': 'lk-23-ernering-1823',
+                                  'schemaType': 'substance',
+                                  'success': True,
+                                  'word': 'dekstran'},
+                                { 'canonicalTitle': 'Dekstran med hypertont '
+                                                    'saltvann',
+                                  'mappingState': 'split',
+                                  'sanityRef': 'lk-23-ernering-1937',
+                                  'schemaType': 'substance',
+                                  'success': True,
+                                  'word': 'dekstran med hypertont saltvann'}],
+                 'success': True,
+                 'tdId': True,
+                 'type': 'megaMapper',
+                 'word': 'dekstraner'},
+  'originalMega': { 'mappingState': 'undecided',
+                    'mm': '',
+                    'parent': 'Graviditet',
+                    'portableText': [ { '_type': 'block',
+                                        'children': [ { '_type': 'span',
+                                                        'marks': [],
+                                                        'text': 'Risiko for '
+                                                                'anafylaktisk '
+                                                                'reaksjon hos '
+                                                                'moren'}],
+                                        'markDefs': [],
+                                        'style': 'normal'}],
+                    'text': '<p id="Gk-07-gravid-1108">Risiko for anafylaktisk '
+                            'reaksjon hos moren</p>',
+                    'title': 'Dekstraner',
+                    'uuid': UUID('8e5b6daa-9b9c-11ec-a75e-367dda4511c0'),
+                    'xml': <DOM Element: p at 0x1153253a0>,
+                    'xmlTitle': <DOM Element: td at 0x115325160>}}
+
+{ 'mappedObj': { 'mapper': 'mega',
+                 'mappingState': 'split',
+                 'splitList': [ { 'canonicalTitle': 'Dekstran',
+                                  'mappingState': 'split',
+                                  'sanityRef': 'lk-23-ernering-1823',
+                                  'schemaType': 'substance',
+                                  'success': True,
+                                  'word': 'dekstran'},
+                                { 'canonicalTitle': 'Dekstran med hypertont '
+                                                    'saltvann',
+                                  'mappingState': 'split',
+                                  'sanityRef': 'lk-23-ernering-1937',
+                                  'schemaType': 'substance',
+                                  'success': True,
+                                  'word': 'dekstran med hypertont saltvann'}],
+                 'success': True,
+                 'tdId': True,
+                 'type': 'megaMapper',
+                 'word': 'dekstraner'},
+  'originalMega': { 'mappingState': 'undecided',
+                    'mm': '',
+                    'parent': 'Nedsatt nyrefunksjon',
+                    'portableText': [ { '_type': 'block',
+                                        'children': [ { '_type': 'span',
+                                                        'marks': [],
+                                                        'text': 'Forsiktighet '
+                                                                'ved nedsatt '
+                                                                'nyrefunksjon'}],
+                                        'markDefs': [],
+                                        'style': 'normal'}],
+                    'text': '<p id="Gk-03-nyresv-458">Forsiktighet ved nedsatt '
+                            'nyrefunksjon</p>',
+                    'title': 'Dekstraner',
+                    'uuid': UUID('8e5a105e-9b9c-11ec-a75e-367dda4511c0'),
+                    'xml': <DOM Element: p at 0x1133b8f70>,
+                    'xmlTitle': <DOM Element: td at 0x1133b8d30>}}
+
+{ 'mappedObj': { 'mapper': 'mega',
+                 'mappingState': 'split',
+                 'splitList': [ { 'canonicalTitle': 'Dekstran',
+                                  'mappingState': 'split',
+                                  'sanityRef': 'lk-23-ernering-1823',
+                                  'schemaType': 'substance',
+                                  'success': True,
+                                  'word': 'dekstran'},
+                                { 'canonicalTitle': 'Dekstran med hypertont '
+                                                    'saltvann',
+                                  'mappingState': 'split',
+                                  'sanityRef': 'lk-23-ernering-1937',
+                                  'schemaType': 'substance',
+                                  'success': True,
+                                  'word': 'dekstran med hypertont saltvann'}],
+                 'success': True,
+                 'tdId': True,
+                 'type': 'megaMapper',
+                 'word': 'dekstraner'},
+  'originalMega': { 'mappingState': 'undecided',
+                    'mm': '<p id="gk-08-amming-6169">0</p>',
+                    'parent': 'Amming',
+                    'portableText': [ { '_type': 'block',
+                                        'children': [ { '_type': 'span',
+                                                        'marks': [],
+                                                        'text': 'Kan brukes av '
+                                                                'ammende'}],
+                                        'markDefs': [],
+                                        'style': 'normal'}],
+                    'text': '<p id="Gk-08-amming-970">Kan brukes av '
+                            'ammende</p>',
+                    'title': 'Dekstraner',
+                    'uuid': UUID('8e5c31ae-9b9c-11ec-a75e-367dda4511c0'),
+                    'xml': <DOM Element: p at 0x1171d7af0>,
+                    'xmlTitle': <DOM Element: td at 0x1171d7790>}}

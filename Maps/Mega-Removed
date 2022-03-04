@@ -1,0 +1,28 @@
+
+/*
+
+Alle megarader som blir fjernet (removed)
+Antall: 1
+
+*/
+
+{ 'mapper': 'highlight',
+  'mappingState': 'remove',
+  'mm': '',
+  'parent': 'Nedsatt leverfunksjon',
+  'portableText': [ { '_type': 'block',
+                      'children': [ { '_type': 'span',
+                                      'marks': [],
+                                      'text': 'Unngå ved alvorlig '
+                                              'leversykdom'}],
+                      'markDefs': [],
+                      'style': 'normal'}],
+  'success': True,
+  'tdId': True,
+  'text': '<p id="gk-07-416702">Unngå ved alvorlig leversykdom</p>',
+  'title': 'Toremifen',
+  'type': 'highlightMapper',
+  'uuid': UUID('8e5ab900-9b9c-11ec-a75e-367dda4511c0'),
+  'word': 'toremifen',
+  'xml': <DOM Element: p at 0x11495d040>,
+  'xmlTitle': <DOM Element: td at 0x114949e50>}

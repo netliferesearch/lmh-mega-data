@@ -2,9 +2,36 @@
 /*
 
 Lenker som måtte via fest og atc-kodene for å matche
-Antall: 11
+Antall: 33
 
 */
+
+antazolin:
+{ 'canonicalTitle': 'Antazolin–tetryzolin',
+  'cleanedTitle': 'antazolin tetryzolin',
+  'mappingState': 'atc',
+  'sanityRef': 'lk-09-allergi-23348',
+  'schemaType': 'substance',
+  'success': True,
+  'word': 'antazolin'}
+
+arginin:
+{ 'canonicalTitle': 'Argininklorid',
+  'cleanedTitle': 'argininklorid',
+  'mappingState': 'atc',
+  'sanityRef': 'lk-23-ernering-2721',
+  'schemaType': 'substance',
+  'success': True,
+  'word': 'arginin'}
+
+artemeter:
+{ 'canonicalTitle': 'Artemeter–lumefantrin',
+  'cleanedTitle': 'artemeter lumefantrin',
+  'mappingState': 'atc',
+  'sanityRef': 'lk-01-infeksjon-frf-retur-17642',
+  'schemaType': 'substance',
+  'success': True,
+  'word': 'lumefantrin'}
 
 benserazid:
 { 'canonicalTitle': 'Levodopa',
@@ -16,6 +43,15 @@ benserazid:
   'tdId': True,
   'word': 'benserazid'}
 
+biktegravir:
+{ 'canonicalTitle': 'Biktegravir–emtricitabin–tenofovir alafenamid',
+  'cleanedTitle': 'biktegravir emtricitabin tenofovir alafenamid',
+  'mappingState': 'atc',
+  'sanityRef': 'lk-01-617770',
+  'schemaType': 'compound',
+  'success': True,
+  'word': 'biktegravir'}
+
 desoksymetason:
 { 'canonicalTitle': 'Glukokortikoider, sterke',
   'cleanedTitle': 'glukokortikoider sterke',
@@ -25,6 +61,24 @@ desoksymetason:
   'success': True,
   'tdId': True,
   'word': 'fluocinonid'}
+
+desonid:
+{ 'canonicalTitle': 'Glukokortikoider, middels sterke',
+  'cleanedTitle': 'glukokortikoider middels sterke',
+  'mappingState': 'atc',
+  'sanityRef': 'lk-03-365176',
+  'schemaType': 'substance',
+  'success': True,
+  'word': 'desonid'}
+
+elvitegravir:
+{ 'canonicalTitle': 'Elvitegravir–emtricitabin–tenofovir–kobicistat',
+  'cleanedTitle': 'elvitegravir emtricitabin tenofovir kobicistat',
+  'mappingState': 'atc',
+  'sanityRef': 'lk-01-547674',
+  'schemaType': 'compound',
+  'success': True,
+  'word': 'kobicistat'}
 
 ergokalsiferol:
 { 'canonicalTitle': 'Vitamin D og analoger',
@@ -36,6 +90,15 @@ ergokalsiferol:
   'tdId': True,
   'word': 'ergokalsiferol'}
 
+fenylefrin:
+{ 'canonicalTitle': 'Fenylefrin (øye)',
+  'cleanedTitle': 'fenylefrin øye',
+  'mappingState': 'atc',
+  'sanityRef': 'lk-07-oye-228',
+  'schemaType': 'substance',
+  'success': True,
+  'word': 'fenylefrin'}
+
 fluocinonid:
 { 'canonicalTitle': 'Glukokortikoider, sterke',
   'cleanedTitle': 'glukokortikoider sterke',
@@ -46,6 +109,15 @@ fluocinonid:
   'tdId': True,
   'word': 'fluocinonid'}
 
+gimeracil:
+{ 'canonicalTitle': 'Tegafur–gimeracil–oteracil',
+  'cleanedTitle': 'tegafur gimeracil oteracil',
+  'mappingState': 'atc',
+  'sanityRef': 'lk-02-neopl-frf-retur-4344',
+  'schemaType': 'substance',
+  'success': True,
+  'word': 'tegafur'}
+
 guaifenesin:
 { 'canonicalTitle': 'Diverse hostemiksturer o.l.',
   'cleanedTitle': 'diverse hostemiksturer o l',
@@ -55,6 +127,24 @@ guaifenesin:
   'success': True,
   'tdId': True,
   'word': 'guaifenesin'}
+
+interferon gamma:
+{ 'canonicalTitle': 'Interferon gamma-1',
+  'cleanedTitle': 'interferon gamma 1',
+  'mappingState': 'atc',
+  'sanityRef': 'lk-18-immunsuppr-frf-retur-3392ib',
+  'schemaType': 'substance',
+  'success': True,
+  'word': 'interferon gamma'}
+
+jern:
+{ 'canonicalTitle': 'Jern II-verdig til peroral administrasjon',
+  'cleanedTitle': 'jern ii verdig til peroral administrasjon',
+  'mappingState': 'atc',
+  'sanityRef': 'lk-04-blod-21',
+  'schemaType': 'substance',
+  'success': True,
+  'word': 'jern'}
 
 karbidopa:
 { 'canonicalTitle': 'Levodopa–entakapon',
@@ -76,6 +166,24 @@ klobetasol:
   'tdId': True,
   'word': 'klobetasol'}
 
+kobicistat:
+{ 'canonicalTitle': 'Elvitegravir–emtricitabin–tenofovir–kobicistat',
+  'cleanedTitle': 'elvitegravir emtricitabin tenofovir kobicistat',
+  'mappingState': 'atc',
+  'sanityRef': 'lk-01-547674',
+  'schemaType': 'compound',
+  'success': True,
+  'word': 'kobicistat'}
+
+lumefantrin:
+{ 'canonicalTitle': 'Artemeter–lumefantrin',
+  'cleanedTitle': 'artemeter lumefantrin',
+  'mappingState': 'atc',
+  'sanityRef': 'lk-01-infeksjon-frf-retur-17642',
+  'schemaType': 'substance',
+  'success': True,
+  'word': 'lumefantrin'}
+
 lutropin alfa:
 { 'canonicalTitle': 'Follitropin og lutropin',
   'cleanedTitle': 'follitropin og lutropin',
@@ -85,6 +193,34 @@ lutropin alfa:
   'success': True,
   'tdId': True,
   'word': 'lutropin alfa'}
+
+merkaptamin:
+{ 'canonicalTitle': 'Merkaptamin (cysteamin)',
+  'cleanedTitle': 'merkaptamin cysteamin',
+  'mappingState': 'atc',
+  'sanityRef': 'lk-07-594985',
+  'schemaType': 'substance',
+  'success': True,
+  'word': 'merkaptamin'}
+
+netupitant:
+{ 'canonicalTitle': 'Palonosetron - netupitant',
+  'cleanedTitle': 'palonosetron netupitant',
+  'mappingState': 'atc',
+  'sanityRef': 'lk-19-548246',
+  'schemaType': 'substance',
+  'success': True,
+  'word': 'netupitant'}
+
+nomegestrol:
+{ 'canonicalTitle': 'Monofasepreparater; p-piller, p-vaginalring, p-plaster',
+  'cleanedTitle': 'monofasepreparater p piller p vaginalring p plaster',
+  'mappingState': 'atc',
+  'sanityRef': 'lk-03-endokr-6878',
+  'schemaType': 'substance',
+  'success': True,
+  'tdId': True,
+  'word': 'norelgestromin'}
 
 norelgestromin:
 { 'canonicalTitle': 'Monofasepreparater; p-piller, p-vaginalring, p-plaster',
@@ -96,6 +232,24 @@ norelgestromin:
   'tdId': True,
   'word': 'norelgestromin'}
 
+oteracil:
+{ 'canonicalTitle': 'Tegafur–gimeracil–oteracil',
+  'cleanedTitle': 'tegafur gimeracil oteracil',
+  'mappingState': 'atc',
+  'sanityRef': 'lk-02-neopl-frf-retur-4344',
+  'schemaType': 'substance',
+  'success': True,
+  'word': 'tegafur'}
+
+peginterferon beta 1a:
+{ 'canonicalTitle': 'Interferon beta-1, peginterferon beta-1',
+  'cleanedTitle': 'interferon beta 1 peginterferon beta 1',
+  'mappingState': 'atc',
+  'sanityRef': 'lk-18-immunsuppr-frf-retur-3392fl',
+  'schemaType': 'substance',
+  'success': True,
+  'word': 'peginterferon beta 1a'}
+
 povidon:
 { 'canonicalTitle': 'Indifferent øyesalve',
   'cleanedTitle': 'indifferent øyesalve',
@@ -105,6 +259,51 @@ povidon:
   'success': True,
   'tdId': True,
   'word': 'povidon'}
+
+sakubitril:
+{ 'canonicalTitle': 'Sakubitril-valsartan',
+  'cleanedTitle': 'sakubitril valsartan',
+  'mappingState': 'atc',
+  'sanityRef': 'lk-08-544607',
+  'schemaType': 'compound',
+  'success': True,
+  'word': 'sakubitril'}
+
+tegafur:
+{ 'canonicalTitle': 'Tegafur–gimeracil–oteracil',
+  'cleanedTitle': 'tegafur gimeracil oteracil',
+  'mappingState': 'atc',
+  'sanityRef': 'lk-02-neopl-frf-retur-4344',
+  'schemaType': 'substance',
+  'success': True,
+  'word': 'tegafur'}
+
+teofyllinetylendiamin:
+{ 'canonicalTitle': 'Teofyllin og teofyllinsalter',
+  'cleanedTitle': 'teofyllin og teofyllinsalter',
+  'mappingState': 'atc',
+  'sanityRef': 'lk-10-428961',
+  'schemaType': 'substance',
+  'success': True,
+  'word': 'teofyllinetylendiamin'}
+
+valganciklovir:
+{ 'canonicalTitle': 'Ganciklovir/valganciklovir',
+  'cleanedTitle': 'ganciklovir valganciklovir',
+  'mappingState': 'atc',
+  'sanityRef': 'lk-01-infeksjon-8091',
+  'schemaType': 'substance',
+  'success': True,
+  'word': 'valganciklovir'}
+
+vilanterol:
+{ 'canonicalTitle': 'Vilanterol-umeklidinium-flutikasonfuroat',
+  'cleanedTitle': 'vilanterol umeklidinium flutikasonfuroat',
+  'mappingState': 'atc',
+  'sanityRef': 'lk-10-607186',
+  'schemaType': 'compound',
+  'success': True,
+  'word': 'vilanterol'}
 
 vosevi:
 { 'canonicalTitle': 'Sofosbuvir–velpatasvir-voksilaprevir',

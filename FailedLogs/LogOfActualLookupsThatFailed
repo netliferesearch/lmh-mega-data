@@ -2,84 +2,141 @@
 /*
 
 Ord som faktisk ble slått opp men ikke funnet
-Antall: 160
+Antall: 234
 
 */
 
 5 asa preparater:
-2
+4
 
 5 ht1 agonister:
+4
+
+5 ht3 antagonister:
+2
+
+:
+2
+
+actinomycin daktinomycin:
+2
+
+alfa 1 betareseptorantagonister kombinerte:
+1
+
+alfa 1 reseptorantagonister adrenerge:
 2
 
 alfakalsidol:
 1
 
 altretamin:
-2
+4
 
 amilorid:
 1
 
 aminoeddiksyre glysin:
-2
+4
 
 aminoglykosid:
 1
 
+aminosyrer glukose fett:
+1
+
+aminosyrer glukose:
+1
+
 amylmetakresol:
-2
+4
 
 anastrozol:
 1
 
 androgener anabole steroider:
-1
+2
+
+antacida kombinasjoner og komplekser av aluminium kalsium og magnesiumforbindelser:
+4
 
 anti xa lavmolekylært heparin:
-2
+4
+
+antidepressiva ssri og tca:
+1
 
 antidiabetika perorale:
+4
+
+antihistaminer h:
 2
 
+antihistaminer histamin h1 antagonister:
+1
+
 antikoagulantia perorale:
-3
+6
+
+antikonsepsjonsmidler perorale:
+1
+
+antitrombin:
+2
 
 antitymocytt:
 1
 
 argipresin:
-1
+2
 
 argipressin:
+2
+
+asparaginase crisantaspase:
 1
 
 asparginase crisantapase:
-1
+2
+
+atropin:
+2
+
+azelain:
+2
+
+barbiturater:
+2
 
 bariumsulfat:
-2
+4
 
 bazedoksifen:
-2
+4
 
 bendroflumetiazid:
 1
 
 beta 2 reseptoragonister adrenerge:
+2
+
+beta:
 1
 
 bifonazol:
-2
+4
+
+biktegravir emtricitabin tenofoviralafenamid i kombinasjon biktarvy:
+1
 
 boceprevir:
-2
+4
 
 bretylium:
-2
+4
 
 bronkolytika adrenerge:
-1
+2
 
 cefalosporin:
 1
@@ -88,64 +145,88 @@ celeston chronodose:
 1
 
 cetylpyridin:
-2
+4
 
 cox 2 hemmere:
-1
-
-daklatasvir:
 2
 
+cyanokobalamin vitamin b:
+2
+
+daklatasvir:
+4
+
 dapaglifozin:
-1
+2
 
 darbepoetin:
 1
 
 deferipron:
-2
+4
 
 deguevirus vaksine:
-1
+2
 
 denguevirus vaksine:
-1
+2
 
 desogestrel:
 1
 
 det finnes ingen velkontrollerte studier med bruk hos gravide bør unngås i første trimester:
-1
-
-diatrizoinsyre:
 2
 
+diatrizoinsyre:
+4
+
 dibotermin alfa 2b inductos:
+2
+
+diemal barbital:
 1
+
+dihydroartemisinin:
+2
 
 dikloksacillin:
 1
 
-dinutuximab:
+diklorbenzylalkohol:
+2
+
+dinatriumgadoteksinsyre:
+2
+
+dinutuksimab:
 1
+
+dinutuximab:
+2
 
 domperidon:
-2
+4
 
-elbasvir og grazoprevir kombinasjonspreparat:
+dopaminergika:
 1
 
-emepron:
+elbasvir og grazoprevir kombinasjonspreparat:
 2
 
+emepron:
+4
+
 empaglifozin:
+4
+
+eptacog alfa faktor viia:
 2
 
 erytropoietiner:
 1
 
 etanol:
-2
+4
 
 etidronat:
 1
@@ -154,40 +235,55 @@ fenazon:
 1
 
 fenoterol:
-2
+4
 
 filgotinib:
-2
+4
 
 flucytosin:
-1
-
-flumetason:
 2
 
+flumetason:
+4
+
 fluocinolon:
+4
+
+fluorid fluor:
 2
 
 fluorokinolon:
 1
 
-fomepizol:
+folat:
 2
+
+folsyre folat:
+1
+
+fomepizol:
+4
 
 framycetin hud:
-2
+4
 
 fysostigmin:
+4
+
+fytomenadion vitamin k1:
 2
 
 gadobensyre:
-1
+2
 
 gadodiamid:
-2
+4
+
+gadoksetinsyre dinatrium:
+1
 
 gadopentetat:
-2
+4
 
 ganciklovir:
 1
@@ -196,58 +292,67 @@ ghrh:
 1
 
 glysin aminoeddiksyre:
-2
+4
 
 gresspollerallergen:
-1
+2
 
 h2‑antagonister:
 1
 
+hetastivelse hydroksyetylstivelse:
+1
+
 hexametylmelamin altretamin:
-2
+4
 
 hexaminolevulinat:
+4
+
+hmg coa reduktase:
 2
 
 homatropin:
-2
+4
 
 humant protein c:
+2
+
+hydroksokobalamin vitamin b:
 1
 
 ikke-steroide antiinflammatoriske midler:
 1
 
 inklisiran:
-1
+2
 
 insulinanaloger:
 1
 
 iobitridol:
-2
+4
 
 iodixanol:
-2
+4
 
 iomeprol:
-2
+4
 
 isosorbidmono og dinitrat:
-1
+2
 
 jod jodofor:
-1
+2
 
 jopromid:
-2
+4
 
 joxaglinsyre:
-2
+4
 
 k vitaminantagonister:
-1
+2
 
 kaliumklorid:
 1
@@ -259,13 +364,13 @@ kanrenon:
 1
 
 kaplasizumab:
-2
+4
 
 karisoprodol:
-2
+4
 
 ketorolac:
-2
+4
 
 kloksacillin:
 1
@@ -273,17 +378,29 @@ kloksacillin:
 klorokiner:
 1
 
+klorsyklizin:
+2
+
 koffein:
 1
 
 koksiber:
-1
+2
 
 kolfoskeril:
+4
+
+kolinteofyllinat:
+2
+
+kollagenase:
 2
 
 kontrastmidler jodholdige:
-1
+2
+
+korifollitropin:
+2
 
 letrozol:
 1
@@ -291,29 +408,38 @@ letrozol:
 levonorgestrel:
 1
 
-lynestrenol:
-2
-
-metoksypeg epoietin beta:
-2
-
-miglitol:
-2
-
-milrinon:
-2
-
-monoaminreopptakshemmere uselektive tca:
+levotyroksin t:
 1
 
-moroktokog alfa:
+liotyronin t:
+1
+
+lopinavir ritonavir:
+1
+
+lynestrenol:
+4
+
+metoksypeg epoietin beta:
+4
+
+miglitol:
+4
+
+milrinon:
+4
+
+monoaminreopptakshemmere uselektive tca:
 2
+
+moroktokog alfa:
+4
 
 muromonab cd3:
-3
+6
 
 muskelrelakserende midler perifert virkende:
-2
+4
 
 nandrolon:
 1
@@ -321,104 +447,164 @@ nandrolon:
 naproxen :
 1
 
-nevroleptika:
-2
-
-nitroglyserin:
+natriumkromoglikat:
 1
 
+natriumvalproat:
+1
+
+nevroleptika:
+4
+
+nitroglyserin:
+2
+
 nomegestrel:
+2
+
+nsaids ikke steroide antiinflammatoriske midler:
+1
+
+oksyklorokin hydroksyklorokin:
+1
+
+oktokog alfa rekombinant koagulasjonsfaktor viii:
 1
 
 olimumab:
 1
 
+organo heparinoid salve:
+1
+
 palifermin:
-2
+4
 
 papillomavirusvaksine:
-2
+4
 
 para aminosalisylsyre:
+2
+
+pasireotide:
+2
+
+peginterferon alfa 2a og 2b:
 1
 
 penicillin g:
 1
 
+pentosanpolysulfat:
+1
+
 peramivir:
-2
+4
 
 piracetam:
-2
+4
 
 pitavastatin:
-3
+6
+
+pivampicillin:
+1
+
+podofyllin podofyllotoksin:
+2
 
 podofyllotoksin:
 1
 
+polatuzumab:
+1
+
 polygelin:
-2
+4
 
 polymyksin hud øye:
-2
+4
+
+polyøstradiol:
+3
 
 prasteron:
-1
+2
+
+protein c:
+2
 
 protonpumpehemmer:
 1
 
 regadenoson:
-2
+4
 
-rimonabant:
-3
-
-risankizumab:
-2
-
-rolapitant:
+rhdnase dornase alfa:
 1
 
-rosiglitazon:
-3
+rimonabant:
+6
 
-rukaparib:
+risankizumab:
+4
+
+rolapitant:
 2
 
+rosiglitazon:
+6
+
+rubidomycin daunorubicin:
+2
+
+rukaparib:
+4
+
 sarilumab:
-3
+6
 
 selektive østrogenreseptormodulatorer:
 1
 
 sibutramin:
-2
+4
 
 spectinomycin:
-1
+2
 
 stavudin:
+4
+
+streptokinase:
 2
 
 sulfadoksin:
-2
+4
 
 sulindak:
-3
+6
 
 superparamagnetisk jernoksid:
+4
+
+svovelheksafluorid:
 2
 
 talazoparib:
-1
+2
+
+tazobaktam:
+2
 
 teikoplanin:
-2
+4
 
 telbivudin:
-2
+4
+
+tenofovirdisoproksil finnes også i kombinasjon med emtricitabin:
+1
 
 teriparatide :
 1
@@ -427,61 +613,97 @@ teriparatide:
 1
 
 tetrahydrocannabinol thc:
-1
+2
 
 tetrahydrocannabinol:
+4
+
+tetrasykliner:
+2
+
+tezakaftor ivakaftor:
+1
+
+tiazid tiazidlignende diuretika:
 2
 
 ticagrelor:
-3
+6
 
 tinzaparin:
-1
+2
 
 tipranavir:
-3
+6
 
 tirofiban:
-3
+6
 
 tisagen lecleucel:
-1
+2
 
 trandolapril:
-3
+6
 
 tranylcypromin:
+2
+
+trifluridin og tipiracil kombinasjonspreparat:
+1
+
+trijodtyronin liotyronin:
 1
 
 trijodtyronin t:
-1
-
-trimegeston:
-1
-
-trimegestone:
-1
-
-trioksalen:
 2
 
+trimegeston:
+2
+
+trimegestone:
+2
+
+trioksalen:
+4
+
+trisykliske antidepressiva tca:
+1
+
 tyreostatika tioamid:
+2
+
+tyroksin levotyroksin:
 1
 
 tyroksin t:
-1
-
-unoproston:
 2
 
+umeklidin:
+3
+
+unoproston:
+4
+
 uracil tegafur:
-1
+2
 
 viii:
 1
 
-vinkaalkaloider:
+vilanterol flutikasonfuroat inhalasjonspulver:
 1
 
+vinkaalkaloider:
+2
+
 vitamin d og vitamin d analoger:
+2
+
+vitamin k fytomenadion:
+1
+
+østriol trimegestone:
+1
+
+østrogen:
 1

@@ -183,8 +183,8 @@ d1e338550:
   'partOf': True,
   'success': True,
   'tdId': True,
-  'type': 'highlightMapperSubstring',
-  'word': 'lisdeksamfetamin'}
+  'type': 'highlightMapper',
+  'word': 'amfetamin'}
 
 d1e338558:
 { 'canonicalTitle': 'Amfotericin B',
@@ -210,8 +210,8 @@ d1e338581:
   'partOf': True,
   'success': True,
   'tdId': True,
-  'type': 'highlightMapperSubstring',
-  'word': 'penicilliner'}
+  'type': 'highlightMapper',
+  'word': 'aminopenicilliner'}
 
 d1e338619:
 { 'canonicalTitle': 'Amisulprid',
@@ -853,13 +853,13 @@ d1e339383:
 { 'mapper': 'mega',
   'mappingState': 'split',
   'splitList': [ { 'canonicalTitle': 'Dekstran',
-                   'mappingState': 'automatic',
+                   'mappingState': 'split',
                    'sanityRef': 'lk-23-ernering-1823',
                    'schemaType': 'substance',
                    'success': True,
                    'word': 'dekstran'},
                  { 'canonicalTitle': 'Dekstran med hypertont saltvann',
-                   'mappingState': 'automatic',
+                   'mappingState': 'split',
                    'sanityRef': 'lk-23-ernering-1937',
                    'schemaType': 'substance',
                    'success': True,
@@ -6382,7 +6382,7 @@ d1e346231:
   'partOf': True,
   'success': True,
   'tdId': True,
-  'type': 'highlightMapperSubstring',
+  'type': 'highlightMapper',
   'word': 'levonorgestrel'}
 
 d1e346240:
@@ -8664,8 +8664,8 @@ d1e352339:
   'partOf': True,
   'success': True,
   'tdId': True,
-  'type': 'highlightMapperSubstring',
-  'word': 'penicilliner'}
+  'type': 'highlightMapper',
+  'word': 'aminopenicilliner'}
 
 d1e352363:
 { 'canonicalTitle': 'Amiodaron',
@@ -9518,8 +9518,8 @@ d1e353489:
   'partOf': True,
   'success': True,
   'tdId': True,
-  'type': 'highlightMapperSubstring',
-  'word': 'desonid'}
+  'type': 'highlightMapper',
+  'word': 'budesonid'}
 
 d1e353498:
 { 'canonicalTitle': 'Bumetanid',
@@ -10159,13 +10159,13 @@ d1e354210:
 { 'mapper': 'mega',
   'mappingState': 'split',
   'splitList': [ { 'canonicalTitle': 'Dekstran',
-                   'mappingState': 'automatic',
+                   'mappingState': 'split',
                    'sanityRef': 'lk-23-ernering-1823',
                    'schemaType': 'substance',
                    'success': True,
                    'word': 'dekstran'},
                  { 'canonicalTitle': 'Dekstran med hypertont saltvann',
-                   'mappingState': 'automatic',
+                   'mappingState': 'split',
                    'sanityRef': 'lk-23-ernering-1937',
                    'schemaType': 'substance',
                    'success': True,
@@ -18968,13 +18968,13 @@ d1e366449:
 { 'mapper': 'mega',
   'mappingState': 'split',
   'splitList': [ { 'canonicalTitle': 'Dekstran',
-                   'mappingState': 'automatic',
+                   'mappingState': 'split',
                    'sanityRef': 'lk-23-ernering-1823',
                    'schemaType': 'substance',
                    'success': True,
                    'word': 'dekstran'},
                  { 'canonicalTitle': 'Dekstran med hypertont saltvann',
-                   'mappingState': 'automatic',
+                   'mappingState': 'split',
                    'sanityRef': 'lk-23-ernering-1937',
                    'schemaType': 'substance',
                    'success': True,
@@ -28275,13 +28275,13 @@ gk-07-395811:
 { 'mapper': 'mega',
   'mappingState': 'split',
   'splitList': [ { 'canonicalTitle': 'Dekstran',
-                   'mappingState': 'automatic',
+                   'mappingState': 'split',
                    'sanityRef': 'lk-23-ernering-1823',
                    'schemaType': 'substance',
                    'success': True,
                    'word': 'dekstran'},
                  { 'canonicalTitle': 'Dekstran med hypertont saltvann',
-                   'mappingState': 'automatic',
+                   'mappingState': 'split',
                    'sanityRef': 'lk-23-ernering-1937',
                    'schemaType': 'substance',
                    'success': True,
@@ -28710,8 +28710,8 @@ gk-07-396697:
   'partOf': True,
   'success': True,
   'tdId': True,
-  'type': 'highlightMapperSubstring',
-  'word': 'penicilliner'}
+  'type': 'highlightMapper',
+  'word': 'aminopenicilliner'}
 
 gk-07-396700:
 { 'canonicalTitle': 'Aminoglykosider',
@@ -30956,7 +30956,7 @@ gk-07-414515:
   'partOf': True,
   'success': True,
   'tdId': True,
-  'type': 'highlightMapperSubstring',
+  'type': 'highlightMapper',
   'word': 'levonorgestrel'}
 
 gk-07-414520:
@@ -32906,13 +32906,13 @@ gk-07-gravid-1105:
 { 'mapper': 'mega',
   'mappingState': 'split',
   'splitList': [ { 'canonicalTitle': 'Dekstran',
-                   'mappingState': 'automatic',
+                   'mappingState': 'split',
                    'sanityRef': 'lk-23-ernering-1823',
                    'schemaType': 'substance',
                    'success': True,
                    'word': 'dekstran'},
                  { 'canonicalTitle': 'Dekstran med hypertont saltvann',
-                   'mappingState': 'automatic',
+                   'mappingState': 'split',
                    'sanityRef': 'lk-23-ernering-1937',
                    'schemaType': 'substance',
                    'success': True,
@@ -36704,8 +36704,8 @@ gk-07-gravid-329:
   'partOf': True,
   'success': True,
   'tdId': True,
-  'type': 'highlightMapperSubstring',
-  'word': 'penicilliner'}
+  'type': 'highlightMapper',
+  'word': 'aminopenicilliner'}
 
 gk-07-gravid-3310:
 { 'canonicalTitle': 'neomycin',
@@ -39373,8 +39373,8 @@ gk-07-gravid-817:
   'partOf': True,
   'success': True,
   'tdId': True,
-  'type': 'highlightMapperSubstring',
-  'word': 'desonid'}
+  'type': 'highlightMapper',
+  'word': 'budesonid'}
 
 gk-07-gravid-822:
 { 'canonicalTitle': 'Bumetanid',
@@ -46579,13 +46579,13 @@ gk-08-amming-967:
 { 'mapper': 'mega',
   'mappingState': 'split',
   'splitList': [ { 'canonicalTitle': 'Dekstran',
-                   'mappingState': 'automatic',
+                   'mappingState': 'split',
                    'sanityRef': 'lk-23-ernering-1823',
                    'schemaType': 'substance',
                    'success': True,
                    'word': 'dekstran'},
                  { 'canonicalTitle': 'Dekstran med hypertont saltvann',
-                   'mappingState': 'automatic',
+                   'mappingState': 'split',
                    'sanityRef': 'lk-23-ernering-1937',
                    'schemaType': 'substance',
                    'success': True,
@@ -51937,8 +51937,8 @@ p-331:
   'partOf': True,
   'success': True,
   'tdId': True,
-  'type': 'highlightMapperSubstring',
-  'word': 'lisdeksamfetamin'}
+  'type': 'highlightMapper',
+  'word': 'amfetamin'}
 
 p-332:
 { 'canonicalTitle': 'Baloksavir',

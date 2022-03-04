@@ -125,12 +125,13 @@ aminosyrer + glukose:
 
 amprenavir:
 { 'canonicalTitle': 'Amprenavir/fosamprenavir',
-  'mappingState': 'mega',
+  'mapper': 'mega',
+  'mappingState': 'megaRemapped',
   'sanityRef': 'lk-01-infeksjon-frf-retur-17072',
   'schemaType': 'substance',
   'success': True,
   'type': 'megaMapper',
-  'word': 'amprenavir fosamprenavir'}
+  'word': 'amprenavir'}
 
 androgener/anabole steroider:
 { 'canonicalTitle': 'Androgene/anabole steroider',
@@ -247,12 +248,13 @@ antikonsepsjonsmidler, perorale:
 
 antikonseptiva:
 { 'canonicalTitle': 'Antikonsepsjonsmidler',
-  'mappingState': 'mega',
+  'mapper': 'mega',
+  'mappingState': 'megaRemapped',
   'sanityRef': 'lk-03-endokr-6811',
   'schemaType': 'classification',
   'success': True,
   'type': 'megaMapper',
-  'word': 'antikonsepsjonsmidler'}
+  'word': 'antikonseptiva'}
 
 antrasykliner:
 { 'mapper': 'mega',
@@ -313,12 +315,13 @@ betalaktampenicilliner:
 
 betareseptorantagonister:
 { 'canonicalTitle': 'Adrenerge betareseptorantagonister',
-  'mappingState': 'mega',
+  'mapper': 'mega',
+  'mappingState': 'megaRemapped',
   'sanityRef': 'lk-08-hjertekrets-1020',
   'schemaType': 'classification',
   'success': True,
   'type': 'megaMapper',
-  'word': 'adrenerge betareseptorantagonister'}
+  'word': 'betareseptorantagonister'}
 
 biktegravir, emtricitabin, tenofoviralafenamid i kombinasjon (biktarvy):
 { 'mappingState': 'manual',
@@ -335,12 +338,13 @@ bortezomid:
 
 brentuksimab:
 { 'canonicalTitle': 'Brentuksimab vedotin',
-  'mappingState': 'mega',
+  'mapper': 'mega',
+  'mappingState': 'megaRemapped',
   'sanityRef': 'lk-18-421802',
   'schemaType': 'substance',
   'success': True,
   'type': 'megaMapper',
-  'word': 'brentuksimab vedotin'}
+  'word': 'brentuksimab'}
 
 bronkolytika, adrenerge:
 {'mappingState': 'manual', 'word': 'bronkolytika, adrenerge'}
@@ -465,13 +469,13 @@ dekstraner:
 { 'mapper': 'mega',
   'mappingState': 'split',
   'splitList': [ { 'canonicalTitle': 'Dekstran',
-                   'mappingState': 'automatic',
+                   'mappingState': 'split',
                    'sanityRef': 'lk-23-ernering-1823',
                    'schemaType': 'substance',
                    'success': True,
                    'word': 'dekstran'},
                  { 'canonicalTitle': 'Dekstran med hypertont saltvann',
-                   'mappingState': 'automatic',
+                   'mappingState': 'split',
                    'sanityRef': 'lk-23-ernering-1937',
                    'schemaType': 'substance',
                    'success': True,
@@ -589,12 +593,13 @@ etonogestrel:
 
 etylmorfin:
 { 'canonicalTitle': 'Etylmorfinkombinasjoner',
-  'mappingState': 'mega',
+  'mapper': 'mega',
+  'mappingState': 'megaRemapped',
   'sanityRef': 'lk-10-lunger-55',
   'schemaType': 'substance',
   'success': True,
   'type': 'megaMapper',
-  'word': 'etylmorfinkombinasjoner'}
+  'word': 'etylmorfin'}
 
 fentiaziner:
 { 'mapper': 'mega',
@@ -785,19 +790,23 @@ immunsuppressive midler:
 
 interferon alfa:
 { 'canonicalTitle': 'Interferon alfa-2, peginterferon alfa-2',
-  'mappingState': 'mega',
+  'mapper': 'mega',
+  'mappingState': 'megaRemapped',
   'sanityRef': 'lk-18-immunsuppr-frf-retur-3392d',
   'schemaType': 'substance',
   'success': True,
-  'word': 'interferon alfa 2 peginterferon alfa 2'}
+  'type': 'megaMapper',
+  'word': 'interferon alfa'}
 
 interferon beta:
 { 'canonicalTitle': 'Interferon beta-1, peginterferon beta-1',
-  'mappingState': 'mega',
+  'mapper': 'mega',
+  'mappingState': 'megaRemapped',
   'sanityRef': 'lk-18-immunsuppr-frf-retur-3392fl',
   'schemaType': 'substance',
   'success': True,
-  'word': 'interferon beta 1 peginterferon beta 1'}
+  'type': 'megaMapper',
+  'word': 'interferon beta'}
 
 iopentol:
 { 'mapper': 'mega',
@@ -1128,7 +1137,11 @@ pemigatinib:
   'word': 'pemigatinib'}
 
 penicilliner:
-{'mappingState': 'manual', 'word': 'penicilliner'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'type': 'megaMapper',
+  'word': 'penicilliner'}
 
 perorale antidiabetika:
 { 'canonicalTitle': 'Perorale blodglukosesenkende midler',
@@ -1183,12 +1196,13 @@ progestogener:
 
 prostaglandiner:
 { 'canonicalTitle': 'Prostaglandiner/prostaglandinanaloger',
-  'mappingState': 'mega',
+  'mapper': 'mega',
+  'mappingState': 'megaRemapped',
   'sanityRef': 'lk-15-gravid-16',
   'schemaType': 'classification',
   'success': True,
   'type': 'megaMapper',
-  'word': 'prostaglandiner prostaglandinanaloger'}
+  'word': 'prostaglandiner'}
 
 retinoider:
 { 'mapper': 'mega',
@@ -1200,12 +1214,13 @@ retinoider:
 
 rokuronium:
 { 'canonicalTitle': 'Rokuron',
-  'mappingState': 'mega',
+  'mapper': 'mega',
+  'mappingState': 'megaRemapped',
   'sanityRef': 'lk-22-anestesi-1872',
   'schemaType': 'substance',
   'success': True,
   'type': 'megaMapper',
-  'word': 'rokuron'}
+  'word': 'rokuronium'}
 
 røntgenkontrastmidler:
 { 'mapper': 'mega',
@@ -1307,12 +1322,13 @@ tetrahydrocannabinol (thc):
 
 thyreoideahormoner:
 { 'canonicalTitle': 'Tyreoideahormoner',
-  'mappingState': 'mega',
+  'mapper': 'mega',
+  'mappingState': 'megaRemapped',
   'sanityRef': 'lk-03-endokr-1996',
   'schemaType': 'classification',
   'success': True,
   'type': 'megaMapper',
-  'word': 'tyreoideahormoner'}
+  'word': 'thyreoideahormoner'}
 
 tiazid-/tiazidlignende diuretika:
 { 'canonicalTitle': 'Tiazider',

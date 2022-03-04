@@ -1427,8 +1427,11 @@ antacida:
 antazolin tetryzolin:
 { 'canonicalTitle': 'Antazolin–tetryzolin',
   'cleanedTitle': 'antazolin tetryzolin',
+  'mappingState': 'atc',
   'sanityRef': 'lk-09-allergi-23348',
-  'schemaType': 'substance'}
+  'schemaType': 'substance',
+  'success': True,
+  'word': 'antazolin'}
 
 anthelmintika:
 { 'canonicalTitle': 'Anthelmintika',
@@ -1825,8 +1828,11 @@ argatroban:
 argininklorid:
 { 'canonicalTitle': 'Argininklorid',
   'cleanedTitle': 'argininklorid',
+  'mappingState': 'atc',
   'sanityRef': 'lk-23-ernering-2721',
-  'schemaType': 'substance'}
+  'schemaType': 'substance',
+  'success': True,
+  'word': 'arginin'}
 
 aripiprazol:
 { 'canonicalTitle': 'Aripiprazol',
@@ -1843,8 +1849,11 @@ aromatasehemmere:
 artemeter lumefantrin:
 { 'canonicalTitle': 'Artemeter–lumefantrin',
   'cleanedTitle': 'artemeter lumefantrin',
+  'mappingState': 'atc',
   'sanityRef': 'lk-01-infeksjon-frf-retur-17642',
-  'schemaType': 'substance'}
+  'schemaType': 'substance',
+  'success': True,
+  'word': 'lumefantrin'}
 
 arteriell trombose:
 { 'canonicalTitle': 'Arteriell trombose',
@@ -2575,8 +2584,11 @@ biguanidderivater:
 biktegravir emtricitabin tenofovir alafenamid:
 { 'canonicalTitle': 'Biktegravir–emtricitabin–tenofovir alafenamid',
   'cleanedTitle': 'biktegravir emtricitabin tenofovir alafenamid',
+  'mappingState': 'atc',
   'sanityRef': 'lk-01-617770',
-  'schemaType': 'compound'}
+  'schemaType': 'compound',
+  'success': True,
+  'word': 'biktegravir'}
 
 bilastin:
 { 'canonicalTitle': 'Bilastin',
@@ -4613,8 +4625,11 @@ eltrombopag:
 elvitegravir emtricitabin tenofovir kobicistat:
 { 'canonicalTitle': 'Elvitegravir–emtricitabin–tenofovir–kobicistat',
   'cleanedTitle': 'elvitegravir emtricitabin tenofovir kobicistat',
+  'mappingState': 'atc',
   'sanityRef': 'lk-01-547674',
-  'schemaType': 'compound'}
+  'schemaType': 'compound',
+  'success': True,
+  'word': 'kobicistat'}
 
 emedastin:
 { 'canonicalTitle': 'Emedastin',
@@ -5286,8 +5301,11 @@ fenylefrin hjerte kar:
 fenylefrin øye:
 { 'canonicalTitle': 'Fenylefrin (øye)',
   'cleanedTitle': 'fenylefrin øye',
+  'mappingState': 'atc',
   'sanityRef': 'lk-07-oye-228',
-  'schemaType': 'substance'}
+  'schemaType': 'substance',
+  'success': True,
+  'word': 'fenylefrin'}
 
 fenylindandion:
 { 'canonicalTitle': 'Fenylindandion',
@@ -5853,8 +5871,11 @@ galleveissykdommer:
 ganciklovir valganciklovir:
 { 'canonicalTitle': 'Ganciklovir/valganciklovir',
   'cleanedTitle': 'ganciklovir valganciklovir',
+  'mappingState': 'atc',
   'sanityRef': 'lk-01-infeksjon-8091',
-  'schemaType': 'substance'}
+  'schemaType': 'substance',
+  'success': True,
+  'word': 'valganciklovir'}
 
 ganirelix:
 { 'canonicalTitle': 'Ganirelix',
@@ -6191,8 +6212,11 @@ glukokortikoider for systemisk effekt og lokal injeksjon:
 glukokortikoider middels sterke:
 { 'canonicalTitle': 'Glukokortikoider, middels sterke',
   'cleanedTitle': 'glukokortikoider middels sterke',
+  'mappingState': 'atc',
   'sanityRef': 'lk-03-365176',
-  'schemaType': 'substance'}
+  'schemaType': 'substance',
+  'success': True,
+  'word': 'desonid'}
 
 glukokortikoider milde:
 { 'canonicalTitle': 'Glukokortikoider, milde',
@@ -7660,14 +7684,20 @@ interferon alfa 2 peginterferon alfa 2:
 interferon beta 1 peginterferon beta 1:
 { 'canonicalTitle': 'Interferon beta-1, peginterferon beta-1',
   'cleanedTitle': 'interferon beta 1 peginterferon beta 1',
+  'mappingState': 'atc',
   'sanityRef': 'lk-18-immunsuppr-frf-retur-3392fl',
-  'schemaType': 'substance'}
+  'schemaType': 'substance',
+  'success': True,
+  'word': 'peginterferon beta 1a'}
 
 interferon gamma 1:
 { 'canonicalTitle': 'Interferon gamma-1',
   'cleanedTitle': 'interferon gamma 1',
+  'mappingState': 'atc',
   'sanityRef': 'lk-18-immunsuppr-frf-retur-3392ib',
-  'schemaType': 'substance'}
+  'schemaType': 'substance',
+  'success': True,
+  'word': 'interferon gamma'}
 
 interferoner gjelder alle alfa beta gamma og peginterferon:
 { 'canonicalTitle': 'Interferoner (gjelder alle: alfa, beta, gamma og '
@@ -7865,8 +7895,11 @@ japansk encefalittvaksine:
 jern ii verdig til peroral administrasjon:
 { 'canonicalTitle': 'Jern II-verdig til peroral administrasjon',
   'cleanedTitle': 'jern ii verdig til peroral administrasjon',
+  'mappingState': 'atc',
   'sanityRef': 'lk-04-blod-21',
-  'schemaType': 'substance'}
+  'schemaType': 'substance',
+  'success': True,
+  'word': 'jern'}
 
 jern iii verdig til parenteral administrasjon:
 { 'canonicalTitle': 'Jern III-verdig til parenteral administrasjon',
@@ -10140,8 +10173,11 @@ mepolizumab:
 merkaptamin cysteamin:
 { 'canonicalTitle': 'Merkaptamin (cysteamin)',
   'cleanedTitle': 'merkaptamin cysteamin',
+  'mappingState': 'atc',
   'sanityRef': 'lk-07-594985',
-  'schemaType': 'substance'}
+  'schemaType': 'substance',
+  'success': True,
+  'word': 'merkaptamin'}
 
 merkaptopurin:
 { 'canonicalTitle': 'Merkaptopurin',
@@ -12135,8 +12171,11 @@ palivizumab:
 palonosetron netupitant:
 { 'canonicalTitle': 'Palonosetron - netupitant',
   'cleanedTitle': 'palonosetron netupitant',
+  'mappingState': 'atc',
   'sanityRef': 'lk-19-548246',
-  'schemaType': 'substance'}
+  'schemaType': 'substance',
+  'success': True,
+  'word': 'netupitant'}
 
 palonosetron:
 { 'canonicalTitle': 'Palonosetron',
@@ -13988,8 +14027,11 @@ saksagliptin:
 sakubitril valsartan:
 { 'canonicalTitle': 'Sakubitril-valsartan',
   'cleanedTitle': 'sakubitril valsartan',
+  'mappingState': 'atc',
   'sanityRef': 'lk-08-544607',
-  'schemaType': 'compound'}
+  'schemaType': 'compound',
+  'success': True,
+  'word': 'sakubitril'}
 
 salbutamol:
 { 'canonicalTitle': 'Salbutamol',
@@ -15144,8 +15186,11 @@ teduglutid:
 tegafur gimeracil oteracil:
 { 'canonicalTitle': 'Tegafur–gimeracil–oteracil',
   'cleanedTitle': 'tegafur gimeracil oteracil',
+  'mappingState': 'atc',
   'sanityRef': 'lk-02-neopl-frf-retur-4344',
-  'schemaType': 'substance'}
+  'schemaType': 'substance',
+  'success': True,
+  'word': 'tegafur'}
 
 telmisartan hydroklortiazid:
 { 'canonicalTitle': 'Telmisartan–hydroklortiazid',
@@ -15216,8 +15261,11 @@ tenofovir disoproksil tenofovir alafenamid:
 teofyllin og teofyllinsalter:
 { 'canonicalTitle': 'Teofyllin og teofyllinsalter',
   'cleanedTitle': 'teofyllin og teofyllinsalter',
+  'mappingState': 'atc',
   'sanityRef': 'lk-10-428961',
-  'schemaType': 'substance'}
+  'schemaType': 'substance',
+  'success': True,
+  'word': 'teofyllinetylendiamin'}
 
 terazosin:
 { 'canonicalTitle': 'Terazosin',
@@ -16218,8 +16266,11 @@ vilanterol flutikason:
 vilanterol umeklidinium flutikasonfuroat:
 { 'canonicalTitle': 'Vilanterol-umeklidinium-flutikasonfuroat',
   'cleanedTitle': 'vilanterol umeklidinium flutikasonfuroat',
+  'mappingState': 'atc',
   'sanityRef': 'lk-10-607186',
-  'schemaType': 'compound'}
+  'schemaType': 'compound',
+  'success': True,
+  'word': 'vilanterol'}
 
 vilanterol umeklidinium:
 { 'canonicalTitle': 'Vilanterol-umeklidinium',

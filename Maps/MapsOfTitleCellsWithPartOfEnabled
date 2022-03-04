@@ -308,8 +308,8 @@ d1e341030:
   'partOf': True,
   'success': True,
   'tdId': True,
-  'type': 'highlightMapperSubstring',
-  'word': 'korifollitropin'}
+  'type': 'highlightMapper',
+  'word': 'follitropin'}
 
 d1e341294:
 { 'mapper': 'highlight',
@@ -902,8 +902,8 @@ d1e352300:
   'partOf': True,
   'success': True,
   'tdId': True,
-  'type': 'highlightMapperSubstring',
-  'word': 'lisdeksamfetamin'}
+  'type': 'highlightMapper',
+  'word': 'amfetamin'}
 
 d1e352315:
 { 'canonicalTitle': 'Amilorid–hydroklortiazid',
@@ -1258,8 +1258,8 @@ d1e354292:
   'partOf': True,
   'success': True,
   'tdId': True,
-  'type': 'highlightMapperSubstring',
-  'word': 'desonid'}
+  'type': 'highlightMapper',
+  'word': 'budesonid'}
 
 d1e354382:
 { 'canonicalTitle': 'Dihydroartemisinin-piperakin',
@@ -1495,8 +1495,8 @@ d1e355732:
   'partOf': True,
   'success': True,
   'tdId': True,
-  'type': 'highlightMapperSubstring',
-  'word': 'korifollitropin'}
+  'type': 'highlightMapper',
+  'word': 'follitropin'}
 
 d1e355795:
 { 'canonicalTitle': 'Aprepitant og fosaprepitant',
@@ -1783,7 +1783,7 @@ d1e357601:
   'schemaType': 'substance',
   'success': True,
   'tdId': True,
-  'type': 'highlightMapperSubstring',
+  'type': 'highlightMapper',
   'word': 'teofyllinetylendiamin'}
 
 d1e357629:
@@ -1804,8 +1804,8 @@ d1e357646:
   'partOf': True,
   'success': True,
   'tdId': True,
-  'type': 'highlightMapperSubstring',
-  'word': 'korifollitropin'}
+  'type': 'highlightMapper',
+  'word': 'follitropin'}
 
 d1e357655:
 { 'canonicalTitle': 'Lutropin og koriongonadotropin',
@@ -1861,7 +1861,7 @@ d1e357962:
   'partOf': True,
   'success': True,
   'tdId': True,
-  'type': 'highlightMapperSubstring',
+  'type': 'highlightMapper',
   'word': 'levonorgestrel'}
 
 d1e358036:
@@ -1882,8 +1882,8 @@ d1e358052:
   'partOf': True,
   'success': True,
   'tdId': True,
-  'type': 'highlightMapperSubstring',
-  'word': 'lisdeksamfetamin'}
+  'type': 'highlightMapper',
+  'word': 'amfetamin'}
 
 d1e358168:
 { 'canonicalTitle': 'Artemeter–lumefantrin',
@@ -2089,8 +2089,8 @@ d1e359889:
   'partOf': True,
   'success': True,
   'tdId': True,
-  'type': 'highlightMapperSubstring',
-  'word': 'penicilliner'}
+  'type': 'highlightMapper',
+  'word': 'aminopenicilliner'}
 
 d1e360070:
 { 'canonicalTitle': 'Ampicillin',
@@ -2383,7 +2383,7 @@ d1e361762:
   'schemaType': 'substance',
   'success': True,
   'tdId': True,
-  'type': 'highlightMapperSubstring',
+  'type': 'highlightMapper',
   'word': 'teofyllinetylendiamin'}
 
 d1e361807:
@@ -2584,8 +2584,8 @@ d1e363717:
   'partOf': True,
   'success': True,
   'tdId': True,
-  'type': 'highlightMapperSubstring',
-  'word': 'lisdeksamfetamin'}
+  'type': 'highlightMapper',
+  'word': 'amfetamin'}
 
 d1e363742:
 { 'canonicalTitle': 'Amilorid–hydroklortiazid',
@@ -2925,8 +2925,8 @@ d1e365435:
   'partOf': True,
   'success': True,
   'tdId': True,
-  'type': 'highlightMapperSubstring',
-  'word': 'desonid'}
+  'type': 'highlightMapper',
+  'word': 'budesonid'}
 
 d1e365459:
 { 'canonicalTitle': 'Bupivakain, Levobupivakain',
@@ -2982,8 +2982,8 @@ d1e366568:
   'partOf': True,
   'success': True,
   'tdId': True,
-  'type': 'highlightMapperSubstring',
-  'word': 'desonid'}
+  'type': 'highlightMapper',
+  'word': 'budesonid'}
 
 d1e366687:
 { 'canonicalTitle': 'Dihydroartemisinin-piperakin',
@@ -3207,8 +3207,8 @@ d1e368487:
   'partOf': True,
   'success': True,
   'tdId': True,
-  'type': 'highlightMapperSubstring',
-  'word': 'korifollitropin'}
+  'type': 'highlightMapper',
+  'word': 'follitropin'}
 
 d1e368499:
 { 'canonicalTitle': 'Folsyre',
@@ -3465,7 +3465,7 @@ d1e370984:
   'schemaType': 'substance',
   'success': True,
   'tdId': True,
-  'type': 'highlightMapperSubstring',
+  'type': 'highlightMapper',
   'word': 'teofyllinetylendiamin'}
 
 d1e371021:
@@ -3486,8 +3486,8 @@ d1e371032:
   'partOf': True,
   'success': True,
   'tdId': True,
-  'type': 'highlightMapperSubstring',
-  'word': 'korifollitropin'}
+  'type': 'highlightMapper',
+  'word': 'follitropin'}
 
 d1e371046:
 { 'canonicalTitle': 'Lutropin og koriongonadotropin',
@@ -3543,7 +3543,7 @@ d1e371483:
   'partOf': True,
   'success': True,
   'tdId': True,
-  'type': 'highlightMapperSubstring',
+  'type': 'highlightMapper',
   'word': 'levonorgestrel'}
 
 d1e371506:
@@ -3588,8 +3588,8 @@ d1e371604:
   'partOf': True,
   'success': True,
   'tdId': True,
-  'type': 'highlightMapperSubstring',
-  'word': 'lisdeksamfetamin'}
+  'type': 'highlightMapper',
+  'word': 'amfetamin'}
 
 d1e371694:
 { 'canonicalTitle': 'Lopinavir',
@@ -3771,8 +3771,8 @@ d1e373935:
   'partOf': True,
   'success': True,
   'tdId': True,
-  'type': 'highlightMapperSubstring',
-  'word': 'penicilliner'}
+  'type': 'highlightMapper',
+  'word': 'aminopenicilliner'}
 
 d1e374189:
 { 'mapper': 'highlight',
@@ -4002,7 +4002,7 @@ d1e376260:
   'schemaType': 'substance',
   'success': True,
   'tdId': True,
-  'type': 'highlightMapperSubstring',
+  'type': 'highlightMapper',
   'word': 'teofyllinetylendiamin'}
 
 d1e376331:
@@ -4266,8 +4266,8 @@ gk-07-319240:
   'partOf': True,
   'success': True,
   'tdId': True,
-  'type': 'highlightMapperSubstring',
-  'word': 'korifollitropin'}
+  'type': 'highlightMapper',
+  'word': 'follitropin'}
 
 gk-07-319255:
 { 'canonicalTitle': 'Teofyllin og teofyllinsalter',
@@ -4278,7 +4278,7 @@ gk-07-319255:
   'schemaType': 'substance',
   'success': True,
   'tdId': True,
-  'type': 'highlightMapperSubstring',
+  'type': 'highlightMapper',
   'word': 'teofyllinetylendiamin'}
 
 gk-07-319290:
@@ -4389,8 +4389,8 @@ gk-07-393029:
   'partOf': True,
   'success': True,
   'tdId': True,
-  'type': 'highlightMapperSubstring',
-  'word': 'korifollitropin'}
+  'type': 'highlightMapper',
+  'word': 'follitropin'}
 
 gk-07-393074:
 { 'canonicalTitle': 'Kloksacillin, dikloksacillin, flukloksacillin',
@@ -5189,8 +5189,8 @@ gk-07-gravid-1141:
   'partOf': True,
   'success': True,
   'tdId': True,
-  'type': 'highlightMapperSubstring',
-  'word': 'desonid'}
+  'type': 'highlightMapper',
+  'word': 'budesonid'}
 
 gk-07-gravid-11527:
 { 'canonicalTitle': 'Insulinstimulerende midler',
@@ -5426,8 +5426,8 @@ gk-07-gravid-1762:
   'partOf': True,
   'success': True,
   'tdId': True,
-  'type': 'highlightMapperSubstring',
-  'word': 'korifollitropin'}
+  'type': 'highlightMapper',
+  'word': 'follitropin'}
 
 gk-07-gravid-1819:
 { 'canonicalTitle': 'Vitamin K',
@@ -5675,7 +5675,7 @@ gk-07-gravid-2791:
   'partOf': True,
   'success': True,
   'tdId': True,
-  'type': 'highlightMapperSubstring',
+  'type': 'highlightMapper',
   'word': 'levonorgestrel'}
 
 gk-07-gravid-2864c:
@@ -5717,8 +5717,8 @@ gk-07-gravid-303:
   'partOf': True,
   'success': True,
   'tdId': True,
-  'type': 'highlightMapperSubstring',
-  'word': 'lisdeksamfetamin'}
+  'type': 'highlightMapper',
+  'word': 'amfetamin'}
 
 gk-07-gravid-313:
 { 'canonicalTitle': 'Amilorid–hydroklortiazid',
@@ -5867,8 +5867,8 @@ gk-07-gravid-3620:
   'partOf': True,
   'success': True,
   'tdId': True,
-  'type': 'highlightMapperSubstring',
-  'word': 'penicilliner'}
+  'type': 'highlightMapper',
+  'word': 'aminopenicilliner'}
 
 gk-07-gravid-3692:
 { 'canonicalTitle': 'Ampicillin',
@@ -6127,7 +6127,7 @@ gk-07-gravid-4380:
   'schemaType': 'substance',
   'success': True,
   'tdId': True,
-  'type': 'highlightMapperSubstring',
+  'type': 'highlightMapper',
   'word': 'teofyllinetylendiamin'}
 
 gk-07-gravid-4403c:
@@ -6460,8 +6460,8 @@ gk-08-amming-1003:
   'partOf': True,
   'success': True,
   'tdId': True,
-  'type': 'highlightMapperSubstring',
-  'word': 'desonid'}
+  'type': 'highlightMapper',
+  'word': 'budesonid'}
 
 gk-08-amming-1058:
 { 'canonicalTitle': 'Kloksacillin, dikloksacillin, flukloksacillin',
@@ -6649,8 +6649,8 @@ gk-08-amming-1596:
   'partOf': True,
   'success': True,
   'tdId': True,
-  'type': 'highlightMapperSubstring',
-  'word': 'korifollitropin'}
+  'type': 'highlightMapper',
+  'word': 'follitropin'}
 
 gk-08-amming-1601:
 { 'canonicalTitle': 'Folsyre',
@@ -6808,8 +6808,8 @@ gk-08-amming-218:
   'partOf': True,
   'success': True,
   'tdId': True,
-  'type': 'highlightMapperSubstring',
-  'word': 'lisdeksamfetamin'}
+  'type': 'highlightMapper',
+  'word': 'amfetamin'}
 
 gk-08-amming-228:
 { 'canonicalTitle': 'Amilorid–hydroklortiazid',
@@ -6892,7 +6892,7 @@ gk-08-amming-2464:
   'schemaType': 'substance',
   'success': True,
   'tdId': True,
-  'type': 'highlightMapperSubstring',
+  'type': 'highlightMapper',
   'word': 'teofyllinetylendiamin'}
 
 gk-08-amming-2474:
@@ -6949,7 +6949,7 @@ gk-08-amming-2598:
   'partOf': True,
   'success': True,
   'tdId': True,
-  'type': 'highlightMapperSubstring',
+  'type': 'highlightMapper',
   'word': 'levonorgestrel'}
 
 gk-08-amming-2603:
@@ -7158,8 +7158,8 @@ gk-08-amming-3328:
   'partOf': True,
   'success': True,
   'tdId': True,
-  'type': 'highlightMapperSubstring',
-  'word': 'penicilliner'}
+  'type': 'highlightMapper',
+  'word': 'aminopenicilliner'}
 
 gk-08-amming-3409:
 { 'mapper': 'highlight',
@@ -7368,7 +7368,7 @@ gk-08-amming-3990:
   'schemaType': 'substance',
   'success': True,
   'tdId': True,
-  'type': 'highlightMapperSubstring',
+  'type': 'highlightMapper',
   'word': 'teofyllinetylendiamin'}
 
 gk-08-amming-4018c:
@@ -7737,8 +7737,8 @@ gk-08-amming-698:
   'partOf': True,
   'success': True,
   'tdId': True,
-  'type': 'highlightMapperSubstring',
-  'word': 'desonid'}
+  'type': 'highlightMapper',
+  'word': 'budesonid'}
 
 gk-08-amming-708:
 { 'canonicalTitle': 'Bupivakain, Levobupivakain',
@@ -7836,8 +7836,8 @@ gk-08-amming-8734:
   'partOf': True,
   'success': True,
   'tdId': True,
-  'type': 'highlightMapperSubstring',
-  'word': 'korifollitropin'}
+  'type': 'highlightMapper',
+  'word': 'follitropin'}
 
 gk-08-amming-8791:
 { 'canonicalTitle': 'Antitymocytt immunglobulin (kanin)',
@@ -8307,8 +8307,8 @@ id-593529:
   'partOf': True,
   'success': True,
   'tdId': True,
-  'type': 'highlightMapperSubstring',
-  'word': 'lisdeksamfetamin'}
+  'type': 'highlightMapper',
+  'word': 'amfetamin'}
 
 id-593548:
 { 'mapper': 'highlight',
@@ -8316,8 +8316,8 @@ id-593548:
   'partOf': True,
   'success': True,
   'tdId': True,
-  'type': 'highlightMapperSubstring',
-  'word': 'lisdeksamfetamin'}
+  'type': 'highlightMapper',
+  'word': 'amfetamin'}
 
 id-593844:
 { 'canonicalTitle': 'Vilanterol-flutikason',
@@ -8616,8 +8616,8 @@ p-480:
   'partOf': True,
   'success': True,
   'tdId': True,
-  'type': 'highlightMapperSubstring',
-  'word': 'lisdeksamfetamin'}
+  'type': 'highlightMapper',
+  'word': 'amfetamin'}
 
 p-48:
 { 'canonicalTitle': 'Natrium',
@@ -8699,8 +8699,8 @@ p-784:
   'partOf': True,
   'success': True,
   'tdId': True,
-  'type': 'highlightMapperSubstring',
-  'word': 'lisdeksamfetamin'}
+  'type': 'highlightMapper',
+  'word': 'amfetamin'}
 
 p-78:
 { 'canonicalTitle': 'Natrium',
@@ -8816,8 +8816,8 @@ td-236:
   'partOf': True,
   'success': True,
   'tdId': True,
-  'type': 'highlightMapperSubstring',
-  'word': 'lisdeksamfetamin'}
+  'type': 'highlightMapper',
+  'word': 'amfetamin'}
 
 td-540:
 { 'mapper': 'highlight',
@@ -8825,8 +8825,8 @@ td-540:
   'partOf': True,
   'success': True,
   'tdId': True,
-  'type': 'highlightMapperSubstring',
-  'word': 'lisdeksamfetamin'}
+  'type': 'highlightMapper',
+  'word': 'amfetamin'}
 
 td-914:
 { 'canonicalTitle': 'Ganciklovir/valganciklovir',

@@ -1,0 +1,658 @@
+
+/*
+
+Alle megarader som har feilet men bare titlene
+Antall: 323
+
+*/
+
+'5-ASA-preparater'
+
+'5-HT1-agonister'
+
+'5-HT3-antagonister'
+
+'5‑ASA‑preparater'
+
+'5‑HT1‑agonister '
+
+'5‑HT3‑antagonister '
+
+'Actinomycin (=\xa0daktinomycin)'
+
+'Actinomycin (=\xa0daktinomycin)'
+
+'Alfa-1-, betareseptorantagonister, kombinerte '
+
+'Alfa-1-reseptorantagonister, adrenerge '
+
+'Alfa-1-reseptorantagonister, adrenerge'
+
+'Altretamin'
+
+'Altretamin'
+
+'Aminoeddiksyre (=\xa0glysin)'
+
+'Aminoeddiksyre (glysin)'
+
+'Aminosyrer + glukose + fett'
+
+'Aminosyrer + glukose'
+
+'Amylmetakresol'
+
+'Amylmetakresol'
+
+'Androgener/anabole steroider'
+
+'Anti-Xa (lavmolekylært heparin)'
+
+'Antidepressiva, SSRI og TCA'
+
+'Antidiabetika, perorale'
+
+'Antidiabetika, perorale'
+
+'Antihistaminer (H'
+
+'Antihistaminer (H'
+
+'Antihistaminer (Histamin H1‑antagonister)'
+
+'Antikoagulantia, perorale'
+
+'Antikoagulantia, perorale'
+
+'Antikoagulantia, perorale'
+
+'Antikonsepsjonsmidler, perorale'
+
+'Antitrombin'
+
+'Antitrombin'
+
+'Anti‑Xa (lavmolekylært heparin)'
+
+'Argipresin'
+
+'Argipressin'
+
+'Asparaginase (=\xa0crisantaspase)'
+
+'Asparginase (=\xa0crisantapase)'
+
+'Atropin'
+
+'Atropin'
+
+'Azelain'
+
+'Azelain'
+
+'Barbiturater'
+
+'Barbiturater'
+
+'Bariumsulfat'
+
+'Bariumsulfat'
+
+'Bazedoksifen'
+
+'Bazedoksifen'
+
+'Beta'
+
+'Beta-2-reseptoragonister, adrenerge'
+
+'Bifonazol'
+
+'Bifonazol'
+
+'Biktegravir, emtricitabin, tenofoviralafenamid i kombinasjon (Biktarvy)'
+
+'Boceprevir'
+
+'Boceprevir'
+
+'Bretylium'
+
+'Bretylium'
+
+'Bronkolytika, adrenerge'
+
+'COX-2-hemmere'
+
+'Cetylpyridin'
+
+'Cetylpyridin'
+
+'Cyanokobalamin (=\xa0vitamin\xa0B'
+
+'Cyanokobalamin (=\xa0vitamin\xa0B'
+
+'Daklatasvir'
+
+'Daklatasvir'
+
+'Dapaglifozin'
+
+'Deferipron'
+
+'Deferipron'
+
+'Deguevirus-vaksine'
+
+'Denguevirus-vaksine'
+
+'Diatrizoinsyre'
+
+'Diatrizoinsyre'
+
+'Dibotermin-alfa-2b (InductOs)'
+
+'Diemal (barbital)'
+
+'Dihydroartemisinin'
+
+'Dihydroartemisinin'
+
+'Diklorbenzylalkohol'
+
+'Diklorbenzylalkohol'
+
+'Dinatriumgadoteksinsyre'
+
+'Dinatriumgadoteksinsyre'
+
+'Dinutuksimab'
+
+'Dinutuximab'
+
+'Domperidon'
+
+'Domperidon'
+
+'Dopaminergika'
+
+'Elbasvir og grazoprevir (kombinasjonspreparat)'
+
+'Emepron'
+
+'Emepron'
+
+'Empaglifozin'
+
+'Empaglifozin'
+
+'Eptacog alfa (=\xa0faktor VIIa)'
+
+'Eptacog alfa (=\xa0faktor VIIa)'
+
+'Etanol'
+
+'Etanol'
+
+'Fenoterol'
+
+'Fenoterol'
+
+'Filgotinib'
+
+'Filgotinib\xa0'
+
+'Flucytosin'
+
+'Flumetason'
+
+'Flumetason'
+
+'Fluocinolon'
+
+'Fluocinolon'
+
+'Fluorid/fluor'
+
+'Fluorid/fluor'
+
+'Folat'
+
+'Folat'
+
+'Folsyre/folat'
+
+'Fomepizol'
+
+'Fomepizol'
+
+'Framycetin (hud)'
+
+'Framycetin (hud)'
+
+'Fysostigmin'
+
+'Fysostigmin'
+
+'Fytomenadion (=\xa0vitamin\xa0K1)'
+
+'Fytomenadion (=\xa0vitamin\xa0K1)'
+
+'Gadobensyre'
+
+'Gadodiamid'
+
+'Gadodiamid'
+
+'Gadoksetinsyre, dinatrium-'
+
+'Gadopentetat'
+
+'Gadopentetat'
+
+'Glysin (=\xa0aminoeddiksyre)'
+
+'Glysin (=\xa0aminoeddiksyre)'
+
+'Gresspollerallergen'
+
+'HMG-CoA-reduktase'
+
+'HMG‑CoA‑reduktase'
+
+'Hetastivelse\xa0(hydroksyetylstivelse)'
+
+'Hexametylmelamin (=\xa0altretamin)'
+
+'Hexametylmelamin (=\xa0altretamin)'
+
+'Hexaminolevulinat'
+
+'Hexaminolevulinat'
+
+'Homatropin'
+
+'Homatropin'
+
+'Humant protein\xa0C'
+
+'Hydroksokobalamin (vitamin\xa0B'
+
+'Inklisiran'
+
+'Iobitridol'
+
+'Iobitridol'
+
+'Iodixanol'
+
+'Iodixanol'
+
+'Iomeprol'
+
+'Iomeprol'
+
+'Isosorbidmono‑ og dinitrat'
+
+'Jod/jodofor'
+
+'Jopromid'
+
+'Jopromid'
+
+'Joxaglinsyre'
+
+'Joxaglinsyre'
+
+'Kaplasizumab'
+
+'Kaplasizumab'
+
+'Karisoprodol'
+
+'Karisoprodol'
+
+'Ketorolac'
+
+'Ketorolac'
+
+'Klorsyklizin'
+
+'Klorsyklizin'
+
+'Koksiber'
+
+'Kolfoskeril'
+
+'Kolfoskeril'
+
+'Kolinteofyllinat'
+
+'Kolinteofyllinat'
+
+'Kollagenase'
+
+'Kollagenase'
+
+'Kontrastmidler, jodholdige'
+
+'Korifollitropin'
+
+'Korifollitropin'
+
+'K‑vitaminantagonister'
+
+'Levotyroksin (T'
+
+'Liotyronin (T'
+
+'Lopinavir/ritonavir'
+
+'Lynestrenol'
+
+'Lynestrenol'
+
+'MetoksyPEG epoietin beta'
+
+'MetoksyPEG epoietin beta'
+
+'Miglitol'
+
+'Miglitol'
+
+'Milrinon'
+
+'Milrinon'
+
+'Monoaminreopptakshemmere, uselektive (TCA)'
+
+'Moroktokog alfa'
+
+'Moroktokog alfa'
+
+'Muromonab-CD3'
+
+'Muromonab-CD3'
+
+'Muromonab‑CD3'
+
+'Muskelrelakserende midler, perifert virkende'
+
+'Muskelrelakserende midler, perifert virkende'
+
+'NSAIDs (ikke-steroide antiinflammatoriske midler)'
+
+'Natriumkromoglikat'
+
+'Natriumvalproat'
+
+'Nevroleptika'
+
+'Nevroleptika'
+
+'Nitroglyserin'
+
+'Nomegestrel'
+
+'Oksyklorokin (=\xa0hydroksyklorokin)'
+
+'Oktokog alfa (rekombinant koagulasjonsfaktor VIII)\xa0'
+
+'Organo‑heparinoid (salve)'
+
+'Palifermin'
+
+'Palifermin'
+
+'Papillomavirusvaksine'
+
+'Papillomavirusvaksine'
+
+'Para-aminosalisylsyre'
+
+'Pasireotide'
+
+'Pasireotide'
+
+'Peginterferon alfa (-2a og -2b)'
+
+'Pentosanpolysulfat'
+
+'Peramivir'
+
+'Peramivir'
+
+'Piracetam'
+
+'Piracetam'
+
+'Pitavastatin\xa0'
+
+'Pitavastatin\xa0'
+
+'Pitavastatin\xa0'
+
+'Pivampicillin'
+
+'Podofyllin/podofyllotoksin'
+
+'Podofyllin/podofyllotoksin'
+
+'Polatuzumab'
+
+'Polygelin'
+
+'Polygelin'
+
+'Polymyksin (hud, øye)'
+
+'Polymyksin (hud, øye)'
+
+'Polyøstradiol'
+
+'Polyøstradiol'
+
+'Polyøstradiol'
+
+'Prasteron'
+
+'Protein C'
+
+'Protein\xa0C'
+
+'Regadenoson\xa0'
+
+'Regadenoson\xa0'
+
+'RhDNase (dornase alfa)'
+
+'Rimonabant'
+
+'Rimonabant'
+
+'Rimonabant'
+
+'Risankizumab'
+
+'Risankizumab'
+
+'Rolapitant'
+
+'Rosiglitazon'
+
+'Rosiglitazon'
+
+'Rosiglitazon'
+
+'Rubidomycin (=\xa0daunorubicin)'
+
+'Rubidomycin (=\xa0daunorubicin)'
+
+'Rukaparib'
+
+'Rukaparib'
+
+'Sarilumab'
+
+'Sarilumab'
+
+'Sarilumab'
+
+'Sibutramin'
+
+'Sibutramin'
+
+'Spectinomycin'
+
+'Stavudin'
+
+'Stavudin'
+
+'Streptokinase'
+
+'Streptokinase'
+
+'Sulfadoksin'
+
+'Sulfadoksin'
+
+'Sulindak'
+
+'Sulindak'
+
+'Sulindak'
+
+'Superparamagnetisk jernoksid'
+
+'Superparamagnetisk jernoksid'
+
+'Svovelheksafluorid'
+
+'Svovelheksafluorid'
+
+'Talazoparib'
+
+'Tazobaktam'
+
+'Tazobaktam'
+
+'Teikoplanin'
+
+'Teikoplanin'
+
+'Telbivudin'
+
+'Telbivudin'
+
+'Tenofovirdisoproksil (finnes også i kombinasjon med emtricitabin)'
+
+'Tetrahydrocannabinol (THC)'
+
+'Tetrahydrocannabinol'
+
+'Tetrahydrocannabinol'
+
+'Tetrasykliner'
+
+'Tetrasykliner'
+
+'Tezakaftor/ivakaftor'
+
+'Tiazid-/tiazidlignende diuretika'
+
+'Tiazid-/tiazidlignende diuretika'
+
+'Ticagrelor\xa0'
+
+'Ticagrelor\xa0'
+
+'Ticagrelor\xa0'
+
+'Tinzaparin'
+
+'Tipranavir'
+
+'Tipranavir'
+
+'Tipranavir'
+
+'Tirofiban'
+
+'Tirofiban'
+
+'Tirofiban'
+
+'Tisagen\xa0lecleucel'
+
+'Trandolapril'
+
+'Trandolapril'
+
+'Trandolapril'
+
+'Tranylcypromin'
+
+'Trifluridin\xa0og tipiracil (kombinasjonspreparat)'
+
+'Trijodtyronin (=\xa0liotyronin)'
+
+'Trijodtyronin (T'
+
+'Trimegeston'
+
+'Trimegestone'
+
+'Trioksalen'
+
+'Trioksalen'
+
+'Trisykliske antidepressiva (TCA)'
+
+'Tyreostatika, tioamid'
+
+'Tyroksin (=\xa0levotyroksin)'
+
+'Tyroksin (T'
+
+'Umeklidin'
+
+'Umeklidin'
+
+'Umeklidin'
+
+'Unoproston'
+
+'Unoproston'
+
+'Uracil/tegafur'
+
+'Vilanterol + flutikasonfuroat (inhalasjonspulver)'
+
+'Vinkaalkaloider'
+
+'Vitamin\xa0D og vitamin\xa0D-analoger'
+
+'Vitamin\xa0K (=\xa0fytomenadion.)'
+
+'\xa0'
+
+'\xa0'
+
+'Østriol/trimegestone'
+
+'Østrogen'
+
+('Antacida, kombinasjoner og komplekser av aluminium-, kalsium- og '
+ 'magnesiumforbindelser')
+
+('Antacida, kombinasjoner og komplekser av aluminium-, kalsium- og '
+ 'magnesiumforbindelser')
+
+('Antacida, kombinasjoner og komplekser av aluminium-, kalsium- og '
+ 'magnesiumforbindelser')
+
+('Antacida, kombinasjoner og komplekser av aluminium-, kalsium- og '
+ 'magnesiumforbindelser')
+
+('Det finnes ingen velkontrollerte studier med bruk hos gravide. Bør unngås i '
+ 'første trimester.')
