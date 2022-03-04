@@ -2,7 +2,7 @@
 /*
 
 Alle tittel-cellene i tabellene sine id'er som ikke matcher til canonicals
-Antall: 419
+Antall: 421
 
 */
 
@@ -10,13 +10,13 @@ d1e339439:
 { 'mappingState': 'failed',
   'success': False,
   'tdId': True,
-  'word': 'dibotermin alfa b inductos'}
+  'word': 'dibotermin alfa 2b inductos'}
 
 d1e341505:
 { 'mappingState': 'failed',
   'success': False,
   'tdId': True,
-  'word': 'muromonab cd'}
+  'word': 'muromonab cd3'}
 
 d1e343996:
 { 'mappingState': 'failed',
@@ -121,7 +121,7 @@ d1e352794:
 { 'mappingState': 'failed',
   'success': False,
   'tdId': True,
-  'word': 'asa preparater'}
+  'word': '5 asa preparater'}
 
 d1e353047:
 { 'mappingState': 'failed',
@@ -253,7 +253,7 @@ d1e356376:
 { 'mappingState': 'failed',
   'success': False,
   'tdId': True,
-  'word': 'ht agonister'}
+  'word': '5 ht1 agonister'}
 
 d1e356761:
 {'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'iobitridol'}
@@ -341,7 +341,7 @@ d1e358861:
 { 'mappingState': 'failed',
   'success': False,
   'tdId': True,
-  'word': 'muromonab cd'}
+  'word': 'muromonab cd3'}
 
 d1e358868:
 { 'mappingState': 'failed',
@@ -524,7 +524,7 @@ d1e364494:
 { 'mappingState': 'failed',
   'success': False,
   'tdId': True,
-  'word': 'asa preparater'}
+  'word': '5 asa preparater'}
 
 d1e364516:
 { 'mappingState': 'failed',
@@ -548,7 +548,7 @@ d1e365088:
 { 'mappingState': 'failed',
   'success': False,
   'tdId': True,
-  'word': 'beta reseptoragonister adrenerge'}
+  'word': 'beta 2 reseptoragonister adrenerge'}
 
 d1e365150:
 {'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'bifonazol'}
@@ -569,7 +569,7 @@ d1e366021:
 { 'mappingState': 'failed',
   'success': False,
   'tdId': True,
-  'word': 'cox hemmere'}
+  'word': 'cox 2 hemmere'}
 
 d1e366155:
 { 'mappingState': 'failed',
@@ -677,7 +677,7 @@ d1e369350:
 { 'mappingState': 'failed',
   'success': False,
   'tdId': True,
-  'word': 'ht agonister'}
+  'word': '5 ht1 agonister'}
 
 d1e369379:
 { 'mappingState': 'failed',
@@ -749,7 +749,7 @@ d1e372614:
 { 'mappingState': 'failed',
   'success': False,
   'tdId': True,
-  'word': 'muromonab cd'}
+  'word': 'muromonab cd3'}
 
 d1e372625:
 { 'mappingState': 'failed',
@@ -898,6 +898,12 @@ d1e377042:
   'tdId': True,
   'word': 'uracil tegafur'}
 
+d1e377451:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'vitamin d og vitamin d analoger'}
+
 gk-07-319210:
 { 'mappingState': 'failed',
   'success': False,
@@ -926,7 +932,7 @@ gk-07-395756:
 { 'mappingState': 'failed',
   'success': False,
   'tdId': True,
-  'word': 'dibotermin alfa b inductos'}
+  'word': 'dibotermin alfa 2b inductos'}
 
 gk-07-416015:
 {'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'rimonabant'}
@@ -1071,7 +1077,7 @@ gk-07-gravid-2063:
 { 'mappingState': 'failed',
   'success': False,
   'tdId': True,
-  'word': 'ht agonister'}
+  'word': '5 ht1 agonister'}
 
 gk-07-gravid-2247:
 {'mappingState': 'failed', 'success': False, 'tdId': True, 'word': 'iobitridol'}
@@ -1131,7 +1137,7 @@ gk-07-gravid-3217:
 { 'mappingState': 'failed',
   'success': False,
   'tdId': True,
-  'word': 'muromonab cd'}
+  'word': 'muromonab cd3'}
 
 gk-07-gravid-3222:
 { 'mappingState': 'failed',
@@ -1260,7 +1266,7 @@ gk-07-gravid-536:
 { 'mappingState': 'failed',
   'success': False,
   'tdId': True,
-  'word': 'asa preparater'}
+  'word': '5 asa preparater'}
 
 gk-07-gravid-650:
 { 'mappingState': 'failed',
@@ -1368,7 +1374,7 @@ gk-08-amming-1889:
 { 'mappingState': 'failed',
   'success': False,
   'tdId': True,
-  'word': 'ht agonister'}
+  'word': '5 ht1 agonister'}
 
 gk-08-amming-1898c:
 { 'mappingState': 'failed',
@@ -1422,7 +1428,7 @@ gk-08-amming-2443:
 { 'mappingState': 'failed',
   'success': False,
   'tdId': True,
-  'word': 'cox hemmere'}
+  'word': 'cox 2 hemmere'}
 
 gk-08-amming-2459:
 { 'mappingState': 'failed',
@@ -1449,7 +1455,7 @@ gk-08-amming-2969:
 { 'mappingState': 'failed',
   'success': False,
   'tdId': True,
-  'word': 'muromonab cd'}
+  'word': 'muromonab cd3'}
 
 gk-08-amming-2974:
 { 'mappingState': 'failed',
@@ -1565,11 +1571,17 @@ gk-08-amming-427:
   'tdId': True,
   'word': 'anti xa lavmolekylært heparin'}
 
+gk-08-amming-4355:
+{ 'mappingState': 'failed',
+  'success': False,
+  'tdId': True,
+  'word': 'vitamin d og vitamin d analoger'}
+
 gk-08-amming-447:
 { 'mappingState': 'failed',
   'success': False,
   'tdId': True,
-  'word': 'asa preparater'}
+  'word': '5 asa preparater'}
 
 gk-08-amming-453:
 { 'mappingState': 'failed',
@@ -1617,7 +1629,7 @@ gk-08-amming-7953:
 { 'mappingState': 'failed',
   'success': False,
   'tdId': True,
-  'word': 'beta reseptoragonister adrenerge'}
+  'word': 'beta 2 reseptoragonister adrenerge'}
 
 gk-08-amming-8047:
 { 'mappingState': 'failed',
@@ -1713,7 +1725,7 @@ id-398131:
 { 'mappingState': 'failed',
   'success': False,
   'tdId': True,
-  'word': 'muromonab cd'}
+  'word': 'muromonab cd3'}
 
 id-592738:
 { 'mappingState': 'failed',

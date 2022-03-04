@@ -2,9 +2,19 @@
 /*
 
 Alle ord som mapper direkte til titlene på sanity-dokumentene
-Antall: 2779
+Antall: 2782
 
 */
+
+177lu dota tate:
+{ 'canonicalTitle': '177Lu-DOTA-TATE',
+  'cleanedTitle': '177lu dota tate',
+  'sanityRef': 'lk-18-606517'}
+
+5 aminosalisylsyreforbindelser:
+{ 'canonicalTitle': '5-Aminosalisylsyreforbindelser',
+  'cleanedTitle': '5 aminosalisylsyreforbindelser',
+  'sanityRef': 'lk-12-fordoyel-1925'}
 
 abakavir lamivudin zidovudin:
 { 'canonicalTitle': 'Abakavir–lamivudin–zidovudin',
@@ -156,19 +166,24 @@ adrenerge agonister:
   'cleanedTitle': 'adrenerge agonister',
   'sanityRef': 'lk-08-hjertekrets-6743'}
 
-adrenerge alfa betareseptorantagonister:
+adrenerge alfa 1 betareseptorantagonister:
 { 'canonicalTitle': 'Adrenerge alfa-1/betareseptorantagonister',
-  'cleanedTitle': 'adrenerge alfa betareseptorantagonister',
+  'cleanedTitle': 'adrenerge alfa 1 betareseptorantagonister',
   'sanityRef': 'drafts.lk-08-hjertekrets-2339'}
 
-adrenerge alfa reseptorantagonister:
+adrenerge alfa 1 reseptorantagonister:
 { 'canonicalTitle': 'Adrenerge alfa-1 reseptorantagonister',
-  'cleanedTitle': 'adrenerge alfa reseptorantagonister',
+  'cleanedTitle': 'adrenerge alfa 1 reseptorantagonister',
   'sanityRef': 'lk-08-hjertekrets-2531'}
 
-adrenerge beta reseptoragonister:
+adrenerge beta 2 reseptoragonister:
+{ 'canonicalTitle': 'Adrenerge beta-2-reseptoragonister',
+  'cleanedTitle': 'adrenerge beta 2 reseptoragonister',
+  'sanityRef': 'lk-10-lunger-633'}
+
+adrenerge beta 3 reseptoragonister:
 { 'canonicalTitle': 'Adrenerge beta-3-reseptoragonister',
-  'cleanedTitle': 'adrenerge beta reseptoragonister',
+  'cleanedTitle': 'adrenerge beta 3 reseptoragonister',
   'sanityRef': 'lk-13-387818'}
 
 adrenerge betareseptorantagonister:
@@ -521,9 +536,9 @@ alendronat:
   'cleanedTitle': 'alendronat',
   'sanityRef': 'lk-17-muskl-2839'}
 
-alfa antitrypsin human:
+alfa 1 antitrypsin human:
 { 'canonicalTitle': 'Alfa-1-antitrypsin, human',
-  'cleanedTitle': 'alfa antitrypsin human',
+  'cleanedTitle': 'alfa 1 antitrypsin human',
   'sanityRef': 'lk-18-227654'}
 
 alfa gal allergi kjøttallergi:
@@ -755,11 +770,6 @@ aminosalisylsyreforbindelser overdosering:
 { 'canonicalTitle': 'Aminosalisylsyreforbindelser (overdosering)',
   'cleanedTitle': 'aminosalisylsyreforbindelser overdosering',
   'sanityRef': 'fca7d519-8821-48fa-88fa-d93476b68d33'}
-
-aminosalisylsyreforbindelser:
-{ 'canonicalTitle': '5-Aminosalisylsyreforbindelser',
-  'cleanedTitle': 'aminosalisylsyreforbindelser',
-  'sanityRef': 'lk-12-fordoyel-1925'}
 
 aminosyreløsninger:
 { 'canonicalTitle': 'Aminosyreløsninger',
@@ -2265,10 +2275,10 @@ blod plasma og væskesubstitutter:
   'cleanedTitle': 'blod plasma og væskesubstitutter',
   'sanityRef': 'lk-23-ernering-1741'}
 
-blodglukosesenkende legemidler unntatt insulin ved type diabetes:
+blodglukosesenkende legemidler unntatt insulin ved type 2 diabetes:
 { 'canonicalTitle': 'Blodglukosesenkende legemidler (unntatt insulin) ved type '
                     '2-diabetes',
-  'cleanedTitle': 'blodglukosesenkende legemidler unntatt insulin ved type '
+  'cleanedTitle': 'blodglukosesenkende legemidler unntatt insulin ved type 2 '
                   'diabetes',
   'sanityRef': 'tk-03-318950'}
 
@@ -2569,9 +2579,9 @@ båndformet keratopati:
   'cleanedTitle': 'båndformet keratopati',
   'sanityRef': 'tk-07-oye-453'}
 
-c esterasehemmer:
+c1 esterasehemmer:
 { 'canonicalTitle': 'C1-esterasehemmer',
-  'cleanedTitle': 'c esterasehemmer',
+  'cleanedTitle': 'c1 esterasehemmer',
   'sanityRef': 'lk-16-425415'}
 
 campylobacteriose:
@@ -2854,9 +2864,9 @@ corpuscancer:
   'cleanedTitle': 'corpuscancer',
   'sanityRef': 'tk-02-neopl-583'}
 
-covid koronavirus:
+covid 19 koronavirus:
 { 'canonicalTitle': 'Covid-19 / Koronavirus',
-  'cleanedTitle': 'covid koronavirus',
+  'cleanedTitle': 'covid 19 koronavirus',
   'sanityRef': 'p-298covid-19'}
 
 crisantaspase:
@@ -4708,10 +4718,15 @@ fosfenytoin:
   'cleanedTitle': 'fosfenytoin',
   'sanityRef': 'lk-06-nevrol-178'}
 
-fosfodiesterase hemmere:
+fosfodiesterase 4 hemmere:
 { 'canonicalTitle': 'Fosfodiesterase 4-hemmere',
-  'cleanedTitle': 'fosfodiesterase hemmere',
+  'cleanedTitle': 'fosfodiesterase 4 hemmere',
   'sanityRef': 'lk-17-477729'}
+
+fosfodiesterase 5 hemmere:
+{ 'canonicalTitle': 'Fosfodiesterase 5-hemmere ',
+  'cleanedTitle': 'fosfodiesterase 5 hemmere',
+  'sanityRef': 'lk-13-544283'}
 
 fosfodiesterasehemmer:
 { 'canonicalTitle': 'Fosfodiesterasehemmer',
@@ -5090,9 +5105,9 @@ glipizid:
   'cleanedTitle': 'glipizid',
   'sanityRef': 'lk-03-endokr-801'}
 
-gliptiner dpp hemmere:
+gliptiner dpp 4 hemmere:
 { 'canonicalTitle': 'Gliptiner (DPP-4-hemmere)',
-  'cleanedTitle': 'gliptiner dpp hemmere',
+  'cleanedTitle': 'gliptiner dpp 4 hemmere',
   'sanityRef': 'lk-03-endokr-18061'}
 
 glitazoner:
@@ -5100,9 +5115,9 @@ glitazoner:
   'cleanedTitle': 'glitazoner',
   'sanityRef': 'lk-03-endokr-1164'}
 
-glp analoger:
+glp 2 analoger:
 { 'canonicalTitle': 'GLP-2 analoger',
-  'cleanedTitle': 'glp analoger',
+  'cleanedTitle': 'glp 2 analoger',
   'sanityRef': 'lk-12-432655'}
 
 glukagon:
@@ -5521,9 +5536,14 @@ hikke:
   'cleanedTitle': 'hikke',
   'sanityRef': 'tk-19-febermm-229'}
 
-histamin h antagonister:
+histamin h1 antagonister:
+{ 'canonicalTitle': 'Histamin H1‑antagonister',
+  'cleanedTitle': 'histamin h1 antagonister',
+  'sanityRef': 'lk-09-allergi-15'}
+
+histamin h2 antagonister:
 { 'canonicalTitle': 'Histamin H2‑antagonister',
-  'cleanedTitle': 'histamin h antagonister',
+  'cleanedTitle': 'histamin h2 antagonister',
   'sanityRef': 'lk-12-fordoyel-357'}
 
 histamin:
@@ -6308,9 +6328,9 @@ inhalasjonsglukokortikoider:
   'cleanedTitle': 'inhalasjonsglukokortikoider',
   'sanityRef': 'lk-03-364362'}
 
-inkretinmimetika glp agonister:
+inkretinmimetika glp 1 agonister:
 { 'canonicalTitle': 'Inkretinmimetika (GLP-1-agonister)',
-  'cleanedTitle': 'inkretinmimetika glp agonister',
+  'cleanedTitle': 'inkretinmimetika glp 1 agonister',
   'sanityRef': 'lk-03-endokr-18003'}
 
 innvollsmark:
@@ -6363,19 +6383,19 @@ insulinstimulerende midler:
   'cleanedTitle': 'insulinstimulerende midler',
   'sanityRef': 'lk-03-endokr-761'}
 
-interferon alfa peginterferon alfa:
+interferon alfa 2 peginterferon alfa 2:
 { 'canonicalTitle': 'Interferon alfa-2, peginterferon alfa-2',
-  'cleanedTitle': 'interferon alfa peginterferon alfa',
+  'cleanedTitle': 'interferon alfa 2 peginterferon alfa 2',
   'sanityRef': 'lk-18-immunsuppr-frf-retur-3392d'}
 
-interferon beta peginterferon beta:
+interferon beta 1 peginterferon beta 1:
 { 'canonicalTitle': 'Interferon beta-1, peginterferon beta-1',
-  'cleanedTitle': 'interferon beta peginterferon beta',
+  'cleanedTitle': 'interferon beta 1 peginterferon beta 1',
   'sanityRef': 'lk-18-immunsuppr-frf-retur-3392fl'}
 
-interferon gamma:
+interferon gamma 1:
 { 'canonicalTitle': 'Interferon gamma-1',
-  'cleanedTitle': 'interferon gamma',
+  'cleanedTitle': 'interferon gamma 1',
   'sanityRef': 'lk-18-immunsuppr-frf-retur-3392ib'}
 
 interferoner gjelder alle alfa beta gamma og peginterferon:
@@ -7246,11 +7266,11 @@ korreksjon ved hyperosmolal dehydrering:
   'cleanedTitle': 'korreksjon ved hyperosmolal dehydrering',
   'sanityRef': 'tk-23-ernering-frf-retur-2344'}
 
-korreksjon ved hypoosmolal s natrium mmol l og isoosmolal dehydrering:
+korreksjon ved hypoosmolal s natrium 130 mmol l og isoosmolal dehydrering:
 { 'canonicalTitle': 'Korreksjon ved hypoosmolal (s-natrium < 130 mmol/l) og '
                     'isoosmolal dehydrering',
-  'cleanedTitle': 'korreksjon ved hypoosmolal s natrium mmol l og isoosmolal '
-                  'dehydrering',
+  'cleanedTitle': 'korreksjon ved hypoosmolal s natrium 130 mmol l og '
+                  'isoosmolal dehydrering',
   'sanityRef': 'tk-23-ernering-frf-retur-2339'}
 
 kort om ikke medikamentelle behandlingstiltak:
@@ -8085,11 +8105,6 @@ lovastatin:
 { 'canonicalTitle': 'Lovastatin',
   'cleanedTitle': 'lovastatin',
   'sanityRef': 'lk-08-hjertekrets-17814'}
-
-lu dota tate:
-{ 'canonicalTitle': '177Lu-DOTA-TATE',
-  'cleanedTitle': 'lu dota tate',
-  'sanityRef': 'lk-18-606517'}
 
 luftplager flatulens:
 { 'canonicalTitle': 'Luftplager – flatulens',
@@ -9098,14 +9113,14 @@ monoklonale antistoffer mot egfr familien:
   'cleanedTitle': 'monoklonale antistoffer mot egfr familien',
   'sanityRef': 'lk-02-377295'}
 
-monoklonale antistoffer mot gd cd og cd:
+monoklonale antistoffer mot gd2 cd20 og cd22:
 { 'canonicalTitle': 'Monoklonale antistoffer mot GD2, CD20 og CD22',
-  'cleanedTitle': 'monoklonale antistoffer mot gd cd og cd',
+  'cleanedTitle': 'monoklonale antistoffer mot gd2 cd20 og cd22',
   'sanityRef': 'lk-02-377380'}
 
-monoklonale antistoffer mot pd og pd l:
+monoklonale antistoffer mot pd 1 og pd l1:
 { 'canonicalTitle': 'Monoklonale antistoffer mot PD-1 og PD-L1',
-  'cleanedTitle': 'monoklonale antistoffer mot pd og pd l',
+  'cleanedTitle': 'monoklonale antistoffer mot pd 1 og pd l1',
   'sanityRef': 'lk-02-475224'}
 
 monoklonale antistoffer mot vegf familien:
@@ -9133,24 +9148,24 @@ monoklonale antistoffer ved muskel og skjelettsykdommer:
   'cleanedTitle': 'monoklonale antistoffer ved muskel og skjelettsykdommer',
   'sanityRef': 'lk-17-272817'}
 
-monoklonalt antistoff mot cd b:
-{ 'canonicalTitle': 'Monoklonalt antistoff mot CD79b',
-  'cleanedTitle': 'monoklonalt antistoff mot cd b',
-  'sanityRef': '1eab5c3b-e32c-45cf-8d97-15a5f0751084'}
-
-monoklonalt antistoff mot cd cd og cd:
+monoklonalt antistoff mot cd30 cd33 og cd38:
 { 'canonicalTitle': 'Monoklonalt antistoff mot CD30, CD33 og CD38',
-  'cleanedTitle': 'monoklonalt antistoff mot cd cd og cd',
+  'cleanedTitle': 'monoklonalt antistoff mot cd30 cd33 og cd38',
   'sanityRef': 'lk-02-421801'}
 
-monoklonalt antistoff mot cd:
+monoklonalt antistoff mot cd52:
 { 'canonicalTitle': 'Monoklonalt antistoff mot CD52',
-  'cleanedTitle': 'monoklonalt antistoff mot cd',
+  'cleanedTitle': 'monoklonalt antistoff mot cd52',
   'sanityRef': 'lk-02-377428'}
 
-monoklonalt antistoff mot ctla cd:
+monoklonalt antistoff mot cd79b:
+{ 'canonicalTitle': 'Monoklonalt antistoff mot CD79b',
+  'cleanedTitle': 'monoklonalt antistoff mot cd79b',
+  'sanityRef': '1eab5c3b-e32c-45cf-8d97-15a5f0751084'}
+
+monoklonalt antistoff mot ctla 4 cd152:
 { 'canonicalTitle': 'Monoklonalt antistoff mot CTLA-4 (=CD152)',
-  'cleanedTitle': 'monoklonalt antistoff mot ctla cd',
+  'cleanedTitle': 'monoklonalt antistoff mot ctla 4 cd152',
   'sanityRef': 'lk-02-377475'}
 
 mononukleose:
@@ -9498,9 +9513,9 @@ nevrogene blæreforstyrrelser:
   'cleanedTitle': 'nevrogene blæreforstyrrelser',
   'sanityRef': 'tk-13-nyrer-323'}
 
-nevrokinin antagonist:
+nevrokinin 1 antagonist:
 { 'canonicalTitle': 'Nevrokinin 1-antagonist',
-  'cleanedTitle': 'nevrokinin antagonist',
+  'cleanedTitle': 'nevrokinin 1 antagonist',
   'sanityRef': 'lk-19-febermm-1909'}
 
 nevrologiske utfall etter anestesi:
@@ -9658,20 +9673,20 @@ noskapin:
   'cleanedTitle': 'noskapin',
   'sanityRef': 'lk-10-lunger-273'}
 
-ns a replikasjonsregulator inhibitorer:
+ns3 ns4a proteaseinhibitorer:
+{ 'canonicalTitle': 'NS3/NS4A-proteaseinhibitorer',
+  'cleanedTitle': 'ns3 ns4a proteaseinhibitorer',
+  'sanityRef': 'lk-01-472835'}
+
+ns5a replikasjonsregulator inhibitorer:
 { 'canonicalTitle': 'NS5A-replikasjonsregulator-inhibitorer',
-  'cleanedTitle': 'ns a replikasjonsregulator inhibitorer',
+  'cleanedTitle': 'ns5a replikasjonsregulator inhibitorer',
   'sanityRef': 'lk-01-473453'}
 
-ns b polymeraseinhibitorer:
+ns5b polymeraseinhibitorer:
 { 'canonicalTitle': 'NS5B-polymeraseinhibitorer',
-  'cleanedTitle': 'ns b polymeraseinhibitorer',
+  'cleanedTitle': 'ns5b polymeraseinhibitorer',
   'sanityRef': 'lk-01-473598'}
-
-ns ns a proteaseinhibitorer:
-{ 'canonicalTitle': 'NS3/NS4A-proteaseinhibitorer',
-  'cleanedTitle': 'ns ns a proteaseinhibitorer',
-  'sanityRef': 'lk-01-472835'}
 
 nukleosid og nukleotid revers transkriptasehemmere:
 { 'canonicalTitle': 'Nukleosid og nukleotid revers transkriptasehemmere',
@@ -9905,19 +9920,19 @@ ombitasvir paritaprevir ritonavir:
   'cleanedTitle': 'ombitasvir paritaprevir ritonavir',
   'sanityRef': 'lk-01-472921'}
 
-omega fettsyreestere:
+omega 3 fettsyreestere:
 { 'canonicalTitle': 'Omega-3-fettsyreestere',
-  'cleanedTitle': 'omega fettsyreestere',
+  'cleanedTitle': 'omega 3 fettsyreestere',
   'sanityRef': 'lk-08-hjertekrets-8951'}
 
-omega fettsyrer:
+omega 3 fettsyrer:
 { 'canonicalTitle': 'Omega-3-fettsyrer',
-  'cleanedTitle': 'omega fettsyrer',
+  'cleanedTitle': 'omega 3 fettsyrer',
   'sanityRef': 'lk-23-ernering-70354'}
 
-omega triglyserider inklusive andre estere og syrer:
+omega 3 triglyserider inklusive andre estere og syrer:
 { 'canonicalTitle': 'Omega-3-triglyserider inklusive andre estere og syrer',
-  'cleanedTitle': 'omega triglyserider inklusive andre estere og syrer',
+  'cleanedTitle': 'omega 3 triglyserider inklusive andre estere og syrer',
   'sanityRef': 'b03c51e0-16b3-47e1-951d-a471a5e2a1fe'}
 
 omeprazol:
@@ -10192,19 +10207,19 @@ parasittoser:
   'cleanedTitle': 'parasittoser',
   'sanityRef': 'tk-16-hud-781'}
 
-parathyreoideahormon hpth:
+parathyreoideahormon hpth 1 84:
 { 'canonicalTitle': 'Parathyreoideahormon (hPTH(1-84))',
-  'cleanedTitle': 'parathyreoideahormon hpth',
+  'cleanedTitle': 'parathyreoideahormon hpth 1 84',
   'sanityRef': 'lk-03-318152'}
 
-parathyreoideahormoner pth og hpth:
+parathyreoideahormoner pth 1 84 og hpth 1 34:
 { 'canonicalTitle': 'Parathyreoideahormoner (PTH(1-84) og hPTH(1-34))',
-  'cleanedTitle': 'parathyreoideahormoner pth og hpth',
+  'cleanedTitle': 'parathyreoideahormoner pth 1 84 og hpth 1 34',
   'sanityRef': 'lk-03-317779'}
 
-paratyreoideahormon rdna:
+paratyreoideahormon 1 84 rdna:
 { 'canonicalTitle': 'Paratyreoideahormon (1-84) (rDNA)',
-  'cleanedTitle': 'paratyreoideahormon rdna',
+  'cleanedTitle': 'paratyreoideahormon 1 84 rdna',
   'sanityRef': 'lk-03-604692'}
 
 paratyreoideasykdommer:
@@ -10311,9 +10326,9 @@ pazopanib:
   'cleanedTitle': 'pazopanib',
   'sanityRef': 'lk-02-227014'}
 
-pcsk hemmere:
+pcsk9 hemmere:
 { 'canonicalTitle': 'PCSK9-hemmere',
-  'cleanedTitle': 'pcsk hemmere',
+  'cleanedTitle': 'pcsk9 hemmere',
   'sanityRef': 'lk-08-544489'}
 
 pediculosis:
@@ -11202,9 +11217,9 @@ radiofarmaka:
   'cleanedTitle': 'radiofarmaka',
   'sanityRef': 'id425967-010024'}
 
-radium:
+radium 223:
 { 'canonicalTitle': 'Radium-223',
-  'cleanedTitle': 'radium',
+  'cleanedTitle': 'radium 223',
   'sanityRef': 'lk-02-426048'}
 
 raloksifen:
@@ -11773,25 +11788,25 @@ seleksipag:
   'cleanedTitle': 'seleksipag',
   'sanityRef': 'lk-08-602080'}
 
-selektive alfa adrenerge agonister:
+selektive 5 ht1 reseptoragonister:
+{ 'canonicalTitle': 'Selektive 5-HT1-reseptoragonister',
+  'cleanedTitle': 'selektive 5 ht1 reseptoragonister',
+  'sanityRef': 'p-294selektiv'}
+
+selektive alfa 2 adrenerge agonister:
 { 'canonicalTitle': 'Selektive alfa-2-adrenerge agonister',
-  'cleanedTitle': 'selektive alfa adrenerge agonister',
+  'cleanedTitle': 'selektive alfa 2 adrenerge agonister',
   'sanityRef': 'lk-07-oye-hovding-1395'}
 
-selektive beta agonister:
-{ 'canonicalTitle': 'Selektive beta-2-agonister',
-  'cleanedTitle': 'selektive beta agonister',
-  'sanityRef': 'b064d598-e93e-46a1-b763-327004ca1a21'}
-
-selektive beta reseptorantagonister:
+selektive beta 1 reseptorantagonister:
 { 'canonicalTitle': 'Selektive beta-1-reseptorantagonister',
-  'cleanedTitle': 'selektive beta reseptorantagonister',
+  'cleanedTitle': 'selektive beta 1 reseptorantagonister',
   'sanityRef': 'lk-08-hjertekrets-1704'}
 
-selektive ht reseptoragonister:
-{ 'canonicalTitle': 'Selektive 5-HT1-reseptoragonister',
-  'cleanedTitle': 'selektive ht reseptoragonister',
-  'sanityRef': 'p-294selektiv'}
+selektive beta 2 agonister:
+{ 'canonicalTitle': 'Selektive beta-2-agonister',
+  'cleanedTitle': 'selektive beta 2 agonister',
+  'sanityRef': 'b064d598-e93e-46a1-b763-327004ca1a21'}
 
 selektive immunsuppressiver:
 { 'canonicalTitle': 'Selektive immunsuppressiver',
@@ -11863,9 +11878,9 @@ sermorelin:
   'cleanedTitle': 'sermorelin',
   'sanityRef': 'lk-03-endokr-1554'}
 
-serotonin ht antagonister:
+serotonin 5 ht3 antagonister:
 { 'canonicalTitle': 'Serotonin 5-HT3-antagonister',
-  'cleanedTitle': 'serotonin ht antagonister',
+  'cleanedTitle': 'serotonin 5 ht3 antagonister',
   'sanityRef': '300de81a-ff0e-4190-845f-1c3e0a419938'}
 
 serotonin og noradrenalinreopptakshemmere snri:
@@ -11898,9 +11913,9 @@ sevelamer:
   'cleanedTitle': 'sevelamer',
   'sanityRef': 'lk-13-nyrer-38367'}
 
-sglt hemmere:
+sglt2 hemmere:
 { 'canonicalTitle': 'SGLT2-hemmere',
-  'cleanedTitle': 'sglt hemmere',
+  'cleanedTitle': 'sglt2 hemmere',
   'sanityRef': 'lk-03-366287'}
 
 shigellose:
@@ -12703,9 +12718,9 @@ teriflunomid:
   'cleanedTitle': 'teriflunomid',
   'sanityRef': 'lk-06-464453'}
 
-teriparatide hpth:
+teriparatide hpth 1 34:
 { 'canonicalTitle': 'Teriparatide (hPTH(1-34))',
-  'cleanedTitle': 'teriparatide hpth',
+  'cleanedTitle': 'teriparatide hpth 1 34',
   'sanityRef': 'lk-03-318050'}
 
 tertiær hyperparatyreoidisme:
@@ -12718,9 +12733,9 @@ testiscancer:
   'cleanedTitle': 'testiscancer',
   'sanityRef': 'tk-02-neopl-696'}
 
-testosteron alfareduktasehemmere:
+testosteron 5 alfareduktasehemmere:
 { 'canonicalTitle': 'Testosteron-5-alfareduktasehemmere',
-  'cleanedTitle': 'testosteron alfareduktasehemmere',
+  'cleanedTitle': 'testosteron 5 alfareduktasehemmere',
   'sanityRef': 'c7f5e03c-f100-4061-a709-8c1ecca091c0'}
 
 testosteron:
@@ -13588,45 +13603,45 @@ vitamin a:
   'cleanedTitle': 'vitamin a',
   'sanityRef': 'lk-23-ernering-43'}
 
-vitamin b cyanokobalamin hydroksokobalamin:
-{ 'canonicalTitle': 'Vitamin B12, Cyanokobalamin, hydroksokobalamin',
-  'cleanedTitle': 'vitamin b cyanokobalamin hydroksokobalamin',
-  'sanityRef': 'lk-04-blod-189'}
-
-vitamin b mangel:
-{ 'canonicalTitle': 'Vitamin B12-mangel',
-  'cleanedTitle': 'vitamin b mangel',
-  'sanityRef': 'tk-04-blod-126'}
-
-vitamin b nikotinamid nikotinsyre niacin:
-{ 'canonicalTitle': 'Vitamin B3 (Nikotinamid, nikotinsyre, niacin)',
-  'cleanedTitle': 'vitamin b nikotinamid nikotinsyre niacin',
-  'sanityRef': 'lk-23-ernering-267'}
-
 vitamin b parenterale:
 { 'canonicalTitle': 'Vitamin B – parenterale',
   'cleanedTitle': 'vitamin b parenterale',
   'sanityRef': 'lk-23-ernering-1589'}
 
-vitamin b pyridoksin:
-{ 'canonicalTitle': 'Vitamin B6 (Pyridoksin)',
-  'cleanedTitle': 'vitamin b pyridoksin',
-  'sanityRef': 'lk-23-ernering-224'}
-
-vitamin b riboflavin:
-{ 'canonicalTitle': 'Vitamin B2 (Riboflavin)',
-  'cleanedTitle': 'vitamin b riboflavin',
-  'sanityRef': 'lk-23-ernering-211'}
-
-vitamin b tiamin:
-{ 'canonicalTitle': 'Vitamin B1 (Tiamin)',
-  'cleanedTitle': 'vitamin b tiamin',
-  'sanityRef': 'lk-23-ernering-174'}
-
 vitamin b vitamin c parenterale:
 { 'canonicalTitle': 'Vitamin B + vitamin C parenterale',
   'cleanedTitle': 'vitamin b vitamin c parenterale',
   'sanityRef': 'lk-23-273746'}
+
+vitamin b1 tiamin:
+{ 'canonicalTitle': 'Vitamin B1 (Tiamin)',
+  'cleanedTitle': 'vitamin b1 tiamin',
+  'sanityRef': 'lk-23-ernering-174'}
+
+vitamin b12 cyanokobalamin hydroksokobalamin:
+{ 'canonicalTitle': 'Vitamin B12, Cyanokobalamin, hydroksokobalamin',
+  'cleanedTitle': 'vitamin b12 cyanokobalamin hydroksokobalamin',
+  'sanityRef': 'lk-04-blod-189'}
+
+vitamin b12 mangel:
+{ 'canonicalTitle': 'Vitamin B12-mangel',
+  'cleanedTitle': 'vitamin b12 mangel',
+  'sanityRef': 'tk-04-blod-126'}
+
+vitamin b2 riboflavin:
+{ 'canonicalTitle': 'Vitamin B2 (Riboflavin)',
+  'cleanedTitle': 'vitamin b2 riboflavin',
+  'sanityRef': 'lk-23-ernering-211'}
+
+vitamin b3 nikotinamid nikotinsyre niacin:
+{ 'canonicalTitle': 'Vitamin B3 (Nikotinamid, nikotinsyre, niacin)',
+  'cleanedTitle': 'vitamin b3 nikotinamid nikotinsyre niacin',
+  'sanityRef': 'lk-23-ernering-267'}
+
+vitamin b6 pyridoksin:
+{ 'canonicalTitle': 'Vitamin B6 (Pyridoksin)',
+  'cleanedTitle': 'vitamin b6 pyridoksin',
+  'sanityRef': 'lk-23-ernering-224'}
 
 vitamin b:
 { 'canonicalTitle': 'Vitamin B',
@@ -13638,11 +13653,6 @@ vitamin c askorbinsyre:
   'cleanedTitle': 'vitamin c askorbinsyre',
   'sanityRef': 'lk-23-ernering-339'}
 
-vitamin d analoger:
-{ 'canonicalTitle': 'Vitamin D3-analoger',
-  'cleanedTitle': 'vitamin d analoger',
-  'sanityRef': 'lk-16-hud-289'}
-
 vitamin d og analoger:
 { 'canonicalTitle': 'Vitamin D og analoger',
   'cleanedTitle': 'vitamin d og analoger',
@@ -13651,6 +13661,11 @@ vitamin d og analoger:
   'success': True,
   'tdId': True,
   'word': 'ergokalsiferol'}
+
+vitamin d3 analoger:
+{ 'canonicalTitle': 'Vitamin D3-analoger',
+  'cleanedTitle': 'vitamin d3 analoger',
+  'sanityRef': 'lk-16-hud-289'}
 
 vitamin e:
 { 'canonicalTitle': 'Vitamin E',

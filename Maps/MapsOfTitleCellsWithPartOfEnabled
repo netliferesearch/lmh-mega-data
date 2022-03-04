@@ -2,20 +2,18 @@
 /*
 
 Alle tittel-cellene i tabellene som ikke matcher på fullt ord men matcher på deler av et ord
-Antall: 860
+Antall: 764
 
 */
 
-d1e338550:
-{ 'canonicalTitle': 'Metylfenidat og lisdeksamfetamin/deksamfetamin/amfetamin',
-  'mappingState': 'automatic',
-  'originalWord': 'amfetamin',
+d1e338504:
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
   'partOf': True,
-  'sanityRef': 'lk-06-nevrol-3643',
   'success': True,
   'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'amfetamin'}
+  'type': 'highlightMapper',
+  'word': 'tretinoin'}
 
 d1e338565:
 { 'canonicalTitle': 'Amilorid–hydroklortiazid',
@@ -27,6 +25,17 @@ d1e338565:
   'tdId': True,
   'type': 'cellTitleIsSubstring',
   'word': 'amilorid'}
+
+d1e338592:
+{ 'canonicalTitle': '5-Aminosalisylsyreforbindelser',
+  'mappingState': 'automatic',
+  'originalWord': 'aminosalisylsyreforbindelser',
+  'partOf': True,
+  'sanityRef': 'lk-12-fordoyel-1925',
+  'success': True,
+  'tdId': True,
+  'type': 'cellTitleIsSubstring',
+  'word': 'aminosalisylsyreforbindelser'}
 
 d1e338600:
 { 'canonicalTitle': 'Glukose',
@@ -88,13 +97,13 @@ d1e338713:
 d1e338780:
 { 'canonicalTitle': 'Reseptorantagonister',
   'mappingState': 'automatic',
-  'originalWord': 'at reseptorantagonister',
+  'originalWord': 'at1 reseptorantagonister',
   'partOf': True,
   'sanityRef': 'lk-05-psykisk-3928',
   'success': True,
   'tdId': True,
   'type': 'canonicalTitleIsSubstring',
-  'word': 'at reseptorantagonister'}
+  'word': 'at1 reseptorantagonister'}
 
 d1e338920:
 { 'canonicalTitle': 'Bendroflumetiazid (ev. med kalium)',
@@ -118,39 +127,6 @@ d1e338971:
   'type': 'canonicalTitleIsSubstring',
   'word': 'betareseptorantagonister'}
 
-d1e339027:
-{ 'canonicalTitle': 'Brinzolamid–brimonidin',
-  'mappingState': 'automatic',
-  'originalWord': 'brinzolamid',
-  'partOf': True,
-  'sanityRef': 'lk-07-429995',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'brinzolamid'}
-
-d1e339101:
-{ 'canonicalTitle': 'Misbruk av cannabis og syntetiske cannabinoider',
-  'mappingState': 'automatic',
-  'originalWord': 'cannabinoider',
-  'partOf': True,
-  'sanityRef': 'tk-05-psykisk-11666',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'cannabinoider'}
-
-d1e339383:
-{ 'canonicalTitle': 'Dekstran',
-  'mappingState': 'automatic',
-  'originalWord': 'dekstraner',
-  'partOf': True,
-  'sanityRef': 'lk-23-ernering-1823',
-  'success': True,
-  'tdId': True,
-  'type': 'canonicalTitleIsSubstring',
-  'word': 'dekstraner'}
-
 d1e339422:
 { 'canonicalTitle': 'Desmopressin, terlipressin',
   'mappingState': 'automatic',
@@ -173,28 +149,6 @@ d1e339487:
   'type': 'cellTitleIsSubstring',
   'word': 'dikloksacillin'}
 
-d1e339543:
-{ 'canonicalTitle': 'Dorzolamid–timolol',
-  'mappingState': 'automatic',
-  'originalWord': 'dorzolamid',
-  'partOf': True,
-  'sanityRef': 'lk-07-oye-560',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'dorzolamid'}
-
-d1e339764:
-{ 'canonicalTitle': 'Ergotamin, kombinasjoner med psykoleptika',
-  'mappingState': 'automatic',
-  'originalWord': 'ergotamin',
-  'partOf': True,
-  'sanityRef': '486d2078-55be-4bc5-83dd-35c3238add7b',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'ergotamin'}
-
 d1e339857:
 { 'canonicalTitle': 'Morfin',
   'mappingState': 'automatic',
@@ -216,28 +170,6 @@ d1e339923:
   'tdId': True,
   'type': 'cellTitleIsSubstring',
   'word': 'fenazon'}
-
-d1e340038:
-{ 'canonicalTitle': 'Kloksacillin, dikloksacillin, flukloksacillin',
-  'mappingState': 'automatic',
-  'originalWord': 'flukloksacillin',
-  'partOf': True,
-  'sanityRef': 'lk-01-infeksjon-539',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'flukloksacillin'}
-
-d1e340111:
-{ 'canonicalTitle': 'Folsyre',
-  'mappingState': 'automatic',
-  'originalWord': 'folsyreantagonister',
-  'partOf': True,
-  'sanityRef': 'lk-04-blod-320',
-  'success': True,
-  'tdId': True,
-  'type': 'canonicalTitleIsSubstring',
-  'word': 'folsyreantagonister'}
 
 d1e340203:
 { 'canonicalTitle': 'Natrium',
@@ -305,16 +237,14 @@ d1e340544:
   'type': 'cellTitleIsSubstring',
   'word': 'insulin'}
 
-d1e340901:
-{ 'canonicalTitle': 'Amoksicillin-klavulanat',
-  'mappingState': 'automatic',
-  'originalWord': 'klavulanat',
+d1e340599:
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
   'partOf': True,
-  'sanityRef': 'lk-01-597577',
   'success': True,
   'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'klavulanat'}
+  'type': 'highlightMapper',
+  'word': 'tretinoin'}
 
 d1e340936:
 { 'canonicalTitle': 'Kloksacillin, dikloksacillin, flukloksacillin',
@@ -349,16 +279,32 @@ d1e340995:
   'type': 'cellTitleIsSubstring',
   'word': 'koffein'}
 
-d1e341169:
-{ 'canonicalTitle': 'Lidokain–prilokain',
-  'mappingState': 'automatic',
-  'originalWord': 'lidokain',
+d1e341030:
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
   'partOf': True,
-  'sanityRef': 'lk-22-anestesi-423',
   'success': True,
   'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'lidokain'}
+  'type': 'highlightMapperSubstring',
+  'word': 'korifollitropin'}
+
+d1e341294:
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
+  'partOf': True,
+  'success': True,
+  'tdId': True,
+  'type': 'highlightMapperSubstring',
+  'word': 'trimetoprim'}
+
+d1e341496:
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
+  'partOf': True,
+  'success': True,
+  'tdId': True,
+  'type': 'highlightMapperSubstring',
+  'word': 'skopolamin'}
 
 d1e341539:
 { 'canonicalTitle': 'Nabiksimoler (cannabisekstrakt)',
@@ -371,17 +317,6 @@ d1e341539:
   'type': 'cellTitleIsSubstring',
   'word': 'nabiksimoler'}
 
-d1e341659:
-{ 'canonicalTitle': 'Nintedanib (onkologi)',
-  'mappingState': 'automatic',
-  'originalWord': 'nintedanib',
-  'partOf': True,
-  'sanityRef': 'lk-02-468665',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'nintedanib'}
-
 d1e341692:
 { 'canonicalTitle': 'Antiinflammatoriske midler',
   'mappingState': 'automatic',
@@ -393,46 +328,14 @@ d1e341692:
   'type': 'canonicalTitleIsSubstring',
   'word': 'nsaids ikke steroide antiinflammatoriske midler'}
 
-d1e341906:
-{ 'canonicalTitle': 'Parathyreoideahormoner (PTH(1-84) og hPTH(1-34))',
-  'mappingState': 'automatic',
-  'originalWord': 'parathyreoideahormon',
-  'partOf': True,
-  'sanityRef': 'lk-03-317779',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'parathyreoideahormon'}
-
 d1e341937:
-{ 'mappingState': 'highlightRemapped',
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
   'partOf': True,
   'success': True,
   'tdId': True,
   'type': 'highlightMapperSubstring',
-  'word': 'peginterferon alfa a og b'}
-
-d1e342012:
-{ 'canonicalTitle': 'Piperacillin–tazobaktam',
-  'mappingState': 'automatic',
-  'originalWord': 'piperacillin',
-  'partOf': True,
-  'sanityRef': 'lk-01-infeksjon-1210',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'piperacillin'}
-
-d1e342019:
-{ 'canonicalTitle': 'Dihydroartemisinin-piperakin',
-  'mappingState': 'automatic',
-  'originalWord': 'piperakin',
-  'partOf': True,
-  'sanityRef': 'lk-01-271729',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'piperakin'}
+  'word': 'interferoner'}
 
 d1e342277:
 { 'canonicalTitle': 'Rokuron',
@@ -444,17 +347,6 @@ d1e342277:
   'tdId': True,
   'type': 'canonicalTitleIsSubstring',
   'word': 'rokuronium'}
-
-d1e342537:
-{ 'canonicalTitle': 'Trimetoprim–sulfametoksazol',
-  'mappingState': 'automatic',
-  'originalWord': 'sulfametoksazol',
-  'partOf': True,
-  'sanityRef': 'lk-01-infeksjon-3851',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'sulfametoksazol'}
 
 d1e342621:
 { 'canonicalTitle': 'Tafluprost–timolol',
@@ -491,26 +383,40 @@ d1e342724:
   'word': 'tiazid tiazidlignende diuretika'}
 
 d1e342916:
-{ 'canonicalTitle': 'Tretinoin (onkologi)',
-  'mappingState': 'automatic',
-  'originalWord': 'tretinoin',
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
   'partOf': True,
-  'sanityRef': 'lk-02-neopl-3234',
   'success': True,
   'tdId': True,
-  'type': 'cellTitleIsSubstring',
+  'type': 'highlightMapper',
   'word': 'tretinoin'}
 
-d1e343034:
-{ 'canonicalTitle': 'Sofosbuvir–velpatasvir',
-  'mappingState': 'automatic',
-  'originalWord': 'velpatasvir',
+d1e342931:
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
   'partOf': True,
-  'sanityRef': 'lk-01-595227',
   'success': True,
   'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'velpatasvir'}
+  'type': 'highlightMapperSubstring',
+  'word': 'trimetoprim'}
+
+d1e342939:
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
+  'partOf': True,
+  'success': True,
+  'tdId': True,
+  'type': 'highlightMapperSubstring',
+  'word': 'trimetreksat'}
+
+d1e343850:
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
+  'partOf': True,
+  'success': True,
+  'tdId': True,
+  'type': 'highlightMapper',
+  'word': 'tretinoin'}
 
 d1e343915:
 { 'canonicalTitle': 'Amprenavir/fosamprenavir',
@@ -559,15 +465,15 @@ d1e343971:
   'word': 'antidepressiva ssri og tca'}
 
 d1e343979:
-{ 'canonicalTitle': 'Histamin H2‑antagonister',
+{ 'canonicalTitle': 'Histamin H1‑antagonister',
   'mappingState': 'automatic',
-  'originalWord': 'antihistaminer histamin h antagonister',
+  'originalWord': 'antihistaminer histamin h1 antagonister',
   'partOf': True,
-  'sanityRef': 'lk-12-fordoyel-357',
+  'sanityRef': 'lk-09-allergi-15',
   'success': True,
   'tdId': True,
   'type': 'canonicalTitleIsSubstring',
-  'word': 'antihistaminer histamin h antagonister'}
+  'word': 'antihistaminer histamin h1 antagonister'}
 
 d1e343987:
 { 'canonicalTitle': 'Antiinflammatoriske midler',
@@ -657,28 +563,6 @@ d1e344843:
   'type': 'cellTitleIsSubstring',
   'word': 'dutasterid'}
 
-d1e345005:
-{ 'canonicalTitle': 'Ergotamin, kombinasjoner med psykoleptika',
-  'mappingState': 'automatic',
-  'originalWord': 'ergotamin',
-  'partOf': True,
-  'sanityRef': '486d2078-55be-4bc5-83dd-35c3238add7b',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'ergotamin'}
-
-d1e345070:
-{ 'canonicalTitle': 'Cyproteron–etinyløstradiol',
-  'mappingState': 'automatic',
-  'originalWord': 'etinyløstradiol',
-  'partOf': True,
-  'sanityRef': 'lk-03-endokr-7644',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'etinyløstradiol'}
-
 d1e345111:
 { 'canonicalTitle': 'Morfin',
   'mappingState': 'automatic',
@@ -701,17 +585,6 @@ d1e345165:
   'type': 'cellTitleIsSubstring',
   'word': 'viii'}
 
-d1e345209:
-{ 'canonicalTitle': 'Fentiaziner med alifatisk sidekjede',
-  'mappingState': 'automatic',
-  'originalWord': 'fentiaziner',
-  'partOf': True,
-  'sanityRef': 'd0b856d9-5a4c-49ed-8b1d-141dcee55391',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'fentiaziner'}
-
 d1e345259:
 { 'canonicalTitle': 'Humant fibrinogen',
   'mappingState': 'automatic',
@@ -722,28 +595,6 @@ d1e345259:
   'tdId': True,
   'type': 'cellTitleIsSubstring',
   'word': 'fibrinogen'}
-
-d1e345368:
-{ 'canonicalTitle': 'Folsyre',
-  'mappingState': 'automatic',
-  'originalWord': 'folsyreantagonister',
-  'partOf': True,
-  'sanityRef': 'lk-04-blod-320',
-  'success': True,
-  'tdId': True,
-  'type': 'canonicalTitleIsSubstring',
-  'word': 'folsyreantagonister'}
-
-d1e345384:
-{ 'canonicalTitle': 'Amprenavir/fosamprenavir',
-  'mappingState': 'automatic',
-  'originalWord': 'fosamprenavir',
-  'partOf': True,
-  'sanityRef': 'lk-01-infeksjon-frf-retur-17072',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'fosamprenavir'}
 
 d1e345392:
 { 'canonicalTitle': 'Aprepitant og fosaprepitant',
@@ -757,26 +608,31 @@ d1e345392:
   'word': 'fosaprepitant'}
 
 d1e345750:
-{ 'canonicalTitle': 'Interferon alfa-2, peginterferon alfa-2',
-  'mappingState': 'automatic',
-  'originalWord': 'interferon alfa',
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
   'partOf': True,
-  'sanityRef': 'lk-18-immunsuppr-frf-retur-3392d',
   'success': True,
   'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'interferon alfa'}
+  'type': 'highlightMapperSubstring',
+  'word': 'interferoner'}
 
 d1e345760:
-{ 'canonicalTitle': 'Interferon beta-1, peginterferon beta-1',
-  'mappingState': 'automatic',
-  'originalWord': 'interferon beta',
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
   'partOf': True,
-  'sanityRef': 'lk-18-immunsuppr-frf-retur-3392fl',
   'success': True,
   'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'interferon beta'}
+  'type': 'highlightMapperSubstring',
+  'word': 'interferoner'}
+
+d1e345793:
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
+  'partOf': True,
+  'success': True,
+  'tdId': True,
+  'type': 'highlightMapper',
+  'word': 'tretinoin'}
 
 d1e346204:
 { 'canonicalTitle': 'Bupivakain, Levobupivakain',
@@ -789,17 +645,6 @@ d1e346204:
   'type': 'cellTitleIsSubstring',
   'word': 'levobupivakain'}
 
-d1e346248:
-{ 'canonicalTitle': 'Lidokain–prilokain',
-  'mappingState': 'automatic',
-  'originalWord': 'lidokain',
-  'partOf': True,
-  'sanityRef': 'lk-22-anestesi-423',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'lidokain'}
-
 d1e346361:
 { 'canonicalTitle': 'Irreversible, uselektive monoaminoksidasehemmere (MAOH)',
   'mappingState': 'automatic',
@@ -811,24 +656,14 @@ d1e346361:
   'type': 'cellTitleIsSubstring',
   'word': 'maoh'}
 
-d1e346712:
-{ 'canonicalTitle': 'Aurotiomalat',
-  'mappingState': 'automatic',
-  'originalWord': 'natriumaurotiomalat',
-  'partOf': True,
-  'sanityRef': 'lk-17-muskl-2045',
-  'success': True,
-  'tdId': True,
-  'type': 'canonicalTitleIsSubstring',
-  'word': 'natriumaurotiomalat'}
-
-d1e346811:
-{ 'mappingState': 'highlightRemapped',
+d1e346607:
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
   'partOf': True,
   'success': True,
   'tdId': True,
   'type': 'highlightMapperSubstring',
-  'word': 'norgestrel'}
+  'word': 'skopolamin'}
 
 d1e346829:
 { 'canonicalTitle': 'Ikke‑steroide antiinflammatoriske midler (NSAID)',
@@ -841,24 +676,14 @@ d1e346829:
   'type': 'cellTitleIsSubstring',
   'word': 'nsaid'}
 
-d1e347050:
-{ 'canonicalTitle': 'Parathyreoideahormoner (PTH(1-84) og hPTH(1-34))',
-  'mappingState': 'automatic',
-  'originalWord': 'parathyreoideahormon',
-  'partOf': True,
-  'sanityRef': 'lk-03-317779',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'parathyreoideahormon'}
-
 d1e347082:
-{ 'mappingState': 'highlightRemapped',
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
   'partOf': True,
   'success': True,
   'tdId': True,
   'type': 'highlightMapperSubstring',
-  'word': 'peginterferon alfa a og b'}
+  'word': 'interferoner'}
 
 d1e347167:
 { 'canonicalTitle': 'Østradiol',
@@ -937,6 +762,15 @@ d1e348031:
   'type': 'canonicalTitleIsSubstring',
   'word': 'trifluridin og tipiracil kombinasjonspreparat'}
 
+d1e348038:
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
+  'partOf': True,
+  'success': True,
+  'tdId': True,
+  'type': 'highlightMapperSubstring',
+  'word': 'trimetreksat'}
+
 d1e348087:
 { 'canonicalTitle': 'Vilanterol-umeklidinium',
   'mappingState': 'automatic',
@@ -973,35 +807,42 @@ d1e351929:
 d1e352113:
 { 'canonicalTitle': 'Reseptorantagonister',
   'mappingState': 'automatic',
-  'originalWord': 'alfa betareseptorantagonister kombinerte',
+  'originalWord': 'alfa 1 betareseptorantagonister kombinerte',
   'partOf': True,
   'sanityRef': 'lk-05-psykisk-3928',
   'success': True,
   'tdId': True,
   'type': 'canonicalTitleIsSubstring',
-  'word': 'alfa betareseptorantagonister kombinerte'}
+  'word': 'alfa 1 betareseptorantagonister kombinerte'}
 
 d1e352133:
 { 'canonicalTitle': 'Reseptorantagonister',
   'mappingState': 'automatic',
-  'originalWord': 'alfa reseptorantagonister adrenerge',
+  'originalWord': 'alfa 1 reseptorantagonister adrenerge',
   'partOf': True,
   'sanityRef': 'lk-05-psykisk-3928',
   'success': True,
   'tdId': True,
   'type': 'canonicalTitleIsSubstring',
-  'word': 'alfa reseptorantagonister adrenerge'}
+  'word': 'alfa 1 reseptorantagonister adrenerge'}
 
-d1e352300:
-{ 'canonicalTitle': 'Metylfenidat og lisdeksamfetamin/deksamfetamin/amfetamin',
-  'mappingState': 'automatic',
-  'originalWord': 'amfetamin',
+d1e352193:
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
   'partOf': True,
-  'sanityRef': 'lk-06-nevrol-3643',
   'success': True,
   'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'amfetamin'}
+  'type': 'highlightMapper',
+  'word': 'tretinoin'}
+
+d1e352300:
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
+  'partOf': True,
+  'success': True,
+  'tdId': True,
+  'type': 'highlightMapperSubstring',
+  'word': 'lisdeksamfetamin'}
 
 d1e352315:
 { 'canonicalTitle': 'Amilorid–hydroklortiazid',
@@ -1013,6 +854,17 @@ d1e352315:
   'tdId': True,
   'type': 'cellTitleIsSubstring',
   'word': 'amilorid'}
+
+d1e352348:
+{ 'canonicalTitle': '5-Aminosalisylsyreforbindelser',
+  'mappingState': 'automatic',
+  'originalWord': 'aminosalisylsyreforbindelser',
+  'partOf': True,
+  'sanityRef': 'lk-12-fordoyel-1925',
+  'success': True,
+  'tdId': True,
+  'type': 'cellTitleIsSubstring',
+  'word': 'aminosalisylsyreforbindelser'}
 
 d1e352436:
 { 'canonicalTitle': 'Amprenavir/fosamprenavir',
@@ -1093,17 +945,6 @@ d1e352582:
   'type': 'canonicalTitleIsSubstring',
   'word': 'antiinflammatoriske midler ikke steroide'}
 
-d1e352599:
-{ 'canonicalTitle': 'Antikolinergika (nevrologi)',
-  'mappingState': 'automatic',
-  'originalWord': 'antikolinergika',
-  'partOf': True,
-  'sanityRef': 'lk-06-nevrol-2883',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'antikolinergika'}
-
 d1e352649:
 { 'canonicalTitle': 'Antitrombinkonsentrat',
   'mappingState': 'automatic',
@@ -1125,17 +966,6 @@ d1e352656:
   'tdId': True,
   'type': 'cellTitleIsSubstring',
   'word': 'antitymocytt'}
-
-d1e352685:
-{ 'canonicalTitle': 'Antrasykliner og lignende substanser',
-  'mappingState': 'automatic',
-  'originalWord': 'antrasykliner',
-  'partOf': True,
-  'sanityRef': '00c4e5da-b2a8-4746-8226-8f22c5d9e2dd',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'antrasykliner'}
 
 d1e352728:
 { 'canonicalTitle': 'Aprepitant og fosaprepitant',
@@ -1184,13 +1014,13 @@ d1e352811:
 d1e352877:
 { 'canonicalTitle': 'Reseptorantagonister',
   'mappingState': 'automatic',
-  'originalWord': 'at reseptorantagonister',
+  'originalWord': 'at1 reseptorantagonister',
   'partOf': True,
   'sanityRef': 'lk-05-psykisk-3928',
   'success': True,
   'tdId': True,
   'type': 'canonicalTitleIsSubstring',
-  'word': 'at reseptorantagonister'}
+  'word': 'at1 reseptorantagonister'}
 
 d1e352886:
 { 'canonicalTitle': 'Somatropin',
@@ -1248,15 +1078,13 @@ d1e353104:
   'word': 'bendroflumetiazid'}
 
 d1e353228:
-{ 'canonicalTitle': 'Betalaktamasefølsomme penicilliner',
-  'mappingState': 'automatic',
-  'originalWord': 'beta',
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
   'partOf': True,
-  'sanityRef': 'lk-01-infeksjon-96',
   'success': True,
   'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'beta'}
+  'type': 'highlightMapper',
+  'word': 'betametason'}
 
 d1e353239:
 { 'canonicalTitle': 'Reseptorantagonister',
@@ -1280,17 +1108,6 @@ d1e353299:
   'type': 'cellTitleIsSubstring',
   'word': 'bimatoprost'}
 
-d1e353394:
-{ 'canonicalTitle': 'Botulinumtoksin (motorisk)',
-  'mappingState': 'automatic',
-  'originalWord': 'botulinumtoksin',
-  'partOf': True,
-  'sanityRef': 'lk-06-nevrol-3392',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'botulinumtoksin'}
-
 d1e353402:
 { 'canonicalTitle': 'Brentuksimab vedotin',
   'mappingState': 'automatic',
@@ -1302,28 +1119,6 @@ d1e353402:
   'type': 'cellTitleIsSubstring',
   'word': 'brentuksimab'}
 
-d1e353426:
-{ 'canonicalTitle': 'Brinzolamid–brimonidin',
-  'mappingState': 'automatic',
-  'originalWord': 'brinzolamid',
-  'partOf': True,
-  'sanityRef': 'lk-07-429995',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'brinzolamid'}
-
-d1e353489:
-{ 'canonicalTitle': 'Formoterol-budesonid',
-  'mappingState': 'automatic',
-  'originalWord': 'budesonid',
-  'partOf': True,
-  'sanityRef': 'lk-10-600651',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'budesonid'}
-
 d1e353507:
 { 'canonicalTitle': 'Bupivakain, Levobupivakain',
   'mappingState': 'automatic',
@@ -1334,17 +1129,6 @@ d1e353507:
   'tdId': True,
   'type': 'cellTitleIsSubstring',
   'word': 'bupivakain'}
-
-d1e353603:
-{ 'canonicalTitle': 'Misbruk av cannabis og syntetiske cannabinoider',
-  'mappingState': 'automatic',
-  'originalWord': 'cannabinoider',
-  'partOf': True,
-  'sanityRef': 'tk-05-psykisk-11666',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'cannabinoider'}
 
 d1e353909:
 { 'canonicalTitle': 'Vitamin B',
@@ -1368,28 +1152,6 @@ d1e354082:
   'type': 'canonicalTitleIsSubstring',
   'word': 'darbepoetin'}
 
-d1e354167:
-{ 'canonicalTitle': 'Deksametason–antibakterielle midler',
-  'mappingState': 'automatic',
-  'originalWord': 'deksametason',
-  'partOf': True,
-  'sanityRef': 'lk-03-365467',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'deksametason'}
-
-d1e354210:
-{ 'canonicalTitle': 'Dekstran',
-  'mappingState': 'automatic',
-  'originalWord': 'dekstraner',
-  'partOf': True,
-  'sanityRef': 'lk-23-ernering-1823',
-  'success': True,
-  'tdId': True,
-  'type': 'canonicalTitleIsSubstring',
-  'word': 'dekstraner'}
-
 d1e354267:
 { 'canonicalTitle': 'Desmopressin, terlipressin',
   'mappingState': 'automatic',
@@ -1402,14 +1164,12 @@ d1e354267:
   'word': 'desmopressin'}
 
 d1e354292:
-{ 'canonicalTitle': 'Formoterol-budesonid',
-  'mappingState': 'automatic',
-  'originalWord': 'desonid',
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
   'partOf': True,
-  'sanityRef': 'lk-10-600651',
   'success': True,
   'tdId': True,
-  'type': 'cellTitleIsSubstring',
+  'type': 'highlightMapperSubstring',
   'word': 'desonid'}
 
 d1e354382:
@@ -1478,17 +1238,6 @@ d1e354627:
   'type': 'canonicalTitleIsSubstring',
   'word': 'dopaminergika'}
 
-d1e354650:
-{ 'canonicalTitle': 'Dorzolamid–timolol',
-  'mappingState': 'automatic',
-  'originalWord': 'dorzolamid',
-  'partOf': True,
-  'sanityRef': 'lk-07-oye-560',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'dorzolamid'}
-
 d1e354719:
 { 'canonicalTitle': 'Dutasterid–tamsulosin',
   'mappingState': 'automatic',
@@ -1511,14 +1260,6 @@ d1e354853:
   'type': 'cellTitleIsSubstring',
   'word': 'elvitegravir'}
 
-d1e354942:
-{ 'mappingState': 'highlightRemapped',
-  'partOf': True,
-  'success': True,
-  'tdId': True,
-  'type': 'highlightMapperSubstring',
-  'word': 'podofyllin podofyllotoksin'}
-
 d1e354996:
 { 'canonicalTitle': 'Faktor VII',
   'mappingState': 'automatic',
@@ -1530,17 +1271,6 @@ d1e354996:
   'type': 'canonicalTitleIsSubstring',
   'word': 'eptacog alfa faktor viia'}
 
-d1e355020:
-{ 'canonicalTitle': 'Ergotamin, kombinasjoner med psykoleptika',
-  'mappingState': 'automatic',
-  'originalWord': 'ergotamin',
-  'partOf': True,
-  'sanityRef': '486d2078-55be-4bc5-83dd-35c3238add7b',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'ergotamin'}
-
 d1e355069:
 { 'canonicalTitle': 'Erytropoietin og derivater',
   'mappingState': 'automatic',
@@ -1551,17 +1281,6 @@ d1e355069:
   'tdId': True,
   'type': 'cellTitleIsSubstring',
   'word': 'erytropoietin'}
-
-d1e355184:
-{ 'canonicalTitle': 'Cyproteron–etinyløstradiol',
-  'mappingState': 'automatic',
-  'originalWord': 'etinyløstradiol',
-  'partOf': True,
-  'sanityRef': 'lk-03-endokr-7644',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'etinyløstradiol'}
 
 d1e355238:
 { 'canonicalTitle': 'Morfin',
@@ -1595,17 +1314,6 @@ d1e355354:
   'tdId': True,
   'type': 'cellTitleIsSubstring',
   'word': 'fenazon'}
-
-d1e355415:
-{ 'canonicalTitle': 'Fentiaziner med alifatisk sidekjede',
-  'mappingState': 'automatic',
-  'originalWord': 'fentiaziner',
-  'partOf': True,
-  'sanityRef': 'd0b856d9-5a4c-49ed-8b1d-141dcee55391',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'fentiaziner'}
 
 d1e355423:
 { 'canonicalTitle': 'Fenylefrin (øye)',
@@ -1674,37 +1382,13 @@ d1e355714:
   'word': 'folat'}
 
 d1e355732:
-{ 'canonicalTitle': 'Follitropin og lutropin',
-  'mappingState': 'automatic',
-  'originalWord': 'follitropin',
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
   'partOf': True,
-  'sanityRef': 'lk-03-598642',
   'success': True,
   'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'follitropin'}
-
-d1e355748:
-{ 'canonicalTitle': 'Folsyre',
-  'mappingState': 'automatic',
-  'originalWord': 'folsyreantagonister',
-  'partOf': True,
-  'sanityRef': 'lk-04-blod-320',
-  'success': True,
-  'tdId': True,
-  'type': 'canonicalTitleIsSubstring',
-  'word': 'folsyreantagonister'}
-
-d1e355786:
-{ 'canonicalTitle': 'Amprenavir/fosamprenavir',
-  'mappingState': 'automatic',
-  'originalWord': 'fosamprenavir',
-  'partOf': True,
-  'sanityRef': 'lk-01-infeksjon-frf-retur-17072',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'fosamprenavir'}
+  'type': 'highlightMapperSubstring',
+  'word': 'korifollitropin'}
 
 d1e355795:
 { 'canonicalTitle': 'Aprepitant og fosaprepitant',
@@ -1720,13 +1404,13 @@ d1e355795:
 d1e355868:
 { 'canonicalTitle': 'Vitamin K',
   'mappingState': 'automatic',
-  'originalWord': 'fytomenadion vitamin k',
+  'originalWord': 'fytomenadion vitamin k1',
   'partOf': True,
   'sanityRef': 'lk-04-blod-954',
   'success': True,
   'tdId': True,
   'type': 'canonicalTitleIsSubstring',
-  'word': 'fytomenadion vitamin k'}
+  'word': 'fytomenadion vitamin k1'}
 
 d1e355961:
 { 'canonicalTitle': 'Ganciklovir/valganciklovir',
@@ -1749,17 +1433,6 @@ d1e356033:
   'tdId': True,
   'type': 'cellTitleIsSubstring',
   'word': 'gimeracil'}
-
-d1e356110:
-{ 'canonicalTitle': 'Indakaterol-glykopyrron',
-  'mappingState': 'automatic',
-  'originalWord': 'glykopyrron',
-  'partOf': True,
-  'sanityRef': 'lk-10-600819',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'glykopyrron'}
 
 d1e356176:
 { 'canonicalTitle': 'Bacitracin, gramicidin, polymyksin',
@@ -1784,26 +1457,26 @@ d1e356229:
   'word': 'halogenerte inhalasjonsanestetika'}
 
 d1e356246:
-{ 'canonicalTitle': 'Histamin H2‑antagonister',
+{ 'canonicalTitle': 'Histamin H1‑antagonister',
   'mappingState': 'automatic',
-  'originalWord': 'h antagonister',
+  'originalWord': 'h1 antagonister',
   'partOf': True,
-  'sanityRef': 'lk-12-fordoyel-357',
+  'sanityRef': 'lk-09-allergi-15',
   'success': True,
   'tdId': True,
   'type': 'cellTitleIsSubstring',
-  'word': 'h antagonister'}
+  'word': 'h1 antagonister'}
 
 d1e356259:
 { 'canonicalTitle': 'Histamin H2‑antagonister',
   'mappingState': 'automatic',
-  'originalWord': 'h antagonister',
+  'originalWord': 'h2 antagonister',
   'partOf': True,
   'sanityRef': 'lk-12-fordoyel-357',
   'success': True,
   'tdId': True,
   'type': 'cellTitleIsSubstring',
-  'word': 'h antagonister'}
+  'word': 'h2 antagonister'}
 
 d1e356360:
 { 'canonicalTitle': 'HMG-CoA-reduktasehemmere',
@@ -1819,13 +1492,13 @@ d1e356360:
 d1e356386:
 { 'canonicalTitle': 'Serotonin 5-HT3-antagonister',
   'mappingState': 'automatic',
-  'originalWord': 'ht antagonister',
+  'originalWord': '5 ht3 antagonister',
   'partOf': True,
   'sanityRef': '300de81a-ff0e-4190-845f-1c3e0a419938',
   'success': True,
   'tdId': True,
   'type': 'cellTitleIsSubstring',
-  'word': 'ht antagonister'}
+  'word': '5 ht3 antagonister'}
 
 d1e356441:
 { 'canonicalTitle': 'Vitamin B',
@@ -1872,26 +1545,40 @@ d1e356726:
   'word': 'insulin'}
 
 d1e356734:
-{ 'canonicalTitle': 'Interferon alfa-2, peginterferon alfa-2',
-  'mappingState': 'automatic',
-  'originalWord': 'interferon alfa',
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
   'partOf': True,
-  'sanityRef': 'lk-18-immunsuppr-frf-retur-3392d',
   'success': True,
   'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'interferon alfa'}
+  'type': 'highlightMapperSubstring',
+  'word': 'interferoner'}
 
 d1e356743:
-{ 'canonicalTitle': 'Interferon beta-1, peginterferon beta-1',
-  'mappingState': 'automatic',
-  'originalWord': 'interferon beta',
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
   'partOf': True,
-  'sanityRef': 'lk-18-immunsuppr-frf-retur-3392fl',
   'success': True,
   'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'interferon beta'}
+  'type': 'highlightMapperSubstring',
+  'word': 'interferoner'}
+
+d1e356752:
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
+  'partOf': True,
+  'success': True,
+  'tdId': True,
+  'type': 'highlightMapperSubstring',
+  'word': 'interferoner'}
+
+d1e356864:
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
+  'partOf': True,
+  'success': True,
+  'tdId': True,
+  'type': 'highlightMapper',
+  'word': 'tretinoin'}
 
 d1e356934:
 { 'canonicalTitle': 'Jernmedikamenter',
@@ -1903,17 +1590,6 @@ d1e356934:
   'tdId': True,
   'type': 'cellTitleIsSubstring',
   'word': 'jern'}
-
-d1e357311:
-{ 'canonicalTitle': 'Amoksicillin-klavulanat',
-  'mappingState': 'automatic',
-  'originalWord': 'klavulanat',
-  'partOf': True,
-  'sanityRef': 'lk-01-597577',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'klavulanat'}
 
 d1e357360:
 { 'canonicalTitle': 'Kloksacillin, dikloksacillin, flukloksacillin',
@@ -1970,19 +1646,9 @@ d1e357533:
   'type': 'cellTitleIsSubstring',
   'word': 'koffein'}
 
-d1e357593:
-{ 'canonicalTitle': 'Acetylkolinesterasehemmere',
-  'mappingState': 'automatic',
-  'originalWord': 'kolinesterasehemmere',
-  'partOf': True,
-  'sanityRef': 'lk-05-psykisk-3026d',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'kolinesterasehemmere'}
-
 d1e357601:
 { 'canonicalTitle': 'Teofyllin og teofyllinsalter',
+  'mapper': 'highlight',
   'mappingState': 'highlightRemapped',
   'partOf': True,
   'sanityRef': 'lk-10-428961',
@@ -2003,14 +1669,12 @@ d1e357629:
   'word': 'kollagenase'}
 
 d1e357646:
-{ 'canonicalTitle': 'Korifollitropin alfa',
-  'mappingState': 'automatic',
-  'originalWord': 'korifollitropin',
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
   'partOf': True,
-  'sanityRef': 'lk-03-endokr-23794',
   'success': True,
   'tdId': True,
-  'type': 'cellTitleIsSubstring',
+  'type': 'highlightMapperSubstring',
   'word': 'korifollitropin'}
 
 d1e357655:
@@ -2058,23 +1722,13 @@ d1e357891:
   'word': 'letrozol'}
 
 d1e357962:
-{ 'mappingState': 'highlightRemapped',
+{ 'mapper': 'highlight',
+  'mappingState': 'highlightRemapped',
   'partOf': True,
   'success': True,
   'tdId': True,
   'type': 'highlightMapperSubstring',
-  'word': 'norgestrel'}
-
-d1e357988:
-{ 'canonicalTitle': 'Lidokain–prilokain',
-  'mappingState': 'automatic',
-  'originalWord': 'lidokain',
-  'partOf': True,
-  'sanityRef': 'lk-22-anestesi-423',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'lidokain'}
+  'word': 'levonorgestrel'}
 
 d1e358036:
 { 'canonicalTitle': 'Filgrastim, lipefilgrastim, pegfilgrastim',
@@ -2086,6 +1740,15 @@ d1e358036:
   'tdId': True,
   'type': 'cellTitleIsSubstring',
   'word': 'lipefilgrastim'}
+
+d1e358052:
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
+  'partOf': True,
+  'success': True,
+  'tdId': True,
+  'type': 'highlightMapperSubstring',
+  'word': 'lisdeksamfetamin'}
 
 d1e358168:
 { 'canonicalTitle': 'Artemeter–lumefantrin',
@@ -2109,6 +1772,15 @@ d1e358268:
   'type': 'cellTitleIsSubstring',
   'word': 'maoh'}
 
+d1e358314:
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
+  'partOf': True,
+  'success': True,
+  'tdId': True,
+  'type': 'highlightMapperSubstring',
+  'word': 'trimetoprim'}
+
 d1e358431:
 { 'canonicalTitle': 'Merkaptamin (cysteamin)',
   'mappingState': 'automatic',
@@ -2120,38 +1792,14 @@ d1e358431:
   'type': 'cellTitleIsSubstring',
   'word': 'merkaptamin'}
 
-d1e358681:
-{ 'canonicalTitle': 'Mineralkortikoid',
-  'mappingState': 'automatic',
-  'originalWord': 'mineralkortikoider',
+d1e358845:
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
   'partOf': True,
-  'sanityRef': 'lk-03-endokr-5339',
   'success': True,
   'tdId': True,
-  'type': 'canonicalTitleIsSubstring',
-  'word': 'mineralkortikoider'}
-
-d1e358715:
-{ 'canonicalTitle': 'Diklofenak–misoprostol',
-  'mappingState': 'automatic',
-  'originalWord': 'misoprostol',
-  'partOf': True,
-  'sanityRef': 'lk-17-muskl-627',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'misoprostol'}
-
-d1e358799:
-{ 'canonicalTitle': 'Irreversible, uselektive monoaminoksidasehemmere (MAOH)',
-  'mappingState': 'automatic',
-  'originalWord': 'monoaminoksidasehemmere',
-  'partOf': True,
-  'sanityRef': 'lk-05-psykisk-3777',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'monoaminoksidasehemmere'}
+  'type': 'highlightMapperSubstring',
+  'word': 'skopolamin'}
 
 d1e358903:
 { 'canonicalTitle': 'Nabiksimoler (cannabisekstrakt)',
@@ -2163,17 +1811,6 @@ d1e358903:
   'tdId': True,
   'type': 'cellTitleIsSubstring',
   'word': 'nabiksimoler'}
-
-d1e359009:
-{ 'canonicalTitle': 'Aurotiomalat',
-  'mappingState': 'automatic',
-  'originalWord': 'natriumaurotiomalat',
-  'partOf': True,
-  'sanityRef': 'lk-17-muskl-2045',
-  'success': True,
-  'tdId': True,
-  'type': 'canonicalTitleIsSubstring',
-  'word': 'natriumaurotiomalat'}
 
 d1e359019:
 { 'canonicalTitle': 'Kromoglikat',
@@ -2208,17 +1845,6 @@ d1e359078:
   'type': 'cellTitleIsSubstring',
   'word': 'netupitant'}
 
-d1e359165:
-{ 'canonicalTitle': 'Nintedanib (onkologi)',
-  'mappingState': 'automatic',
-  'originalWord': 'nintedanib',
-  'partOf': True,
-  'sanityRef': 'lk-02-468665',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'nintedanib'}
-
 d1e359181:
 { 'canonicalTitle': 'Nitrater',
   'mappingState': 'automatic',
@@ -2229,14 +1855,6 @@ d1e359181:
   'tdId': True,
   'type': 'canonicalTitleIsSubstring',
   'word': 'nitrater organiske'}
-
-d1e359280:
-{ 'mappingState': 'highlightRemapped',
-  'partOf': True,
-  'success': True,
-  'tdId': True,
-  'type': 'highlightMapperSubstring',
-  'word': 'norgestrel'}
 
 d1e359306:
 { 'canonicalTitle': 'Ikke‑steroide antiinflammatoriske midler (NSAID)',
@@ -2293,17 +1911,6 @@ d1e359614:
   'type': 'cellTitleIsSubstring',
   'word': 'oteracil'}
 
-d1e359760:
-{ 'canonicalTitle': 'Parathyreoideahormoner (PTH(1-84) og hPTH(1-34))',
-  'mappingState': 'automatic',
-  'originalWord': 'parathyreoideahormon',
-  'partOf': True,
-  'sanityRef': 'lk-03-317779',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'parathyreoideahormon'}
-
 d1e359793:
 { 'canonicalTitle': 'Pasireotid',
   'mappingState': 'automatic',
@@ -2327,37 +1934,13 @@ d1e359839:
   'word': 'pegfilgrastim'}
 
 d1e359889:
-{ 'canonicalTitle': 'Betalaktamasefølsomme penicilliner',
-  'mappingState': 'automatic',
-  'originalWord': 'penicilliner',
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
   'partOf': True,
-  'sanityRef': 'lk-01-infeksjon-96',
   'success': True,
   'tdId': True,
-  'type': 'cellTitleIsSubstring',
+  'type': 'highlightMapperSubstring',
   'word': 'penicilliner'}
-
-d1e360022:
-{ 'canonicalTitle': 'Piperacillin–tazobaktam',
-  'mappingState': 'automatic',
-  'originalWord': 'piperacillin',
-  'partOf': True,
-  'sanityRef': 'lk-01-infeksjon-1210',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'piperacillin'}
-
-d1e360030:
-{ 'canonicalTitle': 'Dihydroartemisinin-piperakin',
-  'mappingState': 'automatic',
-  'originalWord': 'piperakin',
-  'partOf': True,
-  'sanityRef': 'lk-01-271729',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'piperakin'}
 
 d1e360070:
 { 'canonicalTitle': 'Ampicillin',
@@ -2370,19 +1953,9 @@ d1e360070:
   'type': 'canonicalTitleIsSubstring',
   'word': 'pivampicillin'}
 
-d1e360087:
-{ 'canonicalTitle': 'Blodplatehemmere',
-  'mappingState': 'automatic',
-  'originalWord': 'platehemmere',
-  'partOf': True,
-  'sanityRef': 'lk-04-blod-2399',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'platehemmere'}
-
 d1e360104:
-{ 'mappingState': 'highlightRemapped',
+{ 'mapper': 'highlight',
+  'mappingState': 'highlightRemapped',
   'partOf': True,
   'success': True,
   'tdId': True,
@@ -2477,17 +2050,6 @@ d1e360593:
   'type': 'cellTitleIsSubstring',
   'word': 'insulin'}
 
-d1e360649:
-{ 'canonicalTitle': 'Retinoider (eksem)',
-  'mappingState': 'automatic',
-  'originalWord': 'retinoider',
-  'partOf': True,
-  'sanityRef': 'lk-16-541603',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'retinoider'}
-
 d1e360688:
 { 'canonicalTitle': 'Dornase alfa',
   'mappingState': 'automatic',
@@ -2543,16 +2105,14 @@ d1e361073:
   'type': 'cellTitleIsSubstring',
   'word': 'sentralstimulerende midler'}
 
-d1e361210:
-{ 'canonicalTitle': 'Slimhinneavsvellende legemidler, lokale',
-  'mappingState': 'automatic',
-  'originalWord': 'slimhinneavsvellende legemidler',
+d1e361201:
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
   'partOf': True,
-  'sanityRef': 'lk-11-onh-18',
   'success': True,
   'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'slimhinneavsvellende legemidler'}
+  'type': 'highlightMapperSubstring',
+  'word': 'skopolamin'}
 
 d1e361227:
 { 'canonicalTitle': 'Serotonin- og noradrenalinreopptakshemmere (SNRI)',
@@ -2575,28 +2135,6 @@ d1e361339:
   'tdId': True,
   'type': 'cellTitleIsSubstring',
   'word': 'streptokinase'}
-
-d1e361414:
-{ 'canonicalTitle': 'Trimetoprim–sulfametoksazol',
-  'mappingState': 'automatic',
-  'originalWord': 'sulfametoksazol',
-  'partOf': True,
-  'sanityRef': 'lk-01-infeksjon-3851',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'sulfametoksazol'}
-
-d1e361431:
-{ 'canonicalTitle': 'Sulfonamider og trimetoprim',
-  'mappingState': 'automatic',
-  'originalWord': 'sulfonamider',
-  'partOf': True,
-  'sanityRef': 'lk-01-infeksjon-3593',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'sulfonamider'}
 
 d1e361480:
 { 'canonicalTitle': 'Fluorid',
@@ -2666,6 +2204,7 @@ d1e361754:
 
 d1e361762:
 { 'canonicalTitle': 'Teofyllin og teofyllinsalter',
+  'mapper': 'highlight',
   'mappingState': 'highlightRemapped',
   'partOf': True,
   'sanityRef': 'lk-10-428961',
@@ -2719,14 +2258,12 @@ d1e362130:
   'word': 'travoprost'}
 
 d1e362147:
-{ 'canonicalTitle': 'Tretinoin (onkologi)',
-  'mappingState': 'automatic',
-  'originalWord': 'tretinoin',
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
   'partOf': True,
-  'sanityRef': 'lk-02-neopl-3234',
   'success': True,
   'tdId': True,
-  'type': 'cellTitleIsSubstring',
+  'type': 'highlightMapper',
   'word': 'tretinoin'}
 
 d1e362188:
@@ -2739,6 +2276,24 @@ d1e362188:
   'tdId': True,
   'type': 'canonicalTitleIsSubstring',
   'word': 'trijodtyronin liotyronin'}
+
+d1e362204:
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
+  'partOf': True,
+  'success': True,
+  'tdId': True,
+  'type': 'highlightMapperSubstring',
+  'word': 'trimetoprim'}
+
+d1e362215:
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
+  'partOf': True,
+  'success': True,
+  'tdId': True,
+  'type': 'highlightMapperSubstring',
+  'word': 'trimetreksat'}
 
 d1e362307:
 { 'canonicalTitle': 'Levotyroksin',
@@ -2820,24 +2375,31 @@ d1e363296:
 d1e363511:
 { 'canonicalTitle': 'Reseptorantagonister',
   'mappingState': 'automatic',
-  'originalWord': 'alfa reseptorantagonister adrenerge',
+  'originalWord': 'alfa 1 reseptorantagonister adrenerge',
   'partOf': True,
   'sanityRef': 'lk-05-psykisk-3928',
   'success': True,
   'tdId': True,
   'type': 'canonicalTitleIsSubstring',
-  'word': 'alfa reseptorantagonister adrenerge'}
+  'word': 'alfa 1 reseptorantagonister adrenerge'}
 
-d1e363717:
-{ 'canonicalTitle': 'Metylfenidat og lisdeksamfetamin/deksamfetamin/amfetamin',
-  'mappingState': 'automatic',
-  'originalWord': 'amfetamin',
+d1e363603:
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
   'partOf': True,
-  'sanityRef': 'lk-06-nevrol-3643',
   'success': True,
   'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'amfetamin'}
+  'type': 'highlightMapper',
+  'word': 'tretinoin'}
+
+d1e363717:
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
+  'partOf': True,
+  'success': True,
+  'tdId': True,
+  'type': 'highlightMapperSubstring',
+  'word': 'lisdeksamfetamin'}
 
 d1e363742:
 { 'canonicalTitle': 'Amilorid–hydroklortiazid',
@@ -2849,6 +2411,17 @@ d1e363742:
   'tdId': True,
   'type': 'cellTitleIsSubstring',
   'word': 'amilorid'}
+
+d1e363776:
+{ 'canonicalTitle': '5-Aminosalisylsyreforbindelser',
+  'mappingState': 'automatic',
+  'originalWord': 'aminosalisylsyreforbindelser',
+  'partOf': True,
+  'sanityRef': 'lk-12-fordoyel-1925',
+  'success': True,
+  'tdId': True,
+  'type': 'cellTitleIsSubstring',
+  'word': 'aminosalisylsyreforbindelser'}
 
 d1e363886:
 { 'canonicalTitle': 'Amprenavir/fosamprenavir',
@@ -2940,17 +2513,6 @@ d1e364164:
   'type': 'canonicalTitleIsSubstring',
   'word': 'antihistaminer h'}
 
-d1e364178:
-{ 'canonicalTitle': 'Vasodilaterende antihypertensiva',
-  'mappingState': 'automatic',
-  'originalWord': 'antihypertensiva',
-  'partOf': True,
-  'sanityRef': 'lk-08-hjertekrets-5912',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'antihypertensiva'}
-
 d1e364189:
 { 'canonicalTitle': 'Antiinflammatoriske midler',
   'mappingState': 'automatic',
@@ -2962,26 +2524,13 @@ d1e364189:
   'type': 'canonicalTitleIsSubstring',
   'word': 'antiinflammatoriske midler ikke steroide'}
 
-d1e364212:
-{ 'canonicalTitle': 'Antikolinergika (nevrologi)',
-  'mappingState': 'automatic',
-  'originalWord': 'antikolinergika',
-  'partOf': True,
-  'sanityRef': 'lk-06-nevrol-2883',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'antikolinergika'}
-
 d1e364229:
-{ 'canonicalTitle': 'Kalsiumantagonister',
-  'mappingState': 'automatic',
-  'originalWord': '',
+{ 'mapper': 'highlight',
+  'mappingState': 'remove',
   'partOf': True,
-  'sanityRef': 'lk-08-hjertekrets-2801',
   'success': True,
   'tdId': True,
-  'type': 'cellTitleIsSubstring',
+  'type': 'highlightMapperSubstring',
   'word': ''}
 
 d1e364250:
@@ -3053,13 +2602,13 @@ d1e364459:
 d1e364610:
 { 'canonicalTitle': 'Reseptorantagonister',
   'mappingState': 'automatic',
-  'originalWord': 'at reseptorantagonister',
+  'originalWord': 'at1 reseptorantagonister',
   'partOf': True,
   'sanityRef': 'lk-05-psykisk-3928',
   'success': True,
   'tdId': True,
   'type': 'canonicalTitleIsSubstring',
-  'word': 'at reseptorantagonister'}
+  'word': 'at1 reseptorantagonister'}
 
 d1e364622:
 { 'canonicalTitle': 'Somatropin',
@@ -3116,6 +2665,15 @@ d1e364921:
   'type': 'cellTitleIsSubstring',
   'word': 'bendroflumetiazid'}
 
+d1e365076:
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
+  'partOf': True,
+  'success': True,
+  'tdId': True,
+  'type': 'highlightMapper',
+  'word': 'betametason'}
+
 d1e365099:
 { 'canonicalTitle': 'Reseptorantagonister',
   'mappingState': 'automatic',
@@ -3138,17 +2696,6 @@ d1e365187:
   'type': 'cellTitleIsSubstring',
   'word': 'bimatoprost'}
 
-d1e365315:
-{ 'canonicalTitle': 'Botulinumtoksin (motorisk)',
-  'mappingState': 'automatic',
-  'originalWord': 'botulinumtoksin',
-  'partOf': True,
-  'sanityRef': 'lk-06-nevrol-3392',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'botulinumtoksin'}
-
 d1e365326:
 { 'canonicalTitle': 'Brentuksimab vedotin',
   'mappingState': 'automatic',
@@ -3160,27 +2707,14 @@ d1e365326:
   'type': 'cellTitleIsSubstring',
   'word': 'brentuksimab'}
 
-d1e365359:
-{ 'canonicalTitle': 'Brinzolamid–brimonidin',
-  'mappingState': 'automatic',
-  'originalWord': 'brinzolamid',
-  'partOf': True,
-  'sanityRef': 'lk-07-429995',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'brinzolamid'}
-
 d1e365435:
-{ 'canonicalTitle': 'Formoterol-budesonid',
-  'mappingState': 'automatic',
-  'originalWord': 'budesonid',
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
   'partOf': True,
-  'sanityRef': 'lk-10-600651',
   'success': True,
   'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'budesonid'}
+  'type': 'highlightMapperSubstring',
+  'word': 'desonid'}
 
 d1e365459:
 { 'canonicalTitle': 'Bupivakain, Levobupivakain',
@@ -3192,28 +2726,6 @@ d1e365459:
   'tdId': True,
   'type': 'cellTitleIsSubstring',
   'word': 'bupivakain'}
-
-d1e365591:
-{ 'canonicalTitle': 'Misbruk av cannabis og syntetiske cannabinoider',
-  'mappingState': 'automatic',
-  'originalWord': 'cannabinoider',
-  'partOf': True,
-  'sanityRef': 'tk-05-psykisk-11666',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'cannabinoider'}
-
-d1e365734:
-{ 'canonicalTitle': 'Ceftolozan-tazobaktam',
-  'mappingState': 'automatic',
-  'originalWord': 'ceftolozan',
-  'partOf': True,
-  'sanityRef': 'lk-01-546140',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'ceftolozan'}
 
 d1e366044:
 { 'canonicalTitle': 'Vitamin B',
@@ -3237,28 +2749,6 @@ d1e366276:
   'type': 'canonicalTitleIsSubstring',
   'word': 'darbepoetin'}
 
-d1e366388:
-{ 'canonicalTitle': 'Deksametason–antibakterielle midler',
-  'mappingState': 'automatic',
-  'originalWord': 'deksametason',
-  'partOf': True,
-  'sanityRef': 'lk-03-365467',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'deksametason'}
-
-d1e366449:
-{ 'canonicalTitle': 'Dekstran',
-  'mappingState': 'automatic',
-  'originalWord': 'dekstraner',
-  'partOf': True,
-  'sanityRef': 'lk-23-ernering-1823',
-  'success': True,
-  'tdId': True,
-  'type': 'canonicalTitleIsSubstring',
-  'word': 'dekstraner'}
-
 d1e366532:
 { 'canonicalTitle': 'Desmopressin, terlipressin',
   'mappingState': 'automatic',
@@ -3271,14 +2761,12 @@ d1e366532:
   'word': 'desmopressin'}
 
 d1e366568:
-{ 'canonicalTitle': 'Formoterol-budesonid',
-  'mappingState': 'automatic',
-  'originalWord': 'desonid',
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
   'partOf': True,
-  'sanityRef': 'lk-10-600651',
   'success': True,
   'tdId': True,
-  'type': 'cellTitleIsSubstring',
+  'type': 'highlightMapperSubstring',
   'word': 'desonid'}
 
 d1e366687:
@@ -3336,17 +2824,6 @@ d1e366867:
   'type': 'cellTitleIsSubstring',
   'word': 'diuretika'}
 
-d1e367024:
-{ 'canonicalTitle': 'Dorzolamid–timolol',
-  'mappingState': 'automatic',
-  'originalWord': 'dorzolamid',
-  'partOf': True,
-  'sanityRef': 'lk-07-oye-560',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'dorzolamid'}
-
 d1e367117:
 { 'canonicalTitle': 'Dutasterid–tamsulosin',
   'mappingState': 'automatic',
@@ -3380,17 +2857,6 @@ d1e367474:
   'type': 'canonicalTitleIsSubstring',
   'word': 'eptacog alfa faktor viia'}
 
-d1e367507:
-{ 'canonicalTitle': 'Ergotamin, kombinasjoner med psykoleptika',
-  'mappingState': 'automatic',
-  'originalWord': 'ergotamin',
-  'partOf': True,
-  'sanityRef': '486d2078-55be-4bc5-83dd-35c3238add7b',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'ergotamin'}
-
 d1e367576:
 { 'canonicalTitle': 'Erytropoietin og derivater',
   'mappingState': 'automatic',
@@ -3401,17 +2867,6 @@ d1e367576:
   'tdId': True,
   'type': 'cellTitleIsSubstring',
   'word': 'erytropoietin'}
-
-d1e367742:
-{ 'canonicalTitle': 'Cyproteron–etinyløstradiol',
-  'mappingState': 'automatic',
-  'originalWord': 'etinyløstradiol',
-  'partOf': True,
-  'sanityRef': 'lk-03-endokr-7644',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'etinyløstradiol'}
 
 d1e367814:
 { 'canonicalTitle': 'Morfin',
@@ -3513,15 +2968,13 @@ d1e368463:
   'word': 'folat'}
 
 d1e368487:
-{ 'canonicalTitle': 'Follitropin og lutropin',
-  'mappingState': 'automatic',
-  'originalWord': 'follitropin',
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
   'partOf': True,
-  'sanityRef': 'lk-03-598642',
   'success': True,
   'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'follitropin'}
+  'type': 'highlightMapperSubstring',
+  'word': 'korifollitropin'}
 
 d1e368499:
 { 'canonicalTitle': 'Folsyre',
@@ -3533,17 +2986,6 @@ d1e368499:
   'tdId': True,
   'type': 'canonicalTitleIsSubstring',
   'word': 'folsyre folat'}
-
-d1e368544:
-{ 'canonicalTitle': 'Amprenavir/fosamprenavir',
-  'mappingState': 'automatic',
-  'originalWord': 'fosamprenavir',
-  'partOf': True,
-  'sanityRef': 'lk-01-infeksjon-frf-retur-17072',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'fosamprenavir'}
 
 d1e368556:
 { 'canonicalTitle': 'Aprepitant og fosaprepitant',
@@ -3559,13 +3001,13 @@ d1e368556:
 d1e368683:
 { 'canonicalTitle': 'Vitamin K',
   'mappingState': 'automatic',
-  'originalWord': 'fytomenadion vitamin k',
+  'originalWord': 'fytomenadion vitamin k1',
   'partOf': True,
   'sanityRef': 'lk-04-blod-954',
   'success': True,
   'tdId': True,
   'type': 'canonicalTitleIsSubstring',
-  'word': 'fytomenadion vitamin k'}
+  'word': 'fytomenadion vitamin k1'}
 
 d1e368815:
 { 'canonicalTitle': 'Ganciklovir/valganciklovir',
@@ -3589,17 +3031,6 @@ d1e368920:
   'type': 'cellTitleIsSubstring',
   'word': 'gimeracil'}
 
-d1e369030:
-{ 'canonicalTitle': 'Indakaterol-glykopyrron',
-  'mappingState': 'automatic',
-  'originalWord': 'glykopyrron',
-  'partOf': True,
-  'sanityRef': 'lk-10-600819',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'glykopyrron'}
-
 d1e369108:
 { 'canonicalTitle': 'Bacitracin, gramicidin, polymyksin',
   'mappingState': 'automatic',
@@ -3612,26 +3043,26 @@ d1e369108:
   'word': 'gramicidin'}
 
 d1e369222:
-{ 'canonicalTitle': 'Histamin H2‑antagonister',
+{ 'canonicalTitle': 'Histamin H1‑antagonister',
   'mappingState': 'automatic',
-  'originalWord': 'h antagonister',
+  'originalWord': 'h1 antagonister',
   'partOf': True,
-  'sanityRef': 'lk-12-fordoyel-357',
+  'sanityRef': 'lk-09-allergi-15',
   'success': True,
   'tdId': True,
   'type': 'cellTitleIsSubstring',
-  'word': 'h antagonister'}
+  'word': 'h1 antagonister'}
 
 d1e369237:
 { 'canonicalTitle': 'Histamin H2‑antagonister',
   'mappingState': 'automatic',
-  'originalWord': 'h antagonister',
+  'originalWord': 'h2 antagonister',
   'partOf': True,
   'sanityRef': 'lk-12-fordoyel-357',
   'success': True,
   'tdId': True,
   'type': 'cellTitleIsSubstring',
-  'word': 'h antagonister'}
+  'word': 'h2 antagonister'}
 
 d1e369328:
 { 'canonicalTitle': 'HMG-CoA-reduktasehemmere',
@@ -3647,13 +3078,13 @@ d1e369328:
 d1e369365:
 { 'canonicalTitle': 'Serotonin 5-HT3-antagonister',
   'mappingState': 'automatic',
-  'originalWord': 'ht antagonister',
+  'originalWord': '5 ht3 antagonister',
   'partOf': True,
   'sanityRef': '300de81a-ff0e-4190-845f-1c3e0a419938',
   'success': True,
   'tdId': True,
   'type': 'cellTitleIsSubstring',
-  'word': 'ht antagonister'}
+  'word': '5 ht3 antagonister'}
 
 d1e369448:
 { 'canonicalTitle': 'Klor',
@@ -3688,6 +3119,24 @@ d1e369842:
   'type': 'cellTitleIsSubstring',
   'word': 'insulin'}
 
+d1e369853:
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
+  'partOf': True,
+  'success': True,
+  'tdId': True,
+  'type': 'highlightMapperSubstring',
+  'word': 'interferoner'}
+
+d1e370013:
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
+  'partOf': True,
+  'success': True,
+  'tdId': True,
+  'type': 'highlightMapper',
+  'word': 'tretinoin'}
+
 d1e370109:
 { 'canonicalTitle': 'Jernmedikamenter',
   'mappingState': 'automatic',
@@ -3698,17 +3147,6 @@ d1e370109:
   'tdId': True,
   'type': 'cellTitleIsSubstring',
   'word': 'jern'}
-
-d1e370566:
-{ 'canonicalTitle': 'Amoksicillin-klavulanat',
-  'mappingState': 'automatic',
-  'originalWord': 'klavulanat',
-  'partOf': True,
-  'sanityRef': 'lk-01-597577',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'klavulanat'}
 
 d1e370649:
 { 'canonicalTitle': 'Kloksacillin, dikloksacillin, flukloksacillin',
@@ -3767,6 +3205,7 @@ d1e370912:
 
 d1e370984:
 { 'canonicalTitle': 'Teofyllin og teofyllinsalter',
+  'mapper': 'highlight',
   'mappingState': 'highlightRemapped',
   'partOf': True,
   'sanityRef': 'lk-10-428961',
@@ -3787,14 +3226,12 @@ d1e371021:
   'word': 'kollagenase'}
 
 d1e371032:
-{ 'canonicalTitle': 'Korifollitropin alfa',
-  'mappingState': 'automatic',
-  'originalWord': 'korifollitropin',
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
   'partOf': True,
-  'sanityRef': 'lk-03-endokr-23794',
   'success': True,
   'tdId': True,
-  'type': 'cellTitleIsSubstring',
+  'type': 'highlightMapperSubstring',
   'word': 'korifollitropin'}
 
 d1e371046:
@@ -3842,12 +3279,13 @@ d1e371376:
   'word': 'letrozol'}
 
 d1e371483:
-{ 'mappingState': 'highlightRemapped',
+{ 'mapper': 'highlight',
+  'mappingState': 'highlightRemapped',
   'partOf': True,
   'success': True,
   'tdId': True,
   'type': 'highlightMapperSubstring',
-  'word': 'norgestrel'}
+  'word': 'levonorgestrel'}
 
 d1e371506:
 { 'canonicalTitle': 'Levotyroksin',
@@ -3859,17 +3297,6 @@ d1e371506:
   'tdId': True,
   'type': 'canonicalTitleIsSubstring',
   'word': 'levotyroksin t'}
-
-d1e371520:
-{ 'canonicalTitle': 'Lidokain–prilokain',
-  'mappingState': 'automatic',
-  'originalWord': 'lidokain',
-  'partOf': True,
-  'sanityRef': 'lk-22-anestesi-423',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'lidokain'}
 
 d1e371568:
 { 'canonicalTitle': 'Liotyronin',
@@ -3893,6 +3320,15 @@ d1e371582:
   'type': 'cellTitleIsSubstring',
   'word': 'lipefilgrastim'}
 
+d1e371604:
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
+  'partOf': True,
+  'success': True,
+  'tdId': True,
+  'type': 'highlightMapperSubstring',
+  'word': 'lisdeksamfetamin'}
+
 d1e371694:
 { 'canonicalTitle': 'Lopinavir',
   'mappingState': 'automatic',
@@ -3915,6 +3351,15 @@ d1e371753:
   'type': 'cellTitleIsSubstring',
   'word': 'lumefantrin'}
 
+d1e371894:
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
+  'partOf': True,
+  'success': True,
+  'tdId': True,
+  'type': 'highlightMapperSubstring',
+  'word': 'trimetoprim'}
+
 d1e372056:
 { 'canonicalTitle': 'Merkaptamin (cysteamin)',
   'mappingState': 'automatic',
@@ -3926,17 +3371,6 @@ d1e372056:
   'type': 'cellTitleIsSubstring',
   'word': 'merkaptamin'}
 
-d1e372454:
-{ 'canonicalTitle': 'Diklofenak–misoprostol',
-  'mappingState': 'automatic',
-  'originalWord': 'misoprostol',
-  'partOf': True,
-  'sanityRef': 'lk-17-muskl-627',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'misoprostol'}
-
 d1e372570:
 { 'canonicalTitle': 'Monoklonale antistoffer mot EGFR-familien',
   'mappingState': 'automatic',
@@ -3947,6 +3381,15 @@ d1e372570:
   'tdId': True,
   'type': 'cellTitleIsSubstring',
   'word': 'monoklonale antistoffer'}
+
+d1e372592:
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
+  'partOf': True,
+  'success': True,
+  'tdId': True,
+  'type': 'highlightMapperSubstring',
+  'word': 'skopolamin'}
 
 d1e372677:
 { 'canonicalTitle': 'Nabiksimoler (cannabisekstrakt)',
@@ -3970,17 +3413,6 @@ d1e372872:
   'type': 'cellTitleIsSubstring',
   'word': 'netupitant'}
 
-d1e372988:
-{ 'canonicalTitle': 'Nintedanib (onkologi)',
-  'mappingState': 'automatic',
-  'originalWord': 'nintedanib',
-  'partOf': True,
-  'sanityRef': 'lk-02-468665',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'nintedanib'}
-
 d1e373057:
 { 'canonicalTitle': 'Megestrol',
   'mappingState': 'automatic',
@@ -3991,14 +3423,6 @@ d1e373057:
   'tdId': True,
   'type': 'canonicalTitleIsSubstring',
   'word': 'nomegestrol'}
-
-d1e373105:
-{ 'mappingState': 'highlightRemapped',
-  'partOf': True,
-  'success': True,
-  'tdId': True,
-  'type': 'highlightMapperSubstring',
-  'word': 'norgestrel'}
 
 d1e373142:
 { 'canonicalTitle': 'Ikke‑steroide antiinflammatoriske midler (NSAID)',
@@ -4044,17 +3468,6 @@ d1e373551:
   'type': 'cellTitleIsSubstring',
   'word': 'oteracil'}
 
-d1e373754:
-{ 'canonicalTitle': 'Parathyreoideahormoner (PTH(1-84) og hPTH(1-34))',
-  'mappingState': 'automatic',
-  'originalWord': 'parathyreoideahormon',
-  'partOf': True,
-  'sanityRef': 'lk-03-317779',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'parathyreoideahormon'}
-
 d1e373800:
 { 'canonicalTitle': 'Pasireotid',
   'mappingState': 'automatic',
@@ -4078,40 +3491,17 @@ d1e373866:
   'word': 'pegfilgrastim'}
 
 d1e373935:
-{ 'canonicalTitle': 'Betalaktamasefølsomme penicilliner',
-  'mappingState': 'automatic',
-  'originalWord': 'penicilliner',
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
   'partOf': True,
-  'sanityRef': 'lk-01-infeksjon-96',
   'success': True,
   'tdId': True,
-  'type': 'cellTitleIsSubstring',
+  'type': 'highlightMapperSubstring',
   'word': 'penicilliner'}
 
-d1e374101:
-{ 'canonicalTitle': 'Piperacillin–tazobaktam',
-  'mappingState': 'automatic',
-  'originalWord': 'piperacillin',
-  'partOf': True,
-  'sanityRef': 'lk-01-infeksjon-1210',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'piperacillin'}
-
-d1e374112:
-{ 'canonicalTitle': 'Dihydroartemisinin-piperakin',
-  'mappingState': 'automatic',
-  'originalWord': 'piperakin',
-  'partOf': True,
-  'sanityRef': 'lk-01-271729',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'piperakin'}
-
 d1e374189:
-{ 'mappingState': 'highlightRemapped',
+{ 'mapper': 'highlight',
+  'mappingState': 'highlightRemapped',
   'partOf': True,
   'success': True,
   'tdId': True,
@@ -4162,17 +3552,6 @@ d1e374378:
   'type': 'cellTitleIsSubstring',
   'word': 'prednison'}
 
-d1e374461:
-{ 'canonicalTitle': 'Progesteron',
-  'mappingState': 'automatic',
-  'originalWord': 'progesteroner',
-  'partOf': True,
-  'sanityRef': 'lk-03-endokr-6439',
-  'success': True,
-  'tdId': True,
-  'type': 'canonicalTitleIsSubstring',
-  'word': 'progesteroner'}
-
 d1e374560:
 { 'canonicalTitle': 'Prostaglandiner/prostaglandinanaloger',
   'mappingState': 'automatic',
@@ -4185,14 +3564,12 @@ d1e374560:
   'word': 'prostaglandiner'}
 
 d1e374571:
-{ 'canonicalTitle': 'Kalsiumantagonister',
-  'mappingState': 'automatic',
-  'originalWord': '',
+{ 'mapper': 'highlight',
+  'mappingState': 'remove',
   'partOf': True,
-  'sanityRef': 'lk-08-hjertekrets-2801',
   'success': True,
   'tdId': True,
-  'type': 'cellTitleIsSubstring',
+  'type': 'highlightMapperSubstring',
   'word': ''}
 
 d1e374597:
@@ -4205,17 +3582,6 @@ d1e374597:
   'tdId': True,
   'type': 'cellTitleIsSubstring',
   'word': 'protein c'}
-
-d1e374876:
-{ 'canonicalTitle': 'Retinoider (eksem)',
-  'mappingState': 'automatic',
-  'originalWord': 'retinoider',
-  'partOf': True,
-  'sanityRef': 'lk-16-541603',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'retinoider'}
 
 d1e375166:
 { 'canonicalTitle': 'Daunorubicin',
@@ -4239,6 +3605,15 @@ d1e375289:
   'type': 'cellTitleIsSubstring',
   'word': 'sakubitril'}
 
+d1e375519:
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
+  'partOf': True,
+  'success': True,
+  'tdId': True,
+  'type': 'highlightMapperSubstring',
+  'word': 'skopolamin'}
+
 d1e375531:
 { 'canonicalTitle': 'Serotonin- og noradrenalinreopptakshemmere (SNRI)',
   'mappingState': 'automatic',
@@ -4260,28 +3635,6 @@ d1e375698:
   'tdId': True,
   'type': 'cellTitleIsSubstring',
   'word': 'streptokinase'}
-
-d1e375804:
-{ 'canonicalTitle': 'Trimetoprim–sulfametoksazol',
-  'mappingState': 'automatic',
-  'originalWord': 'sulfametoksazol',
-  'partOf': True,
-  'sanityRef': 'lk-01-infeksjon-3851',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'sulfametoksazol'}
-
-d1e375826:
-{ 'canonicalTitle': 'Sulfonamider og trimetoprim',
-  'mappingState': 'automatic',
-  'originalWord': 'sulfonamider',
-  'partOf': True,
-  'sanityRef': 'lk-01-infeksjon-3593',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'sulfonamider'}
 
 d1e375883:
 { 'canonicalTitle': 'Fluorid',
@@ -4351,6 +3704,7 @@ d1e376249:
 
 d1e376260:
 { 'canonicalTitle': 'Teofyllin og teofyllinsalter',
+  'mapper': 'highlight',
   'mappingState': 'highlightRemapped',
   'partOf': True,
   'sanityRef': 'lk-10-428961',
@@ -4426,15 +3780,31 @@ d1e376775:
   'word': 'travoprost'}
 
 d1e376799:
-{ 'canonicalTitle': 'Tretinoin (onkologi)',
-  'mappingState': 'automatic',
-  'originalWord': 'tretinoin',
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
   'partOf': True,
-  'sanityRef': 'lk-02-neopl-3234',
   'success': True,
   'tdId': True,
-  'type': 'cellTitleIsSubstring',
+  'type': 'highlightMapper',
   'word': 'tretinoin'}
+
+d1e376860:
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
+  'partOf': True,
+  'success': True,
+  'tdId': True,
+  'type': 'highlightMapperSubstring',
+  'word': 'trimetoprim'}
+
+d1e376871:
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
+  'partOf': True,
+  'success': True,
+  'tdId': True,
+  'type': 'highlightMapperSubstring',
+  'word': 'trimetreksat'}
 
 d1e376934:
 { 'canonicalTitle': 'Trisykliske antidepressiva',
@@ -4480,6 +3850,39 @@ d1e377303:
   'type': 'cellTitleIsSubstring',
   'word': 'vilanterol'}
 
+d1e377398:
+{ 'canonicalTitle': 'Vitamin B',
+  'mappingState': 'automatic',
+  'originalWord': 'vitamin b1',
+  'partOf': True,
+  'sanityRef': 'lk-23-ernering-171',
+  'success': True,
+  'tdId': True,
+  'type': 'canonicalTitleIsSubstring',
+  'word': 'vitamin b1'}
+
+d1e377411:
+{ 'canonicalTitle': 'Vitamin B',
+  'mappingState': 'automatic',
+  'originalWord': 'vitamin b6',
+  'partOf': True,
+  'sanityRef': 'lk-23-ernering-171',
+  'success': True,
+  'tdId': True,
+  'type': 'canonicalTitleIsSubstring',
+  'word': 'vitamin b6'}
+
+d1e377427:
+{ 'canonicalTitle': 'Vitamin B',
+  'mappingState': 'automatic',
+  'originalWord': 'vitamin b12',
+  'partOf': True,
+  'sanityRef': 'lk-23-ernering-171',
+  'success': True,
+  'tdId': True,
+  'type': 'canonicalTitleIsSubstring',
+  'word': 'vitamin b12'}
+
 d1e377440:
 { 'canonicalTitle': 'Vitamin B + vitamin C parenterale',
   'mappingState': 'automatic',
@@ -4490,17 +3893,6 @@ d1e377440:
   'tdId': True,
   'type': 'cellTitleIsSubstring',
   'word': 'vitamin c'}
-
-d1e377451:
-{ 'canonicalTitle': 'Vitamin D3-analoger',
-  'mappingState': 'automatic',
-  'originalWord': 'vitamin d og vitamin d analoger',
-  'partOf': True,
-  'sanityRef': 'lk-16-hud-289',
-  'success': True,
-  'tdId': True,
-  'type': 'canonicalTitleIsSubstring',
-  'word': 'vitamin d og vitamin d analoger'}
 
 d1e377472:
 { 'canonicalTitle': 'Vitamin K',
@@ -4558,18 +3950,17 @@ gk-07-319230:
   'word': 'koriongonadotropin'}
 
 gk-07-319240:
-{ 'canonicalTitle': 'Korifollitropin alfa',
-  'mappingState': 'automatic',
-  'originalWord': 'korifollitropin',
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
   'partOf': True,
-  'sanityRef': 'lk-03-endokr-23794',
   'success': True,
   'tdId': True,
-  'type': 'cellTitleIsSubstring',
+  'type': 'highlightMapperSubstring',
   'word': 'korifollitropin'}
 
 gk-07-319255:
 { 'canonicalTitle': 'Teofyllin og teofyllinsalter',
+  'mapper': 'highlight',
   'mappingState': 'highlightRemapped',
   'partOf': True,
   'sanityRef': 'lk-10-428961',
@@ -4577,17 +3968,6 @@ gk-07-319255:
   'tdId': True,
   'type': 'highlightMapperSubstring',
   'word': 'teofyllinetylendiamin'}
-
-gk-07-319260:
-{ 'canonicalTitle': 'Acetylkolinesterasehemmere',
-  'mappingState': 'automatic',
-  'originalWord': 'kolinesterasehemmere',
-  'partOf': True,
-  'sanityRef': 'lk-05-psykisk-3026d',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'kolinesterasehemmere'}
 
 gk-07-319290:
 { 'canonicalTitle': 'Paracetamol–acetylsalisylsyre–koffein',
@@ -4655,16 +4035,23 @@ gk-07-392270:
   'type': 'canonicalTitleIsSubstring',
   'word': 'nsaids ikke steroide antiinflammatoriske midler'}
 
-gk-07-392764:
-{ 'canonicalTitle': 'Lidokain–prilokain',
-  'mappingState': 'automatic',
-  'originalWord': 'lidokain',
+gk-07-392325:
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
   'partOf': True,
-  'sanityRef': 'lk-22-anestesi-423',
   'success': True,
   'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'lidokain'}
+  'type': 'highlightMapperSubstring',
+  'word': 'skopolamin'}
+
+gk-07-392598:
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
+  'partOf': True,
+  'success': True,
+  'tdId': True,
+  'type': 'highlightMapperSubstring',
+  'word': 'trimetoprim'}
 
 gk-07-392979:
 { 'canonicalTitle': 'Paracetamol–acetylsalisylsyre–koffein',
@@ -4676,6 +4063,15 @@ gk-07-392979:
   'tdId': True,
   'type': 'cellTitleIsSubstring',
   'word': 'koffein'}
+
+gk-07-393029:
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
+  'partOf': True,
+  'success': True,
+  'tdId': True,
+  'type': 'highlightMapperSubstring',
+  'word': 'korifollitropin'}
 
 gk-07-393074:
 { 'canonicalTitle': 'Kloksacillin, dikloksacillin, flukloksacillin',
@@ -4698,6 +4094,15 @@ gk-07-393129:
   'tdId': True,
   'type': 'canonicalTitleIsSubstring',
   'word': 'klorokin'}
+
+gk-07-393393:
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
+  'partOf': True,
+  'success': True,
+  'tdId': True,
+  'type': 'highlightMapper',
+  'word': 'tretinoin'}
 
 gk-07-393458:
 { 'canonicalTitle': 'Insulinstimulerende midler',
@@ -4765,17 +4170,6 @@ gk-07-393898:
   'type': 'canonicalTitleIsSubstring',
   'word': 'gadoksetinsyre dinatrium'}
 
-gk-07-393936:
-{ 'canonicalTitle': 'Folsyre',
-  'mappingState': 'automatic',
-  'originalWord': 'folsyreantagonister',
-  'partOf': True,
-  'sanityRef': 'lk-04-blod-320',
-  'success': True,
-  'tdId': True,
-  'type': 'canonicalTitleIsSubstring',
-  'word': 'folsyreantagonister'}
-
 gk-07-394233:
 { 'canonicalTitle': 'Fenazon-koffein',
   'mappingState': 'automatic',
@@ -4797,17 +4191,6 @@ gk-07-394289:
   'tdId': True,
   'type': 'canonicalTitleIsSubstring',
   'word': 'etylmorfin'}
-
-gk-07-394399:
-{ 'canonicalTitle': 'Ergotamin, kombinasjoner med psykoleptika',
-  'mappingState': 'automatic',
-  'originalWord': 'ergotamin',
-  'partOf': True,
-  'sanityRef': '486d2078-55be-4bc5-83dd-35c3238add7b',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'ergotamin'}
 
 gk-07-394782:
 { 'canonicalTitle': 'Bendroflumetiazid (ev. med kalium)',
@@ -4831,50 +4214,6 @@ gk-07-394852:
   'type': 'canonicalTitleIsSubstring',
   'word': 'betareseptorantagonister'}
 
-gk-07-394964:
-{ 'canonicalTitle': 'Brinzolamid–brimonidin',
-  'mappingState': 'automatic',
-  'originalWord': 'brinzolamid',
-  'partOf': True,
-  'sanityRef': 'lk-07-429995',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'brinzolamid'}
-
-gk-07-395235:
-{ 'canonicalTitle': 'Piperacillin–tazobaktam',
-  'mappingState': 'automatic',
-  'originalWord': 'piperacillin',
-  'partOf': True,
-  'sanityRef': 'lk-01-infeksjon-1210',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'piperacillin'}
-
-gk-07-395432:
-{ 'canonicalTitle': 'Parathyreoideahormoner (PTH(1-84) og hPTH(1-34))',
-  'mappingState': 'automatic',
-  'originalWord': 'parathyreoideahormon',
-  'partOf': True,
-  'sanityRef': 'lk-03-317779',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'parathyreoideahormon'}
-
-gk-07-395581:
-{ 'canonicalTitle': 'Dorzolamid–timolol',
-  'mappingState': 'automatic',
-  'originalWord': 'dorzolamid',
-  'partOf': True,
-  'sanityRef': 'lk-07-oye-560',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'dorzolamid'}
-
 gk-07-395711:
 { 'canonicalTitle': 'Kloksacillin, dikloksacillin, flukloksacillin',
   'mappingState': 'automatic',
@@ -4897,17 +4236,6 @@ gk-07-395791:
   'type': 'cellTitleIsSubstring',
   'word': 'desmopressin'}
 
-gk-07-395811:
-{ 'canonicalTitle': 'Dekstran',
-  'mappingState': 'automatic',
-  'originalWord': 'dekstraner',
-  'partOf': True,
-  'sanityRef': 'lk-23-ernering-1823',
-  'success': True,
-  'tdId': True,
-  'type': 'canonicalTitleIsSubstring',
-  'word': 'dekstraner'}
-
 gk-07-396076:
 { 'canonicalTitle': 'Rokuron',
   'mappingState': 'automatic',
@@ -4922,13 +4250,13 @@ gk-07-396076:
 gk-07-396430:
 { 'canonicalTitle': 'Reseptorantagonister',
   'mappingState': 'automatic',
-  'originalWord': 'at reseptorantagonister',
+  'originalWord': 'at1 reseptorantagonister',
   'partOf': True,
   'sanityRef': 'lk-05-psykisk-3928',
   'success': True,
   'tdId': True,
   'type': 'canonicalTitleIsSubstring',
-  'word': 'at reseptorantagonister'}
+  'word': 'at1 reseptorantagonister'}
 
 gk-07-396572:
 { 'canonicalTitle': 'Antiinflammatoriske midler',
@@ -4965,6 +4293,17 @@ gk-07-396632:
   'type': 'cellTitleIsSubstring',
   'word': 'anastrozol'}
 
+gk-07-396692:
+{ 'canonicalTitle': '5-Aminosalisylsyreforbindelser',
+  'mappingState': 'automatic',
+  'originalWord': 'aminosalisylsyreforbindelser',
+  'partOf': True,
+  'sanityRef': 'lk-12-fordoyel-1925',
+  'success': True,
+  'tdId': True,
+  'type': 'cellTitleIsSubstring',
+  'word': 'aminosalisylsyreforbindelser'}
+
 gk-07-396712:
 { 'canonicalTitle': 'Amilorid–hydroklortiazid',
   'mappingState': 'automatic',
@@ -4975,17 +4314,6 @@ gk-07-396712:
   'tdId': True,
   'type': 'cellTitleIsSubstring',
   'word': 'amilorid'}
-
-gk-07-397193:
-{ 'canonicalTitle': 'Trimetoprim–sulfametoksazol',
-  'mappingState': 'automatic',
-  'originalWord': 'sulfametoksazol',
-  'partOf': True,
-  'sanityRef': 'lk-01-infeksjon-3851',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'sulfametoksazol'}
 
 gk-07-397290:
 { 'canonicalTitle': 'Tafluprost–timolol',
@@ -5022,15 +4350,31 @@ gk-07-397435:
   'word': 'tiazid tiazidlignende diuretika'}
 
 gk-07-397580:
-{ 'canonicalTitle': 'Tretinoin (onkologi)',
-  'mappingState': 'automatic',
-  'originalWord': 'tretinoin',
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
   'partOf': True,
-  'sanityRef': 'lk-02-neopl-3234',
   'success': True,
   'tdId': True,
-  'type': 'cellTitleIsSubstring',
+  'type': 'highlightMapper',
   'word': 'tretinoin'}
+
+gk-07-397610:
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
+  'partOf': True,
+  'success': True,
+  'tdId': True,
+  'type': 'highlightMapperSubstring',
+  'word': 'trimetoprim'}
+
+gk-07-397615:
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
+  'partOf': True,
+  'success': True,
+  'tdId': True,
+  'type': 'highlightMapperSubstring',
+  'word': 'trimetreksat'}
 
 gk-07-411915:
 { 'canonicalTitle': 'Bendroflumetiazid (ev. med kalium)',
@@ -5098,39 +4442,6 @@ gk-07-412786:
   'type': 'canonicalTitleIsSubstring',
   'word': 'etylmorfin'}
 
-gk-07-412816:
-{ 'canonicalTitle': 'Cyproteron–etinyløstradiol',
-  'mappingState': 'automatic',
-  'originalWord': 'etinyløstradiol',
-  'partOf': True,
-  'sanityRef': 'lk-03-endokr-7644',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'etinyløstradiol'}
-
-gk-07-412896:
-{ 'canonicalTitle': 'Ergotamin, kombinasjoner med psykoleptika',
-  'mappingState': 'automatic',
-  'originalWord': 'ergotamin',
-  'partOf': True,
-  'sanityRef': '486d2078-55be-4bc5-83dd-35c3238add7b',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'ergotamin'}
-
-gk-07-413059:
-{ 'canonicalTitle': 'Folsyre',
-  'mappingState': 'automatic',
-  'originalWord': 'folsyreantagonister',
-  'partOf': True,
-  'sanityRef': 'lk-04-blod-320',
-  'success': True,
-  'tdId': True,
-  'type': 'canonicalTitleIsSubstring',
-  'word': 'folsyreantagonister'}
-
 gk-07-413106:
 { 'canonicalTitle': 'Aprepitant og fosaprepitant',
   'mappingState': 'automatic',
@@ -5141,28 +4452,6 @@ gk-07-413106:
   'tdId': True,
   'type': 'cellTitleIsSubstring',
   'word': 'fosaprepitant'}
-
-gk-07-413109:
-{ 'canonicalTitle': 'Amprenavir/fosamprenavir',
-  'mappingState': 'automatic',
-  'originalWord': 'fosamprenavir',
-  'partOf': True,
-  'sanityRef': 'lk-01-infeksjon-frf-retur-17072',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'fosamprenavir'}
-
-gk-07-413321:
-{ 'canonicalTitle': 'Fentiaziner med alifatisk sidekjede',
-  'mappingState': 'automatic',
-  'originalWord': 'fentiaziner',
-  'partOf': True,
-  'sanityRef': 'd0b856d9-5a4c-49ed-8b1d-141dcee55391',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'fentiaziner'}
 
 gk-07-413381:
 { 'canonicalTitle': 'Faktor VIII',
@@ -5175,38 +4464,32 @@ gk-07-413381:
   'type': 'cellTitleIsSubstring',
   'word': 'viii'}
 
-gk-07-413827:
-{ 'canonicalTitle': 'Interferon beta-1, peginterferon beta-1',
-  'mappingState': 'automatic',
-  'originalWord': 'interferon beta',
+gk-07-413772:
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
   'partOf': True,
-  'sanityRef': 'lk-18-immunsuppr-frf-retur-3392fl',
   'success': True,
   'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'interferon beta'}
+  'type': 'highlightMapper',
+  'word': 'tretinoin'}
+
+gk-07-413827:
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
+  'partOf': True,
+  'success': True,
+  'tdId': True,
+  'type': 'highlightMapperSubstring',
+  'word': 'interferoner'}
 
 gk-07-413832:
-{ 'canonicalTitle': 'Interferon alfa-2, peginterferon alfa-2',
-  'mappingState': 'automatic',
-  'originalWord': 'interferon alfa',
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
   'partOf': True,
-  'sanityRef': 'lk-18-immunsuppr-frf-retur-3392d',
   'success': True,
   'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'interferon alfa'}
-
-gk-07-414500:
-{ 'canonicalTitle': 'Lidokain–prilokain',
-  'mappingState': 'automatic',
-  'originalWord': 'lidokain',
-  'partOf': True,
-  'sanityRef': 'lk-22-anestesi-423',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'lidokain'}
+  'type': 'highlightMapperSubstring',
+  'word': 'interferoner'}
 
 gk-07-414535:
 { 'canonicalTitle': 'Bupivakain, Levobupivakain',
@@ -5218,6 +4501,15 @@ gk-07-414535:
   'tdId': True,
   'type': 'cellTitleIsSubstring',
   'word': 'levobupivakain'}
+
+gk-07-414679:
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
+  'partOf': True,
+  'success': True,
+  'tdId': True,
+  'type': 'highlightMapperSubstring',
+  'word': 'skopolamin'}
 
 gk-07-414977:
 { 'canonicalTitle': 'Irreversible, uselektive monoaminoksidasehemmere (MAOH)',
@@ -5241,32 +4533,14 @@ gk-07-415030:
   'type': 'cellTitleIsSubstring',
   'word': 'nsaid'}
 
-gk-07-415050:
-{ 'mappingState': 'highlightRemapped',
-  'partOf': True,
-  'success': True,
-  'tdId': True,
-  'type': 'highlightMapperSubstring',
-  'word': 'norgestrel'}
-
-gk-07-415195:
-{ 'canonicalTitle': 'Aurotiomalat',
-  'mappingState': 'automatic',
-  'originalWord': 'natriumaurotiomalat',
-  'partOf': True,
-  'sanityRef': 'lk-17-muskl-2045',
-  'success': True,
-  'tdId': True,
-  'type': 'canonicalTitleIsSubstring',
-  'word': 'natriumaurotiomalat'}
-
 gk-07-415502:
-{ 'mappingState': 'highlightRemapped',
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
   'partOf': True,
   'success': True,
   'tdId': True,
   'type': 'highlightMapperSubstring',
-  'word': 'peginterferon alfa a og b'}
+  'word': 'interferoner'}
 
 gk-07-415672:
 { 'canonicalTitle': 'Østradiol',
@@ -5289,17 +4563,6 @@ gk-07-415732:
   'tdId': True,
   'type': 'cellTitleIsSubstring',
   'word': 'prednisolon'}
-
-gk-07-415809:
-{ 'canonicalTitle': 'Parathyreoideahormoner (PTH(1-84) og hPTH(1-34))',
-  'mappingState': 'automatic',
-  'originalWord': 'parathyreoideahormon',
-  'partOf': True,
-  'sanityRef': 'lk-03-317779',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'parathyreoideahormon'}
 
 gk-07-416530:
 { 'canonicalTitle': 'Emtricitabin–tenofovir',
@@ -5345,6 +4608,15 @@ gk-07-416590:
   'type': 'canonicalTitleIsSubstring',
   'word': 'tiazid tiazidlignende diuretika'}
 
+gk-07-416770:
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
+  'partOf': True,
+  'success': True,
+  'tdId': True,
+  'type': 'highlightMapperSubstring',
+  'word': 'trimetreksat'}
+
 gk-07-417299:
 { 'canonicalTitle': 'Aprepitant og fosaprepitant',
   'mappingState': 'automatic',
@@ -5379,15 +4651,15 @@ gk-07-417374:
   'word': 'antiinflammatoriske midler ikke steroide'}
 
 gk-07-417379:
-{ 'canonicalTitle': 'Histamin H2‑antagonister',
+{ 'canonicalTitle': 'Histamin H1‑antagonister',
   'mappingState': 'automatic',
-  'originalWord': 'antihistaminer histamin h antagonister',
+  'originalWord': 'antihistaminer histamin h1 antagonister',
   'partOf': True,
-  'sanityRef': 'lk-12-fordoyel-357',
+  'sanityRef': 'lk-09-allergi-15',
   'success': True,
   'tdId': True,
   'type': 'canonicalTitleIsSubstring',
-  'word': 'antihistaminer histamin h antagonister'}
+  'word': 'antihistaminer histamin h1 antagonister'}
 
 gk-07-417404:
 { 'canonicalTitle': 'Antidepressiva',
@@ -5434,28 +4706,6 @@ gk-07-417454:
   'tdId': True,
   'type': 'cellTitleIsSubstring',
   'word': 'amprenavir'}
-
-gk-07-gravid-1095:
-{ 'canonicalTitle': 'Deksametason–antibakterielle midler',
-  'mappingState': 'automatic',
-  'originalWord': 'deksametason',
-  'partOf': True,
-  'sanityRef': 'lk-03-365467',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'deksametason'}
-
-gk-07-gravid-1105:
-{ 'canonicalTitle': 'Dekstran',
-  'mappingState': 'automatic',
-  'originalWord': 'dekstraner',
-  'partOf': True,
-  'sanityRef': 'lk-23-ernering-1823',
-  'success': True,
-  'tdId': True,
-  'type': 'canonicalTitleIsSubstring',
-  'word': 'dekstraner'}
 
 gk-07-gravid-11193:
 { 'canonicalTitle': 'Amprenavir/fosamprenavir',
@@ -5545,17 +4795,6 @@ gk-07-gravid-11366b:
   'type': 'cellTitleIsSubstring',
   'word': 'bimatoprost'}
 
-gk-07-gravid-11369:
-{ 'canonicalTitle': 'Brinzolamid–brimonidin',
-  'mappingState': 'automatic',
-  'originalWord': 'brinzolamid',
-  'partOf': True,
-  'sanityRef': 'lk-07-429995',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'brinzolamid'}
-
 gk-07-gravid-11375:
 { 'canonicalTitle': 'Dutasterid–tamsulosin',
   'mappingState': 'automatic',
@@ -5568,14 +4807,12 @@ gk-07-gravid-11375:
   'word': 'dutasterid'}
 
 gk-07-gravid-1141:
-{ 'canonicalTitle': 'Formoterol-budesonid',
-  'mappingState': 'automatic',
-  'originalWord': 'desonid',
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
   'partOf': True,
-  'sanityRef': 'lk-10-600651',
   'success': True,
   'tdId': True,
-  'type': 'cellTitleIsSubstring',
+  'type': 'highlightMapperSubstring',
   'word': 'desonid'}
 
 gk-07-gravid-11527:
@@ -5588,17 +4825,6 @@ gk-07-gravid-11527:
   'tdId': True,
   'type': 'cellTitleIsSubstring',
   'word': 'insulin'}
-
-gk-07-gravid-11630:
-{ 'canonicalTitle': 'Parathyreoideahormoner (PTH(1-84) og hPTH(1-34))',
-  'mappingState': 'automatic',
-  'originalWord': 'parathyreoideahormon',
-  'partOf': True,
-  'sanityRef': 'lk-03-317779',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'parathyreoideahormon'}
 
 gk-07-gravid-11689:
 { 'canonicalTitle': 'Aprepitant og fosaprepitant',
@@ -5677,25 +4903,6 @@ gk-07-gravid-1320:
   'type': 'canonicalTitleIsSubstring',
   'word': 'dopaminergika'}
 
-gk-07-gravid-1337:
-{ 'canonicalTitle': 'Dorzolamid–timolol',
-  'mappingState': 'automatic',
-  'originalWord': 'dorzolamid',
-  'partOf': True,
-  'sanityRef': 'lk-07-oye-560',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'dorzolamid'}
-
-gk-07-gravid-1428:
-{ 'mappingState': 'highlightRemapped',
-  'partOf': True,
-  'success': True,
-  'tdId': True,
-  'type': 'highlightMapperSubstring',
-  'word': 'podofyllin podofyllotoksin'}
-
 gk-07-gravid-1454:
 { 'canonicalTitle': 'Faktor VII',
   'mappingState': 'automatic',
@@ -5707,17 +4914,6 @@ gk-07-gravid-1454:
   'type': 'canonicalTitleIsSubstring',
   'word': 'eptacog alfa faktor viia'}
 
-gk-07-gravid-1469:
-{ 'canonicalTitle': 'Ergotamin, kombinasjoner med psykoleptika',
-  'mappingState': 'automatic',
-  'originalWord': 'ergotamin',
-  'partOf': True,
-  'sanityRef': '486d2078-55be-4bc5-83dd-35c3238add7b',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'ergotamin'}
-
 gk-07-gravid-1479:
 { 'canonicalTitle': 'Erytropoietin og derivater',
   'mappingState': 'automatic',
@@ -5728,17 +4924,6 @@ gk-07-gravid-1479:
   'tdId': True,
   'type': 'cellTitleIsSubstring',
   'word': 'erytropoietin'}
-
-gk-07-gravid-1519:
-{ 'canonicalTitle': 'Cyproteron–etinyløstradiol',
-  'mappingState': 'automatic',
-  'originalWord': 'etinyløstradiol',
-  'partOf': True,
-  'sanityRef': 'lk-03-endokr-7644',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'etinyløstradiol'}
 
 gk-07-gravid-1539:
 { 'canonicalTitle': 'Morfin',
@@ -5772,17 +4957,6 @@ gk-07-gravid-1570:
   'tdId': True,
   'type': 'cellTitleIsSubstring',
   'word': 'fenazon'}
-
-gk-07-gravid-1600:
-{ 'canonicalTitle': 'Fentiaziner med alifatisk sidekjede',
-  'mappingState': 'automatic',
-  'originalWord': 'fentiaziner',
-  'partOf': True,
-  'sanityRef': 'd0b856d9-5a4c-49ed-8b1d-141dcee55391',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'fentiaziner'}
 
 gk-07-gravid-1605:
 { 'canonicalTitle': 'Fenylefrin (øye)',
@@ -5851,48 +5025,24 @@ gk-07-gravid-1747:
   'word': 'folat'}
 
 gk-07-gravid-1762:
-{ 'canonicalTitle': 'Follitropin og lutropin',
-  'mappingState': 'automatic',
-  'originalWord': 'follitropin',
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
   'partOf': True,
-  'sanityRef': 'lk-03-598642',
   'success': True,
   'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'follitropin'}
-
-gk-07-gravid-1772:
-{ 'canonicalTitle': 'Folsyre',
-  'mappingState': 'automatic',
-  'originalWord': 'folsyreantagonister',
-  'partOf': True,
-  'sanityRef': 'lk-04-blod-320',
-  'success': True,
-  'tdId': True,
-  'type': 'canonicalTitleIsSubstring',
-  'word': 'folsyreantagonister'}
-
-gk-07-gravid-1785c:
-{ 'canonicalTitle': 'Amprenavir/fosamprenavir',
-  'mappingState': 'automatic',
-  'originalWord': 'fosamprenavir',
-  'partOf': True,
-  'sanityRef': 'lk-01-infeksjon-frf-retur-17072',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'fosamprenavir'}
+  'type': 'highlightMapperSubstring',
+  'word': 'korifollitropin'}
 
 gk-07-gravid-1819:
 { 'canonicalTitle': 'Vitamin K',
   'mappingState': 'automatic',
-  'originalWord': 'fytomenadion vitamin k',
+  'originalWord': 'fytomenadion vitamin k1',
   'partOf': True,
   'sanityRef': 'lk-04-blod-954',
   'success': True,
   'tdId': True,
   'type': 'canonicalTitleIsSubstring',
-  'word': 'fytomenadion vitamin k'}
+  'word': 'fytomenadion vitamin k1'}
 
 gk-07-gravid-1866:
 { 'canonicalTitle': 'Ganciklovir/valganciklovir',
@@ -5904,17 +5054,6 @@ gk-07-gravid-1866:
   'tdId': True,
   'type': 'cellTitleIsSubstring',
   'word': 'ganciklovir'}
-
-gk-07-gravid-1934:
-{ 'canonicalTitle': 'Indakaterol-glykopyrron',
-  'mappingState': 'automatic',
-  'originalWord': 'glykopyrron',
-  'partOf': True,
-  'sanityRef': 'lk-10-600819',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'glykopyrron'}
 
 gk-07-gravid-1971:
 { 'canonicalTitle': 'Bacitracin, gramicidin, polymyksin',
@@ -5939,26 +5078,26 @@ gk-07-gravid-1997:
   'word': 'halogenerte inhalasjonsanestetika'}
 
 gk-07-gravid-2008:
-{ 'canonicalTitle': 'Histamin H2‑antagonister',
+{ 'canonicalTitle': 'Histamin H1‑antagonister',
   'mappingState': 'automatic',
-  'originalWord': 'h antagonister',
+  'originalWord': 'h1 antagonister',
   'partOf': True,
-  'sanityRef': 'lk-12-fordoyel-357',
+  'sanityRef': 'lk-09-allergi-15',
   'success': True,
   'tdId': True,
   'type': 'cellTitleIsSubstring',
-  'word': 'h antagonister'}
+  'word': 'h1 antagonister'}
 
 gk-07-gravid-2014:
 { 'canonicalTitle': 'Histamin H2‑antagonister',
   'mappingState': 'automatic',
-  'originalWord': 'h antagonister',
+  'originalWord': 'h2 antagonister',
   'partOf': True,
   'sanityRef': 'lk-12-fordoyel-357',
   'success': True,
   'tdId': True,
   'type': 'cellTitleIsSubstring',
-  'word': 'h antagonister'}
+  'word': 'h2 antagonister'}
 
 gk-07-gravid-2053:
 { 'canonicalTitle': 'HMG-CoA-reduktasehemmere',
@@ -5974,13 +5113,13 @@ gk-07-gravid-2053:
 gk-07-gravid-2069:
 { 'canonicalTitle': 'Serotonin 5-HT3-antagonister',
   'mappingState': 'automatic',
-  'originalWord': 'ht antagonister',
+  'originalWord': '5 ht3 antagonister',
   'partOf': True,
   'sanityRef': '300de81a-ff0e-4190-845f-1c3e0a419938',
   'success': True,
   'tdId': True,
   'type': 'cellTitleIsSubstring',
-  'word': 'ht antagonister'}
+  'word': '5 ht3 antagonister'}
 
 gk-07-gravid-2100:
 { 'canonicalTitle': 'Vitamin B',
@@ -6016,48 +5155,62 @@ gk-07-gravid-2157:
   'word': 'ikke steroide antiinflammatoriske midler'}
 
 gk-07-gravid-2232:
-{ 'canonicalTitle': 'Interferon alfa-2, peginterferon alfa-2',
-  'mappingState': 'automatic',
-  'originalWord': 'interferon alfa',
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
   'partOf': True,
-  'sanityRef': 'lk-18-immunsuppr-frf-retur-3392d',
   'success': True,
   'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'interferon alfa'}
+  'type': 'highlightMapperSubstring',
+  'word': 'interferoner'}
 
 gk-07-gravid-2237:
-{ 'canonicalTitle': 'Interferon beta-1, peginterferon beta-1',
-  'mappingState': 'automatic',
-  'originalWord': 'interferon beta',
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
   'partOf': True,
-  'sanityRef': 'lk-18-immunsuppr-frf-retur-3392fl',
   'success': True,
   'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'interferon beta'}
+  'type': 'highlightMapperSubstring',
+  'word': 'interferoner'}
 
 gk-07-gravid-223:
 { 'canonicalTitle': 'Reseptorantagonister',
   'mappingState': 'automatic',
-  'originalWord': 'alfa reseptorantagonister adrenerge',
+  'originalWord': 'alfa 1 reseptorantagonister adrenerge',
   'partOf': True,
   'sanityRef': 'lk-05-psykisk-3928',
   'success': True,
   'tdId': True,
   'type': 'canonicalTitleIsSubstring',
-  'word': 'alfa reseptorantagonister adrenerge'}
+  'word': 'alfa 1 reseptorantagonister adrenerge'}
+
+gk-07-gravid-2242:
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
+  'partOf': True,
+  'success': True,
+  'tdId': True,
+  'type': 'highlightMapperSubstring',
+  'word': 'interferoner'}
 
 gk-07-gravid-229:
 { 'canonicalTitle': 'Reseptorantagonister',
   'mappingState': 'automatic',
-  'originalWord': 'alfa betareseptorantagonister kombinerte',
+  'originalWord': 'alfa 1 betareseptorantagonister kombinerte',
   'partOf': True,
   'sanityRef': 'lk-05-psykisk-3928',
   'success': True,
   'tdId': True,
   'type': 'canonicalTitleIsSubstring',
-  'word': 'alfa betareseptorantagonister kombinerte'}
+  'word': 'alfa 1 betareseptorantagonister kombinerte'}
+
+gk-07-gravid-2303:
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
+  'partOf': True,
+  'success': True,
+  'tdId': True,
+  'type': 'highlightMapper',
+  'word': 'tretinoin'}
 
 gk-07-gravid-2324:
 { 'canonicalTitle': 'Jernmedikamenter',
@@ -6104,23 +5257,13 @@ gk-07-gravid-2761:
   'word': 'letrozol'}
 
 gk-07-gravid-2791:
-{ 'mappingState': 'highlightRemapped',
+{ 'mapper': 'highlight',
+  'mappingState': 'highlightRemapped',
   'partOf': True,
   'success': True,
   'tdId': True,
   'type': 'highlightMapperSubstring',
-  'word': 'norgestrel'}
-
-gk-07-gravid-2801:
-{ 'canonicalTitle': 'Lidokain–prilokain',
-  'mappingState': 'automatic',
-  'originalWord': 'lidokain',
-  'partOf': True,
-  'sanityRef': 'lk-22-anestesi-423',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'lidokain'}
+  'word': 'levonorgestrel'}
 
 gk-07-gravid-2864c:
 { 'canonicalTitle': 'Artemeter–lumefantrin',
@@ -6144,38 +5287,23 @@ gk-07-gravid-2904:
   'type': 'cellTitleIsSubstring',
   'word': 'maoh'}
 
+gk-07-gravid-2927:
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
+  'partOf': True,
+  'success': True,
+  'tdId': True,
+  'type': 'highlightMapperSubstring',
+  'word': 'trimetoprim'}
+
 gk-07-gravid-303:
-{ 'canonicalTitle': 'Metylfenidat og lisdeksamfetamin/deksamfetamin/amfetamin',
-  'mappingState': 'automatic',
-  'originalWord': 'amfetamin',
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
   'partOf': True,
-  'sanityRef': 'lk-06-nevrol-3643',
   'success': True,
   'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'amfetamin'}
-
-gk-07-gravid-3104:
-{ 'canonicalTitle': 'Mineralkortikoid',
-  'mappingState': 'automatic',
-  'originalWord': 'mineralkortikoider',
-  'partOf': True,
-  'sanityRef': 'lk-03-endokr-5339',
-  'success': True,
-  'tdId': True,
-  'type': 'canonicalTitleIsSubstring',
-  'word': 'mineralkortikoider'}
-
-gk-07-gravid-3120:
-{ 'canonicalTitle': 'Diklofenak–misoprostol',
-  'mappingState': 'automatic',
-  'originalWord': 'misoprostol',
-  'partOf': True,
-  'sanityRef': 'lk-17-muskl-627',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'misoprostol'}
+  'type': 'highlightMapperSubstring',
+  'word': 'lisdeksamfetamin'}
 
 gk-07-gravid-313:
 { 'canonicalTitle': 'Amilorid–hydroklortiazid',
@@ -6188,16 +5316,14 @@ gk-07-gravid-313:
   'type': 'cellTitleIsSubstring',
   'word': 'amilorid'}
 
-gk-07-gravid-3180:
-{ 'canonicalTitle': 'Irreversible, uselektive monoaminoksidasehemmere (MAOH)',
-  'mappingState': 'automatic',
-  'originalWord': 'monoaminoksidasehemmere',
+gk-07-gravid-3207:
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
   'partOf': True,
-  'sanityRef': 'lk-05-psykisk-3777',
   'success': True,
   'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'monoaminoksidasehemmere'}
+  'type': 'highlightMapperSubstring',
+  'word': 'skopolamin'}
 
 gk-07-gravid-3239:
 { 'canonicalTitle': 'Nabiksimoler (cannabisekstrakt)',
@@ -6209,17 +5335,6 @@ gk-07-gravid-3239:
   'tdId': True,
   'type': 'cellTitleIsSubstring',
   'word': 'nabiksimoler'}
-
-gk-07-gravid-3280:
-{ 'canonicalTitle': 'Aurotiomalat',
-  'mappingState': 'automatic',
-  'originalWord': 'natriumaurotiomalat',
-  'partOf': True,
-  'sanityRef': 'lk-17-muskl-2045',
-  'success': True,
-  'tdId': True,
-  'type': 'canonicalTitleIsSubstring',
-  'word': 'natriumaurotiomalat'}
 
 gk-07-gravid-3285:
 { 'canonicalTitle': 'Kromoglikat',
@@ -6243,6 +5358,17 @@ gk-07-gravid-3290:
   'type': 'canonicalTitleIsSubstring',
   'word': 'natriumvalproat'}
 
+gk-07-gravid-335:
+{ 'canonicalTitle': '5-Aminosalisylsyreforbindelser',
+  'mappingState': 'automatic',
+  'originalWord': 'aminosalisylsyreforbindelser',
+  'partOf': True,
+  'sanityRef': 'lk-12-fordoyel-1925',
+  'success': True,
+  'tdId': True,
+  'type': 'cellTitleIsSubstring',
+  'word': 'aminosalisylsyreforbindelser'}
+
 gk-07-gravid-3372:
 { 'canonicalTitle': 'Nitrater',
   'mappingState': 'automatic',
@@ -6253,14 +5379,6 @@ gk-07-gravid-3372:
   'tdId': True,
   'type': 'canonicalTitleIsSubstring',
   'word': 'nitrater organiske'}
-
-gk-07-gravid-3424:
-{ 'mappingState': 'highlightRemapped',
-  'partOf': True,
-  'success': True,
-  'tdId': True,
-  'type': 'highlightMapperSubstring',
-  'word': 'norgestrel'}
 
 gk-07-gravid-3439:
 { 'canonicalTitle': 'Ikke‑steroide antiinflammatoriske midler (NSAID)',
@@ -6318,26 +5436,13 @@ gk-07-gravid-3603c:
   'word': 'pegfilgrastim'}
 
 gk-07-gravid-3620:
-{ 'canonicalTitle': 'Betalaktamasefølsomme penicilliner',
-  'mappingState': 'automatic',
-  'originalWord': 'penicilliner',
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
   'partOf': True,
-  'sanityRef': 'lk-01-infeksjon-96',
   'success': True,
   'tdId': True,
-  'type': 'cellTitleIsSubstring',
+  'type': 'highlightMapperSubstring',
   'word': 'penicilliner'}
-
-gk-07-gravid-3677:
-{ 'canonicalTitle': 'Piperacillin–tazobaktam',
-  'mappingState': 'automatic',
-  'originalWord': 'piperacillin',
-  'partOf': True,
-  'sanityRef': 'lk-01-infeksjon-1210',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'piperacillin'}
 
 gk-07-gravid-3692:
 { 'canonicalTitle': 'Ampicillin',
@@ -6350,19 +5455,9 @@ gk-07-gravid-3692:
   'type': 'canonicalTitleIsSubstring',
   'word': 'pivampicillin'}
 
-gk-07-gravid-3702:
-{ 'canonicalTitle': 'Blodplatehemmere',
-  'mappingState': 'automatic',
-  'originalWord': 'platehemmere',
-  'partOf': True,
-  'sanityRef': 'lk-04-blod-2399',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'platehemmere'}
-
 gk-07-gravid-3713:
-{ 'mappingState': 'highlightRemapped',
+{ 'mapper': 'highlight',
+  'mappingState': 'highlightRemapped',
   'partOf': True,
   'success': True,
   'tdId': True,
@@ -6435,17 +5530,6 @@ gk-07-gravid-3847:
   'type': 'cellTitleIsSubstring',
   'word': 'prostaglandiner'}
 
-gk-07-gravid-3969:
-{ 'canonicalTitle': 'Retinoider (eksem)',
-  'mappingState': 'automatic',
-  'originalWord': 'retinoider',
-  'partOf': True,
-  'sanityRef': 'lk-16-541603',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'retinoider'}
-
 gk-07-gravid-3987:
 { 'canonicalTitle': 'Dornase alfa',
   'mappingState': 'automatic',
@@ -6514,16 +5598,14 @@ gk-07-gravid-4126:
   'type': 'cellTitleIsSubstring',
   'word': 'sentralstimulerende midler'}
 
-gk-07-gravid-4176:
-{ 'canonicalTitle': 'Slimhinneavsvellende legemidler, lokale',
-  'mappingState': 'automatic',
-  'originalWord': 'slimhinneavsvellende legemidler',
+gk-07-gravid-4171:
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
   'partOf': True,
-  'sanityRef': 'lk-11-onh-18',
   'success': True,
   'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'slimhinneavsvellende legemidler'}
+  'type': 'highlightMapperSubstring',
+  'word': 'skopolamin'}
 
 gk-07-gravid-4178i:
 { 'canonicalTitle': 'Serotonin- og noradrenalinreopptakshemmere (SNRI)',
@@ -6557,28 +5639,6 @@ gk-07-gravid-426:
   'tdId': True,
   'type': 'cellTitleIsSubstring',
   'word': 'antiandrogener'}
-
-gk-07-gravid-4270:
-{ 'canonicalTitle': 'Trimetoprim–sulfametoksazol',
-  'mappingState': 'automatic',
-  'originalWord': 'sulfametoksazol',
-  'partOf': True,
-  'sanityRef': 'lk-01-infeksjon-3851',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'sulfametoksazol'}
-
-gk-07-gravid-4280:
-{ 'canonicalTitle': 'Sulfonamider og trimetoprim',
-  'mappingState': 'automatic',
-  'originalWord': 'sulfonamider',
-  'partOf': True,
-  'sanityRef': 'lk-01-infeksjon-3593',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'sulfonamider'}
 
 gk-07-gravid-4344:
 { 'canonicalTitle': 'Piperacillin–tazobaktam',
@@ -6615,6 +5675,7 @@ gk-07-gravid-4375:
 
 gk-07-gravid-4380:
 { 'canonicalTitle': 'Teofyllin og teofyllinsalter',
+  'mapper': 'highlight',
   'mappingState': 'highlightRemapped',
   'partOf': True,
   'sanityRef': 'lk-10-428961',
@@ -6679,14 +5740,12 @@ gk-07-gravid-450:
   'word': 'antiinflammatoriske midler ikke steroide'}
 
 gk-07-gravid-4554:
-{ 'canonicalTitle': 'Tretinoin (onkologi)',
-  'mappingState': 'automatic',
-  'originalWord': 'tretinoin',
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
   'partOf': True,
-  'sanityRef': 'lk-02-neopl-3234',
   'success': True,
   'tdId': True,
-  'type': 'cellTitleIsSubstring',
+  'type': 'highlightMapper',
   'word': 'tretinoin'}
 
 gk-07-gravid-4571:
@@ -6700,16 +5759,23 @@ gk-07-gravid-4571:
   'type': 'canonicalTitleIsSubstring',
   'word': 'trijodtyronin liotyronin'}
 
-gk-07-gravid-462:
-{ 'canonicalTitle': 'Antikolinergika (nevrologi)',
-  'mappingState': 'automatic',
-  'originalWord': 'antikolinergika',
+gk-07-gravid-4576:
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
   'partOf': True,
-  'sanityRef': 'lk-06-nevrol-2883',
   'success': True,
   'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'antikolinergika'}
+  'type': 'highlightMapperSubstring',
+  'word': 'trimetoprim'}
+
+gk-07-gravid-4581:
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
+  'partOf': True,
+  'success': True,
+  'tdId': True,
+  'type': 'highlightMapperSubstring',
+  'word': 'trimetreksat'}
 
 gk-07-gravid-4636:
 { 'canonicalTitle': 'Levotyroksin',
@@ -6766,17 +5832,6 @@ gk-07-gravid-498:
   'type': 'cellTitleIsSubstring',
   'word': 'antitrombin'}
 
-gk-07-gravid-509:
-{ 'canonicalTitle': 'Antrasykliner og lignende substanser',
-  'mappingState': 'automatic',
-  'originalWord': 'antrasykliner',
-  'partOf': True,
-  'sanityRef': '00c4e5da-b2a8-4746-8226-8f22c5d9e2dd',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'antrasykliner'}
-
 gk-07-gravid-517c:
 { 'canonicalTitle': 'Aprepitant og fosaprepitant',
   'mappingState': 'automatic',
@@ -6824,13 +5879,13 @@ gk-07-gravid-542:
 gk-07-gravid-567:
 { 'canonicalTitle': 'Reseptorantagonister',
   'mappingState': 'automatic',
-  'originalWord': 'at reseptorantagonister',
+  'originalWord': 'at1 reseptorantagonister',
   'partOf': True,
   'sanityRef': 'lk-05-psykisk-3928',
   'success': True,
   'tdId': True,
   'type': 'canonicalTitleIsSubstring',
-  'word': 'at reseptorantagonister'}
+  'word': 'at1 reseptorantagonister'}
 
 gk-07-gravid-573:
 { 'canonicalTitle': 'Somatropin',
@@ -6888,15 +5943,13 @@ gk-07-gravid-675:
   'word': 'bendroflumetiazid'}
 
 gk-07-gravid-737:
-{ 'canonicalTitle': 'Betalaktamasefølsomme penicilliner',
-  'mappingState': 'automatic',
-  'originalWord': 'beta',
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
   'partOf': True,
-  'sanityRef': 'lk-01-infeksjon-96',
   'success': True,
   'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'beta'}
+  'type': 'highlightMapper',
+  'word': 'betametason'}
 
 gk-07-gravid-743:
 { 'canonicalTitle': 'Reseptorantagonister',
@@ -6908,28 +5961,6 @@ gk-07-gravid-743:
   'tdId': True,
   'type': 'canonicalTitleIsSubstring',
   'word': 'betareseptorantagonister adrenerge'}
-
-gk-07-gravid-786:
-{ 'canonicalTitle': 'Botulinumtoksin (motorisk)',
-  'mappingState': 'automatic',
-  'originalWord': 'botulinumtoksin',
-  'partOf': True,
-  'sanityRef': 'lk-06-nevrol-3392',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'botulinumtoksin'}
-
-gk-07-gravid-817:
-{ 'canonicalTitle': 'Formoterol-budesonid',
-  'mappingState': 'automatic',
-  'originalWord': 'budesonid',
-  'partOf': True,
-  'sanityRef': 'lk-10-600651',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'budesonid'}
 
 gk-07-gravid-827:
 { 'canonicalTitle': 'Bupivakain, Levobupivakain',
@@ -6954,14 +5985,12 @@ gk-07-gravid-995:
   'word': 'cyanokobalamin vitamin b'}
 
 gk-08-amming-1003:
-{ 'canonicalTitle': 'Formoterol-budesonid',
-  'mappingState': 'automatic',
-  'originalWord': 'desonid',
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
   'partOf': True,
-  'sanityRef': 'lk-10-600651',
   'success': True,
   'tdId': True,
-  'type': 'cellTitleIsSubstring',
+  'type': 'highlightMapperSubstring',
   'word': 'desonid'}
 
 gk-08-amming-1058:
@@ -6997,17 +6026,6 @@ gk-08-amming-1118:
   'type': 'cellTitleIsSubstring',
   'word': 'diuretika'}
 
-gk-08-amming-1180:
-{ 'canonicalTitle': 'Dorzolamid–timolol',
-  'mappingState': 'automatic',
-  'originalWord': 'dorzolamid',
-  'partOf': True,
-  'sanityRef': 'lk-07-oye-560',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'dorzolamid'}
-
 gk-08-amming-1202h:
 { 'canonicalTitle': 'Dutasterid–tamsulosin',
   'mappingState': 'automatic',
@@ -7041,17 +6059,6 @@ gk-08-amming-1291:
   'type': 'canonicalTitleIsSubstring',
   'word': 'eptacog alfa faktor viia'}
 
-gk-08-amming-1306:
-{ 'canonicalTitle': 'Ergotamin, kombinasjoner med psykoleptika',
-  'mappingState': 'automatic',
-  'originalWord': 'ergotamin',
-  'partOf': True,
-  'sanityRef': '486d2078-55be-4bc5-83dd-35c3238add7b',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'ergotamin'}
-
 gk-08-amming-1316:
 { 'canonicalTitle': 'Erytropoietin og derivater',
   'mappingState': 'automatic',
@@ -7062,17 +6069,6 @@ gk-08-amming-1316:
   'tdId': True,
   'type': 'cellTitleIsSubstring',
   'word': 'erytropoietin'}
-
-gk-08-amming-1356:
-{ 'canonicalTitle': 'Cyproteron–etinyløstradiol',
-  'mappingState': 'automatic',
-  'originalWord': 'etinyløstradiol',
-  'partOf': True,
-  'sanityRef': 'lk-03-endokr-7644',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'etinyløstradiol'}
 
 gk-08-amming-1376:
 { 'canonicalTitle': 'Morfin',
@@ -7163,15 +6159,13 @@ gk-08-amming-1583c:
   'word': 'folat'}
 
 gk-08-amming-1596:
-{ 'canonicalTitle': 'Follitropin og lutropin',
-  'mappingState': 'automatic',
-  'originalWord': 'follitropin',
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
   'partOf': True,
-  'sanityRef': 'lk-03-598642',
   'success': True,
   'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'follitropin'}
+  'type': 'highlightMapperSubstring',
+  'word': 'korifollitropin'}
 
 gk-08-amming-1601:
 { 'canonicalTitle': 'Folsyre',
@@ -7184,27 +6178,16 @@ gk-08-amming-1601:
   'type': 'canonicalTitleIsSubstring',
   'word': 'folsyre folat'}
 
-gk-08-amming-1613c:
-{ 'canonicalTitle': 'Amprenavir/fosamprenavir',
-  'mappingState': 'automatic',
-  'originalWord': 'fosamprenavir',
-  'partOf': True,
-  'sanityRef': 'lk-01-infeksjon-frf-retur-17072',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'fosamprenavir'}
-
 gk-08-amming-1659:
 { 'canonicalTitle': 'Vitamin K',
   'mappingState': 'automatic',
-  'originalWord': 'fytomenadion vitamin k',
+  'originalWord': 'fytomenadion vitamin k1',
   'partOf': True,
   'sanityRef': 'lk-04-blod-954',
   'success': True,
   'tdId': True,
   'type': 'canonicalTitleIsSubstring',
-  'word': 'fytomenadion vitamin k'}
+  'word': 'fytomenadion vitamin k1'}
 
 gk-08-amming-1706:
 { 'canonicalTitle': 'Ganciklovir/valganciklovir',
@@ -7216,17 +6199,6 @@ gk-08-amming-1706:
   'tdId': True,
   'type': 'cellTitleIsSubstring',
   'word': 'ganciklovir'}
-
-gk-08-amming-1783:
-{ 'canonicalTitle': 'Indakaterol-glykopyrron',
-  'mappingState': 'automatic',
-  'originalWord': 'glykopyrron',
-  'partOf': True,
-  'sanityRef': 'lk-10-600819',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'glykopyrron'}
 
 gk-08-amming-1815:
 { 'canonicalTitle': 'Bacitracin, gramicidin, polymyksin',
@@ -7240,26 +6212,26 @@ gk-08-amming-1815:
   'word': 'gramicidin'}
 
 gk-08-amming-1847:
-{ 'canonicalTitle': 'Histamin H2‑antagonister',
+{ 'canonicalTitle': 'Histamin H1‑antagonister',
   'mappingState': 'automatic',
-  'originalWord': 'h antagonister',
+  'originalWord': 'h1 antagonister',
   'partOf': True,
-  'sanityRef': 'lk-12-fordoyel-357',
+  'sanityRef': 'lk-09-allergi-15',
   'success': True,
   'tdId': True,
   'type': 'cellTitleIsSubstring',
-  'word': 'h antagonister'}
+  'word': 'h1 antagonister'}
 
 gk-08-amming-1853:
 { 'canonicalTitle': 'Histamin H2‑antagonister',
   'mappingState': 'automatic',
-  'originalWord': 'h antagonister',
+  'originalWord': 'h2 antagonister',
   'partOf': True,
   'sanityRef': 'lk-12-fordoyel-357',
   'success': True,
   'tdId': True,
   'type': 'cellTitleIsSubstring',
-  'word': 'h antagonister'}
+  'word': 'h2 antagonister'}
 
 gk-08-amming-1879:
 { 'canonicalTitle': 'HMG-CoA-reduktasehemmere',
@@ -7275,13 +6247,13 @@ gk-08-amming-1879:
 gk-08-amming-1895:
 { 'canonicalTitle': 'Serotonin 5-HT3-antagonister',
   'mappingState': 'automatic',
-  'originalWord': 'ht antagonister',
+  'originalWord': '5 ht3 antagonister',
   'partOf': True,
   'sanityRef': '300de81a-ff0e-4190-845f-1c3e0a419938',
   'success': True,
   'tdId': True,
   'type': 'cellTitleIsSubstring',
-  'word': 'ht antagonister'}
+  'word': '5 ht3 antagonister'}
 
 gk-08-amming-1984:
 { 'canonicalTitle': 'Antiinflammatoriske midler',
@@ -7305,6 +6277,24 @@ gk-08-amming-2042:
   'type': 'cellTitleIsSubstring',
   'word': 'insulin'}
 
+gk-08-amming-2047:
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
+  'partOf': True,
+  'success': True,
+  'tdId': True,
+  'type': 'highlightMapperSubstring',
+  'word': 'interferoner'}
+
+gk-08-amming-2118:
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
+  'partOf': True,
+  'success': True,
+  'tdId': True,
+  'type': 'highlightMapper',
+  'word': 'tretinoin'}
+
 gk-08-amming-2139:
 { 'canonicalTitle': 'Jernmedikamenter',
   'mappingState': 'automatic',
@@ -7317,15 +6307,13 @@ gk-08-amming-2139:
   'word': 'jern'}
 
 gk-08-amming-218:
-{ 'canonicalTitle': 'Metylfenidat og lisdeksamfetamin/deksamfetamin/amfetamin',
-  'mappingState': 'automatic',
-  'originalWord': 'amfetamin',
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
   'partOf': True,
-  'sanityRef': 'lk-06-nevrol-3643',
   'success': True,
   'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'amfetamin'}
+  'type': 'highlightMapperSubstring',
+  'word': 'lisdeksamfetamin'}
 
 gk-08-amming-228:
 { 'canonicalTitle': 'Amilorid–hydroklortiazid',
@@ -7360,6 +6348,17 @@ gk-08-amming-2393:
   'type': 'canonicalTitleIsSubstring',
   'word': 'klorsyklizin'}
 
+gk-08-amming-239:
+{ 'canonicalTitle': '5-Aminosalisylsyreforbindelser',
+  'mappingState': 'automatic',
+  'originalWord': 'aminosalisylsyreforbindelser',
+  'partOf': True,
+  'sanityRef': 'lk-12-fordoyel-1925',
+  'success': True,
+  'tdId': True,
+  'type': 'cellTitleIsSubstring',
+  'word': 'aminosalisylsyreforbindelser'}
+
 gk-08-amming-2403:
 { 'canonicalTitle': 'Klor',
   'mappingState': 'automatic',
@@ -7384,6 +6383,7 @@ gk-08-amming-2438:
 
 gk-08-amming-2464:
 { 'canonicalTitle': 'Teofyllin og teofyllinsalter',
+  'mapper': 'highlight',
   'mappingState': 'highlightRemapped',
   'partOf': True,
   'sanityRef': 'lk-10-428961',
@@ -7437,12 +6437,13 @@ gk-08-amming-2566:
   'word': 'letrozol'}
 
 gk-08-amming-2598:
-{ 'mappingState': 'highlightRemapped',
+{ 'mapper': 'highlight',
+  'mappingState': 'highlightRemapped',
   'partOf': True,
   'success': True,
   'tdId': True,
   'type': 'highlightMapperSubstring',
-  'word': 'norgestrel'}
+  'word': 'levonorgestrel'}
 
 gk-08-amming-2603:
 { 'canonicalTitle': 'Levotyroksin',
@@ -7454,17 +6455,6 @@ gk-08-amming-2603:
   'tdId': True,
   'type': 'canonicalTitleIsSubstring',
   'word': 'levotyroksin t'}
-
-gk-08-amming-2609:
-{ 'canonicalTitle': 'Lidokain–prilokain',
-  'mappingState': 'automatic',
-  'originalWord': 'lidokain',
-  'partOf': True,
-  'sanityRef': 'lk-22-anestesi-423',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'lidokain'}
 
 gk-08-amming-2614:
 { 'canonicalTitle': 'Liotyronin',
@@ -7499,6 +6489,15 @@ gk-08-amming-2662g:
   'type': 'cellTitleIsSubstring',
   'word': 'lumefantrin'}
 
+gk-08-amming-2701:
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
+  'partOf': True,
+  'success': True,
+  'tdId': True,
+  'type': 'highlightMapperSubstring',
+  'word': 'trimetoprim'}
+
 gk-08-amming-277c:
 { 'canonicalTitle': 'Amprenavir/fosamprenavir',
   'mappingState': 'automatic',
@@ -7521,17 +6520,6 @@ gk-08-amming-285:
   'type': 'cellTitleIsSubstring',
   'word': 'anabole steroider'}
 
-gk-08-amming-2888:
-{ 'canonicalTitle': 'Diklofenak–misoprostol',
-  'mappingState': 'automatic',
-  'originalWord': 'misoprostol',
-  'partOf': True,
-  'sanityRef': 'lk-17-muskl-627',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'misoprostol'}
-
 gk-08-amming-291:
 { 'canonicalTitle': 'Anastrozol, letrozol',
   'mappingState': 'automatic',
@@ -7542,6 +6530,15 @@ gk-08-amming-291:
   'tdId': True,
   'type': 'cellTitleIsSubstring',
   'word': 'anastrozol'}
+
+gk-08-amming-2959:
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
+  'partOf': True,
+  'success': True,
+  'tdId': True,
+  'type': 'highlightMapperSubstring',
+  'word': 'skopolamin'}
 
 gk-08-amming-296:
 { 'canonicalTitle': 'Antiandrogener til onkologisk bruk',
@@ -7564,14 +6561,6 @@ gk-08-amming-2991:
   'tdId': True,
   'type': 'cellTitleIsSubstring',
   'word': 'nabiksimoler'}
-
-gk-08-amming-3142:
-{ 'mappingState': 'highlightRemapped',
-  'partOf': True,
-  'success': True,
-  'tdId': True,
-  'type': 'highlightMapperSubstring',
-  'word': 'norgestrel'}
 
 gk-08-amming-314:
 { 'canonicalTitle': 'Antacida',
@@ -7642,29 +6631,17 @@ gk-08-amming-3315c:
   'word': 'pegfilgrastim'}
 
 gk-08-amming-3328:
-{ 'canonicalTitle': 'Betalaktamasefølsomme penicilliner',
-  'mappingState': 'automatic',
-  'originalWord': 'penicilliner',
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
   'partOf': True,
-  'sanityRef': 'lk-01-infeksjon-96',
   'success': True,
   'tdId': True,
-  'type': 'cellTitleIsSubstring',
+  'type': 'highlightMapperSubstring',
   'word': 'penicilliner'}
 
-gk-08-amming-3379:
-{ 'canonicalTitle': 'Piperacillin–tazobaktam',
-  'mappingState': 'automatic',
-  'originalWord': 'piperacillin',
-  'partOf': True,
-  'sanityRef': 'lk-01-infeksjon-1210',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'piperacillin'}
-
 gk-08-amming-3409:
-{ 'mappingState': 'highlightRemapped',
+{ 'mapper': 'highlight',
+  'mappingState': 'highlightRemapped',
   'partOf': True,
   'success': True,
   'tdId': True,
@@ -7704,17 +6681,6 @@ gk-08-amming-3460:
   'type': 'cellTitleIsSubstring',
   'word': 'prednisolon'}
 
-gk-08-amming-3490:
-{ 'canonicalTitle': 'Progesteron',
-  'mappingState': 'automatic',
-  'originalWord': 'progesteroner',
-  'partOf': True,
-  'sanityRef': 'lk-03-endokr-6439',
-  'success': True,
-  'tdId': True,
-  'type': 'canonicalTitleIsSubstring',
-  'word': 'progesteroner'}
-
 gk-08-amming-3531:
 { 'canonicalTitle': 'Prostaglandiner/prostaglandinanaloger',
   'mappingState': 'automatic',
@@ -7736,28 +6702,6 @@ gk-08-amming-361:
   'tdId': True,
   'type': 'canonicalTitleIsSubstring',
   'word': 'antihistaminer h'}
-
-gk-08-amming-3637:
-{ 'canonicalTitle': 'Retinoider (eksem)',
-  'mappingState': 'automatic',
-  'originalWord': 'retinoider',
-  'partOf': True,
-  'sanityRef': 'lk-16-541603',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'retinoider'}
-
-gk-08-amming-367:
-{ 'canonicalTitle': 'Vasodilaterende antihypertensiva',
-  'mappingState': 'automatic',
-  'originalWord': 'antihypertensiva',
-  'partOf': True,
-  'sanityRef': 'lk-08-hjertekrets-5912',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'antihypertensiva'}
 
 gk-08-amming-3724:
 { 'canonicalTitle': 'Daunorubicin',
@@ -7781,6 +6725,15 @@ gk-08-amming-373:
   'type': 'canonicalTitleIsSubstring',
   'word': 'antiinflammatoriske midler ikke steroide'}
 
+gk-08-amming-3798:
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
+  'partOf': True,
+  'success': True,
+  'tdId': True,
+  'type': 'highlightMapperSubstring',
+  'word': 'skopolamin'}
+
 gk-08-amming-3799c:
 { 'canonicalTitle': 'Serotonin- og noradrenalinreopptakshemmere (SNRI)',
   'mappingState': 'automatic',
@@ -7791,17 +6744,6 @@ gk-08-amming-3799c:
   'tdId': True,
   'type': 'cellTitleIsSubstring',
   'word': 'snri'}
-
-gk-08-amming-382i:
-{ 'canonicalTitle': 'Antikolinergika (nevrologi)',
-  'mappingState': 'automatic',
-  'originalWord': 'antikolinergika',
-  'partOf': True,
-  'sanityRef': 'lk-06-nevrol-2883',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'antikolinergika'}
 
 gk-08-amming-3851:
 { 'canonicalTitle': 'Streptokinase–streptodornase',
@@ -7824,28 +6766,6 @@ gk-08-amming-385:
   'tdId': True,
   'type': 'cellTitleIsSubstring',
   'word': 'antikonseptiva'}
-
-gk-08-amming-3891:
-{ 'canonicalTitle': 'Trimetoprim–sulfametoksazol',
-  'mappingState': 'automatic',
-  'originalWord': 'sulfametoksazol',
-  'partOf': True,
-  'sanityRef': 'lk-01-infeksjon-3851',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'sulfametoksazol'}
-
-gk-08-amming-3901:
-{ 'canonicalTitle': 'Sulfonamider og trimetoprim',
-  'mappingState': 'automatic',
-  'originalWord': 'sulfonamider',
-  'partOf': True,
-  'sanityRef': 'lk-01-infeksjon-3593',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'sulfonamider'}
 
 gk-08-amming-3920c:
 { 'canonicalTitle': 'Fluorid',
@@ -7904,6 +6824,7 @@ gk-08-amming-3985:
 
 gk-08-amming-3990:
 { 'canonicalTitle': 'Teofyllin og teofyllinsalter',
+  'mapper': 'highlight',
   'mappingState': 'highlightRemapped',
   'partOf': True,
   'sanityRef': 'lk-10-428961',
@@ -7979,15 +6900,31 @@ gk-08-amming-4156c:
   'word': 'travoprost'}
 
 gk-08-amming-4164:
-{ 'canonicalTitle': 'Tretinoin (onkologi)',
-  'mappingState': 'automatic',
-  'originalWord': 'tretinoin',
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
   'partOf': True,
-  'sanityRef': 'lk-02-neopl-3234',
   'success': True,
   'tdId': True,
-  'type': 'cellTitleIsSubstring',
+  'type': 'highlightMapper',
   'word': 'tretinoin'}
+
+gk-08-amming-4180:
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
+  'partOf': True,
+  'success': True,
+  'tdId': True,
+  'type': 'highlightMapperSubstring',
+  'word': 'trimetoprim'}
+
+gk-08-amming-4185:
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
+  'partOf': True,
+  'success': True,
+  'tdId': True,
+  'type': 'highlightMapperSubstring',
+  'word': 'trimetreksat'}
 
 gk-08-amming-4211:
 { 'canonicalTitle': 'Trisykliske antidepressiva',
@@ -8022,6 +6959,39 @@ gk-08-amming-4264c:
   'type': 'cellTitleIsSubstring',
   'word': 'valganciklovir'}
 
+gk-08-amming-4332:
+{ 'canonicalTitle': 'Vitamin B',
+  'mappingState': 'automatic',
+  'originalWord': 'vitamin b1',
+  'partOf': True,
+  'sanityRef': 'lk-23-ernering-171',
+  'success': True,
+  'tdId': True,
+  'type': 'canonicalTitleIsSubstring',
+  'word': 'vitamin b1'}
+
+gk-08-amming-4338:
+{ 'canonicalTitle': 'Vitamin B',
+  'mappingState': 'automatic',
+  'originalWord': 'vitamin b6',
+  'partOf': True,
+  'sanityRef': 'lk-23-ernering-171',
+  'success': True,
+  'tdId': True,
+  'type': 'canonicalTitleIsSubstring',
+  'word': 'vitamin b6'}
+
+gk-08-amming-4344:
+{ 'canonicalTitle': 'Vitamin B',
+  'mappingState': 'automatic',
+  'originalWord': 'vitamin b12',
+  'partOf': True,
+  'sanityRef': 'lk-23-ernering-171',
+  'success': True,
+  'tdId': True,
+  'type': 'canonicalTitleIsSubstring',
+  'word': 'vitamin b12'}
+
 gk-08-amming-434c:
 { 'canonicalTitle': 'Aprepitant og fosaprepitant',
   'mappingState': 'automatic',
@@ -8043,17 +7013,6 @@ gk-08-amming-4350:
   'tdId': True,
   'type': 'cellTitleIsSubstring',
   'word': 'vitamin c'}
-
-gk-08-amming-4355:
-{ 'canonicalTitle': 'Vitamin D3-analoger',
-  'mappingState': 'automatic',
-  'originalWord': 'vitamin d og vitamin d analoger',
-  'partOf': True,
-  'sanityRef': 'lk-16-hud-289',
-  'success': True,
-  'tdId': True,
-  'type': 'canonicalTitleIsSubstring',
-  'word': 'vitamin d og vitamin d analoger'}
 
 gk-08-amming-4365:
 { 'canonicalTitle': 'Vitamin K',
@@ -8135,13 +7094,13 @@ gk-08-amming-529:
 gk-08-amming-5435:
 { 'canonicalTitle': 'Reseptorantagonister',
   'mappingState': 'automatic',
-  'originalWord': 'alfa reseptorantagonister adrenerge',
+  'originalWord': 'alfa 1 reseptorantagonister adrenerge',
   'partOf': True,
   'sanityRef': 'lk-05-psykisk-3928',
   'success': True,
   'tdId': True,
   'type': 'canonicalTitleIsSubstring',
-  'word': 'alfa reseptorantagonister adrenerge'}
+  'word': 'alfa 1 reseptorantagonister adrenerge'}
 
 gk-08-amming-549:
 { 'canonicalTitle': 'Barbiturater (psykiatri)',
@@ -8176,6 +7135,15 @@ gk-08-amming-580:
   'type': 'cellTitleIsSubstring',
   'word': 'bendroflumetiazid'}
 
+gk-08-amming-631:
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
+  'partOf': True,
+  'success': True,
+  'tdId': True,
+  'type': 'highlightMapper',
+  'word': 'betametason'}
+
 gk-08-amming-636:
 { 'canonicalTitle': 'Reseptorantagonister',
   'mappingState': 'automatic',
@@ -8198,38 +7166,14 @@ gk-08-amming-649c:
   'type': 'cellTitleIsSubstring',
   'word': 'bimatoprost'}
 
-gk-08-amming-673:
-{ 'canonicalTitle': 'Botulinumtoksin (motorisk)',
-  'mappingState': 'automatic',
-  'originalWord': 'botulinumtoksin',
-  'partOf': True,
-  'sanityRef': 'lk-06-nevrol-3392',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'botulinumtoksin'}
-
-gk-08-amming-683:
-{ 'canonicalTitle': 'Brinzolamid–brimonidin',
-  'mappingState': 'automatic',
-  'originalWord': 'brinzolamid',
-  'partOf': True,
-  'sanityRef': 'lk-07-429995',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'brinzolamid'}
-
 gk-08-amming-698:
-{ 'canonicalTitle': 'Formoterol-budesonid',
-  'mappingState': 'automatic',
-  'originalWord': 'budesonid',
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
   'partOf': True,
-  'sanityRef': 'lk-10-600651',
   'success': True,
   'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'budesonid'}
+  'type': 'highlightMapperSubstring',
+  'word': 'desonid'}
 
 gk-08-amming-708:
 { 'canonicalTitle': 'Bupivakain, Levobupivakain',
@@ -8256,34 +7200,21 @@ gk-08-amming-7917:
 gk-08-amming-7944:
 { 'canonicalTitle': 'Reseptorantagonister',
   'mappingState': 'automatic',
-  'originalWord': 'at reseptorantagonister',
+  'originalWord': 'at1 reseptorantagonister',
   'partOf': True,
   'sanityRef': 'lk-05-psykisk-3928',
   'success': True,
   'tdId': True,
   'type': 'canonicalTitleIsSubstring',
-  'word': 'at reseptorantagonister'}
-
-gk-08-amming-8075:
-{ 'canonicalTitle': 'Parathyreoideahormoner (PTH(1-84) og hPTH(1-34))',
-  'mappingState': 'automatic',
-  'originalWord': 'parathyreoideahormon',
-  'partOf': True,
-  'sanityRef': 'lk-03-317779',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'parathyreoideahormon'}
+  'word': 'at1 reseptorantagonister'}
 
 gk-08-amming-8126:
-{ 'canonicalTitle': 'Kalsiumantagonister',
-  'mappingState': 'automatic',
-  'originalWord': '',
+{ 'mapper': 'highlight',
+  'mappingState': 'remove',
   'partOf': True,
-  'sanityRef': 'lk-08-hjertekrets-2801',
   'success': True,
   'tdId': True,
-  'type': 'cellTitleIsSubstring',
+  'type': 'highlightMapperSubstring',
   'word': ''}
 
 gk-08-amming-8423:
@@ -8309,14 +7240,12 @@ gk-08-amming-8603:
   'word': 'tafluprost'}
 
 gk-08-amming-8610:
-{ 'canonicalTitle': 'Kalsiumantagonister',
-  'mappingState': 'automatic',
-  'originalWord': '',
+{ 'mapper': 'highlight',
+  'mappingState': 'remove',
   'partOf': True,
-  'sanityRef': 'lk-08-hjertekrets-2801',
   'success': True,
   'tdId': True,
-  'type': 'cellTitleIsSubstring',
+  'type': 'highlightMapperSubstring',
   'word': ''}
 
 gk-08-amming-871:
@@ -8331,14 +7260,12 @@ gk-08-amming-871:
   'word': 'cyanokobalamin vitamin b'}
 
 gk-08-amming-8734:
-{ 'canonicalTitle': 'Korifollitropin alfa',
-  'mappingState': 'automatic',
-  'originalWord': 'korifollitropin',
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
   'partOf': True,
-  'sanityRef': 'lk-03-endokr-23794',
   'success': True,
   'tdId': True,
-  'type': 'cellTitleIsSubstring',
+  'type': 'highlightMapperSubstring',
   'word': 'korifollitropin'}
 
 gk-08-amming-8791:
@@ -8363,28 +7290,6 @@ gk-08-amming-949c:
   'type': 'canonicalTitleIsSubstring',
   'word': 'darbepoetin'}
 
-gk-08-amming-957:
-{ 'canonicalTitle': 'Deksametason–antibakterielle midler',
-  'mappingState': 'automatic',
-  'originalWord': 'deksametason',
-  'partOf': True,
-  'sanityRef': 'lk-03-365467',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'deksametason'}
-
-gk-08-amming-967:
-{ 'canonicalTitle': 'Dekstran',
-  'mappingState': 'automatic',
-  'originalWord': 'dekstraner',
-  'partOf': True,
-  'sanityRef': 'lk-23-ernering-1823',
-  'success': True,
-  'tdId': True,
-  'type': 'canonicalTitleIsSubstring',
-  'word': 'dekstraner'}
-
 gk-08-amming-988:
 { 'canonicalTitle': 'Desmopressin, terlipressin',
   'mappingState': 'automatic',
@@ -8396,6 +7301,15 @@ gk-08-amming-988:
   'type': 'cellTitleIsSubstring',
   'word': 'desmopressin'}
 
+id-221686:
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
+  'partOf': True,
+  'success': True,
+  'tdId': True,
+  'type': 'highlightMapper',
+  'word': 'tretinoin'}
+
 id-221738:
 { 'canonicalTitle': 'Humant fibrinogen',
   'mappingState': 'automatic',
@@ -8406,6 +7320,15 @@ id-221738:
   'tdId': True,
   'type': 'cellTitleIsSubstring',
   'word': 'fibrinogen'}
+
+id-221798:
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
+  'partOf': True,
+  'success': True,
+  'tdId': True,
+  'type': 'highlightMapper',
+  'word': 'tretinoin'}
 
 id-221854:
 { 'canonicalTitle': 'Humant fibrinogen',
@@ -8473,17 +7396,6 @@ id-319965:
   'type': 'cellTitleIsSubstring',
   'word': 'kollagenase'}
 
-id-320011:
-{ 'canonicalTitle': 'Dihydroartemisinin-piperakin',
-  'mappingState': 'automatic',
-  'originalWord': 'piperakin',
-  'partOf': True,
-  'sanityRef': 'lk-01-271729',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'piperakin'}
-
 id-320016:
 { 'canonicalTitle': 'Dihydroartemisinin-piperakin',
   'mappingState': 'automatic',
@@ -8539,17 +7451,6 @@ id-320121:
   'type': 'canonicalTitleIsSubstring',
   'word': 'nomegestrol'}
 
-id-320163:
-{ 'canonicalTitle': 'Dihydroartemisinin-piperakin',
-  'mappingState': 'automatic',
-  'originalWord': 'piperakin',
-  'partOf': True,
-  'sanityRef': 'lk-01-271729',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'piperakin'}
-
 id-320170:
 { 'canonicalTitle': 'Dihydroartemisinin-piperakin',
   'mappingState': 'automatic',
@@ -8561,17 +7462,6 @@ id-320170:
   'type': 'cellTitleIsSubstring',
   'word': 'dihydroartemisinin'}
 
-id-361131:
-{ 'canonicalTitle': 'Misbruk av cannabis og syntetiske cannabinoider',
-  'mappingState': 'automatic',
-  'originalWord': 'cannabinoider',
-  'partOf': True,
-  'sanityRef': 'tk-05-psykisk-11666',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'cannabinoider'}
-
 id-361277:
 { 'canonicalTitle': 'Pasireotid',
   'mappingState': 'automatic',
@@ -8582,17 +7472,6 @@ id-361277:
   'tdId': True,
   'type': 'canonicalTitleIsSubstring',
   'word': 'pasireotide'}
-
-id-362430:
-{ 'canonicalTitle': 'Misbruk av cannabis og syntetiske cannabinoider',
-  'mappingState': 'automatic',
-  'originalWord': 'cannabinoider',
-  'partOf': True,
-  'sanityRef': 'tk-05-psykisk-11666',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'cannabinoider'}
 
 id-362517:
 { 'canonicalTitle': 'Pasireotid',
@@ -8693,17 +7572,6 @@ id-557647:
   'type': 'cellTitleIsSubstring',
   'word': 'sakubitril'}
 
-id-592616:
-{ 'canonicalTitle': 'Ceftolozan-tazobaktam',
-  'mappingState': 'automatic',
-  'originalWord': 'ceftolozan',
-  'partOf': True,
-  'sanityRef': 'lk-01-546140',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'ceftolozan'}
-
 id-592731:
 { 'canonicalTitle': 'Klor',
   'mappingState': 'automatic',
@@ -8758,28 +7626,6 @@ id-593091:
   'tdId': True,
   'type': 'cellTitleIsSubstring',
   'word': 'netupitant'}
-
-id-593328:
-{ 'canonicalTitle': 'Nintedanib (onkologi)',
-  'mappingState': 'automatic',
-  'originalWord': 'nintedanib',
-  'partOf': True,
-  'sanityRef': 'lk-02-468665',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'nintedanib'}
-
-id-593339:
-{ 'canonicalTitle': 'Nintedanib (onkologi)',
-  'mappingState': 'automatic',
-  'originalWord': 'nintedanib',
-  'partOf': True,
-  'sanityRef': 'lk-02-468665',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'nintedanib'}
 
 id-593400:
 { 'canonicalTitle': 'Vilanterol-umeklidinium',
@@ -8847,6 +7693,24 @@ id-593522:
   'type': 'cellTitleIsSubstring',
   'word': 'lipefilgrastim'}
 
+id-593529:
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
+  'partOf': True,
+  'success': True,
+  'tdId': True,
+  'type': 'highlightMapperSubstring',
+  'word': 'lisdeksamfetamin'}
+
+id-593548:
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
+  'partOf': True,
+  'success': True,
+  'tdId': True,
+  'type': 'highlightMapperSubstring',
+  'word': 'lisdeksamfetamin'}
+
 id-593844:
 { 'canonicalTitle': 'Vilanterol-flutikason',
   'mappingState': 'automatic',
@@ -8870,23 +7734,13 @@ id-593849:
   'word': 'vilanterol'}
 
 id-593906:
-{ 'mappingState': 'highlightRemapped',
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
   'partOf': True,
   'success': True,
   'tdId': True,
   'type': 'highlightMapperSubstring',
-  'word': 'peginterferon alfa a og b'}
-
-id-593921:
-{ 'canonicalTitle': 'Nintedanib (onkologi)',
-  'mappingState': 'automatic',
-  'originalWord': 'nintedanib',
-  'partOf': True,
-  'sanityRef': 'lk-02-468665',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'nintedanib'}
+  'word': 'interferoner'}
 
 id-594102:
 { 'canonicalTitle': 'Vilanterol-umeklidinium',
@@ -8932,82 +7786,14 @@ id-596630:
   'type': 'cellTitleIsSubstring',
   'word': 'merkaptamin'}
 
-id-604099:
-{ 'canonicalTitle': 'Amoksicillin-klavulanat',
-  'mappingState': 'automatic',
-  'originalWord': 'klavulanat',
+id396777-100115:
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
   'partOf': True,
-  'sanityRef': 'lk-01-597577',
   'success': True,
   'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'klavulanat'}
-
-id-604294:
-{ 'canonicalTitle': 'Amoksicillin-klavulanat',
-  'mappingState': 'automatic',
-  'originalWord': 'klavulanat',
-  'partOf': True,
-  'sanityRef': 'lk-01-597577',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'klavulanat'}
-
-id-608010:
-{ 'canonicalTitle': 'Kloksacillin, dikloksacillin, flukloksacillin',
-  'mappingState': 'automatic',
-  'originalWord': 'flukloksacillin',
-  'partOf': True,
-  'sanityRef': 'lk-01-infeksjon-539',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'flukloksacillin'}
-
-id-608015:
-{ 'canonicalTitle': 'Sofosbuvir–velpatasvir',
-  'mappingState': 'automatic',
-  'originalWord': 'velpatasvir',
-  'partOf': True,
-  'sanityRef': 'lk-01-595227',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'velpatasvir'}
-
-id-608020:
-{ 'canonicalTitle': 'Amoksicillin-klavulanat',
-  'mappingState': 'automatic',
-  'originalWord': 'klavulanat',
-  'partOf': True,
-  'sanityRef': 'lk-01-597577',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'klavulanat'}
-
-id395315-100112:
-{ 'canonicalTitle': 'Dihydroartemisinin-piperakin',
-  'mappingState': 'automatic',
-  'originalWord': 'piperakin',
-  'partOf': True,
-  'sanityRef': 'lk-01-271729',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'piperakin'}
-
-id396271-100114:
-{ 'canonicalTitle': 'Misbruk av cannabis og syntetiske cannabinoider',
-  'mappingState': 'automatic',
-  'originalWord': 'cannabinoider',
-  'partOf': True,
-  'sanityRef': 'tk-05-psykisk-11666',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'cannabinoider'}
+  'type': 'highlightMapper',
+  'word': 'tretinoin'}
 
 id413191-103820:
 { 'canonicalTitle': 'Humant fibrinogen',
@@ -9019,6 +7805,15 @@ id413191-103820:
   'tdId': True,
   'type': 'cellTitleIsSubstring',
   'word': 'fibrinogen'}
+
+id417579-104904:
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
+  'partOf': True,
+  'success': True,
+  'tdId': True,
+  'type': 'highlightMapper',
+  'word': 'tretinoin'}
 
 id604162-014257:
 { 'canonicalTitle': 'Insulinstimulerende midler',
@@ -9152,17 +7947,6 @@ p-319:
   'type': 'cellTitleIsSubstring',
   'word': 'kunstige tårevæsker'}
 
-p-331:
-{ 'canonicalTitle': 'Metylfenidat og lisdeksamfetamin/deksamfetamin/amfetamin',
-  'mappingState': 'automatic',
-  'originalWord': 'amfetamin',
-  'partOf': True,
-  'sanityRef': 'lk-06-nevrol-3643',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'amfetamin'}
-
 p-348:
 { 'canonicalTitle': 'Brentuksimab vedotin',
   'mappingState': 'automatic',
@@ -9185,17 +7969,6 @@ p-358:
   'type': 'cellTitleIsSubstring',
   'word': 'cannabis'}
 
-p-452:
-{ 'canonicalTitle': 'Ceftolozan-tazobaktam',
-  'mappingState': 'automatic',
-  'originalWord': 'ceftolozan',
-  'partOf': True,
-  'sanityRef': 'lk-01-546140',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'ceftolozan'}
-
 p-47:
 { 'canonicalTitle': 'Natrium',
   'mappingState': 'automatic',
@@ -9208,15 +7981,13 @@ p-47:
   'word': 'natriumzirkonium'}
 
 p-480:
-{ 'canonicalTitle': 'Metylfenidat og lisdeksamfetamin/deksamfetamin/amfetamin',
-  'mappingState': 'automatic',
-  'originalWord': 'deksamfetamin',
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
   'partOf': True,
-  'sanityRef': 'lk-06-nevrol-3643',
   'success': True,
   'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'deksamfetamin'}
+  'type': 'highlightMapperSubstring',
+  'word': 'lisdeksamfetamin'}
 
 p-48:
 { 'canonicalTitle': 'Natrium',
@@ -9285,6 +8056,15 @@ p-77:
   'tdId': True,
   'type': 'canonicalTitleIsSubstring',
   'word': 'natriumzirkonium'}
+
+p-784:
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
+  'partOf': True,
+  'success': True,
+  'tdId': True,
+  'type': 'highlightMapperSubstring',
+  'word': 'lisdeksamfetamin'}
 
 p-78:
 { 'canonicalTitle': 'Natrium',
@@ -9385,27 +8165,23 @@ td-114:
   'type': 'cellTitleIsSubstring',
   'word': 'cannabis'}
 
-td-208:
-{ 'canonicalTitle': 'Ceftolozan-tazobaktam',
-  'mappingState': 'automatic',
-  'originalWord': 'ceftolozan',
-  'partOf': True,
-  'sanityRef': 'lk-01-546140',
-  'success': True,
-  'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'ceftolozan'}
-
 td-236:
-{ 'canonicalTitle': 'Metylfenidat og lisdeksamfetamin/deksamfetamin/amfetamin',
-  'mappingState': 'automatic',
-  'originalWord': 'deksamfetamin',
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
   'partOf': True,
-  'sanityRef': 'lk-06-nevrol-3643',
   'success': True,
   'tdId': True,
-  'type': 'cellTitleIsSubstring',
-  'word': 'deksamfetamin'}
+  'type': 'highlightMapperSubstring',
+  'word': 'lisdeksamfetamin'}
+
+td-540:
+{ 'mapper': 'highlight',
+  'mappingState': 'manual',
+  'partOf': True,
+  'success': True,
+  'tdId': True,
+  'type': 'highlightMapperSubstring',
+  'word': 'lisdeksamfetamin'}
 
 td-914:
 { 'canonicalTitle': 'Ganciklovir/valganciklovir',

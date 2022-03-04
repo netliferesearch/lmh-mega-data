@@ -11,14 +11,14 @@ Antall: 180
   'mappingState': 'mega',
   'sanityRef': 'lk-12-fordoyel-1925',
   'success': True,
-  'word': 'aminosalisylsyreforbindelser'}
+  'word': '5 aminosalisylsyreforbindelser'}
 
 5-ht1-agonister:
 { 'canonicalTitle': 'Selektive 5-HT1-reseptoragonister',
   'mappingState': 'mega',
   'sanityRef': 'p-294selektiv',
   'success': True,
-  'word': 'selektive ht reseptoragonister'}
+  'word': 'selektive 5 ht1 reseptoragonister'}
 
 5-ht3-antagonister:
 { 'canonicalTitle': 'Serotoninantagonister',
@@ -32,14 +32,14 @@ Antall: 180
   'mappingState': 'mega',
   'sanityRef': 'lk-12-fordoyel-1925',
   'success': True,
-  'word': 'aminosalisylsyreforbindelser'}
+  'word': '5 aminosalisylsyreforbindelser'}
 
 5ht1agonister:
 { 'canonicalTitle': 'Selektive 5-HT1-reseptoragonister',
   'mappingState': 'mega',
   'sanityRef': 'p-294selektiv',
   'success': True,
-  'word': 'selektive ht reseptoragonister'}
+  'word': 'selektive 5 ht1 reseptoragonister'}
 
 5ht3antagonister:
 { 'canonicalTitle': 'Serotoninantagonister',
@@ -49,7 +49,12 @@ Antall: 180
   'word': 'serotoninantagonister'}
 
 abemabciklib:
-{'mappingState': 'ignore', 'word': 'abemabciklib'}
+{ 'mapper': 'mega',
+  'mappingState': 'ignore',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'abemabciklib'}
 
 acehemmere:
 { 'canonicalTitle': 'Angiotensinkonverterende enzymhemmere',
@@ -63,13 +68,23 @@ adrenerge alfa-1-reseptorantagonister:
   'mappingState': 'mega',
   'sanityRef': 'lk-08-hjertekrets-2531',
   'success': True,
-  'word': 'adrenerge alfa reseptorantagonister'}
+  'word': 'adrenerge alfa 1 reseptorantagonister'}
 
 adrenerge reseptoragonister:
-{'mappingState': 'manual', 'word': 'adrenerge reseptoragonister'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'adrenerge reseptoragonister'}
 
 akalabrutinib:
-{'mappingState': 'manual', 'word': 'akalabrutinib'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'akalabrutinib'}
 
 alfa-1-, betareseptorantagonister, kombinerte:
 { 'mappingState': 'manual',
@@ -79,10 +94,20 @@ alfa-1-reseptorantagonister, adrenerge:
 {'mappingState': 'manual', 'word': 'alfa-1-reseptorantagonister, adrenerge'}
 
 alkylsulfonater:
-{'mappingState': 'manual', 'word': 'alkylsulfonater'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'alkylsulfonater'}
 
 amikacin:
-{'mappingState': 'manual', 'word': 'amikacin'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'amikacin'}
 
 aminosyrer + glukose + fett:
 {'mappingState': 'manual', 'word': 'aminosyrer + glukose + fett'}
@@ -95,6 +120,7 @@ amprenavir:
   'mappingState': 'mega',
   'sanityRef': 'lk-01-infeksjon-frf-retur-17072',
   'success': True,
+  'type': 'megaMapper',
   'word': 'amprenavir fosamprenavir'}
 
 androgener/anabole steroider:
@@ -105,7 +131,12 @@ androgener/anabole steroider:
   'word': 'androgene anabole steroider'}
 
 anestesimidler:
-{'mappingState': 'manual', 'word': 'anestesimidler'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'anestesimidler'}
 
 angiotensin ii-reseptorantagonister:
 { 'canonicalTitle': 'Angiotensin II-reseptorantagonister',
@@ -150,20 +181,30 @@ antidiabetika, perorale:
   'word': 'perorale blodglukosesenkende midler'}
 
 antidoter:
-{'mappingState': 'manual', 'word': 'antidoter'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'antidoter'}
 
 antihistaminer (histamin h1antagonister):
-{ 'canonicalTitle': 'Histamin H2‑antagonister',
+{ 'canonicalTitle': 'Histamin H1‑antagonister',
   'mappingState': 'mega',
-  'sanityRef': 'lk-12-fordoyel-357',
+  'sanityRef': 'lk-09-allergi-15',
   'success': True,
-  'word': 'histamin h antagonister'}
+  'word': 'histamin h1 antagonister'}
 
 antihistaminer:
 {'mappingState': 'manual', 'word': 'antihistaminer'}
 
 antihypertensiva:
-{'mappingState': 'manual', 'word': 'antihypertensiva'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'antihypertensiva'}
 
 antiinflammatoriske midler, ikke steroide:
 { 'canonicalTitle': 'Ikke‑steroide antiinflammatoriske midler (NSAID)',
@@ -176,7 +217,12 @@ antikoagulantia, perorale:
 {'mappingState': 'manual', 'word': 'antikoagulantia, perorale'}
 
 antikolinergika:
-{'mappingState': 'manual', 'word': 'antikolinergika'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'antikolinergika'}
 
 antikonsepsjonsmidler, perorale:
 {'mappingState': 'manual', 'word': 'antikonsepsjonsmidler, perorale'}
@@ -186,10 +232,16 @@ antikonseptiva:
   'mappingState': 'mega',
   'sanityRef': 'lk-03-endokr-6811',
   'success': True,
+  'type': 'megaMapper',
   'word': 'antikonsepsjonsmidler'}
 
 antrasykliner:
-{'mappingState': 'manual', 'word': 'antrasykliner'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'antrasykliner'}
 
 artemeter (+ lumefantrin):
 { 'canonicalTitle': 'Artemeter–lumefantrin',
@@ -202,34 +254,46 @@ at1reseptorantagonister:
 {'mappingState': 'ignore', 'word': 'at1reseptorantagonister'}
 
 bedakvilin:
-{'mappingState': 'manual', 'word': 'bedakvilin'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'bedakvilin'}
 
 beta-2-reseptoragonister, adrenerge:
-{ 'canonicalTitle': 'Adrenerge beta-3-reseptoragonister',
+{ 'canonicalTitle': 'Adrenerge beta-2-reseptoragonister',
   'mappingState': 'mega',
-  'sanityRef': 'lk-13-387818',
+  'sanityRef': 'lk-10-lunger-633',
   'success': True,
-  'word': 'adrenerge beta reseptoragonister'}
+  'word': 'adrenerge beta 2 reseptoragonister'}
 
 betalaktamantibiotika:
 { 'canonicalTitle': 'Betalaktamasefølsomme penicilliner',
-  'mappingState': 'mega',
+  'mapper': 'mega',
+  'mappingState': 'megaRemapped',
   'sanityRef': 'lk-01-infeksjon-96',
   'success': True,
-  'word': 'betalaktamasefølsomme penicilliner'}
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'betalaktamantibiotika'}
 
 betalaktampenicilliner:
 { 'canonicalTitle': 'Betalaktamasefølsomme penicilliner',
-  'mappingState': 'mega',
+  'mapper': 'mega',
+  'mappingState': 'megaRemapped',
   'sanityRef': 'lk-01-infeksjon-96',
   'success': True,
-  'word': 'betalaktamasefølsomme penicilliner'}
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'betalaktampenicilliner'}
 
 betareseptorantagonister:
 { 'canonicalTitle': 'Adrenerge betareseptorantagonister',
   'mappingState': 'mega',
   'sanityRef': 'lk-08-hjertekrets-1020',
   'success': True,
+  'type': 'megaMapper',
   'word': 'adrenerge betareseptorantagonister'}
 
 biktegravir, emtricitabin, tenofoviralafenamid i kombinasjon (biktarvy):
@@ -238,27 +302,39 @@ biktegravir, emtricitabin, tenofoviralafenamid i kombinasjon (biktarvy):
           '(biktarvy)'}
 
 bortezomid:
-{'mappingState': 'manual', 'word': 'bortezomid'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'bortezomid'}
 
 brentuksimab:
 { 'canonicalTitle': 'Brentuksimab vedotin',
   'mappingState': 'mega',
   'sanityRef': 'lk-18-421802',
   'success': True,
+  'type': 'megaMapper',
   'word': 'brentuksimab vedotin'}
 
 bronkolytika, adrenerge:
 {'mappingState': 'manual', 'word': 'bronkolytika, adrenerge'}
 
 bulevirtid:
-{'mappingState': 'ignore', 'word': 'bulevirtid'}
+{ 'mapper': 'mega',
+  'mappingState': 'ignore',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'bulevirtid'}
 
 bupropion:
 { 'mappingState': 'split',
-  'splitList': [ { 'canonicalTitle': 'Bupropion ',
-                   'mappingState': 'automatic',
-                   'sanityRef': 'lk-05-psykisk-18987',
+  'splitList': [ { 'mapper': 'highlight',
+                   'mappingState': 'manual',
                    'success': True,
+                   'tdId': True,
+                   'type': 'highlightMapper',
                    'word': 'bupropion'},
                  { 'canonicalTitle': 'Bupropion (røykeavhengighet)',
                    'mappingState': 'automatic',
@@ -269,51 +345,96 @@ bupropion:
 
 cabazitaxel:
 { 'canonicalTitle': 'Kabazitaxel',
-  'mappingState': 'mega',
+  'mapper': 'mega',
+  'mappingState': 'megaRemapped',
   'sanityRef': 'lk-02-328405',
   'success': True,
-  'word': 'kabazitaxel'}
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'cabazitaxel'}
 
 cannabidiol:
-{'mappingState': 'manual', 'word': 'cannabidiol'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'cannabidiol'}
 
 cannabinoider:
-{'mappingState': 'manual', 'word': 'cannabinoider'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'cannabinoider'}
 
 carbimazol:
 { 'canonicalTitle': 'Karbimazol',
-  'mappingState': 'mega',
+  'mapper': 'mega',
+  'mappingState': 'megaRemapped',
   'sanityRef': 'lk-03-endokr-2212',
   'success': True,
-  'word': 'karbimazol'}
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'carbimazol'}
 
 ceftolozan:
-{'mappingState': 'manual', 'word': 'ceftolozan'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'ceftolozan'}
 
 cilastatin:
-{'mappingState': 'manual', 'word': 'cilastatin'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'cilastatin'}
 
 cox-2-hemmere:
 {'mappingState': 'manual', 'word': 'cox-2-hemmere'}
 
 cyklizin:
 { 'canonicalTitle': 'Syklizin',
-  'mappingState': 'mega',
+  'mapper': 'mega',
+  'mappingState': 'megaRemapped',
   'sanityRef': 'lk-09-allergi-763',
   'success': True,
-  'word': 'syklizin'}
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'cyklizin'}
 
 danaparoid:
-{'mappingState': 'ignore', 'word': 'danaparoid'}
+{ 'mapper': 'mega',
+  'mappingState': 'ignore',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'danaparoid'}
 
 darolutamid:
-{'mappingState': 'manual', 'word': 'darolutamid'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'darolutamid'}
 
 deferasiroks:
-{'mappingState': 'manual', 'word': 'deferasiroks'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'deferasiroks'}
 
 dekstraner:
-{ 'mappingState': 'split',
+{ 'mapper': 'mega',
+  'mappingState': 'split',
   'splitList': [ { 'canonicalTitle': 'Dekstran',
                    'mappingState': 'automatic',
                    'sanityRef': 'lk-23-ernering-1823',
@@ -324,102 +445,231 @@ dekstraner:
                    'sanityRef': 'lk-23-ernering-1937',
                    'success': True,
                    'word': 'dekstran med hypertont saltvann'}],
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
   'word': 'dekstraner'}
 
 dekstropropoksyfen:
-{'mappingState': 'manual', 'word': 'dekstropropoksyfen'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'dekstropropoksyfen'}
 
 delamanid:
-{'mappingState': 'manual', 'word': 'delamanid'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'delamanid'}
 
 dibotermin-alfa-2b (inductos):
 {'mappingState': 'manual', 'word': 'dibotermin-alfa-2b (inductos)'}
 
 didanosin:
-{'mappingState': 'manual', 'word': 'didanosin'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'didanosin'}
 
 diemal (barbital):
 {'mappingState': 'manual', 'word': 'diemal (barbital)'}
 
 doripenem:
-{'mappingState': 'manual', 'word': 'doripenem'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'doripenem'}
 
 drospirenon:
-{'mappingState': 'manual', 'word': 'drospirenon'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'drospirenon'}
 
 elbasvir og grazoprevir (kombinasjonspreparat):
 { 'mappingState': 'manual',
   'word': 'elbasvir og grazoprevir (kombinasjonspreparat)'}
 
 elektrolytter:
-{'mappingState': 'manual', 'word': 'elektrolytter'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'elektrolytter'}
 
 eluksadolin:
-{'mappingState': 'manual', 'word': 'eluksadolin'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'eluksadolin'}
 
 entrektinib:
-{'mappingState': 'manual', 'word': 'entrektinib'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'entrektinib'}
 
 epipodofyllotoksiner:
-{'mappingState': 'manual', 'word': 'epipodofyllotoksiner'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'epipodofyllotoksiner'}
 
 ergotamin:
-{'mappingState': 'manual', 'word': 'ergotamin'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'ergotamin'}
 
 etinyløstradiol:
-{'mappingState': 'manual', 'word': 'etinyløstradiol'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'etinyløstradiol'}
 
 etonogestrel:
-{'mappingState': 'manual', 'word': 'etonogestrel'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'etonogestrel'}
 
 etylmorfin:
 { 'canonicalTitle': 'Etylmorfinkombinasjoner',
   'mappingState': 'mega',
   'sanityRef': 'lk-10-lunger-55',
   'success': True,
+  'type': 'megaMapper',
   'word': 'etylmorfinkombinasjoner'}
 
 fentiaziner:
-{'mappingState': 'manual', 'word': 'fentiaziner'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'fentiaziner'}
 
 ferumoksytol:
-{'mappingState': 'manual', 'word': 'ferumoksytol'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'ferumoksytol'}
 
 flukloksacillin:
-{'mappingState': 'manual', 'word': 'flukloksacillin'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'flukloksacillin'}
 
 folsyreantagonister:
-{'mappingState': 'manual', 'word': 'folsyreantagonister'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'folsyreantagonister'}
 
 fosamprenavir:
-{'mappingState': 'manual', 'word': 'fosamprenavir'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'fosamprenavir'}
 
 fungicider til lokal bruk:
-{'mappingState': 'manual', 'word': 'fungicider til lokal bruk'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'fungicider til lokal bruk'}
 
 gadobenat:
-{'mappingState': 'manual', 'word': 'gadobenat'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'gadobenat'}
 
 gadobutrol:
-{'mappingState': 'manual', 'word': 'gadobutrol'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'gadobutrol'}
 
 gadoksetinsyre, dinatrium-:
 {'mappingState': 'manual', 'word': 'gadoksetinsyre, dinatrium-'}
 
 gadoteridol:
-{'mappingState': 'manual', 'word': 'gadoteridol'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'gadoteridol'}
 
 gadotersyre:
-{'mappingState': 'manual', 'word': 'gadotersyre'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'gadotersyre'}
 
 gadoversetamid:
-{'mappingState': 'manual', 'word': 'gadoversetamid'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'gadoversetamid'}
 
 galaktoseagglomerater:
-{'mappingState': 'manual', 'word': 'galaktoseagglomerater'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'galaktoseagglomerater'}
 
 givosiran:
-{'mappingState': 'manual', 'word': 'givosiran'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'givosiran'}
 
 gnrhanaloger:
 { 'canonicalTitle': 'Analoger av gonadotropinfrigjørende hormon',
@@ -429,23 +679,43 @@ gnrhanaloger:
   'word': 'analoger av gonadotropinfrigjørende hormon'}
 
 gonadotropinfrisettende hormoner:
-{'mappingState': 'ignore', 'word': 'gonadotropinfrisettende hormoner'}
+{ 'mapper': 'mega',
+  'mappingState': 'ignore',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'gonadotropinfrisettende hormoner'}
 
 griseofulvin:
-{'mappingState': 'manual', 'word': 'griseofulvin'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'griseofulvin'}
 
 guanetidin:
-{'mappingState': 'manual', 'word': 'guanetidin'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'guanetidin'}
 
 h1antagonister:
-{ 'canonicalTitle': 'Histamin H2‑antagonister',
+{ 'canonicalTitle': 'Histamin H1‑antagonister',
   'mappingState': 'mega',
-  'sanityRef': 'lk-12-fordoyel-357',
+  'sanityRef': 'lk-09-allergi-15',
   'success': True,
-  'word': 'histamin h antagonister'}
+  'word': 'histamin h1 antagonister'}
 
 heksametylmelamin:
-{'mappingState': 'manual', 'word': 'heksametylmelamin'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'heksametylmelamin'}
 
 hetastivelse (hydroksyetylstivelse):
 { 'canonicalTitle': 'Hetastivelse',
@@ -455,7 +725,12 @@ hetastivelse (hydroksyetylstivelse):
   'word': 'hetastivelse'}
 
 histrelin:
-{'mappingState': 'manual', 'word': 'histrelin'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'histrelin'}
 
 ikkesteroide antiinflammatoriske midler:
 { 'canonicalTitle': 'Ikke‑steroide antiinflammatoriske midler (NSAID)',
@@ -465,67 +740,135 @@ ikkesteroide antiinflammatoriske midler:
   'word': 'ikke steroide antiinflammatoriske midler nsaid'}
 
 immunsuppressive midler:
-{'mappingState': 'manual', 'word': 'immunsuppressive midler'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'immunsuppressive midler'}
 
 interferon alfa:
 { 'canonicalTitle': 'Interferon alfa-2, peginterferon alfa-2',
   'mappingState': 'mega',
   'sanityRef': 'lk-18-immunsuppr-frf-retur-3392d',
   'success': True,
-  'word': 'interferon alfa peginterferon alfa'}
+  'word': 'interferon alfa 2 peginterferon alfa 2'}
 
 interferon beta:
 { 'canonicalTitle': 'Interferon beta-1, peginterferon beta-1',
   'mappingState': 'mega',
   'sanityRef': 'lk-18-immunsuppr-frf-retur-3392fl',
   'success': True,
-  'word': 'interferon beta peginterferon beta'}
+  'word': 'interferon beta 1 peginterferon beta 1'}
 
 iopentol:
-{'mappingState': 'manual', 'word': 'iopentol'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'iopentol'}
 
 ivakaftor/tezakaftor:
 {'mappingState': 'manual', 'word': 'ivakaftor/tezakaftor'}
 
 jobitridol:
-{'mappingState': 'manual', 'word': 'jobitridol'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'jobitridol'}
 
 jodholdige røntgenkontrastmidler:
-{'mappingState': 'manual', 'word': 'jodholdige røntgenkontrastmidler'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'jodholdige røntgenkontrastmidler'}
 
 jodiksanol:
-{'mappingState': 'manual', 'word': 'jodiksanol'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'jodiksanol'}
 
 joheksol:
-{'mappingState': 'manual', 'word': 'joheksol'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'joheksol'}
 
 jomeprol:
-{'mappingState': 'manual', 'word': 'jomeprol'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'jomeprol'}
 
 joversol:
-{'mappingState': 'manual', 'word': 'joversol'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'joversol'}
 
 klavulanat:
-{'mappingState': 'manual', 'word': 'klavulanat'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'klavulanat'}
 
 klodronat:
-{'mappingState': 'manual', 'word': 'klodronat'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'klodronat'}
 
 kolekalsiferol:
 { 'canonicalTitle': 'Vitamin D og analoger',
-  'mappingState': 'mega',
+  'mapper': 'mega',
+  'mappingState': 'megaRemapped',
   'sanityRef': 'lk-03-329746',
   'success': True,
-  'word': 'vitamin d og analoger'}
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'kolekalsiferol'}
 
 kolinesterasehemmere:
-{'mappingState': 'manual', 'word': 'kolinesterasehemmere'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'kolinesterasehemmere'}
 
 kombinasjons p pille:
-{'mappingState': 'manual', 'word': 'kombinasjons p pille'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'kombinasjons p pille'}
 
 kontrastmidler ved magnettomografi:
-{'mappingState': 'ignore', 'word': 'kontrastmidler ved magnettomografi'}
+{ 'mapper': 'mega',
+  'mappingState': 'ignore',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'kontrastmidler ved magnettomografi'}
 
 kontrastmidler, jodholdige:
 {'mappingState': 'manual', 'word': 'kontrastmidler, jodholdige'}
@@ -538,7 +881,12 @@ korifollitropin-alfa:
   'word': 'korifollitropin alfa'}
 
 krizanlizumab:
-{'mappingState': 'manual', 'word': 'krizanlizumab'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'krizanlizumab'}
 
 kvitaminantagonister:
 { 'canonicalTitle': 'Vitamin K-antagonister',
@@ -548,45 +896,89 @@ kvitaminantagonister:
   'word': 'vitamin k antagonister'}
 
 larotrektinib:
-{'mappingState': 'manual', 'word': 'larotrektinib'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'larotrektinib'}
 
 lepirudin:
-{'mappingState': 'manual', 'word': 'lepirudin'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'lepirudin'}
 
 lidokain:
 {'mappingState': 'manual', 'word': 'lidokain'}
 
 maoh a:
-{'mappingState': 'manual', 'word': 'maoh a'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'maoh a'}
 
 maoh b:
-{'mappingState': 'manual', 'word': 'maoh b'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'maoh b'}
 
 maviret:
 { 'canonicalTitle': 'Glekaprevir-pibrentasvir',
-  'mappingState': 'mega',
+  'mapper': 'mega',
+  'mappingState': 'megaRemapped',
   'sanityRef': 'lk-01-600272',
   'success': True,
-  'word': 'glekaprevir pibrentasvir'}
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'maviret'}
 
 metadon:
-{'mappingState': 'manual', 'word': 'metadon'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'metadon'}
 
 metronidazol:
 { 'canonicalTitle': 'Metronidazol ',
   'mappingState': 'mega',
   'sanityRef': 'lk-01-infeksjon-4311',
   'success': True,
+  'type': 'megaMapper',
   'word': 'metronidazol'}
 
 metylxantiner:
-{'mappingState': 'manual', 'word': 'metylxantiner'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'metylxantiner'}
 
 mineralkortikoider:
-{'mappingState': 'manual', 'word': 'mineralkortikoider'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'mineralkortikoider'}
 
 monoaminoksidasehemmere:
-{'mappingState': 'manual', 'word': 'monoaminoksidasehemmere'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'monoaminoksidasehemmere'}
 
 monoaminreopptakshemmere, uselektive (tca):
 {'mappingState': 'manual', 'word': 'monoaminreopptakshemmere, uselektive (tca)'}
@@ -599,10 +991,20 @@ muskelrelakserende midler, perifert virkende:
   'word': 'muskelrelakserende midler, perifert virkende'}
 
 nateglinid:
-{'mappingState': 'ignore', 'word': 'nateglinid'}
+{ 'mapper': 'mega',
+  'mappingState': 'ignore',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'nateglinid'}
 
 natriumaurotiomalat:
-{'mappingState': 'manual', 'word': 'natriumaurotiomalat'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'natriumaurotiomalat'}
 
 nintedanib:
 { 'mappingState': 'split',
@@ -619,7 +1021,12 @@ nintedanib:
   'word': 'nintedanib'}
 
 norgestrel:
-{'mappingState': 'manual', 'word': 'norgestrel'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'norgestrel'}
 
 nsaids (ikke-steroide antiinflammatoriske midler):
 { 'canonicalTitle': 'Ikke‑steroide antiinflammatoriske midler (NSAID)',
@@ -629,105 +1036,216 @@ nsaids (ikke-steroide antiinflammatoriske midler):
   'word': 'ikke steroide antiinflammatoriske midler nsaid'}
 
 nusinersen:
-{'mappingState': 'manual', 'word': 'nusinersen'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'nusinersen'}
 
 pankreasenzymer:
 { 'canonicalTitle': 'Pankreasenzympreparater',
-  'mappingState': 'mega',
+  'mapper': 'mega',
+  'mappingState': 'megaRemapped',
   'sanityRef': 'lk-12-fordoyel-1655',
   'success': True,
-  'word': 'pankreasenzympreparater'}
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'pankreasenzymer'}
 
 paraaminosalisylsyre:
-{'mappingState': 'manual', 'word': 'paraaminosalisylsyre'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'paraaminosalisylsyre'}
 
 parathyreoideahormon:
-{'mappingState': 'manual', 'word': 'parathyreoideahormon'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'parathyreoideahormon'}
 
 peginterferon beta-1a:
 {'mappingState': 'manual', 'word': 'peginterferon beta-1a'}
 
 pemigatinib:
-{'mappingState': 'manual', 'word': 'pemigatinib'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'pemigatinib'}
 
 penicilliner:
 {'mappingState': 'manual', 'word': 'penicilliner'}
 
 perorale antidiabetika:
 { 'canonicalTitle': 'Perorale blodglukosesenkende midler',
-  'mappingState': 'mega',
+  'mapper': 'mega',
+  'mappingState': 'megaRemapped',
   'sanityRef': 'lk-03-endokr-605',
   'success': True,
-  'word': 'perorale blodglukosesenkende midler'}
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'perorale antidiabetika'}
 
 piperacillin:
-{'mappingState': 'manual', 'word': 'piperacillin'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'piperacillin'}
 
 piperakin:
-{'mappingState': 'manual', 'word': 'piperakin'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'piperakin'}
 
 platehemmere:
-{'mappingState': 'ignore', 'word': 'platehemmere'}
+{ 'mapper': 'mega',
+  'mappingState': 'ignore',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'platehemmere'}
 
 progesteroner:
-{'mappingState': 'manual', 'word': 'progesteroner'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'progesteroner'}
 
 progestogener:
-{'mappingState': 'manual', 'word': 'progestogener'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'progestogener'}
 
 prostaglandiner:
 { 'canonicalTitle': 'Prostaglandiner/prostaglandinanaloger',
   'mappingState': 'mega',
   'sanityRef': 'lk-15-gravid-16',
   'success': True,
+  'type': 'megaMapper',
   'word': 'prostaglandiner prostaglandinanaloger'}
 
 retinoider:
-{'mappingState': 'manual', 'word': 'retinoider'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'retinoider'}
 
 rokuronium:
 { 'canonicalTitle': 'Rokuron',
   'mappingState': 'mega',
   'sanityRef': 'lk-22-anestesi-1872',
   'success': True,
+  'type': 'megaMapper',
   'word': 'rokuron'}
 
 røntgenkontrastmidler:
-{'mappingState': 'manual', 'word': 'røntgenkontrastmidler'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'røntgenkontrastmidler'}
 
 sakinavir:
-{'mappingState': 'manual', 'word': 'sakinavir'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'sakinavir'}
 
 sennepsgassderivater:
-{'mappingState': 'manual', 'word': 'sennepsgassderivater'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'sennepsgassderivater'}
 
 serotoninagonister:
-{'mappingState': 'ignore', 'word': 'serotoninagonister'}
+{ 'mapper': 'mega',
+  'mappingState': 'ignore',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'serotoninagonister'}
 
 simeprevir:
-{'mappingState': 'manual', 'word': 'simeprevir'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'simeprevir'}
 
 slimhinneavsvellende legemidler:
-{'mappingState': 'manual', 'word': 'slimhinneavsvellende legemidler'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'slimhinneavsvellende legemidler'}
 
 steroidantibiotika:
-{'mappingState': 'manual', 'word': 'steroidantibiotika'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'steroidantibiotika'}
 
 sulfametoksazol:
-{'mappingState': 'manual', 'word': 'sulfametoksazol'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'sulfametoksazol'}
 
 sulfonamider:
-{'mappingState': 'manual', 'word': 'sulfonamider'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'sulfonamider'}
 
 sulfonylureaforbindelser:
 { 'canonicalTitle': 'Sulfonylureaderivater',
-  'mappingState': 'mega',
+  'mapper': 'mega',
+  'mappingState': 'megaRemapped',
   'sanityRef': 'lk-03-endokr-764',
   'success': True,
-  'word': 'sulfonylureaderivater'}
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'sulfonylureaforbindelser'}
 
 telaprevir:
-{'mappingState': 'manual', 'word': 'telaprevir'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'telaprevir'}
 
 tenofovirdisoproksil (finnes også i kombinasjon med emtricitabin):
 { 'mappingState': 'manual',
@@ -741,6 +1259,7 @@ thyreoideahormoner:
   'mappingState': 'mega',
   'sanityRef': 'lk-03-endokr-1996',
   'success': True,
+  'type': 'megaMapper',
   'word': 'tyreoideahormoner'}
 
 tiazid-/tiazidlignende diuretika:
@@ -752,16 +1271,29 @@ tiazid-/tiazidlignende diuretika:
 
 tiaziddiuretika:
 { 'canonicalTitle': 'Tiazider',
-  'mappingState': 'mega',
+  'mapper': 'mega',
+  'mappingState': 'megaRemapped',
   'sanityRef': 'lk-08-hjertekrets-18',
   'success': True,
-  'word': 'tiazider'}
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'tiaziddiuretika'}
 
 tipiracil:
-{'mappingState': 'manual', 'word': 'tipiracil'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'tipiracil'}
 
 tokofersolan:
-{'mappingState': 'manual', 'word': 'tokofersolan'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'tokofersolan'}
 
 tretinoin:
 { 'mappingState': 'split',
@@ -786,20 +1318,31 @@ trisykliske antidepressiva (tca):
 
 uselektive hemmere av monoaminoksidase:
 { 'canonicalTitle': 'Irreversible, uselektive monoaminoksidasehemmere (MAOH)',
-  'mappingState': 'mega',
+  'mapper': 'mega',
+  'mappingState': 'megaRemapped',
   'sanityRef': 'lk-05-psykisk-3777',
   'success': True,
-  'word': 'irreversible uselektive monoaminoksidasehemmere maoh'}
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'uselektive hemmere av monoaminoksidase'}
 
 uselektive monoaminopptakshemmere:
 { 'canonicalTitle': 'Irreversible, uselektive monoaminoksidasehemmere (MAOH)',
-  'mappingState': 'mega',
+  'mapper': 'mega',
+  'mappingState': 'megaRemapped',
   'sanityRef': 'lk-05-psykisk-3777',
   'success': True,
-  'word': 'irreversible uselektive monoaminoksidasehemmere maoh'}
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'uselektive monoaminopptakshemmere'}
 
 velpatasvir:
-{'mappingState': 'manual', 'word': 'velpatasvir'}
+{ 'mapper': 'mega',
+  'mappingState': 'manual',
+  'success': True,
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'velpatasvir'}
 
 vitamin d og vitamin d-analoger:
 { 'canonicalTitle': 'Vitamin D og analoger',
@@ -810,7 +1353,10 @@ vitamin d og vitamin d-analoger:
 
 zoledronsyre:
 { 'canonicalTitle': 'Zoledronat',
-  'mappingState': 'mega',
+  'mapper': 'mega',
+  'mappingState': 'megaRemapped',
   'sanityRef': 'lk-17-muskl-3073',
   'success': True,
-  'word': 'zoledronat'}
+  'tdId': True,
+  'type': 'megaMapper',
+  'word': 'zoledronsyre'}

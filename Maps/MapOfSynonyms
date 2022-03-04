@@ -5,9 +5,18 @@ Alle ikke-duplikate synonymer med dokumentene de tilhører sin tittel
 
 Merk at både den originale 'ord: se synonym' strukturen og versjonen uten "ord, se: er med i lista
 
-Antall: 2541
+Antall: 2560
 
 */
+
+177 lu dota tate:
+'177lu dota tate'
+
+5 aminolevulinsyre:
+'aminolevulinsyre'
+
+5 asa:
+'5 aminosalisylsyreforbindelser'
 
 abakavir lamivudin dolutegravir se hiv midler med andre virkningsmekanismer:
 'revers transkriptasehemmere hiv hepatitt b'
@@ -111,20 +120,20 @@ adrenerge agonister ikke selektive øye:
 adrenerge agonister syntetiske:
 'syntetiske adrenerge agonister'
 
-adrenerge alfa reseptorantagonister:
-'adrenerge alfa reseptorantagonister'
+adrenerge alfa1 reseptorantagonister:
+'adrenerge alfa 1 reseptorantagonister'
 
-adrenerge beta reseptoragonister:
-'adrenerge beta reseptoragonister'
+adrenerge beta2 reseptoragonister:
+'adrenerge beta 2 reseptoragonister'
 
-adrenerge betareseptorantagonister beta selektive:
-'selektive beta reseptorantagonister'
+adrenerge betareseptorantagonister beta1 selektive:
+'selektive beta 1 reseptorantagonister'
 
 adrenerge betareseptorantagonister ikke selektive:
 'ikke selektive betareseptorantagonister'
 
 adrenergika obstruktiv lungesykdom:
-'adrenerge beta reseptoragonister'
+'adrenerge beta 2 reseptoragonister'
 
 adstringerende midler hemoroider:
 'adstringerende midler'
@@ -197,7 +206,7 @@ aldosteronantagonister se kalium magnesiumsparende diuretika:
 'kalium magnesiumsparende diuretika'
 
 alemtuzumab se monoklonale antistoffer i kreftbehandling:
-'monoklonalt antistoff mot cd'
+'monoklonalt antistoff mot cd52'
 
 alendronat se bisfosfonater osteoporose:
 'bisfosfonater ved osteoporose'
@@ -205,20 +214,20 @@ alendronat se bisfosfonater osteoporose:
 alendronat se bisfosfonater:
 'bisfosfonater'
 
+alfa 1 proteinasehemmer human:
+'alfa 1 antitrypsin human'
+
 alfa gal allergi:
 'alfa gal allergi kjøttallergi'
 
 alfa gal:
 'alfa gal allergi kjøttallergi'
 
-alfa proteinasehemmer human:
-'alfa antitrypsin human'
+alfa1 reseptorantagonister adrenerge:
+'adrenerge alfa 1 reseptorantagonister'
 
-alfa reseptorantagonister adrenerge:
-'adrenerge alfa reseptorantagonister'
-
-alfablokkere se adrenerge alfa reseptorantagonister:
-'adrenerge alfa reseptorantagonister'
+alfablokkere se adrenerge alfa1 reseptorantagonister:
+'adrenerge alfa 1 reseptorantagonister'
 
 alfaglukosidasehemmere se antidiabetika perorale:
 'perorale blodglukosesenkende midler'
@@ -229,11 +238,11 @@ alfentanil se opioidanalgetika:
 alfentanil se sterke opioidagonister:
 'sterke opioidagonister'
 
-alfuzosin se adrenerge alfa reseptorantagonister:
-'adrenerge alfa reseptorantagonister'
+alfuzosin se adrenerge alfa1 reseptorantagonister:
+'adrenerge alfa 1 reseptorantagonister'
 
-alimemazin se histamin h antagonister:
-'histamin h antagonister'
+alimemazin se histamin h1 antagonister:
+'histamin h1 antagonister'
 
 alkalose metabolsk:
 'metabolsk alkalose'
@@ -289,14 +298,14 @@ allergisk rhinitt:
 allergisk sjokk:
 'anafylaktiske reaksjoner'
 
-almotriptan se selektive ht reseptoragonister:
-'selektive ht reseptoragonister'
+almotriptan se selektive 5ht1 reseptoragonister:
+'selektive 5 ht1 reseptoragonister'
 
 alogliptin metformin:
-'gliptiner dpp hemmere'
+'gliptiner dpp 4 hemmere'
 
 alogliptin:
-'gliptiner dpp hemmere'
+'gliptiner dpp 4 hemmere'
 
 alopeci midler mot:
 'middel ved alopeci'
@@ -347,11 +356,8 @@ amfotericin b se antimykotika:
 amilorid hydroklortiazid se kalium magnesiumsparende diuretika:
 'kalium magnesiumsparende diuretika'
 
-aminolevulinsyre:
-'aminolevulinsyre'
-
 aminosalisylsyreforbindelser:
-'aminosalisylsyreforbindelser'
+'5 aminosalisylsyreforbindelser'
 
 amiodaron se antiarytmika klasse iii:
 'antiarytmika klasse iii'
@@ -623,8 +629,8 @@ anidulafungin se antimykotika til systemisk bruk:
 anidulafungin se antimykotika:
 'antimykotika'
 
-annengenerasjons antihistaminer se histamin h antagonister:
-'histamin h antagonister'
+annengenerasjons antihistaminer se histamin h1 antagonister:
+'histamin h1 antagonister'
 
 ansiktssmerter:
 'hodepine og ansiktssmerter'
@@ -635,14 +641,14 @@ antacida aluminium og magnesiumholdige:
 antacida famotidin:
 'famotidin antacida'
 
-antazolin tetryzolin se histamin h antagonister:
-'histamin h antagonister'
+antazolin tetryzolin se histamin h1 antagonister:
+'histamin h1 antagonister'
 
-anti pd l:
-'monoklonale antistoffer mot pd og pd l'
+anti pd l1:
+'monoklonale antistoffer mot pd 1 og pd l1'
 
-anti pd:
-'monoklonale antistoffer mot pd og pd l'
+anti pd1:
+'monoklonale antistoffer mot pd 1 og pd l1'
 
 antiandrogener annet bruk:
 'antiandrogener for annet bruk'
@@ -714,7 +720,7 @@ antihistaminer tredjegenerasjons:
 'tredjegenerasjons antihistaminer'
 
 antihistaminer:
-'histamin h antagonister'
+'histamin h1 antagonister'
 
 antiinflammatoriske midler ikke steroide:
 'ikke steroide antiinflammatoriske midler nsaid'
@@ -860,8 +866,11 @@ arytmier blokk og ledningsforstyrrelser:
 arytmier ventrikulære:
 'ventrikulære arytmier'
 
-asa forbindelser:
-'aminosalisylsyreforbindelser'
+asa 5 forbindelser:
+'5 aminosalisylsyreforbindelser'
+
+asa:
+'acetylsalisylsyre'
 
 asasitidin:
 'azacitidin'
@@ -884,7 +893,7 @@ astma mild og moderat:
 astma:
 'bronkial astma'
 
-at reseptorantagonister:
+at1 reseptorantagonister:
 'angiotensin ii reseptorantagonister'
 
 atazanavir kobicistat se proteasehemmere:
@@ -900,7 +909,7 @@ atenolol se betareseptorantagonister:
 'adrenerge betareseptorantagonister'
 
 atezolizumab:
-'monoklonale antistoffer mot pd og pd l'
+'monoklonale antistoffer mot pd 1 og pd l1'
 
 atorvastatin ezetimib:
 'ezetimib atorvastatin'
@@ -936,11 +945,11 @@ autoimmun hepatitt:
 av aeorob vaginitt:
 'aerob vaginitt'
 
-avanafil se fosfodiesterase hemmere:
-'fosfodiesterase hemmere'
+avanafil se fosfodiesterase 5 hemmere:
+'fosfodiesterase 5 hemmere'
 
 avelumab:
-'monoklonale antistoffer mot pd og pd l'
+'monoklonale antistoffer mot pd 1 og pd l1'
 
 avhengighet og abstinensreaksjoner hallusinogener:
 'abstinensreaksjoner og avhengighet'
@@ -973,8 +982,8 @@ axitinib:
 azelastin og flutikason nasal administrasjon:
 'glukokortikoider for lokal nasal administrasjon kombinasjonspreparater'
 
-azelastin se histamin h antagonister:
-'histamin h antagonister'
+azelastin se histamin h1 antagonister:
+'histamin h1 antagonister'
 
 azitromycin se makrolider:
 'makrolider'
@@ -991,11 +1000,11 @@ bacitracin:
 bakterieovervekst tynntarm:
 'bakterieovervekst i tynntarm'
 
-balsalazid se aminosalisylsyreforbindelser:
-'aminosalisylsyreforbindelser'
+balsalazid se 5 aminosalisylsyreforbindelser:
+'5 aminosalisylsyreforbindelser'
 
-bambuterol se adrenerge beta reseptoragonister:
-'adrenerge beta reseptoragonister'
+bambuterol se adrenerge beta 2 reseptoragonister:
+'adrenerge beta 2 reseptoragonister'
 
 barbiturater anestesi:
 'barbiturater i anestesien'
@@ -1087,11 +1096,17 @@ benztropin se antikolinergika parkinson:
 benzylpenicillin se penicilliner betalaktamasefølsomme:
 'betalaktamasefølsomme penicilliner'
 
-beta selektive reseptorantagonister se adrenerge betareseptorantagonister:
+beta 3 reseptoragonister:
+'adrenerge beta 3 reseptoragonister'
+
+beta1 selektive reseptorantagonister se adrenerge betareseptorantagonister:
 'adrenerge betareseptorantagonister'
 
-beta selektive reseptorantagonister:
-'selektive beta reseptorantagonister'
+beta1 selektive reseptorantagonister:
+'selektive beta 1 reseptorantagonister'
+
+beta2 reseptoragonister:
+'adrenerge beta 2 reseptoragonister'
 
 betablokkere se adrenerge betareseptorantagonister:
 'adrenerge betareseptorantagonister'
@@ -1108,8 +1123,8 @@ betametason se glukokortikoider øye øre:
 betametason øye øre:
 'betametason øre'
 
-betareseptorantagonister adrenerge beta selektive:
-'selektive beta reseptorantagonister'
+betareseptorantagonister adrenerge beta1 selektive:
+'selektive beta 1 reseptorantagonister'
 
 betareseptorantagonister adrenerge ikke selektive:
 'ikke selektive betareseptorantagonister'
@@ -1144,8 +1159,8 @@ biktegravir emtricitabin tenofovir alafenamid se hiv midler med andre virkningsm
 biktegravir emtricitabin tenofovir alafenamid:
 'biktegravir emtricitabin tenofovir alafenamid'
 
-bilastin se histamin h antagonister:
-'histamin h antagonister'
+bilastin se histamin h1 antagonister:
+'histamin h1 antagonister'
 
 bilkjøring anestesi:
 'bilkjøring etter anestesi'
@@ -1205,13 +1220,13 @@ blandingsmisbruk:
 'problematisk bruk av flere rusmidler'
 
 blodglukosesenkende legemidler:
-'blodglukosesenkende legemidler unntatt insulin ved type diabetes'
+'blodglukosesenkende legemidler unntatt insulin ved type 2 diabetes'
 
 blodglukosesenkende midler perorale:
 'perorale blodglukosesenkende midler'
 
-blodglukosesenkende midler sglt hemmere:
-'sglt hemmere'
+blodglukosesenkende midler sglt2 hemmere:
+'sglt2 hemmere'
 
 blodmangel:
 'anemier'
@@ -1243,8 +1258,8 @@ bløtdelsskader akutte:
 bløtgjørende midler:
 'fuktighetsbevarende bløtgjørende og hudbeskyttende midler'
 
-boceprevir se ns ns a proteasehemmere:
-'ns ns a proteaseinhibitorer'
+boceprevir se ns3 ns4a proteasehemmere:
+'ns3 ns4a proteaseinhibitorer'
 
 bortezomib se andre signalhemmere:
 'andre signalhemmere'
@@ -1259,7 +1274,7 @@ brekninger:
 'kvalme og brekninger'
 
 brentuksimab vedotin se monoklonale antistoffer i kreftbehandling:
-'monoklonalt antistoff mot cd cd og cd'
+'monoklonalt antistoff mot cd30 cd33 og cd38'
 
 brentuximab vedotin:
 'brentuksimab vedotin'
@@ -1501,8 +1516,8 @@ cervisitt kronisk uspesifikk:
 cervixmodning prostaglandiner:
 'cervixmodning med prostaglandiner'
 
-cetirizin se histamin h antagonister:
-'histamin h antagonister'
+cetirizin se histamin h1 antagonister:
+'histamin h1 antagonister'
 
 cetrorelix se analoger av luteiniserende hormon frigjørende hormon:
 'analoger av gonadotropinfrigjørende hormon'
@@ -1531,8 +1546,8 @@ ciklesonid nedre luftveislidelser:
 ciklosporin se kalsinevrinhemmere:
 'kalsinevrinhemmere'
 
-cimetidin se histamin h antagonister:
-'histamin h antagonister'
+cimetidin se histamin h2 antagonister:
+'histamin h2 antagonister'
 
 ciprofloksacin flucinolon se glukokortikoider øye øre:
 'glukokortikoider for lokal bruk i øye og øre'
@@ -1584,7 +1599,7 @@ cyanokobalamin pyridoksin folsyre:
 'folsyre cyanokobalamin pyridoksin'
 
 cyanokobalamin:
-'vitamin b cyanokobalamin hydroksokobalamin'
+'vitamin b12 cyanokobalamin hydroksokobalamin'
 
 cyclofosfamid:
 'syklofosfamid'
@@ -1656,13 +1671,13 @@ dalteparin se fraksjonerte lavmolekylvekt hepariner:
 'fraksjonerte lavmolekylære hepariner'
 
 dapagliflozin metformin:
-'sglt hemmere'
+'sglt2 hemmere'
 
 dapagliflozin saksagliptin:
-'sglt hemmere'
+'sglt2 hemmere'
 
 dapagliflozin:
-'sglt hemmere'
+'sglt2 hemmere'
 
 daptomycin se polypeptidantibiotika:
 'polypeptidantibiotika'
@@ -1682,8 +1697,8 @@ darunavir se proteasehemmere:
 darvadstrocel inflammatoriske tarmlidelser:
 'darvadstrocel'
 
-dasabuvir se ns b polymeraseinhibitorer:
-'ns b polymeraseinhibitorer'
+dasabuvir se ns5b polymeraseinhibitorer:
+'ns5b polymeraseinhibitorer'
 
 dasatinib se proteinkinasehemmere:
 'proteinkinasehemmere'
@@ -1701,10 +1716,10 @@ dehydrering hyperosmolal:
 'korreksjon ved hyperosmolal dehydrering'
 
 dehydrering hypoosmolal:
-'korreksjon ved hypoosmolal s natrium mmol l og isoosmolal dehydrering'
+'korreksjon ved hypoosmolal s natrium 130 mmol l og isoosmolal dehydrering'
 
 dehydrering isoosmolal:
-'korreksjon ved hypoosmolal s natrium mmol l og isoosmolal dehydrering'
+'korreksjon ved hypoosmolal s natrium 130 mmol l og isoosmolal dehydrering'
 
 deksametason antibakterielle midler se glukokortikoider øye øre:
 'glukokortikoider for lokal bruk i øye og øre'
@@ -1736,8 +1751,8 @@ deksibuprofen se nsaid:
 deksketoprofen se nsaid:
 'ikke steroide antiinflammatoriske midler nsaid'
 
-deksklorfeniramin se histamin h antagonister:
-'histamin h antagonister'
+deksklorfeniramin se histamin h1 antagonister:
+'histamin h1 antagonister'
 
 deksmedetomidin se sedativa hypnotika i anestesien:
 'sympatikushemmere'
@@ -1811,8 +1826,8 @@ desinfeksjonsmidler til hud og slimhinner:
 desinfeksjonsmidler til teknisk bruk:
 'kjemiske midler til teknisk desinfeksjon'
 
-desloratadin se histamin h antagonister:
-'histamin h antagonister'
+desloratadin se histamin h1 antagonister:
+'histamin h1 antagonister'
 
 desmopressin:
 'desmopressin terlipressin'
@@ -1835,8 +1850,8 @@ diabetes mellitus kontroll og oppfølging:
 diabetes mellitus sondeløsninger:
 'sondeløsninger ved diabetes'
 
-diabetes mellitus type behandling:
-'blodglukosesenkende legemidler unntatt insulin ved type diabetes'
+diabetes mellitus type 2 behandling:
+'blodglukosesenkende legemidler unntatt insulin ved type 2 diabetes'
 
 diabetisk ketoacidose behandling:
 'diabetisk ketoacidose'
@@ -2003,8 +2018,8 @@ dorzolamid:
 dosetaksel:
 'docetaxel'
 
-doxazosin se adrenerge alfa reseptorantagonister:
-'adrenerge alfa reseptorantagonister'
+doxazosin se adrenerge alfa1 reseptorantagonister:
+'adrenerge alfa 1 reseptorantagonister'
 
 doxorubicin:
 'doksorubicin'
@@ -2022,7 +2037,7 @@ dtic:
 'dakarbazin'
 
 dulaglutid:
-'inkretinmimetika glp agonister'
+'inkretinmimetika glp 1 agonister'
 
 duloksetin se snri:
 'serotonin og noradrenalinreopptakshemmere snri'
@@ -2066,8 +2081,8 @@ dyspepsi non ulcer funksjonell:
 dyspn palliativ behandling:
 'dyspn'
 
-ebastin se histamin h antagonister:
-'histamin h antagonister'
+ebastin se histamin h1 antagonister:
+'histamin h1 antagonister'
 
 edrofonium se antikolinesteraser primært perifertvirkende:
 'primært perifertvirkende antikolinesteraser'
@@ -2105,8 +2120,8 @@ eksem sebor isk:
 eksemestan se aromatasehemmere:
 'aromatasehemmere'
 
-elbasvir grazoprevir se ns a replikasjonsregulator inhibitorer:
-'ns a replikasjonsregulator inhibitorer'
+elbasvir grazoprevir se ns5a replikasjonsregulator inhibitorer:
+'ns5a replikasjonsregulator inhibitorer'
 
 eldre søvnforstyrrelser:
 'søvnforstyrrelser hos eldre'
@@ -2120,8 +2135,8 @@ elektrolytt karbohydratløsninger kombinerte:
 elektrolytter glukose:
 'kombinerte elektrolytt karbohydratløsninger'
 
-eletriptan se selektive ht reseptoragonister:
-'selektive ht reseptoragonister'
+eletriptan se selektive 5ht1 reseptoragonister:
+'selektive 5 ht1 reseptoragonister'
 
 elvitegravir emtricitabin tenofovir kobicistat:
 'elvitegravir emtricitabin tenofovir kobicistat'
@@ -2130,13 +2145,13 @@ emesis:
 'kvalme og oppkast brekninger'
 
 empagliflozin linagliptin:
-'sglt hemmere'
+'sglt2 hemmere'
 
 empagliflozin metformin:
-'sglt hemmere'
+'sglt2 hemmere'
 
 empagliflozin:
-'sglt hemmere'
+'sglt2 hemmere'
 
 empyem pleura:
 'pleuraempyem'
@@ -2351,8 +2366,8 @@ faktor viii:
 faktor xiii:
 'koagulasjonsfaktorer'
 
-famotidin se histamin h antagonister:
-'histamin h antagonister'
+famotidin se histamin h2 antagonister:
+'histamin h2 antagonister'
 
 farmakogenetiske analyser:
 'legemiddelanalyser rusmiddelanalyser og farmakogenetiske analyser'
@@ -2375,8 +2390,8 @@ faste anestesi:
 fedme legemidler:
 'legemidler mot overvekt fedme'
 
-feksofenadin se histamin h antagonister:
-'histamin h antagonister'
+feksofenadin se histamin h1 antagonister:
+'histamin h1 antagonister'
 
 femte barnesykdom:
 'den femte barnesykdom'
@@ -2561,32 +2576,32 @@ forhorningsforstyrrelse midler mot:
 forhorningsforstyrrelse:
 'forhorningsforstyrrelser'
 
-formoterol aklidinium se adrenerge beta agonister:
+formoterol aklidinium se adrenerge beta 2 agonister:
 'kombinasjonspreparater'
 
 formoterol aklidinium:
 'formoterol aklidinium'
 
-formoterol beklometason se adrenerge beta agonister:
+formoterol beklometason se adrenerge beta 2 agonister:
 'kombinasjonspreparater'
 
 formoterol beklometason:
 'formoterol beklometason'
 
-formoterol budesonid se adrenerge beta reseptoragonister:
+formoterol budesonid se adrenerge beta 2 reseptoragonister:
 'kombinasjonspreparater'
 
 formoterol budesonid:
 'formoterol budesonid'
 
-formoterol flutikason se adrenerge beta reseptoragonister:
+formoterol flutikason se adrenerge beta 2 reseptoragonister:
 'kombinasjonspreparater'
 
 formoterol flutikason:
 'formoterol flutikason'
 
-formoterol se adrenerge beta reseptoragonister:
-'adrenerge beta reseptoragonister'
+formoterol se adrenerge beta 2 reseptoragonister:
+'adrenerge beta 2 reseptoragonister'
 
 forskrivningsstrategi legemidler:
 'legemidler med ruspotensial forskrivningsstrategi'
@@ -2618,8 +2633,8 @@ fremanezumab migrene:
 fremmedlegemer øye:
 'fremmedlegemer på øyet'
 
-frovatriptan se selektive ht reseptoragonister:
-'selektive ht reseptoragonister'
+frovatriptan se selektive 5ht1 reseptoragonister:
+'selektive 5 ht1 reseptoragonister'
 
 frysetørret kryopresipitat:
 'koagulasjonsfaktorer'
@@ -2648,8 +2663,8 @@ fødselsinduksjon:
 førstegenerasjons antihistaminer kvalme:
 'førstegenerasjons antihistaminer mot kvalme'
 
-førstegenerasjons antihistaminer se histamin h antagonister:
-'histamin h antagonister'
+førstegenerasjons antihistaminer se histamin h1 antagonister:
+'histamin h1 antagonister'
 
 føtor ex ore se halitosis:
 'halitosis'
@@ -2751,8 +2766,8 @@ glaukom primært med åpen kammervinkel:
 glaukom sekundært med åpen kammervinkel:
 'sekundært glaukom med åpen kammervinkel'
 
-glekaprevir pibrentasvir se ns a replikasjonsregulator inhibitorer:
-'ns a replikasjonsregulator inhibitorer'
+glekaprevir pibrentasvir se ns5a replikasjonsregulator inhibitorer:
+'ns5a replikasjonsregulator inhibitorer'
 
 glibenklamid se antidiabetika perorale:
 'perorale blodglukosesenkende midler'
@@ -2784,14 +2799,14 @@ gliptiner se antidiabetika perorale:
 glitazoner se antidiabetika perorale:
 'perorale blodglukosesenkende midler'
 
-glp agonist:
-'inkretinmimetika glp agonister'
+glp 1 reseptoragonist:
+'inkretinmimetika glp 1 agonister'
 
-glp reseptoragonist:
-'inkretinmimetika glp agonister'
+glp1 agonist:
+'inkretinmimetika glp 1 agonister'
 
-glukagonlignende peptid agonist:
-'inkretinmimetika glp agonister'
+glukagonlignende peptid 1 agonist:
+'inkretinmimetika glp 1 agonister'
 
 glukokortikoider hudmidler gruppe i milde:
 'glukokortikoider milde'
@@ -2904,8 +2919,8 @@ graviditet og legemidler tabell:
 graviditetsliste:
 'tabell graviditet og legemidler alfabetisk'
 
-grazoprevir elbasvir se ns a replikasjonsregulator inhibitorer:
-'ns a replikasjonsregulator inhibitorer'
+grazoprevir elbasvir se ns5a replikasjonsregulator inhibitorer:
+'ns5a replikasjonsregulator inhibitorer'
 
 grazoprevir elbasvir:
 'elbasvir grazoprevir'
@@ -2928,14 +2943,20 @@ guselkumab:
 gynekologi infeksjoner:
 'infeksjoner i gynekologien'
 
-h antagonister førstegenerasjons mot kvalme:
+h1 antagonister førstegenerasjons mot kvalme:
 'førstegenerasjons antihistaminer mot kvalme'
 
-h antagonister førstegenerasjons:
+h1 antagonister førstegenerasjons:
 'førstegenerasjons antihistaminer'
 
-h antagonister lokal bruk:
+h1 antagonister lokal bruk:
 'antihistaminer til lokal bruk'
+
+h1 antagonister:
+'histamin h1 antagonister'
+
+h2 antagonister:
+'histamin h2 antagonister'
 
 hakemark:
 'piskemark hakemark strongyloidiasis'
@@ -3039,20 +3060,26 @@ hib vaksine:
 hirsutisme midler mot:
 'middel ved hirsutisme'
 
-histamin h antagonister annengenerasjons:
+histamin h1 antagonister annengenerasjons:
 'annengenerasjons antihistaminer'
 
-histamin h antagonister førstegenerasjons mot kvalme:
+histamin h1 antagonister førstegenerasjons mot kvalme:
 'førstegenerasjons antihistaminer mot kvalme'
 
-histamin h antagonister førstegenerasjons:
+histamin h1 antagonister førstegenerasjons:
 'førstegenerasjons antihistaminer'
 
-histamin h antagonister lokal bruk:
+histamin h1 antagonister lokal bruk:
 'antihistaminer til lokal bruk'
 
-histamin h antagonister tredjegenerasjons:
+histamin h1 antagonister tredjegenerasjons:
 'tredjegenerasjons antihistaminer'
+
+histamin h1 antagonister:
+'histamin h1 antagonister'
+
+histamin h2 antagonister:
+'histamin h2 antagonister'
 
 histamin se diverse cytostatika og andre antitumormidler:
 'diverse cytostatika og andre antitumormidler'
@@ -3236,7 +3263,7 @@ hydrokortisonkombinasjoner inflammatoriske tarmlidelser:
 'hydrokortisonkombinasjoner'
 
 hydroksokobalamin:
-'vitamin b cyanokobalamin hydroksokobalamin'
+'vitamin b12 cyanokobalamin hydroksokobalamin'
 
 hydroksyetylstivelse:
 'hetastivelse'
@@ -3481,14 +3508,14 @@ implantat gestagen:
 implanterbar defibrillator:
 'implanterbar defibrillator icd'
 
-indakaterol glykopyrron se adrenerge beta reseptoragonister:
+indakaterol glykopyrron se adrenerge beta 2 reseptoragonister:
 'kombinasjonspreparater'
 
 indakaterol glykopyrron:
 'indakaterol glykopyrron'
 
-indakaterol se adrenerge beta reseptoragonister:
-'adrenerge beta reseptoragonister'
+indakaterol se adrenerge beta 2 reseptoragonister:
+'adrenerge beta 2 reseptoragonister'
 
 indinavir se proteasehemmere:
 'proteasehemmere hiv'
@@ -3527,7 +3554,7 @@ inhalasjonsanestetika potente:
 'halogenerte potente inhalasjonsanestetika'
 
 inkretinmimetika:
-'inkretinmimetika glp agonister'
+'inkretinmimetika glp 1 agonister'
 
 innsovningsvansker:
 'insomni'
@@ -3553,19 +3580,19 @@ insulinanaloger langtidsvirkende:
 insulinstimulerende midler se antidiabetika perorale:
 'perorale blodglukosesenkende midler'
 
-interferon alfa se interferoner:
+interferon alfa 2 se interferoner:
 'interferoner'
 
-interferon alfa:
-'interferon alfa peginterferon alfa'
+interferon alfa 2:
+'interferon alfa 2 peginterferon alfa 2'
 
-interferon beta se interferoner:
+interferon beta 1 se interferoner:
 'interferoner'
 
-interferon beta:
-'interferon beta peginterferon beta'
+interferon beta 1:
+'interferon beta 1 peginterferon beta 1'
 
-interferon gamma se interferoner:
+interferon gamma 1 se interferoner:
 'interferoner'
 
 ip prostanoidreseptoragonister:
@@ -3575,7 +3602,7 @@ ip reseptoragonister:
 'prostasykliner og andre ip prostanoidreseptoragonister'
 
 ipilimumab se monoklonale antistoffer i kreftbehandling:
-'monoklonalt antistoff mot ctla cd'
+'monoklonalt antistoff mot ctla 4 cd152'
 
 ipratropium se antikolinergika:
 'antikolinergika lunge'
@@ -3688,8 +3715,8 @@ kaliumpersulfat:
 kalsiumsensitivitetsøker:
 'andre hjertestimulerende midler'
 
-kanagliflozin se sglt hemmere:
-'sglt hemmere'
+kanagliflozin se sglt2 hemmere:
+'sglt2 hemmere'
 
 kandesartan hydroklortiazid se angiotensin ii reseptorantagonister hydroklortiazidkombinasjoner:
 'angiotensin ii reseptorantagonister'
@@ -3790,8 +3817,8 @@ ketoprofen se nsaid:
 ketorolak se nsaid:
 'ikke steroide antiinflammatoriske midler nsaid'
 
-ketotifen se histamin h antagonister:
-'histamin h antagonister'
+ketotifen se histamin h1 antagonister:
+'histamin h1 antagonister'
 
 kikhostevaksine:
 'difteri kikhoste tetanusvaksine'
@@ -3910,11 +3937,11 @@ koagulasjonsdefekter leversykdom:
 koagulasjonsdefekter malabsorpsjonsutløste:
 'malabsorpsjonsutløste koagulasjonsdefekter'
 
-kobalamin vitamin b:
-'vitamin b cyanokobalamin hydroksokobalamin'
+kobalamin vitamin b12:
+'vitamin b12 cyanokobalamin hydroksokobalamin'
 
 kobalaminmangel:
-'vitamin b mangel'
+'vitamin b12 mangel'
 
 kobicistat elvitegravir emtricitabin tenofovir:
 'elvitegravir emtricitabin tenofovir kobicistat'
@@ -4181,8 +4208,8 @@ lebers kongenitale amaurose:
 leddsykdommer degenerative:
 'degenerative leddsykdommer'
 
-ledipasvir sofosbuvir se ns b polymerasehemmere:
-'ns b polymeraseinhibitorer'
+ledipasvir sofosbuvir se ns5b polymerasehemmere:
+'ns5b polymeraseinhibitorer'
 
 ledipasvir sofosbuvir:
 'sofosbuvir ledipasvir'
@@ -4266,8 +4293,8 @@ levobupivakain se lokalanestetika:
 levobupivakain:
 'bupivakain levobupivakain'
 
-levocetirizin se histamin h antagonister:
-'histamin h antagonister'
+levocetirizin se histamin h1 antagonister:
+'histamin h1 antagonister'
 
 levofloksacin:
 'fluorokinoloner'
@@ -4308,14 +4335,14 @@ liktornmiddel vortemiddel:
 linagliptin empagliflozin:
 'empagliflozin linagliptin'
 
-linagliptin metformin se gliptiner dpp hemmere:
-'gliptiner dpp hemmere'
+linagliptin metformin se gliptiner dpp 4 hemmere:
+'gliptiner dpp 4 hemmere'
 
 linagliptin se antidiabetika perorale:
 'perorale blodglukosesenkende midler'
 
-linagliptin se gliptiner dpp hemmere:
-'gliptiner dpp hemmere'
+linagliptin se gliptiner dpp 4 hemmere:
+'gliptiner dpp 4 hemmere'
 
 liotyronin se tyreoideahormoner:
 'tyreoideahormoner'
@@ -4333,7 +4360,7 @@ liraglutid insulin degludec:
 'insulin degludec liraglutid'
 
 liraglutid:
-'inkretinmimetika glp agonister'
+'inkretinmimetika glp 1 agonister'
 
 lisdekasamfetamin:
 'metylfenidat og lisdeksamfetamin deksamfetamin amfetamin'
@@ -4357,7 +4384,7 @@ lixisenatid insulin glargin:
 'insulin glargin lixisenatid'
 
 lixisenatid:
-'inkretinmimetika glp agonister'
+'inkretinmimetika glp 1 agonister'
 
 lokal og regionalanestesi:
 'lokal og regionalanestesi'
@@ -4386,8 +4413,8 @@ loksapin se antipsykotika:
 lopinavir se proteasehemmere:
 'proteasehemmere hiv'
 
-loratadin se histamin h antagonister:
-'histamin h antagonister'
+loratadin se histamin h1 antagonister:
+'histamin h1 antagonister'
 
 lorazepam se benzodiazepiner:
 'benzodiazepiner'
@@ -4406,6 +4433,9 @@ lsa:
 
 lscd limbal stamcellemangel:
 'limbal stamcellemangel lscd'
+
+lu dota tate:
+'177lu dota tate'
 
 luftplager flatulens:
 'luftplager flatulens'
@@ -4446,8 +4476,8 @@ lurasidon se antipsykotika:
 lus midler mot:
 'midler mot lus'
 
-lutetium lu oksodotreotid:
-'lu dota tate'
+lutetium 177lu oksodotreotid:
+'177lu dota tate'
 
 lymesyklin se tetrasykliner og glycylsykliner:
 'tetrasykliner og glycylsykliner'
@@ -4533,8 +4563,8 @@ megestrol se gestagener:
 meglitinid:
 'glinider meglitinider'
 
-meklozin se histamin h antagonister:
-'histamin h antagonister'
+meklozin se histamin h1 antagonister:
+'histamin h1 antagonister'
 
 meksiletin se antiarytmika klasse ib:
 'antiarytmika klasse ib'
@@ -4578,8 +4608,8 @@ mereletinib:
 meropenem se karbapenemer:
 'karbapenemer'
 
-mesalazin se aminosalisylsyreforbindelser:
-'aminosalisylsyreforbindelser'
+mesalazin se 5 aminosalisylsyreforbindelser:
+'5 aminosalisylsyreforbindelser'
 
 mesenterialvenetrombose:
 'dvt på uvanlige steder'
@@ -4773,14 +4803,14 @@ monoklonale antistoffer nedre luftveissykdommer:
 monoklonale antistoffer:
 'monoklonale antistoffer ved muskel og skjelettsykdommer'
 
-monoklonalt antistoff mot cd:
-'monoklonalt antistoff mot ctla cd'
+monoklonalt antistoff mot cd152:
+'monoklonalt antistoff mot ctla 4 cd152'
 
-monoklonalt antistoff mot ctla:
-'monoklonalt antistoff mot ctla cd'
+monoklonalt antistoff mot ctla 4:
+'monoklonalt antistoff mot ctla 4 cd152'
 
-monoklonalt antistoff mot pd og pd l:
-'monoklonale antistoffer mot pd og pd l'
+monoklonalt antistoff mot pd 1 og pd l1:
+'monoklonale antistoffer mot pd 1 og pd l1'
 
 monoklonalt antistoff mot vegf familien:
 'monoklonale antistoffer mot vegf familien'
@@ -4875,8 +4905,8 @@ naproksen ezomeprazol:
 naproksen se nsaid:
 'ikke steroide antiinflammatoriske midler nsaid'
 
-naratriptan se selektive ht reseptoragonister:
-'selektive ht reseptoragonister'
+naratriptan se selektive 5ht1 reseptoragonister:
+'selektive 5 ht1 reseptoragonister'
 
 narkolepsi legemidler:
 'midler ved hyperkinetiske forstyrrelser og narkolepsi'
@@ -4966,13 +4996,13 @@ nevromuskulære blokkere reversering ikke depolariserende:
 'reversering av ikke depolariserende nevromuskulære blokkere'
 
 niacin:
-'vitamin b nikotinamid nikotinsyre niacin'
+'vitamin b3 nikotinamid nikotinsyre niacin'
 
 nikotinamid:
-'vitamin b nikotinamid nikotinsyre niacin'
+'vitamin b3 nikotinamid nikotinsyre niacin'
 
 nikotinsyre:
-'vitamin b nikotinamid nikotinsyre niacin'
+'vitamin b3 nikotinamid nikotinsyre niacin'
 
 nilotinib se proteinkinasehemmere:
 'proteinkinasehemmere'
@@ -4990,7 +5020,7 @@ nitrofurantoin se andre antibakterielle midler:
 'andre antibakterielle midler'
 
 nivolumab se monoklonale antistoffer i kreftbehandling:
-'monoklonale antistoffer mot pd og pd l'
+'monoklonale antistoffer mot pd 1 og pd l1'
 
 noak blødning:
 'blødning under behandling med direkte virkende perorale antikoagulantia doak'
@@ -5022,10 +5052,10 @@ nortriptylin se tca:
 noskapin se opioidantitussiva:
 'antitussiva opioider'
 
-ns ns a proteaseinhibitorer:
-'ns a replikasjonsregulator inhibitorer'
+ns3 ns4a proteaseinhibitorer:
+'ns5a replikasjonsregulator inhibitorer'
 
-nsaid cox hemmere:
+nsaid cox 2 hemmere:
 'ikke steroide antiinflammatoriske midler nsaid'
 
 nsaid koksiber:
@@ -5151,29 +5181,29 @@ olmesartan amlodipin hydroklortiazid:
 olmesartan se angiotensin ii reseptorantagonister:
 'angiotensin ii reseptorantagonister'
 
-olodaterol se adrenerge beta resptoragonister:
-'adrenerge beta reseptoragonister'
+olodaterol se adrenerge beta 2 resptoragonister:
+'adrenerge beta 2 reseptoragonister'
 
-olodaterol tiotropium se adrenerge beta reseptoragaonister:
+olodaterol tiotropium se adrenerge beta 2 reseptoragaonister:
 'kombinasjonspreparater'
 
 olodaterol tiotropium:
 'olodaterol tiotropium'
 
-olopatadin se histamin h antagonister:
-'histamin h antagonister'
+olopatadin se histamin h1 antagonister:
+'histamin h1 antagonister'
 
-olsalazin se aminosalisylsyreforbindelser:
-'aminosalisylsyreforbindelser'
+olsalazin se 5 aminosalisylsyreforbindelser:
+'5 aminosalisylsyreforbindelser'
 
-ombitasvir paritaprevir ritonavir se ns ns a proteaseinhibitorer:
-'ns ns a proteaseinhibitorer'
+ombitasvir paritaprevir ritonavir se ns3 ns4a proteaseinhibitorer:
+'ns3 ns4a proteaseinhibitorer'
 
 ombitasvir paritaprevir ritonavir:
 'ombitasvir paritaprevir ritonavir'
 
-omega fettsyrer:
-'omega fettsyrer'
+omega 3 fettsyrer:
+'omega 3 fettsyrer'
 
 omeprazol se protonpumpehemmere:
 'protonpumpehemmere'
@@ -5374,7 +5404,7 @@ paralysis agitans:
 'parkinsons sykdom paralysis agitans og parkinsonisme'
 
 parathyreoideahormoner:
-'parathyreoideahormoner pth og hpth'
+'parathyreoideahormoner pth 1 84 og hpth 1 34'
 
 paratyreoidea sykdommer:
 'paratyreoideasykdommer'
@@ -5430,14 +5460,14 @@ pazopanib se proteinkinasehemmere:
 pcos polycistisk ovarialt syndrom:
 'polycystisk ovarialt syndrom pcos'
 
-pd l:
-'monoklonale antistoffer mot pd og pd l'
+pd 1:
+'monoklonale antistoffer mot pd 1 og pd l1'
 
-pd:
-'monoklonale antistoffer mot pd og pd l'
+pd l1:
+'monoklonale antistoffer mot pd 1 og pd l1'
 
-pde hemmere:
-'fosfodiesterase hemmere'
+pde5 hemmere:
+'fosfodiesterase 5 hemmere'
 
 pegaspergase:
 'diverse cytostatika og andre antitumormidler'
@@ -5448,17 +5478,17 @@ pegfilgrastim se hematopoetiske vekstfaktorer:
 pegfilgrastim:
 'filgrastim lipefilgrastim pegfilgrastim'
 
-peginterferon alfa se interferoner:
+peginterferon alfa 2 se interferoner:
 'interferoner'
 
-peginterferon alfa:
-'interferon alfa peginterferon alfa'
+peginterferon alfa 2:
+'interferon alfa 2 peginterferon alfa 2'
 
-peginterferon beta:
-'interferon beta peginterferon beta'
+peginterferon beta 1:
+'interferon beta 1 peginterferon beta 1'
 
 pembrolizumab:
-'monoklonale antistoffer mot pd og pd l'
+'monoklonale antistoffer mot pd 1 og pd l1'
 
 pemetrexed:
 'pemetreksed'
@@ -5476,7 +5506,7 @@ penicilliner bredspektrede:
 'bredspektrede penicilliner'
 
 pentasa:
-'aminosalisylsyreforbindelser'
+'5 aminosalisylsyreforbindelser'
 
 peptidreseptor radionuklider:
 'peptidreseptor radionuklider prrt'
@@ -5497,7 +5527,7 @@ periodontitt:
 'karies og periodontitt'
 
 pernisiøs anemi:
-'vitamin b mangel'
+'vitamin b12 mangel'
 
 personlighetsforstyrrelser angst:
 'angst ved personlighetsforstyrrelser'
@@ -5517,8 +5547,8 @@ phmb og kvartære ammoniumsforbindelser kombinasjonspreparater:
 phmb:
 'polyheksametylenbiguanid phmb'
 
-pibrentasvir glekaprevir se ns a replikasjonsregulator inhibitorer:
-'ns a replikasjonsregulator inhibitorer'
+pibrentasvir glekaprevir se ns5a replikasjonsregulator inhibitorer:
+'ns5a replikasjonsregulator inhibitorer'
 
 pibrentasvir glekaprevir:
 'glekaprevir pibrentasvir'
@@ -5751,8 +5781,8 @@ proklorperazin se antipsykotika:
 proksymetakain:
 'lokalanestetika i oftalmologien'
 
-prometazin se histamin h antagonister:
-'histamin h antagonister'
+prometazin se histamin h1 antagonister:
+'histamin h1 antagonister'
 
 propranolol se adrenerge betareseptorantagonister:
 'adrenerge betareseptorantagonister'
@@ -5840,7 +5870,7 @@ pyridoksin folsyre cyanokobalamin:
 'folsyre cyanokobalamin pyridoksin'
 
 pyridoksin:
-'vitamin b pyridoksin'
+'vitamin b6 pyridoksin'
 
 pyridostigmin se antikolinesteraser primært perifertvirkende:
 'primært perifertvirkende antikolinesteraser'
@@ -5869,8 +5899,8 @@ ramipril se ace hemmere:
 ramucirumab se monoklonale antistoffer i kreftbehandling:
 'monoklonale antistoffer mot vegf familien'
 
-ranitidin se histamin h antagonister:
-'histamin h antagonister'
+ranitidin se histamin h2 antagonister:
+'histamin h2 antagonister'
 
 raynauds fenomen brystknopper:
 'vasospasmer i brystknoppene raynauds fenomen'
@@ -6006,7 +6036,7 @@ ribociclib:
 'ribosiklib'
 
 riboflavin:
-'vitamin b riboflavin'
+'vitamin b2 riboflavin'
 
 ribosiklib se proteinkinasehemmere:
 'proteinkinasehemmere'
@@ -6059,8 +6089,8 @@ rivastigmin se antikolinesteraser primært sentraltvirkende:
 rivastigmin se antikolinesteraser:
 'antikolinesteraser'
 
-rizatriptan se selektive ht reseptoragonister:
-'selektive ht reseptoragonister'
+rizatriptan se selektive 5ht1 reseptoragonister:
+'selektive 5 ht1 reseptoragonister'
 
 rokuron se nevromuskulære blokkere:
 'nevromuskulære blokkere'
@@ -6095,8 +6125,8 @@ rubella vaksine:
 ruksolitinib:
 'ruxolitinib'
 
-rupatadin se histamin h antagonister:
-'histamin h antagonister'
+rupatadin se histamin h1 antagonister:
+'histamin h1 antagonister'
 
 rus og forgiftning hallusinogener:
 'rus og forgiftning hallusinogener'
@@ -6131,20 +6161,20 @@ saksagliptin dapagliflozin:
 saksagliptin se antidiabetika perorale:
 'perorale blodglukosesenkende midler'
 
-saksagliptin se gliptiner dpp hemmere:
-'gliptiner dpp hemmere'
+saksagliptin se gliptiner dpp 4 hemmere:
+'gliptiner dpp 4 hemmere'
 
-salbutamol se adrenerge beta reseptorangonister:
-'adrenerge beta reseptoragonister'
+salbutamol se adrenerge beta 2 reseptorangonister:
+'adrenerge beta 2 reseptoragonister'
 
-salmeterol flutikason se adrenerge beta reseptoragonister:
+salmeterol flutikason se adrenerge beta 2 reseptoragonister:
 'kombinasjonspreparater'
 
 salmeterol flutikason:
 'salmeterol flutikason'
 
-salmeterol se adrenerge beta reseptoragonister:
-'adrenerge beta reseptoragonister'
+salmeterol se adrenerge beta 2 reseptoragonister:
+'adrenerge beta 2 reseptoragonister'
 
 seboreisk eksem og flass legemidler:
 'midler ved seboreisk eksem og flass'
@@ -6173,17 +6203,17 @@ sekvenspreparater:
 seleksipag se prostasykliner og andre ip reseptoragonister:
 'prostasykliner og andre ip prostanoidreseptoragonister'
 
-selektive beta agonister:
-'adrenerge beta reseptoragonister'
+selektive 5ht1 reseptoragonister:
+'selektive 5 ht1 reseptoragonister'
 
-selektive ht reseptoragonister:
-'selektive ht reseptoragonister'
+selektive beta2 agonister:
+'adrenerge beta 2 reseptoragonister'
 
 selektive serotonin og noradrenalinreopptakshemmere:
 'serotonin og noradrenalinreopptakshemmere snri'
 
 semaglutid:
-'inkretinmimetika glp agonister'
+'inkretinmimetika glp 1 agonister'
 
 senelidelser degenerative:
 'degenerative og betennelsesaktige senelidelser'
@@ -6228,8 +6258,8 @@ sialolitiasis:
 signalhemmere andre:
 'andre signalhemmere'
 
-sildenafil se fosfodiesterase hemmere:
-'fosfodiesterase hemmere'
+sildenafil se fosfodiesterase 5 hemmere:
+'fosfodiesterase 5 hemmere'
 
 simvastatin ezetimib se statiner:
 'statiner'
@@ -6261,14 +6291,14 @@ sirolimus se mtor hemmere:
 sitagliptin metformin se antidiabetika perorale:
 'perorale blodglukosesenkende midler'
 
-sitagliptin metformin se gliptiner dpp hemmere:
-'gliptiner dpp hemmere'
+sitagliptin metformin se gliptiner dpp 4 hemmere:
+'gliptiner dpp 4 hemmere'
 
 sitagliptin se antidiabetika perorale:
 'perorale blodglukosesenkende midler'
 
-sitagliptin se gliptiner dpp hemmere:
-'gliptiner dpp hemmere'
+sitagliptin se gliptiner dpp 4 hemmere:
+'gliptiner dpp 4 hemmere'
 
 sj grens syndrom:
 'primært sj grens syndrom'
@@ -6372,20 +6402,20 @@ snorking:
 snri:
 'serotonin og noradrenalinreopptakshemmere snri'
 
-sofosbuvir ledipasvir se ns b polymeraseinhibitorer:
-'ns b polymeraseinhibitorer'
+sofosbuvir ledipasvir se ns5b polymeraseinhibitorer:
+'ns5b polymeraseinhibitorer'
 
 sofosbuvir ledipasvir:
 'sofosbuvir ledipasvir'
 
-sofosbuvir se ns b polymeraseinhibitorer:
-'ns b polymeraseinhibitorer'
+sofosbuvir se ns5b polymeraseinhibitorer:
+'ns5b polymeraseinhibitorer'
 
-sofosbuvir velpatasvir se ns b polymeraseinhibitorer:
-'ns b polymeraseinhibitorer'
+sofosbuvir velpatasvir se ns5b polymeraseinhibitorer:
+'ns5b polymeraseinhibitorer'
 
-sofosbuvir velpatasvir voksilaprevir se ns b polymerasehemmere:
-'ns b polymeraseinhibitorer'
+sofosbuvir velpatasvir voksilaprevir se ns5b polymerasehemmere:
+'ns5b polymeraseinhibitorer'
 
 sofosbuvir velpatasvir voksilaprevir:
 'sofosbuvir velpatasvir voksilaprevir'
@@ -6396,8 +6426,8 @@ sofosbuvir velpatasvir:
 soi seksuelt overførbare infeksjoner:
 'seksuelt overførbare infeksjoner soi'
 
-solifenacin tamsulosin se adrenerge alfa reseptorantagonister:
-'adrenerge alfa reseptorantagonister'
+solifenacin tamsulosin se adrenerge alfa 1 reseptorantagonister:
+'adrenerge alfa 1 reseptorantagonister'
 
 sondeernæring:
 'sondeernæring enteral ernæring for voksne'
@@ -6556,8 +6586,8 @@ suksameton se depolariserende nevromuskulære blokkere:
 sulfametoksazol trimetoprim:
 'trimetoprim sulfametoksazol'
 
-sulfasalazin se aminosalisylsyreforbindelser:
-'aminosalisylsyreforbindelser'
+sulfasalazin se 5 aminosalisylsyreforbindelser:
+'5 aminosalisylsyreforbindelser'
 
 sulfonamider vanlige:
 'vanlige sulfonamider'
@@ -6565,8 +6595,8 @@ sulfonamider vanlige:
 sulfonylureaderivater se antidiabetika perorale:
 'perorale blodglukosesenkende midler'
 
-sumatriptan se selektive ht reseptoragonister:
-'selektive ht reseptoragonister'
+sumatriptan se selektive 5ht1 reseptoragonister:
+'selektive 5 ht1 reseptoragonister'
 
 sunitinib se proteinkinasehemmere:
 'proteinkinasehemmere'
@@ -6599,8 +6629,8 @@ svetting:
 svulster hud:
 'svulster i huden'
 
-syklizin se histamin h antagonister:
-'histamin h antagonister'
+syklizin se histamin h1 antagonister:
+'histamin h1 antagonister'
 
 syre baseforstyrrelser metabolske parenterale væsker:
 'parenterale væsker for behandling av metabolske syre baseforstyrrelser'
@@ -6632,11 +6662,23 @@ søvnvansker skiftarbeid:
 søvnvansker:
 'insomni'
 
+t3 se tyreoideahormoner:
+'tyreoideahormoner'
+
+t3:
+'liotyronin'
+
+t4 se tyreoideahormoner:
+'tyreoideahormoner'
+
+t4:
+'levotyroksin'
+
 ta temporalarteritt:
 'temporalarteritt ta'
 
-tadalafil se fosfodiesterase hemmere:
-'fosfodiesterase hemmere'
+tadalafil se fosfodiesterase 5 hemmere:
+'fosfodiesterase 5 hemmere'
 
 tafluprost:
 'bimatoprost latanoprost tafluprost travoprost'
@@ -6666,11 +6708,11 @@ tamoksifen se antiøstrogener og østrogenreseptormodulerende midler:
 tamsulosin dutasterid:
 'dutasterid tamsulosin'
 
-tamsulosin se adrenerge alfa reseptorantagonister:
-'adrenerge alfa reseptorantagonister'
+tamsulosin se adrenerge alfa1 reseptorantagonister:
+'adrenerge alfa 1 reseptorantagonister'
 
-tamsulosin solifenacin se adrenerge alfa reseptorantagonister:
-'adrenerge alfa reseptorantagonister'
+tamsulosin solifenacin se adrenerge alfa 1 reseptorantagonister:
+'adrenerge alfa 1 reseptorantagonister'
 
 tann og munnstell syke:
 'tann og munnstell hos syke'
@@ -6786,14 +6828,14 @@ teofyllin:
 terapikontroll:
 'terapikontroll tdm'
 
-terazosin se adrenerge alfa reseptorantagonister:
-'adrenerge alfa reseptorantagonister'
+terazosin se adrenerge alfa1 reseptorantagonister:
+'adrenerge alfa 1 reseptorantagonister'
 
 terbinafin se antimykotika:
 'antimykotika'
 
-terbutalin se adrenerge beta reseptoragonister:
-'adrenerge beta reseptoragonister'
+terbutalin se adrenerge beta 2 reseptoragonister:
+'adrenerge beta 2 reseptoragonister'
 
 terlipressin:
 'desmopressin terlipressin'
@@ -6822,8 +6864,8 @@ tetrakain:
 tetrasyklin se tetrasykliner og glycylsykliner:
 'tetrasykliner og glycylsykliner'
 
-tetryzolin antazolin se histamin h antagonister:
-'histamin h antagonister'
+tetryzolin antazolin se histamin h1 antagonister:
+'histamin h1 antagonister'
 
 tetryzolin antazolin:
 'antazolin tetryzolin'
@@ -6841,7 +6883,7 @@ tia:
 'transitorisk iskemisk anfall'
 
 tiamin:
-'vitamin b tiamin'
+'vitamin b1 tiamin'
 
 tiazolidindioner glitazoner:
 'glitazoner'
@@ -6951,8 +6993,8 @@ trastuzumab se monoklonlae antistoffer i kreftbehandling:
 travoprost:
 'bimatoprost latanoprost tafluprost travoprost'
 
-tredjegenerasjons antihistaminer se histamin h antagonister:
-'histamin h antagonister'
+tredjegenerasjons antihistaminer se histamin h1 antagonister:
+'histamin h1 antagonister'
 
 tremor essensiell:
 'essensiell tremor'
@@ -6991,7 +7033,7 @@ trimipramin se tca:
 'trisykliske antidepressiva'
 
 triptaner:
-'selektive ht reseptoragonister'
+'selektive 5 ht1 reseptoragonister'
 
 triptorelin se analoger av luteiniserende hormon frigjørende hormon:
 'analoger av gonadotropinfrigjørende hormon'
@@ -7053,8 +7095,8 @@ tynntarmsykdom bakterieovervekst:
 tynntarmsykdom malabsorpsjon:
 'malabsorpsjon ved tynntarmssykdom'
 
-type diabetes behandling blodglukosesenkende legemidler:
-'blodglukosesenkende legemidler unntatt insulin ved type diabetes'
+type 2 diabetes behandling blodglukosesenkende legemidler:
+'blodglukosesenkende legemidler unntatt insulin ved type 2 diabetes'
 
 tyreoidea hormoner:
 'tyreoideahormoner'
@@ -7288,8 +7330,8 @@ vannkoppevaksine:
 vannlating imperiøs:
 'imperiøs vannlating og urgeinkontinens'
 
-vardenafil se fosfodiesterase hemmere:
-'fosfodiesterase hemmere'
+vardenafil se fosfodiesterase 5 hemmere:
+'fosfodiesterase 5 hemmere'
 
 varicella zoster virusvaksine:
 'vannkoppevaksine og helvetesildvaksine'
@@ -7330,14 +7372,14 @@ vektorbasert genterapi øye:
 vekuron se nevromuskulære blokkere:
 'nevromuskulære blokkere'
 
-velpatasvir sofosbuvir se ns b polymerasehemmere:
-'ns b polymeraseinhibitorer'
+velpatasvir sofosbuvir se ns5b polymerasehemmere:
+'ns5b polymeraseinhibitorer'
 
 velpatasvir sofosbuvir:
 'sofosbuvir velpatasvir'
 
-velpatasvir voksilaprevir sofosbuvir se ns b polymeraseinhibitorer:
-'ns b polymeraseinhibitorer'
+velpatasvir voksilaprevir sofosbuvir se ns5b polymeraseinhibitorer:
+'ns5b polymeraseinhibitorer'
 
 velpatasvir voksilaprevir sofosbuvir:
 'sofosbuvir velpatasvir voksilaprevir'
@@ -7390,7 +7432,7 @@ verapamil se kalsiumantagonister:
 vernakalant se antiarytmika:
 'antiarytmika'
 
-vilanterol flutikason se adrenerge beta reseptoragonister:
+vilanterol flutikason se adrenerge beta 2 reseptoragonister:
 'kombinasjonspreparater'
 
 vilanterol flutikason:
@@ -7399,17 +7441,17 @@ vilanterol flutikason:
 vilanterol umeklidinium flutikasonfuroat:
 'kombinasjonspreparater'
 
-vilanterol umeklidinium se adrenerge beta reseptoragonister:
+vilanterol umeklidinium se adrenerge beta 2 reseptoragonister:
 'kombinasjonspreparater'
 
-vildagliptin metformin se gliptiner dpp hemmere:
-'gliptiner dpp hemmere'
+vildagliptin metformin se gliptiner dpp 4 hemmere:
+'gliptiner dpp 4 hemmere'
 
 vildagliptin se antidiabetika perorale:
 'perorale blodglukosesenkende midler'
 
-vildagliptin se gliptiner dpp hemmere:
-'gliptiner dpp hemmere'
+vildagliptin se gliptiner dpp 4 hemmere:
+'gliptiner dpp 4 hemmere'
 
 vinkelblokkanfall akutt:
 'akutt vinkelblokkanfall'
@@ -7441,6 +7483,21 @@ vitamin b perorale:
 vitamin b vitamin c parenterale:
 'vitamin b vitamin c parenterale'
 
+vitamin b12:
+'vitamin b12 cyanokobalamin hydroksokobalamin'
+
+vitamin b1:
+'vitamin b1 tiamin'
+
+vitamin b2:
+'vitamin b2 riboflavin'
+
+vitamin b3:
+'vitamin b3 nikotinamid nikotinsyre niacin'
+
+vitamin b6:
+'vitamin b6 pyridoksin'
+
 vitamin c vitamin b parenterale:
 'vitamin b vitamin c parenterale'
 
@@ -7456,7 +7513,7 @@ vitamin k antagonist blødning:
 vitamin k fytomenadion profylakse nyfødt:
 'vitamin k profylakse hos nyfødte'
 
-vitamin k:
+vitamin k1:
 'fytomenadion'
 
 vitaminer fettløselige perorale:
@@ -7474,8 +7531,8 @@ vitreomakulært traksjonssyndrom:
 vmt:
 'vitreomakulært traksjonssyndrom vmt'
 
-voksilaprevir sofosbuvir velpatasvir se ns b polymerasehemmere:
-'ns b polymeraseinhibitorer'
+voksilaprevir sofosbuvir velpatasvir se ns5b polymerasehemmere:
+'ns5b polymeraseinhibitorer'
 
 voksilaprevir sofosbuvir velpatasvir:
 'sofosbuvir velpatasvir voksilaprevir'
@@ -7570,8 +7627,8 @@ zoledronat se bisfosfonater hyperkalsemi:
 zoledronat se bisfosfonater osteoporose:
 'bisfosfonater ved osteoporose'
 
-zolmitriptan se selektive ht reseptoragonister:
-'selektive ht reseptoragonister'
+zolmitriptan se selektive 5ht1 reseptoragonister:
+'selektive 5 ht1 reseptoragonister'
 
 zolpidem se benzodiazepinlignende hypnotika:
 'benzodiazepinlignende hypnotika'
